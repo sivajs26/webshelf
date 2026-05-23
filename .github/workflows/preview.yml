@@ -28,7 +28,7 @@ jobs:
           pip install requests beautifulsoup4 lxml
           
       - name: Run preview script
-        run: python3 preview.py
+        run: python preview.py
         
       - name: Commit and push changes
         if: always()
