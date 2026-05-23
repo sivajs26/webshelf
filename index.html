@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Directory</title>
+    <!-- Google Fonts & FontAwesome for Icons -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-color: #38bdf8;
+            --accent-hover: #0ea5e9;
+            --border-color: #334155;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 2rem 1rem;
+            min-height: 100vh;
+        }
+
+        .container {
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            letter-spacing: -0.05em;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        /* Grid Layout */
+        .sites-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(375px, 1fr));
+            gap: 2rem;
+        }
+
+        /* Card Styling */
+        .site-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+        }
+
+        .site-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent-color);
+            box-shadow: 0 12px 20px -10px rgba(56, 189, 248, 0.3);
+        }
+
+        .card-banner {
+            width: 100%;
+            height: 160px;
+            position: relative;
+            background: #000;
+            overflow: hidden;
+        }
+
+        .card-banner img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0.8;
+            transition: transform 0.5s ease;
+        }
+
+        .site-card:hover .card-banner img {
+            transform: scale(1.05);
+        }
+
+        .card-body {
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            color: var(--text-main);
+        }
+
+        .card-abstract {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            flex-grow: 1;
+        }
+
+        /* Badge/Source tag */
+        .meta-tag {
+            align-self: flex-start;
+            background: rgba(56, 189, 248, 0.1);
+            color: var(--accent-color);
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .card-footer {
+            margin-top: auto;
+            display: flex;
+            gap: 1rem;
+        }
+
+        /* Buttons */
+        .btn {
+            flex: 1;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            text-decoration: none;
+            transition: background 0.2s, color 0.2s;
+        }
+
+        .btn-primary {
+            background-color: var(--accent-color);
+            color: #0f172a;
+        }
+
+        .btn-primary:hover {
+            background-color: var(--accent-hover);
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-main);
+        }
+
+        .btn-secondary:hover {
+            background-color: rgba(255, 255, 255, 0.05);
+            border-color: var(--text-muted);
+        }
+
+        .btn i {
+            margin-right: 0.5rem;
+            font-size: 0.85rem;
+        }
+
+        /* Responsive scaling */
+        @media (max-width: 640px) {
+            body {
+                padding: 1rem;
+            }
+
+            header h1 {
+                font-size: 2rem;
+            }
+
+            .sites-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Web Shelf</h1>
+            <p>A curated collection of resources and platforms</p>
+        </header>
+
+        <!-- Dynamic Grid Insertion Point -->
+        <main class="sites-grid" id="sitesContainer"></main>
+    </div>
+
+    <script>
+        // The raw URL required to fetch the pure JSON dataset from GitHub
+        const query = new URLSearchParams(window.location.search)
+        const index = query.get("index") || "006_001"
+
+        const DATA_URL = `https://raw.githubusercontent.com/sivajs26/webshelf/main/previews/chunk_${index}.json`;
+
+        // Render the sites into the DOM
+        function renderSites(data) {
+            const container = document.getElementById('sitesContainer');
+            container.innerHTML = ''; // Clear loading message
+
+            if (!data || data.length === 0) {
+                container.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--text-muted);">No sites found.</p>';
+                return;
+            }
+
+            data.forEach(site => {
+                const card = document.createElement('div');
+                card.className = 'site-card';
+
+                // Fallback image if Icon is missing or broken
+                const fallbackImg = 'https://picsum.photos/880/590';
+                const bannerImg = site.Icon ? site.Icon : fallbackImg;
+
+                card.innerHTML = `
+                    <div class="card-banner">
+                        <img src="${bannerImg}" alt="${site.Heading || 'Site Preview'}" onerror="this.src='${fallbackImg}'">
+                    </div>
+                    <div class="card-body">
+                        <span class="meta-tag"><i class="fa-solid fa-code-branch"></i> ${site.AbstractSource || 'Web'}</span>
+                        <h2 class="card-title">${site.Heading || 'Untitled Site'}</h2>
+                        <p class="card-abstract" title="${site.Abstract || ''}">${site.Abstract || 'No description available.'}</p>
+                        <div class="card-footer">
+                            <a href="${site.link || site.Redirect || '#'}" target="_blank" class="btn btn-primary">
+                                <i class="fa-solid fa-arrow-up-right-from-square"></i> Visit Site
+                            </a>
+                            <a href="${site.AbstractURL || '#'}" target="_blank" class="btn btn-secondary" title="Source URL">
+                                <i class="fa-solid fa-info"></i> Source
+                            </a>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        // Fetch data asynchronously when the page loads
+        async function fetchSitesData() {
+            const container = document.getElementById('sitesContainer');
+            container.innerHTML = '<p style="grid-column: 1/-1; text-align: center; color: var(--text-muted); font-size: 1.2rem;"><i class="fa-solid fa-spinner fa-spin"></i> Loading sites dashboard...</p>';
+
+            try {
+                const response = await fetch(DATA_URL);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const sitesData = await response.json();
+                renderSites(sitesData);
+            } catch (error) {
+                console.error("Failed to fetch site data:", error);
+                container.innerHTML = `
+                    <div style="grid-column: 1/-1; text-align: center; color: #ef4444; padding: 2rem; border: 1px dashed #ef4444; border-radius: 12px;">
+                        <i class="fa-solid fa-circle-exclamation fa-2xl" style="margin-bottom: 1rem;"></i>
+                        <p><strong>Failed to load directory data.</strong></p>
+                        <p style="font-size: 0.9rem; color: var(--text-muted); margin-top: 0.5rem;">${error.message}</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Initialize on load
+        document.addEventListener('DOMContentLoaded', fetchSitesData);
+    </script>
+</body>
+
+</html>
