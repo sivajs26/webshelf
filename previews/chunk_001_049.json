@@ -1,0 +1,242 @@
+[
+    {
+        "link": "https://veidtr.com",
+        "Heading": "\u6ca1\u6709\u627e\u5230\u7ad9\u70b9",
+        "Abstract": null,
+        "Official Site": "https://veidtr.com",
+        "Icon": "N/A",
+        "Redirect": "https://veidtr.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://veidtr.com"
+    },
+    {
+        "link": "https://stumbleupon.com",
+        "Heading": "StumbleUpon",
+        "Abstract": null,
+        "Official Site": "https://stumbleupon.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://stumbleupon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stumbleupon.com"
+    },
+    {
+        "link": "https://liveintent.com",
+        "Heading": "A People-Based Email Marketing Platform - LiveIntent",
+        "Abstract": "Learn how we equip brands with advertising technology designed to help advertisers & publishers harness email by resolving identity, driving sales, & increasing revenue.",
+        "Official Site": "https://www.liveintent.com/",
+        "Icon": "https://www.liveintent.com/wp-content/uploads/2023/06/liveintent-ss-default.jpg",
+        "Redirect": "https://www.liveintent.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.liveintent.com/"
+    },
+    {
+        "link": "https://philips.com",
+        "Heading": "Philips - United States | Philips",
+        "Abstract": "Learn more about Philips and how we help improve people\u2019s lives through meaningful innovation in the areas of Healthcare, Consumer Lifestyle and Lighting.",
+        "Official Site": "https://www.usa.philips.com/",
+        "Icon": "https://www.philips.com/c-dam/corporate/en_AA/about/about-us/homepage/global-homepage-thumbnail.jpg",
+        "Redirect": "https://www.usa.philips.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.usa.philips.com/"
+    },
+    {
+        "link": "https://weplayapp.com",
+        "Heading": "WePlay - Online Board Game Lounge",
+        "Abstract": "WePlay is a social board game app with voice room, which young people love to play. It has the most popular \"casual board games\" and \"voice interaction\". It is so fun to play while chatting! Put aside the troubles and pressures of life, live online, real-time voice, easy to play~",
+        "Official Site": "https://weplayapp.com/",
+        "Icon": "https://weplayapp.com/share.png",
+        "Redirect": "https://weplayapp.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://weplayapp.com/"
+    },
+    {
+        "link": "https://ladepeche.fr",
+        "Heading": "La D\u00e9p\u00eache : Actualit\u00e9s en temps r\u00e9el et l'info en continu - ladepeche.fr",
+        "Abstract": "Toute l\u2019actualit\u00e9 de Toulouse et sa r\u00e9gion en direct, photos et vid\u00e9os avec La D\u00e9p\u00eache du Midi. Retrouvez toutes les informations locales de la r\u00e9gion Occitanie : faits divers, politique, sports, \u00e9conomie, loisirs\u2026...",
+        "Official Site": "https://www.ladepeche.fr/",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://www.ladepeche.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ladepeche.fr/"
+    },
+    {
+        "link": "https://1password.com",
+        "Heading": "Passwords, Secrets, and Access Management | 1Password",
+        "Abstract": "Protect passwords and secrets, manage app access, and secure AI tools with 1Password. Easy to adopt from growing teams to enterprise.",
+        "Official Site": "/",
+        "Icon": "https://images.ctfassets.net/2h488pz7kgfv/4JAm44Htcrinu0sTomaEGi/1f7be85af3138e1d38bb31fe5ad6425b/open-graph-1password-business.jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://splashtop.com",
+        "Heading": "Splashtop: Secure Remote Access & Remote Support Software",
+        "Abstract": "Fast and secure solutions for remote work, remote support, remote learning & more at the best value. Splashtop remote access is #1 in user satisfaction.",
+        "Official Site": "https://www.splashtop.com",
+        "Icon": "https://images.ctfassets.net/5i1m3im8l2b5/7EFopXGvxPU7aZrmrrPePq/3eafb67274bff00a4d48f90e44521c2d/hero-static-a-b.png?w=1200&h=630&q=50&fm=png",
+        "Redirect": "https://www.splashtop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.splashtop.com"
+    },
+    {
+        "link": "https://canonical.com",
+        "Heading": "\n\n            Canonical | Trusted open source for enterprises\n          ",
+        "Abstract": "\n  Drive innovation in your enterprise with trusted open source from Canonical \u2014 simple, cost-effective, and supported.\n",
+        "Official Site": "https://canonical.com/",
+        "Icon": "https://assets.ubuntu.com/v1/c797f1d7-og_%20canonical.png",
+        "Redirect": "https://canonical.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://canonical.com/"
+    },
+    {
+        "link": "https://gutenberg.org",
+        "Heading": "Free eBooks | Project Gutenberg",
+        "Abstract": "Project Gutenberg is a library of free eBooks.",
+        "Official Site": "https://www.gutenberg.org/",
+        "Icon": "https://www.gutenberg.org/gutenberg/pg-logo-144x144.png",
+        "Redirect": "https://www.gutenberg.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gutenberg.org/"
+    },
+    {
+        "link": "https://chinadaily.com.cn",
+        "Heading": "China Daily Website - Connecting China Connecting the World",
+        "Abstract": "Chinadaily.com.cn is the largest English portal in China, providing news, business information, BBS, learning materials. The Website has channels as China, BizChina, World, Opinion, Sports/Olympics, Entertainment, Lifestyle, Culture, Citylife, Photo, Forum and Weather.",
+        "Official Site": "https://chinadaily.com.cn",
+        "Icon": "N/A",
+        "Redirect": "https://chinadaily.com.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chinadaily.com.cn"
+    },
+    {
+        "link": "https://pimpbunny.com",
+        "Heading": "Watch Porn & Chat With Models | PimpBunny",
+        "Abstract": "Looking for the hottest content on the internet? PimpBunny brings you the hottest porn videos and lets you chat with the content creators.",
+        "Official Site": "https://pimpbunny.com/",
+        "Icon": "https://pimpbunny.com/static/images/logo.png",
+        "Redirect": "https://pimpbunny.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pimpbunny.com/"
+    },
+    {
+        "link": "https://schwab.com",
+        "Heading": "Charles Schwab | A Modern Approach to Investing and Retirement Planning | Charles Schwab",
+        "Abstract": "Charles Schwab offers investment products and services, including brokerage and retirement accounts, online trading and more.",
+        "Official Site": "https://www.schwab.com/home",
+        "Icon": "https://www.schwab.com/sites/g/files/eyrktu1401/files/Schwab.com%20Resized.jpg",
+        "Redirect": "https://www.schwab.com/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.schwab.com/home"
+    },
+    {
+        "link": "https://douban.com",
+        "Heading": "\u8c46\u74e3",
+        "Abstract": "\u63d0\u4f9b\u56fe\u4e66\u3001\u7535\u5f71\u3001\u97f3\u4e50\u5531\u7247\u7684\u63a8\u8350\u3001\u8bc4\u8bba\u548c\u4ef7\u683c\u6bd4\u8f83\uff0c\u4ee5\u53ca\u57ce\u5e02\u72ec\u7279\u7684\u6587\u5316\u751f\u6d3b\u3002",
+        "Official Site": "https://douban.com",
+        "Icon": "N/A",
+        "Redirect": "https://douban.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://douban.com"
+    },
+    {
+        "link": "https://easybrain.com",
+        "Heading": "Easybrain - Simple Mobile Experiences",
+        "Abstract": "Mobile developer.",
+        "Official Site": "https://easybrain.com/",
+        "Icon": "https://easybrain.com/img/easybrain_cover.jpg",
+        "Redirect": "https://easybrain.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://easybrain.com/"
+    },
+    {
+        "link": "https://suno.com",
+        "Heading": "Suno | AI Music Generator",
+        "Abstract": "Create stunning original music for free in seconds using our AI generator. Make your own masterpieces, share with friends, and discover music from artists worldwide.",
+        "Official Site": "https://suno.com/",
+        "Icon": "https://cdn-o.suno.com/meta-preview.jpg",
+        "Redirect": "https://suno.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://suno.com/"
+    },
+    {
+        "link": "https://history.com",
+        "Heading": "HISTORY | Topics, Shows and This Day in History | HISTORY",
+        "Abstract": "Fascinating stories from the past you can trust, plus hit shows.",
+        "Official Site": "https://www.history.com/",
+        "Icon": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_1200,h_630,g_auto/dpr_auto/f_auto/q_auto:eco/v1/generic-thumb_gby2sk?_a=BAVMn6DY0",
+        "Redirect": "https://www.history.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.history.com/"
+    },
+    {
+        "link": "https://instacart.com",
+        "Heading": "Instacart | Grocery Delivery or Pickup from Local Stores Near You",
+        "Abstract": "One hour grocery delivery from Instacart",
+        "Official Site": "https://www.instacart.com/",
+        "Icon": "https://d2guulkeunn7d8.cloudfront.net/assets/rspack/Instacart_Share_Banner_3-86a003ea47c7e0db-v3.jpg",
+        "Redirect": "https://www.instacart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.instacart.com/"
+    },
+    {
+        "link": "https://shawcable.net",
+        "Heading": "Mobile, Internet, TV, Home Monitoring, Home phone - Rogers",
+        "Abstract": "Choose a cell phone or plan for your needs. At Rogers, count on more mobile, Internet, TV, Home Security and Home Phone options.",
+        "Official Site": "https://shawcable.net",
+        "Icon": "https://www.rogers.com/app/prod/assets/i/og-image.png",
+        "Redirect": "https://shawcable.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shawcable.net"
+    },
+    {
+        "link": "https://tutu.ru",
+        "Heading": "Tutu.ru: \u0410\u0432\u0438\u0430, \u0416\u0414, \u0431\u0438\u043b\u0435\u0442\u044b \u043d\u0430 \u0430\u0432\u0442\u043e\u0431\u0443\u0441, \u043e\u0442\u0435\u043b\u0438, \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u043a \u0438 \u0442\u0443\u0440\u044b \u043e\u043d\u043b\u0430\u0439\u043d.\n\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0445 \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u0438 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435, \u0446\u0435\u043d\u044b \u043d\u0430 2026 \u0433\u043e\u0434, \u0437\u0430\u043a\u0430\u0437 \u0436/\u0434 \u0431\u0438\u043b\u0435\u0442\u043e\u0432, \u0430\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u043e\u0432, \u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442\u0435\u043b\u0435\u0439 \u0438 \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0430 \u0430\u0432\u0442\u043e\u0431\u0443\u0441\u044b.",
+        "Abstract": "Tutu.ru \u2014 \u044d\u0442\u043e \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0436/\u0434 \u0431\u0438\u043b\u0435\u0442\u043e\u0432, \u0430\u0432\u0438\u0430\u0431\u0438\u043b\u0435\u0442\u043e\u0432, \u0442\u0443\u0440\u043e\u0432 \u0438 \u0431\u0438\u043b\u0435\u0442\u043e\u0432 \u043d\u0430 \u0430\u0432\u0442\u043e\u0431\u0443\u0441,\n\u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u0442\u0435\u043b\u0435\u0439, \u0442\u043e\u0447\u043d\u043e\u0435 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u043a. \u0422\u0430\u043a\u0436\u0435 \u0432\u044b \u043d\u0430\u0439\u0434\u0435\u0442\u0435 \u0443 \u043d\u0430\u0441 \u043e\u0431\u0448\u0438\u0440\u043d\u0443\u044e \u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e\n\u0434\u043b\u044f \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u043e\u0432.",
+        "Official Site": "https://tutu.ru",
+        "Icon": "https://cdn1.tu-tu.ru/images2/logo/og_2023.png",
+        "Redirect": "https://tutu.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tutu.ru"
+    },
+    {
+        "link": "https://adguard.com",
+        "Heading": "AdGuard Ad Blocker \u2014 block ads, popups, and trackers",
+        "Abstract": "AdGuard is the best way to get rid of annoying ads and online tracking and protect your computer from malware. Make your web surfing fast, safe and ad-free",
+        "Official Site": "https://adguard.com/en/welcome.html",
+        "Icon": "https://cdn.adguardcdn.com/website/adguard.com/social/og-main.png",
+        "Redirect": "https://adguard.com/en/welcome.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adguard.com/en/welcome.html"
+    },
+    {
+        "link": "https://ethz.ch",
+        "Heading": "ETH Z\u00fcrich - Homepage | ETH Z\u00fcrich",
+        "Abstract": null,
+        "Official Site": "https://ethz.ch/de.html",
+        "Icon": "https://ethz.ch/etc/designs/ethz/img/header/eth_default_og.jpg",
+        "Redirect": "https://ethz.ch/de.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ethz.ch/de.html"
+    },
+    {
+        "link": "https://centos.org",
+        "Heading": "The CentOS Project",
+        "Abstract": null,
+        "Official Site": "https://centos.org",
+        "Icon": "https://www.centos.org/assets/icons/favicon-16.png",
+        "Redirect": "https://centos.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://centos.org"
+    },
+    {
+        "link": "https://polymarket.com",
+        "Heading": "Polymarket | The World's Largest Prediction Market\u2122",
+        "Abstract": "Polymarket is the world's largest prediction market, allowing you to stay informed and profit from your knowledge by trading on future events across various topics.",
+        "Official Site": "https://polymarket.com",
+        "Icon": "https://polymarket.com/images/homepage-twitter-card.png",
+        "Redirect": "https://polymarket.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://polymarket.com"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "link": "https://paypal.com",
+        "Heading": "Pay, Send and Save Money with PayPal | PayPal US",
+        "Abstract": "From paying friends to saving money or getting cash back when you shop, explore what the new PayPal app has to offer.",
+        "Official Site": "https://www.paypal.com/us/home",
+        "Icon": "https://www.paypalobjects.com/marketing/web23/us/en/ppe/homepage-consumer/meta_size-all_v1.jpg",
+        "Redirect": "https://www.paypal.com/us/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.paypal.com/us/home"
+    },
+    {
+        "link": "https://shopify.com",
+        "Heading": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify",
+        "Abstract": "Try Shopify free. Build or grow your business fast with AI. Get more than ecommerce software with tools to manage every part of your business.",
+        "Official Site": "https://www.shopify.com/",
+        "Icon": "https://cdn.shopify.com/b/shopify-brochure2-assets/d617483c5e5cdd01ae8b4f2571c76f34.png?originalWidth=2400&originalHeight=1260",
+        "Redirect": "https://www.shopify.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.shopify.com/"
+    },
+    {
+        "link": "https://reg.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://reg.ru",
+        "Icon": "N/A",
+        "Redirect": "https://reg.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://reg.ru"
+    },
+    {
+        "link": "https://flickr.com",
+        "Heading": "Flickr | The best place to be a photographer online.",
+        "Abstract": "The nicest place on the internet is here for you: inspiration, community, creativity, art, passion, and a heaping scoop of weirdness await you. Join for free.",
+        "Official Site": "https://flickr.com",
+        "Icon": "https://combo.staticflickr.com/66a031f9fc343c5e42d965ca/671aaf5d51c929e483e8b26d_Open%20Graph%20Home.jpg",
+        "Redirect": "https://flickr.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flickr.com"
+    },
+    {
+        "link": "https://soundcloud.com",
+        "Heading": "Stream and listen to music online for free with SoundCloud",
+        "Abstract": "Discover and play over 320 million music tracks. Join the world\u2019s largest online community of artists, bands, DJs, and audio creators.",
+        "Official Site": "https://soundcloud.com/",
+        "Icon": "https://a-v2.sndcdn.com/assets/images/meta/soundcloud-unfurl-square.png",
+        "Redirect": "https://soundcloud.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soundcloud.com/"
+    },
+    {
+        "link": "https://userapi.com",
+        "Heading": "VK | Welcome!",
+        "Abstract": "VK is the largest European social network with more than 100 million active users. Our goal is to keep old friends, ex-classmates, neighbors and colleagues in touch.",
+        "Official Site": "https://userapi.com",
+        "Icon": "/images/icons/favicons/fav_logo.ico?8",
+        "Redirect": "https://userapi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://userapi.com"
+    },
+    {
+        "link": "https://example.com",
+        "Heading": "Example Domain",
+        "Abstract": null,
+        "Official Site": "https://example.com",
+        "Icon": "N/A",
+        "Redirect": "https://example.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://example.com"
+    },
+    {
+        "link": "https://medium.com",
+        "Heading": "Medium: Read and write stories.",
+        "Abstract": "On Medium, anyone can share insightful perspectives, useful knowledge, and life wisdom with the world.",
+        "Official Site": "https://medium.com",
+        "Icon": "https://miro.medium.com/v2/da:true/167cff2a3d17ac1e64d0762539978f2d54c0058886e8b3c8a03a725a83012ec0",
+        "Redirect": "https://medium.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://medium.com"
+    },
+    {
+        "link": "https://cnn.com",
+        "Heading": "Breaking News, Latest News and Videos | CNN",
+        "Abstract": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.",
+        "Official Site": "https://www.cnn.com",
+        "Icon": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+        "Redirect": "https://www.cnn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cnn.com"
+    },
+    {
+        "link": "https://taboola.com",
+        "Heading": "Boost your Digital Performance with Taboola Advertising Platform",
+        "Abstract": "Reach 600M daily active users and achieve conversions at scale with the world's leading performance platform.",
+        "Official Site": "https://www.taboola.com/",
+        "Icon": "https://www.taboola.com/wp-content/uploads-neo/2025/03/taboola-1.png",
+        "Redirect": "https://www.taboola.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.taboola.com/"
+    },
+    {
+        "link": "https://theguardian.com",
+        "Heading": "Latest news, sport and opinion from the Guardian",
+        "Abstract": "Latest US news, world news, sports, business, opinion, analysis and reviews from the Guardian, the world's leading liberal voice",
+        "Official Site": "https://theguardian.com",
+        "Icon": "https://static.guim.co.uk/images/favicon-32x32.ico",
+        "Redirect": "https://theguardian.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theguardian.com"
+    },
+    {
+        "link": "https://vungle.com",
+        "Heading": "The Leading Growth Acceleration Platform for the Mobile Industry.",
+        "Abstract": "Liftoff helps advertisers, publishers, game developers and DSPs scale revenue growth with solutions to market and monetize mobile apps.",
+        "Official Site": "https://www.liftoff.ai/",
+        "Icon": "https://liftoff.ai/wp-content/uploads/2025/01/B-Meta-Image-20240912-122239.jpg",
+        "Redirect": "https://www.liftoff.ai/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.liftoff.ai/"
+    },
+    {
+        "link": "https://avast.com",
+        "Heading": "Avast | Download Free Antivirus & VPN | 100% Free & Easy",
+        "Abstract": "Join hundreds of millions of others & get free antivirus for PC, Mac, & Android. Surf safely with our VPN. Download Avast!",
+        "Official Site": "https://avast.com",
+        "Icon": "/content/dam/avast/cb/favicon.svg",
+        "Redirect": "https://avast.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avast.com"
+    },
+    {
+        "link": "https://forbes.com",
+        "Heading": "Forbes",
+        "Abstract": "Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.",
+        "Official Site": "https://www.forbes.com/",
+        "Icon": "https://i.forbesimg.com/48X48-F.png",
+        "Redirect": "https://www.forbes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.forbes.com/"
+    },
+    {
+        "link": "https://adtrafficquality.google",
+        "Heading": "Google Ad Traffic Quality",
+        "Abstract": null,
+        "Official Site": "https://adtrafficquality.google",
+        "Icon": "https://www.gstatic.com/images/branding/product/ico/googleg_standard_32dp.ico",
+        "Redirect": "https://adtrafficquality.google",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adtrafficquality.google"
+    },
+    {
+        "link": "https://creativecommons.org",
+        "Heading": "The commons belongs to us all - Creative Commons",
+        "Abstract": null,
+        "Official Site": "https://creativecommons.org/",
+        "Icon": "https://creativecommons.org/wp-content/themes/vocabulary-theme/vocabulary/favicon/favicon.ico",
+        "Redirect": "https://creativecommons.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creativecommons.org/"
+    },
+    {
+        "link": "https://bbc.com",
+        "Heading": "BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio",
+        "Abstract": "Visit BBC for trusted reporting on the latest world and US news, sports, business, climate, innovation, culture and much more.",
+        "Official Site": "https://bbc.com",
+        "Icon": "https://static.files.bbci.co.uk/bbcdotcom/web/20260513-115025-e64852cb1d-web-3.6.0-1/favicon-32x32.png",
+        "Redirect": "https://bbc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bbc.com"
+    },
+    {
+        "link": "https://roku.com",
+        "Heading": "Roku",
+        "Abstract": "Roku provides the simplest way to stream entertainment to your TV. On your terms. With thousands of available channels to choose from.",
+        "Official Site": "http://www.roku.com",
+        "Icon": "https://www.roku.com/assets/roku-logo-purple.png",
+        "Redirect": "http://www.roku.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.roku.com"
+    },
+    {
+        "link": "https://twitch.tv",
+        "Heading": "Twitch",
+        "Abstract": "Twitch is an interactive livestreaming service for content spanning gaming, entertainment, sports, music, and more.",
+        "Official Site": "https://www.twitch.tv",
+        "Icon": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg",
+        "Redirect": "https://www.twitch.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.twitch.tv"
+    },
+    {
+        "link": "https://pubmatic.com",
+        "Heading": "AI-Powered Ad Tech for Measurable Performance | PubMatic",
+        "Abstract": "Drive measurable advertising performance with PubMatic's AI-powered, agentic platform \u2014 built for buyers, publishers, and commerce media across CTV and mobile.",
+        "Official Site": "https://pubmatic.com/",
+        "Icon": "https://pubmatic.com/wp-content/uploads/2026/04/Social-Home-2026.png",
+        "Redirect": "https://pubmatic.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pubmatic.com/"
+    },
+    {
+        "link": "https://weather.com",
+        "Heading": "National and Local Weather Radar, Daily Forecast and News from The Weather Channel",
+        "Abstract": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage",
+        "Official Site": "https://weather.com",
+        "Icon": "/_next/static/media/favicon-16x16.002a0lh~33~wl.png",
+        "Redirect": "https://weather.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://weather.com"
+    }
+]

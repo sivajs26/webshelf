@@ -1,0 +1,262 @@
+[
+    {
+        "link": "https://nuget.org",
+        "Heading": "\n        NuGet Gallery\n        | Home\n    ",
+        "Abstract": "The NuGet Gallery is the central package repository for NuGet, the package manager for .NET.",
+        "Official Site": "https://www.nuget.org/",
+        "Icon": "https://nuget.org/Content/gallery/img/logo-og-600x600.png",
+        "Redirect": "https://www.nuget.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nuget.org/"
+    },
+    {
+        "link": "https://medicinenet.com",
+        "Heading": "MedicineNet - Health and Medical Information Produced by Doctors",
+        "Abstract": "Read doctor-produced health and medical information written for you to make informed decisions about your health concerns.",
+        "Official Site": "false",
+        "Icon": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
+        "Redirect": "false",
+        "AbstractSource": "BS4",
+        "AbstractURL": "false"
+    },
+    {
+        "link": "https://policybazaar.com",
+        "Heading": "Insurance - Compare & Buy Insurance Plans - Health, Term, Life, Car, Bike, Investment",
+        "Abstract": "Compare insurance policies offered by various insurers in India & buy insurance policy online. Get instant quotes & save huge on premiums.",
+        "Official Site": "https://www.policybazaar.com/",
+        "Icon": "https://static.pbcdn.in/cdn/images/home/og_pb_logo.png",
+        "Redirect": "https://www.policybazaar.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.policybazaar.com/"
+    },
+    {
+        "link": "https://myfin.by",
+        "Heading": "Myfin.by | \u0411\u0430\u043d\u043a\u0438 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438. \u041a\u0440\u0435\u0434\u0438\u0442\u044b. \u0412\u043a\u043b\u0430\u0434\u044b. \u041a\u0443\u0440\u0441\u044b \u0432\u0430\u043b\u044e\u0442",
+        "Abstract": "MYFIN \u2014 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438: \u0431\u0430\u043d\u043a\u0438, \u043a\u0440\u0435\u0434\u0438\u0442\u044b, \u0432\u043a\u043b\u0430\u0434\u044b, \u043a\u0443\u0440\u0441\u044b \u0432\u0430\u043b\u044e\u0442, \u0441\u0442\u0440\u0430\u0445\u043e\u0432\u0430\u043d\u0438\u0435, \u043b\u0438\u0437\u0438\u043d\u0433, \u0431\u0430\u043d\u043a\u043e\u043c\u0430\u0442\u044b, \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f, \u0434\u0435\u043d\u0435\u0436\u043d\u044b\u0435 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u044b \u0438 \u043e\u0431\u043c\u0435\u043d \u0432\u0430\u043b\u044e\u0442\u044b. \u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0438 \u0441\u0435\u0440\u0432\u0438\u0441\u044b \u043d\u0430 \u041c\u0430\u0439\u0444\u0438\u043d.",
+        "Official Site": "https://myfin.by/",
+        "Icon": "https://myfin.by/files_content/img/openGraph/logo.jpg",
+        "Redirect": "https://myfin.by/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myfin.by/"
+    },
+    {
+        "link": "https://fernsehserien.de",
+        "Heading": "fernsehserien.de \u2013 Episodenf\u00fchrer, Serienreviews und News",
+        "Abstract": "Infos und News zu allen Serien und Filmen: Episodenguides, Streaming, Kritiken, Spoiler, TV-Sendetermine",
+        "Official Site": "https://www.fernsehserien.de/",
+        "Icon": "https://bilder.fernsehserien.de/fernsehserien.de/fs-2021/img/og-image-1200.png",
+        "Redirect": "https://www.fernsehserien.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fernsehserien.de/"
+    },
+    {
+        "link": "https://chavesnamao.com.br",
+        "Heading": "Classificados de im\u00f3veis, carros e motos | Chaves na M\u00e3o",
+        "Abstract": "Chaves na M\u00e3o: o \u00fanico buscador especializado em im\u00f3veis e ve\u00edculos do Brasil. Acesse e surpreenda-se com milh\u00f5es de an\u00fancios. Chaves na M\u00e3o. Procurou, virou!",
+        "Official Site": "https://www.chavesnamao.com.br",
+        "Icon": "https://cdn.chavesnamao.com.br/common/logos/logo-400x400.jpg",
+        "Redirect": "https://www.chavesnamao.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.chavesnamao.com.br"
+    },
+    {
+        "link": "https://tvp.pl",
+        "Heading": "Telewizja Polska S.A.",
+        "Abstract": "Na oficjalnej stronie Telewizji Polskiej obejrzysz wiele program\u00f3w, sprawdzisz program telewizyjny, poznasz informacje o audycjach i gwiazdach telewizji.",
+        "Official Site": "https://www.tvp.pl/",
+        "Icon": "https://s.tvp.pl/files/portale-v4/tvp-pl/images/tvp.jpg",
+        "Redirect": "https://www.tvp.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tvp.pl/"
+    },
+    {
+        "link": "https://worldatlas.com",
+        "Heading": "World Map / World Atlas / Atlas of the World Including Geography Facts and Flags - WorldAtlas.com",
+        "Abstract": "Well-researched and entertaining content on geography (including world maps), science, current events, and more.",
+        "Official Site": "https://www.worldatlas.com/",
+        "Icon": "/nwa_assets/img/site/favicon.png",
+        "Redirect": "https://www.worldatlas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.worldatlas.com/"
+    },
+    {
+        "link": "https://kenh14.vn",
+        "Heading": "K\u00eanh tin t\u1ee9c gi\u1ea3i tr\u00ed - X\u00e3 h\u1ed9i - Kenh14.vn",
+        "Abstract": "Trang tin t\u1ee9c gi\u1ea3i tr\u00ed - x\u00e3 h\u1ed9i Vi\u1ec7t Nam - Qu\u1ed1c T\u1ebf. \u0110\u01b0a tin nhanh nh\u1ea5t : th\u1eddi trang, video ng\u00f4i sao, phim \u1ea3nh, t\u00ecnh y\u00eau, h\u1ecdc \u0111\u01b0\u1eddng, c\u00e1c chuy\u1ec3n \u0111\u1ed9ng x\u00e3 h\u1ed9i.",
+        "Official Site": "https://kenh14.vn/",
+        "Icon": "https://kenh14cdn.com/web_images/k14_logo_new.png",
+        "Redirect": "https://kenh14.vn/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kenh14.vn/"
+    },
+    {
+        "link": "https://cardinalcommerce.com",
+        "Heading": "Visa Protect \u2013 Enterprise-wide Risk Solutions | Visa",
+        "Abstract": "Visa Protect solutions help prevent fraud across the entire payment journey, across all payment endpoints and networks\u2014without stopping the flow of business. ",
+        "Official Site": "https://corporate.visa.com/en/solutions/visa-protect.html",
+        "Icon": "/content/dam/VCOM/Brand/favicon.ico",
+        "Redirect": "https://corporate.visa.com/en/solutions/visa-protect.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://corporate.visa.com/en/solutions/visa-protect.html"
+    },
+    {
+        "link": "https://mailin.fr",
+        "Heading": "Sendinblue technical domain",
+        "Abstract": null,
+        "Official Site": "https://mailin.fr",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAC91BMVEUAAAAAkv8Ak/8Al/8Aj/8Ag/8Amf8AkP8AlP8Aif8Ajv8Anv8Akf8Alf8AnP8AjP8AmP8Alv8AhP8An/8Amv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Ak/8Ak/8Akv8Akv8Akv8Akv8Akv8AlP8Akv8Akv8Ak/8Akv8AlP8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8AlP8Ak/8AlP8Akv8Alv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Ak/8Alf8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Am/8Akv8Ak/8Akv8Akv8Akv8Akv8AlP8Akv8Akv8Ak/8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Akv8Alf8AlP8Akv8Akv8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Ak/8Akv8Akv8Akv8Akv/////AdhUvAAAA+3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAALUazk+vnhp0wJJqPz/vf48JwhL8ryZENEZ7H0xCkFIEXB2VIHY+26Qh8FpeD240ANW7b13xGK/XciqNzT4u+FDw2bq5AlvphBHBQiU7L8lHRtCJ5UBAx7ayfeggR8qQJIBovWcM8auJ2qhksV0lwCCgGTAchaG3Mo6PE0F7+5j0m9E81/PSvr7DL7MV/CvMNKI+5qrtqwBtCtKAHFgyy7JFAptTPMTuo5r4im1IdytNfGdbMSyzs25ThdDl46Px0ZaAOOAdUgEYkm6QVxmRJvjYzAMCFYeAMDNZHRoFYU53pXHBg+zhzCyikAAAABYktHRPw8DqN/AAAAB3RJTUUH4wUVEDY5ORxRXAAAA2BJREFUOMtlk3lcVFUUx++5js4rRwvriTMoysyDEgTBYdRJQUNBwHFpJhBwF2UoLVxGHVFBRTKSUFHBXaRyrEZSskKlwt3KVLSkxbLcyy0tt37/dB+KS5w/3ufde8753rMy9kBIbu3bRm/wa9vOn7PGwql9hwAYTYoRgUHPETXWP98Rwb4hnULDOocjogs1eVxtjrR0RbfuVuKMrC/0QM+o6F4PIWS29H4xBn36qmqKjesXD5gSOkSZ74dCif0DYYNxgEbVDxykIHzwS3Y9HC8n1UN48hCbkpJq80sjEUnkUDiGDR8xctToMYb0sbJg8Kbj0oPHWTPQ08kZd2bC/sqrwrEZjZ8Qr39NK6CvZ2HiJJqMKS5xmBoQHqe99zSfNh3uaGI0A9kzufjOshK5ZiPH2VAlinQjhJg5BblaieboE0YRzZ2HPOJ8fn6y8w2JP7EAmW+yxAK8JTgL3SjU0ttFixbTkryg4oKly5bHUhhKZFa6At1F+E+uhN8qWr1m7brWHddDlZgxZRtQHsvkd5BBkkC8C/d7G7NMvh74zd6UV/i+Bx/0w4deplmGFK9IkBZvhqPCDhhzPtrCm5M3aqvAVOoYzVE8FhVBH1eYVLRtW1yiqHkL+mQrAvqK8D5VUPCZsGhJcrsqmyBAP2u7RmIShTpiLMSeWiCuduyUNU9rrauGiv9uQdVwfy48uPULfKljcglqdiGgZPeeiXs96JNp2Ldw+GbsHyHYdAAHreyrrzG6S01gfWbxVd8cCv52Ix1OwEq1C0dQfpQlRaCW/I9NqNmbUxmaTMdNWd+RthC7vieJTmBbPqvrjR803KeVy1znI0mUgYhkTml2xUJ8yzAM+ZEJs59+bpguOlmMX7Sc5xcjjOjXwcZaqu9ZqvOeBZ9/IP3UIWLSbwfxO+WfVvvMuO6EYso9o6ZF8lkHcuvE3dH92HDynCG+VicJN//z+vQLIRf/WP1nZ8XYtlTAqKxaf7rcplRa62eDxl8qgs1jr9ZjUepc8mH88nm1oG1mNGwYv3L12l8eIxzXO3nVKX3mhsfYI/tcmevhBnLX39ursDZM5hLXJW36BxVlpa7HF/RZSiuBUnzzxq3J5QZURYug/yct6HZqtWi26GdR/zuN9eo73rtjs08V/XvtmPkR+n+rmFPWmz6EHwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOS0wNS0yMVQxNjo1NDo1NyswMjowMPLUWxEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTktMDUtMjFUMTY6NTQ6NTcrMDI6MDCDieOtAAAAV3pUWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMAAHic4/IMCHFWKCjKT8vMSeVSAAMjCy5jCxMjE0uTFAMTIESANMNkAyOzVCDL2NTIxMzEHMQHy4BIoEouAOoXEXTyQjWVAAAAAElFTkSuQmCC",
+        "Redirect": "https://mailin.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mailin.fr"
+    },
+    {
+        "link": "https://spacebattles.com",
+        "Heading": "SpaceBattles",
+        "Abstract": "A popular forum celebrating creative writing and geek culture. Home to all genres of original and fan fiction, plus lively discussions about everything.",
+        "Official Site": "https://forums.spacebattles.com/",
+        "Icon": "https://forums.spacebattles.com/data/svg/2/1/1778963867/2022_favicon_192x192.png",
+        "Redirect": "https://forums.spacebattles.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://forums.spacebattles.com/"
+    },
+    {
+        "link": "https://npci.org.in",
+        "Heading": "National Payments Corporation of India (NPCI) - Enabling digital payments in India",
+        "Abstract": "National Payments Corporation of India is an Umbrella Organisation that facilitates services like UPI Payment, Bharat Bill Pay, RuPay Card, FASTag, NACH, UPI & Adhaar Based Digital Payments in India. Know More.",
+        "Official Site": "https://npci.org.in",
+        "Icon": "/favicons.ico",
+        "Redirect": "https://npci.org.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://npci.org.in"
+    },
+    {
+        "link": "https://ad-stir.com",
+        "Heading": "Best Sell Side Platform for PC and SmartPhones",
+        "Abstract": "\u6700\u3082\u53ce\u76ca\u6027\u306e\u9ad8\u3044\u5e83\u544a\u3092\u6700\u9069\u306a\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u914d\u4fe1\u3059\u308b\u3001PC,android/iPhone\uff08\u30a2\u30d7\u30ea/\u30b5\u30a4\u30c8\uff09\u4e21\u5bfe\u5fdc \u5e83\u544a\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u300cadstir\u300d\u767b\u5834",
+        "Official Site": "https://en.ad-stir.com/",
+        "Icon": "https://en.ad-stir.com/public/images/ogp.jpg",
+        "Redirect": "https://en.ad-stir.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://en.ad-stir.com/"
+    },
+    {
+        "link": "https://paykeeper.ru",
+        "Heading": "\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 PayKeeper \u2013 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u044d\u043a\u0432\u0430\u0439\u0440\u0438\u043d\u0433 c \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u0435\u0439 \u043e\u0442 0.55% \u0434\u043e 1.95%, QR \u043a\u043e\u0434\u044b \u0421\u0411\u041f, \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0441\u0441\u0430, mPOS \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u044b.",
+        "Abstract": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0439\u0442\u0435 \u043f\u043b\u0430\u0442\u0435\u0436\u0438 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0438 \u0432 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 \u043f\u043e \u043a\u0430\u0440\u0442\u0430\u043c Visa, MasterCard, \u041c\u0418\u0420, \u043f\u043e QR-\u043a\u043e\u0434\u0430\u043c \u0421\u0411\u041f \u0438 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e mPOS \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u0430. \u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0441\u0441\u0443 \u0434\u043b\u044f \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u044f 54 \u0424\u0417 \u043e \u0432\u044b\u0434\u0430\u0447\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u0447\u0435\u043a\u043e\u0432.",
+        "Official Site": "https://paykeeper.ru",
+        "Icon": "/icons/16x16.png",
+        "Redirect": "https://paykeeper.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://paykeeper.ru"
+    },
+    {
+        "link": "https://dealerinspire.com",
+        "Heading": "Dealer Inspire - Advanced Automotive Dealer Websites & Technology | Cars Commerce",
+        "Abstract": "Dealer Inspire offers connected auto digital marketing solutions including premium websites, next-gen retailing technology, and marketing services to maximize ROI.",
+        "Official Site": "https://www.carscommerce.inc/dealer-inspire/",
+        "Icon": "https://assets.carsdn.co/images/f_auto,q_auto/v1718644233/wp/cc/DI-landingpage-OG-img_22736cea33/DI-landingpage-OG-img_22736cea33.jpg?_i=AA",
+        "Redirect": "https://www.carscommerce.inc/dealer-inspire/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.carscommerce.inc/dealer-inspire/"
+    },
+    {
+        "link": "https://elcinema.com",
+        "Heading": "\u0645\u0648\u0642\u0639 \u0627\u0644\u0633\u064a\u0646\u0645\u0627 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0648 \u0627\u0644\u0645\u0635\u0631\u064a\u0629 : \u0623\u0643\u0628\u0631 \u0642\u0627\u0639\u062f\u0629 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0623\u0641\u0644\u0627\u0645 \u0648\u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0627\u062a \u0648\u0627\u0644\u0645\u0633\u0631\u062d\u064a\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "Abstract": null,
+        "Official Site": "https://elcinema.com",
+        "Icon": "//cdn.elcinema.com/assets/favicon-511d0dcfc22f2a4cc8ba8554d540168445db4cdc6e50c4eadd2488f976e4e526.ico",
+        "Redirect": "https://elcinema.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elcinema.com"
+    },
+    {
+        "link": "https://apollo.io",
+        "Heading": "AI Sales Platform | Apollo.io - Outbound, Inbound & Automation",
+        "Abstract": "Accelerate B2B sales with Apollo.io\u2014an AI sales platform for prospecting, lead gen, and deal automation. Close more deals, faster, with smart data.",
+        "Official Site": "https://apollo.io",
+        "Icon": "https://www.apollo.io/og-images/home.jpg",
+        "Redirect": "https://apollo.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://apollo.io"
+    },
+    {
+        "link": "https://anikai.to",
+        "Heading": "AnimeKai - Watch Free Anime Online, Stream Subbed & Dubbed Anime in HD",
+        "Abstract": "AnimeKai is the best website to watch anime online for free, watch anime with DUB, SUB in HD. WATCH NOW! No Ads GUARANTEED!",
+        "Official Site": "https://anikai.to",
+        "Icon": "https://anikai.to/assets/uploads/37585a3ffa8ec292ee9e2255f3f63b48ceca17f337019fb9d6383d.jpg",
+        "Redirect": "https://anikai.to",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anikai.to"
+    },
+    {
+        "link": "https://geogebra.org",
+        "Heading": "GeoGebra - the world\u2019s favorite, free math tools used by over 100 million students and teachers",
+        "Abstract": "Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more",
+        "Official Site": "https://www.geogebra.org",
+        "Icon": "https://www.geogebra.org/sp-assets/assets/images/ogImage.c3863704.png",
+        "Redirect": "https://www.geogebra.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.geogebra.org"
+    },
+    {
+        "link": "https://autobild.de",
+        "Heading": "AUTOBILD.DE - Testberichte - Automarkt - Autokauf",
+        "Abstract": "Das Internetportal zum Thema Auto. Hier finden Sie Testberichte, Kaufberatung und mehr als 700.000 Autos im Automarkt.",
+        "Official Site": "https://www.autobild.de/",
+        "Icon": "https://i.auto-bild.de/_static-assets/images/teaser-dummy.png",
+        "Redirect": "https://www.autobild.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.autobild.de/"
+    },
+    {
+        "link": "https://netvigator.com",
+        "Heading": "\u7db2\u4e0a\u884c | \u7db2\u4e0a\u884c\u5bb6\u5c45\u5bec\u983b | NETVIGATOR | NETVIGATOR Home Broadband",
+        "Abstract": "\u7db2\u4e0a\u884c\u5bec\u983b\u65b0\u6a19\u6e96, \u5c07\u901f\u5ea6\u5168\u9762\u63d0\u5347, \u63d0\u4f9b1G \u81f310G\u7684\u9078\u64c7, \u70ba\u4eca\u65e5\u3001\u672a\u4f86\u4f5c\u597d\u6e96\u5099\u3002Netvigator redefines broadband by massively upgrading its speed and taking it to higher levels. Choose from 1G to 10G to suit your needs.",
+        "Official Site": "https://www.netvigator.com/",
+        "Icon": "https://www.netvigator.com/assets/images/og/OG-Image_chi.jpg",
+        "Redirect": "https://www.netvigator.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.netvigator.com/"
+    },
+    {
+        "link": "https://kampyle.com",
+        "Heading": "Experience Management Software Platform \u2013 Medallia \u2013 Experience Management Software",
+        "Abstract": "Medallia's software platform provides keen insights to improve customer experience, contact center experience, employee experience and digital experience.",
+        "Official Site": "https://kampyle.com",
+        "Icon": "https://www.medallia.com/wp-content/themes/medallia2024-new/assets/static/img/medallia-og-default-new.png",
+        "Redirect": "https://kampyle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kampyle.com"
+    },
+    {
+        "link": "https://climatempo.com.br",
+        "Heading": "Climatempo: Clima e Previs\u00e3o do Tempo sempre atualizados",
+        "Abstract": "Confira a previs\u00e3o do tempo atualizada para sua cidade. Veja temperaturas, chuvas e alertas meteorol\u00f3gicos no Climatempo!",
+        "Official Site": "https://www.climatempo.com.br/",
+        "Icon": "https://www.climatempo.com.br/dist/images/compartilhamento.jpg",
+        "Redirect": "https://www.climatempo.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.climatempo.com.br/"
+    },
+    {
+        "link": "https://jito.wtf",
+        "Heading": "Jito Labs: Solana MEV and Infrastructure Solutions",
+        "Abstract": "Jito Labs is a leading Solana MEV Infrastructure Company. We build high-performance systems to maximize the performance of the Solana blockchain and enhance validator rewards. Explore our Solana MEV solutions.",
+        "Official Site": "https://www.jito.wtf/",
+        "Icon": "https://www.jito.wtf/jitoBig.png",
+        "Redirect": "https://www.jito.wtf/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jito.wtf/"
+    },
+    {
+        "link": "https://telegraf.rs",
+        "Heading": "Telegraf.rs - Najnovije vesti",
+        "Abstract": "Najnovije vesti, fotografije i video snimci iz Srbije i sveta. Politika, biznis, sport, pop i kultura, muzika, zabava, hi tech, IT, \u017eivot i stil, zanimljivosti.",
+        "Official Site": "https://www.telegraf.rs/",
+        "Icon": "https://www.telegraf.rs/static/images/telegraf-logo-4.png",
+        "Redirect": "https://www.telegraf.rs/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.telegraf.rs/"
+    }
+]

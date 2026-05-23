@@ -1,0 +1,292 @@
+[
+    {
+        "link": "https://google.com",
+        "Heading": "Google",
+        "Abstract": null,
+        "Official Site": "https://google.com",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Redirect": "https://google.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://google.com"
+    },
+    {
+        "link": "https://cloudflare.com",
+        "Heading": "Cloudflare: Build for the agent era",
+        "Abstract": "Welcome to Cloudflare - Powering the next generation of applications",
+        "Official Site": "https://www.cloudflare.com/",
+        "Icon": "https://www.cloudflare.com/preview.png",
+        "Redirect": "https://www.cloudflare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cloudflare.com/"
+    },
+    {
+        "link": "https://microsoft.com",
+        "Heading": "Microsoft \u2013 AI, Cloud, Productivity, Computing, Gaming & Apps",
+        "Abstract": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
+        "Official Site": "https://www.microsoft.com/en-us",
+        "Icon": "/favicon.ico?v2",
+        "Redirect": "https://www.microsoft.com/en-us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.microsoft.com/en-us"
+    },
+    {
+        "link": "https://mail.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mail.ru",
+        "Icon": "https://imgs2.imgsmail.ru/static/logo/rebranding/logo_favicon.png",
+        "Redirect": "https://mail.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mail.ru"
+    },
+    {
+        "link": "https://youtube.com",
+        "Heading": "YouTube",
+        "Abstract": "Share your videos with friends, family, and the world",
+        "Official Site": "https://www.youtube.com/",
+        "Icon": "https://m.youtube.com/static/favicon.ico",
+        "Redirect": "https://www.youtube.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.youtube.com/"
+    },
+    {
+        "link": "https://apple.com",
+        "Heading": "Apple",
+        "Abstract": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+        "Official Site": "https://www.apple.com/",
+        "Icon": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202604211141",
+        "Redirect": "https://www.apple.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.apple.com/"
+    },
+    {
+        "link": "https://amazonaws.com",
+        "Heading": "Cloud Computing Services - Amazon Web Services (AWS)",
+        "Abstract": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+        "Official Site": "https://aws.amazon.com/",
+        "Icon": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "Redirect": "https://aws.amazon.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aws.amazon.com/"
+    },
+    {
+        "link": "https://instagram.com",
+        "Heading": "Instagram",
+        "Abstract": null,
+        "Official Site": "https://instagram.com",
+        "Icon": "https://static.cdninstagram.com/rsrc.php/yr/r/rzWiSjZRxk5.webp",
+        "Redirect": "https://instagram.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://instagram.com"
+    },
+    {
+        "link": "https://dzen.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://dzen.ru",
+        "Icon": "N/A",
+        "Redirect": "https://dzen.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dzen.ru"
+    },
+    {
+        "link": "https://twitter.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://twitter.com",
+        "Icon": "//abs.twimg.com/favicons/twitter.3.ico",
+        "Redirect": "https://twitter.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://twitter.com"
+    },
+    {
+        "link": "https://linkedin.com",
+        "Heading": "LinkedIn: Log In or Sign Up",
+        "Abstract": "1 billion members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+        "Official Site": "https://www.linkedin.com/",
+        "Icon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "Redirect": "https://www.linkedin.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.linkedin.com/"
+    },
+    {
+        "link": "https://office.com",
+        "Heading": "Microsoft 365 | Write, Create & Collaborate with AI",
+        "Abstract": "Microsoft 365 (formerly Office) with Copilot - AI that helps you write documents, create presentations, analyze data, and collaborate. Ask in plain language and get work done faster",
+        "Official Site": "https://www.office.com",
+        "Icon": "https://res.cdn.office.net/officehub/images/content/images/unauth-refresh/unauth-mcm-og-image-4530bc2b9f.jpg",
+        "Redirect": "https://www.office.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.office.com"
+    },
+    {
+        "link": "https://live.com",
+        "Heading": "Outlook",
+        "Abstract": null,
+        "Official Site": "https://live.com",
+        "Icon": "/mail/favicon.ico",
+        "Redirect": "https://live.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://live.com"
+    },
+    {
+        "link": "https://amazon.com",
+        "Heading": "Amazon.com",
+        "Abstract": null,
+        "Official Site": "https://amazon.com",
+        "Icon": "N/A",
+        "Redirect": "https://amazon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amazon.com"
+    },
+    {
+        "link": "https://azure.com",
+        "Heading": "Cloud Computing Services | Microsoft Azure",
+        "Abstract": "Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure\u2019s open and flexible cloud computing platform.",
+        "Official Site": "https://azure.microsoft.com/en-us",
+        "Icon": "/favicon.ico?v2",
+        "Redirect": "https://azure.microsoft.com/en-us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://azure.microsoft.com/en-us"
+    },
+    {
+        "link": "https://wikipedia.org",
+        "Heading": "Wikipedia",
+        "Abstract": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+        "Official Site": "https://wikipedia.org",
+        "Icon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/250px-Wikipedia-logo-v2.svg.png",
+        "Redirect": "https://wikipedia.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wikipedia.org"
+    },
+    {
+        "link": "https://github.com",
+        "Heading": "GitHub \u00b7 Change is constant. GitHub keeps you ahead. \u00b7 GitHub",
+        "Abstract": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+        "Official Site": "https://github.com/",
+        "Icon": "https://images.ctfassets.net/8aevphvgewt8/4pe4eOtUJ0ARpZRE4fNekf/f52b1f9c52f059a33170229883731ed0/GH-Homepage-Universe-img.png",
+        "Redirect": "https://github.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://github.com/"
+    },
+    {
+        "link": "https://doubleclick.net",
+        "Heading": "Enterprise Advertising & Analytics Solutions - Google Marketing Platform",
+        "Abstract": "Google Marketing Platform offers an enterprise analytics solution to gain insights into your advertising, marketing, customers, and sales.",
+        "Official Site": "https://marketingplatform.google.com/about/enterprise/",
+        "Icon": "https://lh3.googleusercontent.com/XjulzUQfPsVZjAC6DJrlVtyGdUQKM8_6sI0SAcqopIqEn18pOQ0BzWWrXZ5W6FoAx27IzI0AoLXmik0KlCEOr_27jhEfxbiNUp4k",
+        "Redirect": "https://marketingplatform.google.com/about/enterprise/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://marketingplatform.google.com/about/enterprise/"
+    },
+    {
+        "link": "https://bing.com",
+        "Heading": "Search - Microsoft Bing",
+        "Abstract": "Turtles are not only fascinating animals; they als",
+        "Official Site": "https://www.bing.com/?form=HPFBBK&ssd=20260523_0700&mkt=en-US",
+        "Icon": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_tmb.jpg&rf=",
+        "Redirect": "https://www.bing.com/?form=HPFBBK&ssd=20260523_0700&mkt=en-US",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bing.com/?form=HPFBBK&ssd=20260523_0700&mkt=en-US"
+    },
+    {
+        "link": "https://fastly.net",
+        "Heading": "Powering the best of the internet | Fastly",
+        "Abstract": "Fastly's edge cloud platform delivers faster, safer, and more scalable sites and apps to customers. Elevate your edge CDN, video delivery, security, and more.",
+        "Official Site": "https://fastly.net",
+        "Icon": "https://www.fastly.com/cimages/ocb1q9kflo7k/1UfTfeN01lL2r1S0c4CTrF/7df8a14f92177c540a6f325be6cf5ef3/metadataImage-fastly-generic.png?auto=avif&canvas=1200:630&width=1200&height=630&fit=bounds&bg-color=FFFFFF",
+        "Redirect": "https://fastly.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fastly.net"
+    },
+    {
+        "link": "https://digicert.com",
+        "Heading": "TLS/SSL Certificate Authority | Leader in Digital Trust | DigiCert",
+        "Abstract": "DigiCert is a global leader in digital trust, securing identities, data, and systems at enterprise scale\u2014powered by Intelligent Trust and built for a quantum-safe future.",
+        "Official Site": "https://www.digicert.com/",
+        "Icon": "https://www.digicert.com/media_146cae68cfa9f6a38c1f58cc0af7e7d5af52a2b01.svg?width=1200&format=pjpg&optimize=medium",
+        "Redirect": "https://www.digicert.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.digicert.com/"
+    },
+    {
+        "link": "https://chatgpt.com",
+        "Heading": "ChatGPT",
+        "Abstract": "ChatGPT helps you get answers, find inspiration, and be more productive.",
+        "Official Site": "https://chatgpt.com/",
+        "Icon": "https://cdn.openai.com/chatgpt/share-og.png",
+        "Redirect": "https://chatgpt.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chatgpt.com/"
+    },
+    {
+        "link": "https://netflix.com",
+        "Heading": "Netflix - Watch TV Shows Online, Watch Movies Online",
+        "Abstract": "Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.",
+        "Official Site": "https://netflix.com",
+        "Icon": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2023.ico",
+        "Redirect": "https://netflix.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://netflix.com"
+    },
+    {
+        "link": "https://wordpress.org",
+        "Heading": "Blog Tool, Publishing Platform, and CMS \u2013 WordPress.org",
+        "Abstract": "Open source software which you can use to easily create a beautiful website, blog, or app.",
+        "Official Site": "https://wordpress.org/",
+        "Icon": "https://wordpress.org/files/2024/04/wordpress-homepage-ogimage-202404.png",
+        "Redirect": "https://wordpress.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wordpress.org/"
+    },
+    {
+        "link": "https://skype.com",
+        "Heading": "Free Online Meetings & Video Calls | Microsoft Teams",
+        "Abstract": "Start free Teams video calls instantly! Connect, collaborate, and communicate effortlessly. Enjoy features like video calls, chat, file sharing, and more. Perfect for personal use, freelancers, solopreneurs, PTAs, teachers, small businesses and social events. Get started today!",
+        "Official Site": "https://teams.live.com/free",
+        "Icon": "https://statics.teams.cdn.live.net/evergreen-assets/gather/images/og-image.png",
+        "Redirect": "https://teams.live.com/free",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://teams.live.com/free"
+    },
+    {
+        "link": "https://sharepoint.com",
+        "Heading": "Collaborative Content Management, and Secure File Sharing | Microsoft SharePoint",
+        "Abstract": "Create, share, and govern trusted knowledge with Microsoft SharePoint\u2014powering collaboration, communication, automation, and AI experiences across Microsoft 365.",
+        "Official Site": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+        "Icon": "/favicon.ico?v2",
+        "Redirect": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration"
+    },
+    {
+        "link": "https://youtu.be",
+        "Heading": "YouTube",
+        "Abstract": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "Official Site": "https://youtu.be",
+        "Icon": "https://www.youtube.com/img/desktop/yt_1200.png",
+        "Redirect": "https://youtu.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://youtu.be"
+    },
+    {
+        "link": "https://workers.dev",
+        "Heading": "Cloudflare: Build for the agent era",
+        "Abstract": "Welcome to Cloudflare - Powering the next generation of applications",
+        "Official Site": "https://www.cloudflare.com/",
+        "Icon": "https://www.cloudflare.com/preview.png",
+        "Redirect": "https://www.cloudflare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cloudflare.com/"
+    },
+    {
+        "link": "https://pinterest.com",
+        "Heading": "Pinterest",
+        "Abstract": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+        "Official Site": "https://www.pinterest.com/",
+        "Icon": "https://s.pinimg.com/images/facebook_share_image.png",
+        "Redirect": "https://www.pinterest.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pinterest.com/"
+    }
+]

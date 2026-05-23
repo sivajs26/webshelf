@@ -1,0 +1,262 @@
+[
+    {
+        "link": "https://iana.org",
+        "Heading": "Internet Assigned Numbers Authority",
+        "Abstract": null,
+        "Official Site": "https://iana.org",
+        "Icon": "/static/_img/bookmark_icon.ico",
+        "Redirect": "https://iana.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iana.org"
+    },
+    {
+        "link": "https://blizzard.com",
+        "Heading": "Blizzard Entertainment",
+        "Abstract": "Dedicated to creating the most epic entertainment experiences...ever.",
+        "Official Site": "https://blizzard.com",
+        "Icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blta8f9a8e092360c6c/bltbe1a42777abcc0da/620d1898a38b0106946f17d2/thumbnail-home.jpg",
+        "Redirect": "https://blizzard.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://blizzard.com"
+    },
+    {
+        "link": "https://battle.net",
+        "Heading": "Home | Battle.net",
+        "Abstract": "Battle.net is your one stop shop into the world of Blizzard and Activision. Buy digital games, in-game items, balance and more for all of your favorite ...",
+        "Official Site": "https://us.shop.battle.net/en-us",
+        "Icon": "https://us.shop.battle.net/static/opengraph.png",
+        "Redirect": "https://us.shop.battle.net/en-us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://us.shop.battle.net/en-us"
+    },
+    {
+        "link": "https://nps.gov",
+        "Heading": "NPS.gov Homepage (U.S. National Park Service)",
+        "Abstract": "Discover America's stories. Plan your visit and explore the diverse landscapes, national parks, and cultural treasures managed by the National Park Service.",
+        "Official Site": "https://www.nps.gov/index.htm",
+        "Icon": "https://www.nps.gov/common/commonspot/templates/images/logos/nps_social_image_02.jpg",
+        "Redirect": "https://www.nps.gov/index.htm",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nps.gov/index.htm"
+    },
+    {
+        "link": "https://deezer.com",
+        "Heading": "Deezer | Listen to music online | Music streaming app",
+        "Abstract": "Discover our streaming app Deezer! Create an account, listen to your music for free and access millions of songs, playlists and podcasts. Sign up for free!",
+        "Official Site": "https://www.deezer.com/us/",
+        "Icon": "https://cdn-files.dzcdn.net/img/common/og-deezer-logo.png",
+        "Redirect": "https://www.deezer.com/us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.deezer.com/us/"
+    },
+    {
+        "link": "https://cafe24.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cafe24.com",
+        "Icon": "data:;base64,iVBORw0KGgo=",
+        "Redirect": "https://cafe24.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cafe24.com"
+    },
+    {
+        "link": "https://sky.com",
+        "Heading": "Discover TV, Broadband & Mobile Phone Packages with Sky",
+        "Abstract": "Discover Sky packages for TV, broadband & mobile including Glass - the new streaming TV with Sky Inside. Login to manage your My Sky account & more.",
+        "Official Site": "https://sky.com",
+        "Icon": "https://static.skyassets.com/favicons/favicon.ico",
+        "Redirect": "https://sky.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sky.com"
+    },
+    {
+        "link": "https://auth0.com",
+        "Heading": "Secure AI Agent & User Authentication | Auth0",
+        "Abstract": "Secure users, AI agents, and more with Auth0, an easy-to-implement, scalable, and adaptable authentication and authorization platform.",
+        "Official Site": "https://auth0.com",
+        "Icon": "https://cdn.auth0.com/website/homepage/sharecard.png",
+        "Redirect": "https://auth0.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://auth0.com"
+    },
+    {
+        "link": "https://elegantthemes.com",
+        "Heading": "The Best WordPress Themes In The World",
+        "Abstract": "WordPress Themes with Visual Drag & Drop Technology that empower a community of 974,872 customers. Home of Divi, the ultimate Visual Page Builder and Theme.",
+        "Official Site": "https://elegantthemes.com",
+        "Icon": "/images/favicon/favicon-et-32.png",
+        "Redirect": "https://elegantthemes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elegantthemes.com"
+    },
+    {
+        "link": "https://nextcloud.com",
+        "Heading": "Nextcloud - Open source content collaboration platform",
+        "Abstract": "The most popular open source content collaboration platform for tens of millions of users at thousands of organizations across the globe",
+        "Official Site": "https://nextcloud.com/",
+        "Icon": "https://nextcloud.com/c/uploads/2026/03/Homepage-featured-image.png",
+        "Redirect": "https://nextcloud.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nextcloud.com/"
+    },
+    {
+        "link": "https://deepintent.com",
+        "Heading": "DeepIntent | Healthcare Marketing Demand Side Platform",
+        "Abstract": "DeepIntent is a healthcare demand side platform designed to help healthcare marketers easily create advertising campaigns. Get a Demo",
+        "Official Site": "https://deepintent.com",
+        "Icon": "https://cdn.prod.website-files.com/6892244f9dd9b35467d0048b/68bf321c6862e09783528a09_og-img.png",
+        "Redirect": "https://deepintent.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deepintent.com"
+    },
+    {
+        "link": "https://deere.com",
+        "Heading": "\tJohn Deere US | Products & Services Information",
+        "Abstract": "Explore agricultural, construction, forestry machinery, technology, services and more on the official John Deere website. Find a dealer in your area or purchase online.",
+        "Official Site": "https://deere.com",
+        "Icon": "/assets/images/image-icons/favicon.ico",
+        "Redirect": "https://deere.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deere.com"
+    },
+    {
+        "link": "https://uchicago.edu",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://uchicago.edu",
+        "Icon": "/dist/intranet/favicon.ico",
+        "Redirect": "https://uchicago.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uchicago.edu"
+    },
+    {
+        "link": "https://clevelandclinic.org",
+        "Heading": "Cleveland Clinic: Every Life Deserves World Class Care",
+        "Abstract": "Cleveland Clinic",
+        "Official Site": "https://my.clevelandclinic.org/",
+        "Icon": "https://my.clevelandclinic.org:443/-/scassets/images/org/logo/logo-ccf.svg",
+        "Redirect": "https://my.clevelandclinic.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://my.clevelandclinic.org/"
+    },
+    {
+        "link": "https://e-volution.ai",
+        "Heading": "E-volution.ai",
+        "Abstract": null,
+        "Official Site": "https://e-volution.ai",
+        "Icon": "favicon.ico",
+        "Redirect": "https://e-volution.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://e-volution.ai"
+    },
+    {
+        "link": "https://hulu.com",
+        "Heading": "Stream TV and Movies Live and Online | Hulu",
+        "Abstract": "Watch TV shows and movies online. Stream TV episodes of Sh\u014dgun, Grey's Anatomy, This Is Us, Bob's Burgers, Empire, SNL, and popular movies on your favorite devices. Bundle with Disney+ for $12.99.",
+        "Official Site": "https://www.hulu.com",
+        "Icon": "https://assetshuluimcom-a.akamaihd.net/h3o/facebook_share_thumb_default_hulu.jpg",
+        "Redirect": "https://www.hulu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hulu.com"
+    },
+    {
+        "link": "https://rustore.ru",
+        "Heading": "RuStore \u2014 \u043a\u0430\u0442\u0430\u043b\u043e\u0433 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0438 \u0438\u0433\u0440 \u0434\u043b\u044f Android",
+        "Abstract": "\u0418\u0449\u0438\u0442\u0435 \u0438 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u0439\u0442\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0438 \u0438\u0433\u0440\u044b \u0432 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 RuStore. \u0423\u0434\u043e\u0431\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a, \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0438 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0435 \u043f\u043e\u0434\u0431\u043e\u0440\u043a\u0438.",
+        "Official Site": "https://www.rustore.ru/",
+        "Icon": "https://static.rustore.ru/image/rustore_deeplink_600x315.jpg",
+        "Redirect": "https://www.rustore.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rustore.ru/"
+    },
+    {
+        "link": "https://arstechnica.com",
+        "Heading": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+        "Abstract": "News and reviews, covering IT, AI, science, space, health, gaming, cybersecurity, tech policy, computers, mobile devices, and operating systems.",
+        "Official Site": "https://arstechnica.com/",
+        "Icon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480.png",
+        "Redirect": "https://arstechnica.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arstechnica.com/"
+    },
+    {
+        "link": "https://simpli.fi",
+        "Heading": "Simpli.fi, AdTech's Leading Advertising Success Platform",
+        "Abstract": "Simpli.fi, the leader in advertising success, helps 2,000+ agencies & brands maximize their relevance with measurable results.",
+        "Official Site": "https://simpli.fi/",
+        "Icon": "https://bpsimplifife.wpengine.com/wp-content/uploads/2023/02/v1b_1200x675-Black-scaled.jpg",
+        "Redirect": "https://simpli.fi/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simpli.fi/"
+    },
+    {
+        "link": "https://enable-javascript.com",
+        "Heading": "How to enable JavaScript in your browser and why",
+        "Abstract": "Instructions on how to enable (activate) JavaScript in web browser and why.",
+        "Official Site": "https://enable-javascript.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://enable-javascript.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://enable-javascript.com"
+    },
+    {
+        "link": "https://adswizz.com",
+        "Heading": "Home - AdsWizz",
+        "Abstract": "Publisher Solutions We have created a comprehensive technology stack that includes dynamic ad insertion, campaign management, yield optimization and a programmatic selling platform. We enable publishers to optimize revenue and manage multiple demand sources, all while preserving a relevant, positive listening experience.https://www.linkedin.com/company/adswizz-com/",
+        "Official Site": "https://www.adswizz.com/",
+        "Icon": "https://www.adswizz.com/wp-content/uploads/2023/10/cropped-site-logo-32x32.png",
+        "Redirect": "https://www.adswizz.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.adswizz.com/"
+    },
+    {
+        "link": "https://business.site",
+        "Heading": "Get Listed on Google - Google Business Profile",
+        "Abstract": "List your business on Google with a free Business Profile. Turn people who find you on Search & Maps into new customers.",
+        "Official Site": "https://business.google.com/us/business-profile/",
+        "Icon": "https://business.google.com/static/images/google-favicon-48.png",
+        "Redirect": "https://business.google.com/us/business-profile/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://business.google.com/us/business-profile/"
+    },
+    {
+        "link": "https://geocomply.com",
+        "Heading": "GeoComply | Compliance, KYC, growth and anti-fraud under one roof",
+        "Abstract": "Location, device, and behavioural intelligence, you get a high-res picture of digital trust. KYC, and anti-fraud for iGaming, financial services, and media.",
+        "Official Site": "https://www.geocomply.com/",
+        "Icon": "https://www.geocomply.com/wp-content/uploads/geocomply-Compliance-KYC-growth-anti-fraud-geolocation-under-one-roof.png",
+        "Redirect": "https://www.geocomply.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.geocomply.com/"
+    },
+    {
+        "link": "https://huggingface.co",
+        "Heading": "Hugging Face \u2013 The AI community building the future.",
+        "Abstract": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
+        "Official Site": "https://huggingface.co/",
+        "Icon": "https://huggingface.co/front/thumbnails/v2-2.png",
+        "Redirect": "https://huggingface.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://huggingface.co/"
+    },
+    {
+        "link": "https://bootstrapcdn.com",
+        "Heading": "Official CDN of Bootstrap and Font Awesome \u00b7 BootstrapCDN",
+        "Abstract": "The recommended free CDN for Bootstrap, Font Awesome, Bootswatch and Bootstrap Icons.",
+        "Official Site": "https://www.bootstrapcdn.com/",
+        "Icon": "https://www.bootstrapcdn.com/assets/img/og.dd30b10.png",
+        "Redirect": "https://www.bootstrapcdn.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bootstrapcdn.com/"
+    },
+    {
+        "link": "https://appier.net",
+        "Heading": "Appier | Empowering Businesses to Turn AI into ROI",
+        "Abstract": "Comprehensive AI-Powered Solutions: Smoother Operations. Elevated Customer Experience. Better Performance. ",
+        "Official Site": "https://www.appier.com/en/",
+        "Icon": "https://www.appier.com/hubfs/Appier%20AI%20team.png",
+        "Redirect": "https://www.appier.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.appier.com/en/"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "link": "https://estadao.com.br",
+        "Heading": "Estad\u00e3o | As \u00daltimas Not\u00edcias do Brasil e do Mundo - Estad\u00e3o",
+        "Abstract": "As principais e as \u00faltimas not\u00edcias do Brasil e do mundo sobre pol\u00edtica, economia, esportes, cultura, tecnologia, estilo de vida e muito mais.",
+        "Official Site": "https://www.estadao.com.br/",
+        "Icon": "https://storage.googleapis.com/assets-estadao/image/logo-estadao16-9.png",
+        "Redirect": "https://www.estadao.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.estadao.com.br/"
+    },
+    {
+        "link": "https://india.com",
+        "Heading": "Latest News, Breaking News, LIVE News, Top News Headlines, Viral Video, Cricket LIVE, Sports, Entertainment, Business, Health, Lifestyle and Utility News | India.Com News",
+        "Abstract": "Latest News Headlines \u2013 Get LIVE and exclusive news from India and the world. Read latest news updates on Current Affairs, Politics, Sports, Cricket, Bollywood, Business & Technology. Also get job, results & employment news at India.com",
+        "Official Site": "https://www.india.com/",
+        "Icon": "https://s3.india.com/wp-content/uploads/2014/05/default-image1.jpg",
+        "Redirect": "https://www.india.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.india.com/"
+    },
+    {
+        "link": "https://chromium.org",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://chromium.org",
+        "Icon": "N/A",
+        "Redirect": "https://chromium.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chromium.org"
+    },
+    {
+        "link": "https://videonow.ru",
+        "Heading": "Videonow - \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u0432\u0438\u0434\u0435\u043e\u0440\u0435\u043a\u043b\u0430\u043c\u044b",
+        "Abstract": null,
+        "Official Site": "https://videonow.ru",
+        "Icon": "/images/favicon-32x32.png",
+        "Redirect": "https://videonow.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://videonow.ru"
+    },
+    {
+        "link": "https://medtronic.com",
+        "Heading": "Incorrect Browser",
+        "Abstract": null,
+        "Official Site": "https://medtronic.com",
+        "Icon": "N/A",
+        "Redirect": "https://medtronic.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://medtronic.com"
+    },
+    {
+        "link": "https://tk0x1.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://tk0x1.com",
+        "Icon": "N/A",
+        "Redirect": "https://tk0x1.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tk0x1.com"
+    },
+    {
+        "link": "https://farpost.ru",
+        "Heading": "\u0424\u0430\u0440\u043f\u043e\u0441\u0442 \u2014 \u0414\u043e\u0441\u043a\u0430 \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u0439",
+        "Abstract": "\u041f\u043e\u0434\u0430\u0442\u044c \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u0435. \u0427\u0430\u0441\u0442\u043d\u044b\u0435 \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u044f \u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439.",
+        "Official Site": "https://www.farpost.ru/",
+        "Icon": "https://www.farpost.ru/resources/img/apple-touch-icon/apple-touch-icon.png",
+        "Redirect": "https://www.farpost.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.farpost.ru/"
+    },
+    {
+        "link": "https://bms.com",
+        "Heading": "Global Biopharmaceutical Company - Bristol Myers Squibb",
+        "Abstract": "Bristol Myers Squibb is a global biopharmaceutical company committed to discovering, developing and delivering innovative medicines to patients with serious diseases.",
+        "Official Site": "https://www.bms.com/",
+        "Icon": "https://www.bms.com/assets/bms/us/en-us/images/bms_logo_social.png",
+        "Redirect": "https://www.bms.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bms.com/"
+    },
+    {
+        "link": "https://swiggy.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://swiggy.com",
+        "Icon": "N/A",
+        "Redirect": "https://swiggy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://swiggy.com"
+    },
+    {
+        "link": "https://replit.com",
+        "Heading": "Replit \u2013 Build apps and sites with AI - Replit",
+        "Abstract": "Build and deploy software collaboratively with the power of AI without spending a second on setup.",
+        "Official Site": "https://replit.com",
+        "Icon": "https://replit.com/public/images/opengraph_rebrand.jpg",
+        "Redirect": "https://replit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://replit.com"
+    },
+    {
+        "link": "https://pcre.org",
+        "Heading": "PCRE - Perl Compatible Regular Expressions",
+        "Abstract": "The PCRE library is a set of functions that implement regular expression pattern matching using the same syntax and semantics as Perl 5. PCRE has its own native API as well as a set of wrapper functions that correspond to the POSIX regular expression API.",
+        "Official Site": "https://pcre.org",
+        "Icon": "favicon.ico",
+        "Redirect": "https://pcre.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pcre.org"
+    },
+    {
+        "link": "https://polygon.com",
+        "Heading": "Polygon: Gaming and Entertainment News, Culture, Reviews, and More",
+        "Abstract": "Your source for the latest in video games, sci-fi, fantasy, tabletop games, anime, horror, books, and comics.",
+        "Official Site": "https://www.polygon.com/",
+        "Icon": "https://static0.polygonimages.com/wordpress/wp-content/uploads/social/poly-og-img.png?w=1200&h=675&fit=crop",
+        "Redirect": "https://www.polygon.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.polygon.com/"
+    },
+    {
+        "link": "https://sicredi.com.br",
+        "Heading": "Sicredi: Conta corrente, cr\u00e9dito, seguros e mais!",
+        "Abstract": "Conhe\u00e7a o Sicredi, sua cooperativa de cr\u00e9dito com solu\u00e7\u00f5es financeiras sustent\u00e1veis e personalizadas para voc\u00ea. Conta corrente, cr\u00e9dito e mais!",
+        "Official Site": "https://sicredi.com.br",
+        "Icon": "https://www.sicredi.com.br/media/home/filer_public/2022/08/18/alternativa_-_proposito_-_pessoa_fisica_-_sicredi_1.jpg",
+        "Redirect": "https://sicredi.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sicredi.com.br"
+    },
+    {
+        "link": "https://alaskaair.com",
+        "Heading": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+        "Abstract": "Find deals on flights to 1,000+ destinations with Alaska Airlines, oneworld\u00ae\u00a0Alliance\u00a0member airlines, and our Global Partners. Book today at alaskaair.com.",
+        "Official Site": "https://www.alaskaair.com",
+        "Icon": "//resource.alaskaair.net/favicon.ico",
+        "Redirect": "https://www.alaskaair.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alaskaair.com"
+    },
+    {
+        "link": "https://zimperium.com",
+        "Heading": "Zimperium Mobile Security Solutions | Mobile Security for Apps & Devices",
+        "Abstract": "Zimperium is the only mobile security platform purpose-built for enterprise, securing both mobile devices and applications so they can securely access data.",
+        "Official Site": "https://zimperium.com",
+        "Icon": "https://zimperium.com/hubfs/Images/Stock%20Images%20-%20Backgrounds/ZIMPERIUM-logo_orangeZ_ff4c15_white.svg",
+        "Redirect": "https://zimperium.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zimperium.com"
+    },
+    {
+        "link": "https://carrd.co",
+        "Heading": "Carrd - Simple, free, fully responsive one-page sites for pretty much anything",
+        "Abstract": "A free platform for building simple, fully responsive one-page sites for pretty much anything.",
+        "Official Site": "https://carrd.co",
+        "Icon": "https://carrd.co/assets/images/etc/share.jpg",
+        "Redirect": "https://carrd.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://carrd.co"
+    },
+    {
+        "link": "https://mo.gov",
+        "Heading": "Home | MO.gov",
+        "Abstract": null,
+        "Official Site": "https://mo.gov",
+        "Icon": "/sites/g/files/zuston381/themes/site/mogov_2025/favicon.ico",
+        "Redirect": "https://mo.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mo.gov"
+    },
+    {
+        "link": "https://myqnapcloud.com",
+        "Heading": "myQNAPcloud",
+        "Abstract": "myQNAPcloud is a cloud service provided by QNAP for you to remotely connect to your QNAP devices and to share your files securely. You can have your own Internet hostname for your QNAP devices and also access your data remotely without the need to manually configure your router.",
+        "Official Site": "http://www.myqnapcloud.com/?lang=en",
+        "Icon": "https://static.myqnapcloud.com/portal/static/img/util/share-myqnapcloud.png?v=3.2.2.1032",
+        "Redirect": "http://www.myqnapcloud.com/?lang=en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.myqnapcloud.com/?lang=en"
+    },
+    {
+        "link": "https://schoology.com",
+        "Heading": "Learning Management | PowerSchool",
+        "Abstract": "PowerSchool Learning Management (Schoology) Where Teaching Comes Together PowerSchool Learning Management (Schoology) is a K-12 learning management system",
+        "Official Site": "https://www.powerschool.com/products/classroom/learning-management/",
+        "Icon": "https://www.powerschool.com/wp-content/uploads/2026/04/learning-management-hero-mobile.png",
+        "Redirect": "https://www.powerschool.com/products/classroom/learning-management/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.powerschool.com/products/classroom/learning-management/"
+    },
+    {
+        "link": "https://spacex.com",
+        "Heading": "SpaceX",
+        "Abstract": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+        "Official Site": "http://www.spacex.com",
+        "Icon": "https://www.spacex.com/assets/images/share.jpg",
+        "Redirect": "http://www.spacex.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.spacex.com"
+    },
+    {
+        "link": "https://cloudlinux.com",
+        "Heading": "CloudLinux OS: The Platform for Linux Web Hosting.",
+        "Abstract": "Experience next-level performance and security with CloudLinux. Optimize your web hosting environment and unlock its full potential.",
+        "Official Site": "https://cloudlinux.com/",
+        "Icon": "https://cloudlinux.com/wp-content/uploads/2021/07/cropped-android-chrome-512x512-1-32x32.png",
+        "Redirect": "https://cloudlinux.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cloudlinux.com/"
+    },
+    {
+        "link": "https://byu.edu",
+        "Heading": "Home - BYU",
+        "Abstract": "The official website of Brigham Young University | Provo, UT",
+        "Official Site": "https://www.byu.edu/",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://www.byu.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.byu.edu/"
+    },
+    {
+        "link": "https://3ds.com",
+        "Heading": "Virtual Worlds for Real Life | Dassault Syst\u00e8mes",
+        "Abstract": "Through virtual twin technologies, our collaborative platform empowers business and people to create sustainable innovations.",
+        "Official Site": "https://www.3ds.com/",
+        "Icon": "https://www.3ds.com/assets/invest/styles/card_og_image/public/2023-06/homepage-card-image.jpg?itok=kVINUjTT",
+        "Redirect": "https://www.3ds.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.3ds.com/"
+    }
+]

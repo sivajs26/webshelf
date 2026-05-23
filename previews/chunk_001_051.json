@@ -1,0 +1,262 @@
+[
+    {
+        "link": "https://tamu.edu",
+        "Heading": "\n\t\t\tTexas A&M University | Texas A&M University\n\t\t",
+        "Abstract": "Texas A&M University (TAMU) opened in 1876 as the state's first public institution of higher learning. Today, we are a research powerhouse dedicated to educating the next generation of leaders.",
+        "Official Site": "https://www.tamu.edu/index.html",
+        "Icon": "https://www.tamu.edu/_files/images/tam-social.jpg",
+        "Redirect": "https://www.tamu.edu/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tamu.edu/index.html"
+    },
+    {
+        "link": "https://accor.com",
+        "Heading": "Accor Group",
+        "Abstract": "Accor is a world-leading hospitality group offering stays and experiences across more than 110 countries with over 5,800 hotels and resorts, 10,000 bars & restaurants, wellness facilities and flexible workspaces.",
+        "Official Site": "https://accor.com",
+        "Icon": "https://images.group.accor.com/yrj0orc8tx24/5i152tnoQ2DXRx3HNX5ooy/78ab43cada09676323c560efdb2ffb8c/ACCOR.COM_Hero-FB3.jpg?w=3840&q=100&fm=avif",
+        "Redirect": "https://accor.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://accor.com"
+    },
+    {
+        "link": "https://int08h.com",
+        "Heading": "int08h",
+        "Abstract": null,
+        "Official Site": "https://int08h.com",
+        "Icon": "N/A",
+        "Redirect": "https://int08h.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://int08h.com"
+    },
+    {
+        "link": "https://a.co",
+        "Heading": "Amazon.com",
+        "Abstract": null,
+        "Official Site": "https://a.co",
+        "Icon": "N/A",
+        "Redirect": "https://a.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://a.co"
+    },
+    {
+        "link": "https://auvik.com",
+        "Heading": "Auvik Networks: Best Network Management Software Solution",
+        "Abstract": "Auvik is cloud-based network management software for today\u2019s changing workforce. Gain true network visibility and control. Use Auvik free for 14 days.",
+        "Official Site": "https://www.auvik.com/",
+        "Icon": "https://www.auvik.com/wp-content/uploads/2025/06/anm-dashboard-screenshot.jpg",
+        "Redirect": "https://www.auvik.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.auvik.com/"
+    },
+    {
+        "link": "https://jampp.com",
+        "Heading": "The programmatic platform to grow your mobile app | Jampp",
+        "Abstract": "Jampp is the programmatic platform to grow mobile apps. We leverage machine learning to unlock mobile marketing and drive incremental ROI.",
+        "Official Site": "https://jampp.com",
+        "Icon": "https://cdn.prod.website-files.com/60a2dbe1d34866625cde6145/60a3205afb51116f7b844c73_jampp-featured-image.png",
+        "Redirect": "https://jampp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jampp.com"
+    },
+    {
+        "link": "https://heise.de",
+        "Heading": "heise online - IT-News, Nachrichten und Hintergr\u00fcnde | heise online",
+        "Abstract": "News und Foren zu Computer, IT, Wissenschaft, Medien und Politik. Preisvergleich von Hardware und Software sowie Downloads bei Heise Medien.",
+        "Official Site": "https://www.heise.de",
+        "Icon": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/icons/ho/opengraph/opengraph.png",
+        "Redirect": "https://www.heise.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.heise.de"
+    },
+    {
+        "link": "https://archlinux.org",
+        "Heading": "Arch Linux",
+        "Abstract": null,
+        "Official Site": "https://archlinux.org",
+        "Icon": "/static/archlinux_common_style/favicon.png",
+        "Redirect": "https://archlinux.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://archlinux.org"
+    },
+    {
+        "link": "https://huntress.io",
+        "Heading": "Huntress Management Console",
+        "Abstract": null,
+        "Official Site": "https://huntress.io",
+        "Icon": "N/A",
+        "Redirect": "https://huntress.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://huntress.io"
+    },
+    {
+        "link": "https://rockstargames.com",
+        "Heading": "Rockstar Games",
+        "Abstract": "The official home of Rockstar Games",
+        "Official Site": "https://rockstargames.com",
+        "Icon": "https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/meta-icons/rockstar/favicon-180x180.png",
+        "Redirect": "https://rockstargames.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rockstargames.com"
+    },
+    {
+        "link": "https://kuaishou.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kuaishou.com",
+        "Icon": "N/A",
+        "Redirect": "https://kuaishou.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kuaishou.com"
+    },
+    {
+        "link": "https://ilo.org",
+        "Heading": "ILO Homepage | International Labour Organization",
+        "Abstract": "The official website of the International Labour Organization (ILO), dedicated to promoting social justice and internationally recognized human and labour rights.",
+        "Official Site": "https://www.ilo.org/",
+        "Icon": "https://www.ilo.org/themes/custom/ilo/node_modules/@ilo-org/brand-assets/dist/assets/favicon/maskable-icon-512x512.png",
+        "Redirect": "https://www.ilo.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ilo.org/"
+    },
+    {
+        "link": "https://vanguard.com",
+        "Heading": "Mutual funds, IRAs, ETFs, 401(k) plans, and more | Vanguard",
+        "Abstract": null,
+        "Official Site": "https://vanguard.com",
+        "Icon": "/corporate-portal/assets/favicon.ico",
+        "Redirect": "https://vanguard.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vanguard.com"
+    },
+    {
+        "link": "https://aarp.org",
+        "Heading": "AARP\u00ae Official Site - Join & Explore the Benefits",
+        "Abstract": "AARP is the nation's largest nonprofit, nonpartisan organization dedicated to empowering Americans 50 and older to choose how they live as they age.",
+        "Official Site": "https://www.aarp.org/",
+        "Icon": "https://cdn.aarp.net/content/dam/aarp/work/employers/2021/01/1140-logo-aarp.png",
+        "Redirect": "https://www.aarp.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.aarp.org/"
+    },
+    {
+        "link": "https://treasury.gov",
+        "Heading": "Front page | U.S. Department of the Treasury",
+        "Abstract": "U.S. Department of the Treasury",
+        "Official Site": "https://home.treasury.gov/front",
+        "Icon": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+        "Redirect": "https://home.treasury.gov/front",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://home.treasury.gov/front"
+    },
+    {
+        "link": "https://ohmy.bid",
+        "Heading": "OhMyBid",
+        "Abstract": null,
+        "Official Site": "http://ohmy.bid",
+        "Icon": "https://static.tildacdn.com/img/tildafavicon.ico",
+        "Redirect": "http://ohmy.bid",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://ohmy.bid"
+    },
+    {
+        "link": "https://instructables.com",
+        "Heading": "Yours for the making",
+        "Abstract": "Instructables is a community for people who like to make things. Come explore, share, and make your next project with us!",
+        "Official Site": "https://instructables.com",
+        "Icon": "/assets/img/siteassets/favicon.ico",
+        "Redirect": "https://instructables.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://instructables.com"
+    },
+    {
+        "link": "https://nexx360.io",
+        "Heading": "Seamless programmatic server-side connections | Nexx360",
+        "Abstract": "Make the most out of your AdStack and shape your success through seamless connections with Nexx360\u2019s cloud-based technology.",
+        "Official Site": "https://nexx360.io/",
+        "Icon": "https://nexx360.io/wp-content/uploads/2025/06/pastille-nexx.png",
+        "Redirect": "https://nexx360.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nexx360.io/"
+    },
+    {
+        "link": "https://mastodon.social",
+        "Heading": "Mastodon",
+        "Abstract": "The original server of Mastodon, operated by Mastodon GmbH for the common good.\n\n",
+        "Official Site": "https://mastodon.social/",
+        "Icon": "https://files.mastodon.social/site_uploads/files/000/000/001/@1x/57c12f441d083cde.png",
+        "Redirect": "https://mastodon.social/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mastodon.social/"
+    },
+    {
+        "link": "https://tmdb.org",
+        "Heading": "The Movie Database (TMDB)",
+        "Abstract": "The Movie Database (TMDB) is a popular, user editable database for movies and TV shows.",
+        "Official Site": "https://tmdb.org",
+        "Icon": "/assets/2/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png",
+        "Redirect": "https://tmdb.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tmdb.org"
+    },
+    {
+        "link": "https://xlivrdr.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://xlivrdr.com",
+        "Icon": "N/A",
+        "Redirect": "https://xlivrdr.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xlivrdr.com"
+    },
+    {
+        "link": "https://zapier.com",
+        "Heading": "Zapier: Automate AI Workflows, Agents, and Apps",
+        "Abstract": "Build and scale AI workflows and agents across 9,000+ apps with Zapier\u2014the most connected AI orchestration platform. Trusted by 3 million+ businesses. ",
+        "Official Site": "https://zapier.com",
+        "Icon": "https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1776210705/Governance/og-image-homepage_mskeaq.png",
+        "Redirect": "https://zapier.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zapier.com"
+    },
+    {
+        "link": "https://sinaimg.cn",
+        "Heading": "\u65b0\u6d6a\u56fe\u7247",
+        "Abstract": null,
+        "Official Site": "https://sinaimg.cn",
+        "Icon": "N/A",
+        "Redirect": "https://sinaimg.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sinaimg.cn"
+    },
+    {
+        "link": "https://ksapisrv.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ksapisrv.com",
+        "Icon": "N/A",
+        "Redirect": "https://ksapisrv.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ksapisrv.com"
+    },
+    {
+        "link": "https://nokia.com",
+        "Heading": "Nokia Corporation | Nokia",
+        "Abstract": "As a technology leader across mobile, fixed and cloud networks, our solutions enable a more productive, sustainable and inclusive world.",
+        "Official Site": "https://www.nokia.com/",
+        "Icon": "https://www.nokia.com/sites/default/files/2025-08/https_www.nokia_.com_sites_default_files_styles_scale_1440_no_crop_public_2023-02_nokia-refreshed-logo-1_1.jpg",
+        "Redirect": "https://www.nokia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nokia.com/"
+    },
+    {
+        "link": "https://wikisource.org",
+        "Heading": "Wikisource",
+        "Abstract": null,
+        "Official Site": "https://wikisource.org",
+        "Icon": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Wikisource-logo.png?utm_source=wikisource.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+        "Redirect": "https://wikisource.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wikisource.org"
+    }
+]

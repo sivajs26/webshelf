@@ -1,0 +1,282 @@
+[
+    {
+        "link": "https://proton.me",
+        "Heading": "Proton: Privacy by default",
+        "Abstract": "Over 100 million people use Proton to stay private and secure online. Get a free Proton account and take back your privacy.",
+        "Official Site": "https://proton.me/",
+        "Icon": "https://pmecdn.protonweb.com/image-transformation/?s=a&image=proton_og_daa63b4095.png",
+        "Redirect": "https://proton.me/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://proton.me/"
+    },
+    {
+        "link": "https://lenta.ru",
+        "Heading": "Lenta.ru - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u043c\u0438\u0440\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f",
+        "Abstract": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438, \u0441\u0442\u0430\u0442\u044c\u0438, \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0438, \u0432\u0438\u0434\u0435\u043e. \u0421\u0435\u043c\u044c \u0434\u043d\u0435\u0439 \u0432 \u043d\u0435\u0434\u0435\u043b\u044e, 24 \u0447\u0430\u0441\u0430 \u0432 \u0441\u0443\u0442\u043a\u0438.",
+        "Official Site": "https://lenta.ru",
+        "Icon": "https://icdn.lenta.ru/assets/webpack/images/lenta_og.04ceff52.png",
+        "Redirect": "https://lenta.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lenta.ru"
+    },
+    {
+        "link": "https://x-cdn-static.com",
+        "Heading": "Hola | Fast, Secure, and Reliable Proxy Unblocker & VPN",
+        "Abstract": "Wish you could access worldwide content anytime, anywhere? With Hola you can! Experience uninterrupted content at the tip of your fingers! Discover more.",
+        "Official Site": "https://hola.org/",
+        "Icon": "https://hola.org/img/hola_og.png",
+        "Redirect": "https://hola.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hola.org/"
+    },
+    {
+        "link": "https://health.mil",
+        "Heading": "MHS Home | Health.mil",
+        "Abstract": "The Health.mil is the official website of the Military Health System. The Military Health System is one of America\u2019s largest and most complex health care institutions, and the world\u2019s preeminent military health care delivery operation. Our MHS saves lives on the battlefield, combats infectious disease around the world, and is responsible for providing health services to approximately 9.5 million beneficiaries, composed of uniformed service members, military retirees, and family members. ",
+        "Official Site": "https://health.mil/",
+        "Icon": "https://health.mil/-/media/133B82CEA199413086FB84ABF5E84A85.png",
+        "Redirect": "https://health.mil/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://health.mil/"
+    },
+    {
+        "link": "https://habr.com",
+        "Heading": "\u041f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 / \u041c\u043e\u044f \u043b\u0435\u043d\u0442\u0430 / \u0425\u0430\u0431\u0440",
+        "Abstract": null,
+        "Official Site": "https://habr.com/ru/feed/",
+        "Icon": "/img/habr_ru.png",
+        "Redirect": "https://habr.com/ru/feed/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://habr.com/ru/feed/"
+    },
+    {
+        "link": "https://guard.io",
+        "Heading": "Guardio | Powerful Online Protection for Your Digital Life",
+        "Abstract": "Protect all your devices online. Keep your personal and business data safe from phishing, malware, and identity theft. Get your free Guardio security scan today.",
+        "Official Site": "https://guard.io",
+        "Icon": "https://cdn.prod.website-files.com/660aad6ed4b43a5ebeb55a52/688a39fa7b181c4af37e7505_og.png",
+        "Redirect": "https://guard.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://guard.io"
+    },
+    {
+        "link": "https://ipapi.co",
+        "Heading": "ipapi - IP Address Lookup and Geolocation API | No SignUp",
+        "Abstract": "Enterprise IP Location by Kloudend, Inc - built on AWS, trusted by Fortune 500. Geolocation API for JSON, XML in PHP, JS, Java, Python, Node & more.",
+        "Official Site": "https://ipapi.co",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAu1JREFUeNq0V99P01AUPrft5oZMSwgkGGPQPRjkZYhR548M1BATY1iU+Js4HsyCJOr+AWV/gNkw+kB8YCY+aTQQ4steNvSFJ9M9+ABGKJohGAIFFWZZe72FASG0o70dJ2l207Oe853vnvudFoFFY4aGa4GVg8D9C5CLBy4HNfISuLAs+H/lh15fDvdbiYdMJ05+4YFZjgEnh7SkJHnhWl3jwrp+Li+2jTqi3bc7EyUDwH4Y82FWTq1WvJFUD4C2LsMyhDLuxIvgg45tC9s2+UDWB5hJkSVvlq1FB4ZEoxTqGoj32QYAGPVZSb4BQoXB+rlQb2/vI2oA7PuZENklH1DaD16GT4fmnxAQPB0DGD0s5q7O5UXyky72n49eSUsetAyAffObN6rerahwf3w6MXUmeFD1tTVjpDaQ25IuCxU5WHDlW2kYMKT+xs9p8fnNO+sdjuvbBUCKYcePVy7W0jehjh2fl7aIDT58z1CA3Musr6QAsrtcWypCIy8Nq1QYLJUUwGB1VZB0dtNmCpiY4ZF0KoKRjzNEfc2TZt/N6voye8oh5t2XOpZ8G/9cDRmifncxyE1GsRq/77UOoFCWpuchPc9ouYs8jYjI5Ioqun98RQJe0W0BUqNg01pGKtLhcFigAqBcqRILLFCZX/RAzYIzam8W2GCh+ZsnQapP2wKgtO4nLFgHcVbcLR2QnBH703CFBRwnfSaaTV65yMK5sbIIqV4qCQDlklciW9FhuvHGXOnuW12mese0EKktR8he4m3f9+pmWCkw4TQN1poSIjViNPXW7MKEI0qoF3cEgHr+qNaQPUb+U1lGeHa1M27pLdvy2dIaUoeFsjzAySkUsRrOMgA14Jf0WKibhfTT68XPfMmmYYGFTRaYVKgECwGlMcPJvrWPFO/fJeHr6fYGqjjUUwapA+vznmN6qAuhfVA9cVHTBMmdx/BY+NNPG4ezN2xxv0NFvBnJ3RkACA8tcAxvJ4RdBgQbfbxi/wUYAOrtCs1T5pPJAAAAAElFTkSuQmCC",
+        "Redirect": "https://ipapi.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ipapi.co"
+    },
+    {
+        "link": "https://uhc.com",
+        "Heading": "Health insurance plans | UnitedHealthcare",
+        "Abstract": "Explore health insurance options including Medicare, Medicaid, individual and family, short term and dental, as well as employer plans.",
+        "Official Site": "https://www.uhc.com/",
+        "Icon": "/etc/designs/uhcfoundation/resources/favicon.ico",
+        "Redirect": "https://www.uhc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uhc.com/"
+    },
+    {
+        "link": "https://ex.co",
+        "Heading": "EX.CO \u2013 smarter video technology for media growth",
+        "Abstract": "EX.CO is the smarter, machine learning video technology that maximizes revenue for media companies across web, mobile, CTV, and DOOH.",
+        "Official Site": "https://ex.co/",
+        "Icon": "https://ex.co/wp-content/themes/tg/assets/images/favicon/android-icon-192x192.png",
+        "Redirect": "https://ex.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ex.co/"
+    },
+    {
+        "link": "https://irishtimes.com",
+        "Heading": "The Irish Times | Latest news and headlines - Irish news, world news, video and podcasts",
+        "Abstract": "Irish news, world news and breaking updates. Get Ireland news, business, politics, sport, lifestyle, culture, podcasts, video and more from The Irish Times, the definitive brand of award-winning, in-depth journalism.",
+        "Official Site": "https://irishtimes.com",
+        "Icon": "https://www.irishtimes.com/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Firishtimes%2F1647534191476.png?auth=631eeaa12e7a61c005c8eb0bbf348f785c131b10c4d6b25c28247a15965b5a36&width=1200",
+        "Redirect": "https://irishtimes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://irishtimes.com"
+    },
+    {
+        "link": "https://imagemagick.org",
+        "Heading": "ImageMagick | Mastering Digital Image Alchemy",
+        "Abstract": "ImageMagick is a powerful open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for developers, designers, and researchers.",
+        "Official Site": "https://imagemagick.org/script/index.php",
+        "Icon": "https://imagemagick.org/image/logo.png",
+        "Redirect": "https://imagemagick.org/script/index.php",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://imagemagick.org/script/index.php"
+    },
+    {
+        "link": "https://foxbusiness.com",
+        "Heading": "Fox Business | Business News & Stock Quotes - Saving & Investing",
+        "Abstract": "Invested in You.",
+        "Official Site": "https://www.foxbusiness.com",
+        "Icon": "//static.foxnews.com/static/orion/styles/img/fox-business/og/og-fox-business.png",
+        "Redirect": "https://www.foxbusiness.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.foxbusiness.com"
+    },
+    {
+        "link": "https://amxrtb.com",
+        "Heading": "amxrtb.com",
+        "Abstract": null,
+        "Official Site": "https://amxrtb.com",
+        "Icon": "N/A",
+        "Redirect": "https://amxrtb.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amxrtb.com"
+    },
+    {
+        "link": "https://brightspace.com",
+        "Heading": "D2L | Online Learning Platform | Creators of the Brightspace LMS Software",
+        "Abstract": "Created by D2L, Brightspace is the best LMS software for online learning and teaching. Discover how our online learning platform for schools and companies can help your organization today.",
+        "Official Site": "https://www.d2l.com/",
+        "Icon": "https://www.d2l.com/wp-content/uploads/2026/04/img-Homepage-Thumbnail-Justin-NA.png",
+        "Redirect": "https://www.d2l.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.d2l.com/"
+    },
+    {
+        "link": "https://identrust.com",
+        "Heading": "IdenTrust \u2013 Part of HID Global",
+        "Abstract": "IdenTrust offers the most trusted & secure digital certificates used for digital signing, secure access & email encryption across a variety of industries.",
+        "Official Site": "https://www.identrust.com/",
+        "Icon": "/sites/default/files/identrust.ico",
+        "Redirect": "https://www.identrust.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.identrust.com/"
+    },
+    {
+        "link": "https://openldap.org",
+        "Heading": "OpenLDAP, Main Page",
+        "Abstract": "The Open Source for LDAP software and information. Home of OpenLDAP.",
+        "Official Site": "https://openldap.org",
+        "Icon": "N/A",
+        "Redirect": "https://openldap.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://openldap.org"
+    },
+    {
+        "link": "https://ispot.tv",
+        "Heading": "iSpot: The New Standard for TV Ad Measurement",
+        "Abstract": "Struggling to prove and optimize TV ad performance? Fast, accurate and actionable measurement across linear and streaming is the key to TV advertising success. Say hello to the new standard for TV ad measurement.",
+        "Official Site": "https://ispot.tv",
+        "Icon": "https://d3ds6z1w6yhmzj.cloudfront.net/img/og-image/iSpot-Social-Card-V1.png",
+        "Redirect": "https://ispot.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ispot.tv"
+    },
+    {
+        "link": "https://hellotalk8.com",
+        "Heading": "\u8bed\u8a00\u4ea4\u6362 - \u5b66\u5916\u8bed\u7ec3\u53e3\u8bed\uff0c\u4e0e\u4e16\u754c\u5bf9\u8bdd",
+        "Abstract": "Language learning app - learn a language by chatting with native speakers around the world. iOS or Android.",
+        "Official Site": "https://www.hellotalk8.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.hellotalk8.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hellotalk8.com/"
+    },
+    {
+        "link": "https://tubitv.com",
+        "Heading": "Watch Free Movies and TV Shows Online | Tubi",
+        "Abstract": "Watch free on Tubi. From deep cuts to hit movies, shows, series, live TV and awarded originals. No subscription. Free forever.",
+        "Official Site": "https://tubitv.com/",
+        "Icon": "https://mcdn.tubitv.com/tubitv-assets/img/tubi_open-graph-512x512.png",
+        "Redirect": "https://tubitv.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tubitv.com/"
+    },
+    {
+        "link": "https://lifehacker.com",
+        "Heading": "Lifehacker | Do everything better",
+        "Abstract": "Lifehacker is the ultimate authority on optimizing every aspect of your life. Do everything better.",
+        "Official Site": "https://lifehacker.com",
+        "Icon": "https://lifehacker.com/images/lifehacker-logo.svg",
+        "Redirect": "https://lifehacker.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lifehacker.com"
+    },
+    {
+        "link": "https://walkme.com",
+        "Heading": "WalkMe - Digital Adoption Platform | AI That Delivers Real ROI",
+        "Abstract": "WalkMe makes enterprise AI work by overlaying every application with real-time context, cross-app workflows, and automation. See software usage, guide your people, and prove AI ROI.",
+        "Official Site": "https://www.walkme.com/",
+        "Icon": "https://www.walkme.com/wp-content/uploads/2026/04/home-meta-image.jpg?w=1024",
+        "Redirect": "https://www.walkme.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.walkme.com/"
+    },
+    {
+        "link": "https://userway.org",
+        "Heading": "UserWay | Web Accessibility AI Solution for Compliance",
+        "Abstract": "Ensure ADA & WCAG compliance with UserWay\u2019s web accessibility solutions, Widget, Scanner, Audit & PDF Remediation. Making the web accessible to all!",
+        "Official Site": "https://userway.org/",
+        "Icon": "https://userway.org/open-graph/og.general.jpeg",
+        "Redirect": "https://userway.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://userway.org/"
+    },
+    {
+        "link": "https://c6gj-static.net",
+        "Heading": "Hola | Fast, Secure, and Reliable Proxy Unblocker & VPN",
+        "Abstract": "Wish you could access worldwide content anytime, anywhere? With Hola you can! Experience uninterrupted content at the tip of your fingers! Discover more.",
+        "Official Site": "https://hola.org/",
+        "Icon": "https://hola.org/img/hola_og.png",
+        "Redirect": "https://hola.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hola.org/"
+    },
+    {
+        "link": "https://laracasts.com",
+        "Heading": "Learn Laravel | Laracasts",
+        "Abstract": "Want to learn Laravel and PHP from the coding wizards who know it best?",
+        "Official Site": "https://laracasts.com",
+        "Icon": "undefined/images/laracasts-twitter-card.webp",
+        "Redirect": "https://laracasts.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://laracasts.com"
+    },
+    {
+        "link": "https://xe.com",
+        "Heading": "Xe: Currency Exchange Rates and International Money Transfers",
+        "Abstract": "Get the best currency exchange rates for international money transfers to 200 countries in 100 foreign currencies. Send and receive money with best forex rates.",
+        "Official Site": "https://xe.com",
+        "Icon": "https://images.ctfassets.net/izij9rskv5y1/1aqbDa0nay8CVodSY9ZANt/bd3e8480e9426b38b5bb9d8f843dc64e/xe_consumer_logo.jpg",
+        "Redirect": "https://xe.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xe.com"
+    },
+    {
+        "link": "https://acint.net",
+        "Heading": "Acint",
+        "Abstract": null,
+        "Official Site": "https://acint.net",
+        "Icon": "N/A",
+        "Redirect": "https://acint.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://acint.net"
+    },
+    {
+        "link": "https://consumerreports.org",
+        "Heading": "Product Reviews and Ratings, Buying Advice and Consumer Advocacy - Consumer Reports",
+        "Abstract": "Get unbiased ratings and reviews for 10,000+ products and services from Consumer Reports, plus trusted advice and in-depth reporting on what matters most.",
+        "Official Site": "https://www.consumerreports.org/",
+        "Icon": "https://article.images.consumerreports.org/f_auto/prod/content/dam/cro/homepage/CR%20Twitter%20Card%20Green%20300%20x%20157",
+        "Redirect": "https://www.consumerreports.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.consumerreports.org/"
+    },
+    {
+        "link": "https://brookings.edu",
+        "Heading": "Brookings - Quality. Independence. Impact.",
+        "Abstract": "The Brookings Institution is a nonprofit public policy organization based in Washington, DC. Our mission is to conduct in-depth research that leads to new ideas for solving problems facing society at the local, national and global level.",
+        "Official Site": "https://www.brookings.edu/",
+        "Icon": "https://www.brookings.edu/wp-content/uploads/2023/06/brookings-share-default.jpg?quality=75",
+        "Redirect": "https://www.brookings.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.brookings.edu/"
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "link": "https://intuit.com",
+        "Heading": "Intuit\u00ae: Outdo your financial goals\u2014all in one place",
+        "Abstract": "The Intuit platform puts a team of AI agents and trusted experts by your side.",
+        "Official Site": "https://intuit.com",
+        "Icon": "https://www.intuit.com/oidam/intuit/ic/en_us/images/h-z/intuit-twitter-card-logo-icom-20220825-800x418.jpg",
+        "Redirect": "https://intuit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://intuit.com"
+    },
+    {
+        "link": "https://discord.gg",
+        "Heading": "Discord - Group Chat That\u2019s All Fun & Games",
+        "Abstract": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+        "Official Site": "https://discord.gg",
+        "Icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg",
+        "Redirect": "https://discord.gg",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://discord.gg"
+    },
+    {
+        "link": "https://b-cdn.net",
+        "Heading": "bunny.net - The Global Edge Platform that truly Hops",
+        "Abstract": "Hop on bunny.net and speed up your web presence with the next-generation Content Delivery Service (CDN), Edge Storage, and Optimization Services at any scale.",
+        "Official Site": "https://bunny.net/",
+        "Icon": "https://bunny.net/images24/Making-the-internet-hop-faster.jpg",
+        "Redirect": "https://bunny.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bunny.net/"
+    },
+    {
+        "link": "https://blogspot.com",
+        "Heading": "Blogger.com - Create a unique and beautiful blog easily.",
+        "Abstract": "Publish your passions your way. Whether you\u2019d like to share your knowledge, experiences or the latest news, create a unique and beautiful blog.",
+        "Official Site": "https://www.blogger.com",
+        "Icon": "img/social/facebook-1200x630.jpg",
+        "Redirect": "https://www.blogger.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.blogger.com"
+    },
+    {
+        "link": "https://vk.com",
+        "Heading": "VK | Welcome!",
+        "Abstract": "VK is the largest European social network with more than 100 million active users. Our goal is to keep old friends, ex-classmates, neighbors and colleagues in touch.",
+        "Official Site": "https://vk.com",
+        "Icon": "/images/icons/favicons/fav_logo.ico?8",
+        "Redirect": "https://vk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vk.com"
+    },
+    {
+        "link": "https://unity3d.com",
+        "Heading": "Unity: Develop, Deploy, and Grow | The World's Leading Game Engine",
+        "Abstract": "Develop, deploy, and grow with Unity, the world\u2019s leading 3D game engine. Build for all major platforms from mobile, to PC and console as well as XR, acquire players, monetize your game, and power industrial applications.",
+        "Official Site": "https://unity.com",
+        "Icon": "https://cdn.sanity.io/images/fuvbjjlp/production/9a58ef0b0a39424aaf70dd4c30539b477ae54697-1200x630.png",
+        "Redirect": "https://unity.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unity.com"
+    },
+    {
+        "link": "https://t.me",
+        "Heading": "Telegram Messenger",
+        "Abstract": "Fast. Secure. Powerful.",
+        "Official Site": "https://t.me",
+        "Icon": "https://telegram.org/img/t_logo_2x.png",
+        "Redirect": "https://t.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://t.me"
+    },
+    {
+        "link": "https://europa.eu",
+        "Heading": "Language selection | European Union",
+        "Abstract": "Discover how the EU functions, its principles, priorities; find out about its history and member states; learn about its legal basis and your EU rights.",
+        "Official Site": "https://european-union.europa.eu/index_en",
+        "Icon": "https://european-union.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2025-02/normal-reproduction-high-resolution.jpg?h=7c494902&itok=y4KszoLJ",
+        "Redirect": "https://european-union.europa.eu/index_en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://european-union.europa.eu/index_en"
+    },
+    {
+        "link": "https://mailinabox.email",
+        "Heading": "Mail-in-a-Box",
+        "Abstract": "Take back control of your email with this easy-to-deploy mail server in a box.",
+        "Official Site": "https://mailinabox.email",
+        "Icon": "https://mailinabox.email/static/logo.png",
+        "Redirect": "https://mailinabox.email",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mailinabox.email"
+    },
+    {
+        "link": "https://snapchat.com",
+        "Heading": "Snapchat - Say It In A Snap",
+        "Abstract": "Chat, send Snaps, explore Stories, and try Lenses on desktop, or download the app on mobile! See how to connect & create with friends on Snapchat, wherever you are.",
+        "Official Site": "https://www.snapchat.com",
+        "Icon": "https://www.snapchat.com/images/default-preview/facebook.png",
+        "Redirect": "https://www.snapchat.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.snapchat.com"
+    },
+    {
+        "link": "https://f5.com",
+        "Heading": "F5 | Multicloud Security and Application Delivery | F5",
+        "Abstract": "F5 application services ensure that applications are always secure and perform the way they should\u2014in any environment and on any device.",
+        "Official Site": "https://www.f5.com",
+        "Icon": "https://cdn.studio.f5.com/images/k6fem79d/production/0567fa9d18fbe4d4e3b6c30f63eddd5a41777ebd-319x179.png",
+        "Redirect": "https://www.f5.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.f5.com"
+    },
+    {
+        "link": "https://dns.google",
+        "Heading": "Google Public DNS",
+        "Abstract": null,
+        "Official Site": "https://dns.google",
+        "Icon": "/static/93dd5954/favicon.png",
+        "Redirect": "https://dns.google",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dns.google"
+    },
+    {
+        "link": "https://amazonvideo.com",
+        "Heading": "Prime Video: Watch movies, TV shows, sports, and live TV",
+        "Abstract": "Stream popular movies, TV shows, sports, and live TV included with Prime, and even more with subscriptions. Watch anywhere, anytime.",
+        "Official Site": "https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root",
+        "Icon": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+        "Redirect": "https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.primevideo.com/offers/nonprimehomepage/ref=dv_web_force_root"
+    },
+    {
+        "link": "https://dropbox.com",
+        "Heading": "Dropbox.com",
+        "Abstract": "Discover Dropbox \u2013 secure, easy cloud storage for file sharing and collaboration. With Dash, save time and organize all your company content in one place.",
+        "Official Site": "/",
+        "Icon": "https://cfl.dropboxstatic.com/static/metaserver/static/images/logo_catalog/dropbox_opengraph_image%402x.png",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://apache.org",
+        "Heading": "Welcome to The Apache Software Foundation | Apache Software Foundation",
+        "Abstract": null,
+        "Official Site": "https://apache.org",
+        "Icon": "/favicons/favicon-32x32.png",
+        "Redirect": "https://apache.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://apache.org"
+    },
+    {
+        "link": "https://outlook.com",
+        "Heading": "Outlook",
+        "Abstract": null,
+        "Official Site": "https://outlook.com",
+        "Icon": "/mail/favicon.ico",
+        "Redirect": "https://outlook.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://outlook.com"
+    },
+    {
+        "link": "https://kaspersky.com",
+        "Heading": "Kaspersky Cyber Security Solutions for Home and Business | Kaspersky",
+        "Abstract": "Official Site \u2013 A Global Leader in next-generation cybersecurity solutions and services, Kaspersky offers premium protection against all cyber threats for your home and business.",
+        "Official Site": "https://kaspersky.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://kaspersky.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kaspersky.com"
+    },
+    {
+        "link": "https://gravatar.com",
+        "Heading": "Your Free Avatar, Profile, and Link In Bio | Gravatar",
+        "Abstract": "Create a global avatar and profile image with Gravatar. Get a free one-page personal site to showcase your identity and connect across the web.",
+        "Official Site": "https://gravatar.com",
+        "Icon": "/images/favicon-16x16.png",
+        "Redirect": "https://gravatar.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gravatar.com"
+    },
+    {
+        "link": "https://nih.gov",
+        "Heading": "National Institutes of Health (NIH) |",
+        "Abstract": "Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the Federal focal point for health and medical research. The NIH website offers health information for the public, scientists, researchers, medical professionals, patients, educators,",
+        "Official Site": "https://www.nih.gov/node",
+        "Icon": "https://www.nih.gov/sites/default/files/styles/thumbnail_large/public/2025-01/thumbnail-generic.png",
+        "Redirect": "https://www.nih.gov/node",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nih.gov/node"
+    },
+    {
+        "link": "https://xiaomi.com",
+        "Heading": "Xiaomi United States | Xiaomi Official Website",
+        "Abstract": "Xiaomi, a global company producing quality products at honest pricing.",
+        "Official Site": "https://www.mi.com/us/",
+        "Icon": "https://i01.appmifile.com/webfile/globalimg/mobile/logo/mi.png",
+        "Redirect": "https://www.mi.com/us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mi.com/us/"
+    },
+    {
+        "link": "https://one.one",
+        "Heading": "One.com Web hosting\u00a0\u00a0-\u00a0\u00a0Domain \u2022 Hosting \u2022 E-mail\u00a0\u00a0",
+        "Abstract": null,
+        "Official Site": "https://one.one",
+        "Icon": "https://www.one.com//webapps.group-cdn.one/cdn-one/images/global/favicon.ico",
+        "Redirect": "https://one.one",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://one.one"
+    },
+    {
+        "link": "https://archive.org",
+        "Heading": "Internet Archive: Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine",
+        "Abstract": null,
+        "Official Site": "https://archive.org",
+        "Icon": "/offshoot_assets/favicon.ico",
+        "Redirect": "https://archive.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://archive.org"
+    },
+    {
+        "link": "https://nytimes.com",
+        "Heading": "The New York Times - Breaking News, US News, World News and Videos",
+        "Abstract": "Live news, investigations, opinion, photos and video by the journalists of The New York Times from more than 150 countries around the world. Subscribe for coverage of U.S. and international news, politics, business, technology, science, health, arts, sports and more.",
+        "Official Site": "https://www.nytimes.com",
+        "Icon": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+        "Redirect": "https://www.nytimes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nytimes.com"
+    },
+    {
+        "link": "https://tumblr.com",
+        "Heading": "Trending topics on Tumblr",
+        "Abstract": "Explore trending topics on Tumblr. See all of the GIFs, fan art, and general conversation about the internet\u2019s favorite things.",
+        "Official Site": "https://www.tumblr.com/explore/trending",
+        "Icon": "https://assets.tumblr.com/pop/manifest/favicon-0e3d244a.ico",
+        "Redirect": "https://www.tumblr.com/explore/trending",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tumblr.com/explore/trending"
+    },
+    {
+        "link": "https://applovin.com",
+        "Heading": "AppLovin",
+        "Abstract": "AppLovin enables businesses to advertise profitably with marketing technologies that attract customers, increase revenue, and track ad performance.",
+        "Official Site": "https://applovin.com",
+        "Icon": "/icon.svg?1d307f6bec841c1a",
+        "Redirect": "https://applovin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://applovin.com"
+    },
+    {
+        "link": "https://triplinkintl.com",
+        "Heading": "Virtual commercial card for global payments | TripLink",
+        "Abstract": "Elevate your global payment capabilities and unlock new growth opportunities with TripLink's modern global cross-border payments and card issuing platform.",
+        "Official Site": "https://www.triplinkintl.com/",
+        "Icon": "https://dimg04.tripcdn.com/images/1vf4112000n0jynvx96F3.png",
+        "Redirect": "https://www.triplinkintl.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.triplinkintl.com/"
+    }
+]

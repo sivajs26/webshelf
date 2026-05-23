@@ -1,0 +1,272 @@
+[
+    {
+        "link": "https://steamcommunity.com",
+        "Heading": "Steam Community",
+        "Abstract": "Community Hubs are collections of all the best community and official game content as rated by users.",
+        "Official Site": "https://steamcommunity.com",
+        "Icon": "https://community.fastly.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg",
+        "Redirect": "https://steamcommunity.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://steamcommunity.com"
+    },
+    {
+        "link": "https://brave.com",
+        "Heading": "The browser that puts you first | Brave",
+        "Abstract": "The Brave browser is a fast, private and secure web browser for PC, Mac and mobile. Download now to enjoy a faster ad-free browsing experience that saves data and battery life by blocking tracking software.",
+        "Official Site": "https://brave.com/",
+        "Icon": "https://brave.com/home-assets/images/brave-home-og.png",
+        "Redirect": "https://brave.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://brave.com/"
+    },
+    {
+        "link": "https://gitlab.com",
+        "Heading": "Finally, AI for the entire software lifecycle.",
+        "Abstract": "Your intelligent orchestration platform for DevSecOps",
+        "Official Site": "https://about.gitlab.com/",
+        "Icon": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1758207578/whxaklh4tf6nonryosrs.png",
+        "Redirect": "https://about.gitlab.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://about.gitlab.com/"
+    },
+    {
+        "link": "https://wp.com",
+        "Heading": "WordPress.com: Everything You Need to Build Your Website",
+        "Abstract": "Create your site. Share your voice. Earn online.",
+        "Official Site": "https://wordpress.com/",
+        "Icon": "https://s1.wp.com/i/featured/hp-2024-jul.jpg",
+        "Redirect": "https://wordpress.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wordpress.com/"
+    },
+    {
+        "link": "https://taobao.com",
+        "Heading": "\u6dd8\u5b9d",
+        "Abstract": "\u6dd8\u5b9d\u7f51 - \u4e9a\u6d32\u8f83\u5927\u7684\u7f51\u4e0a\u4ea4\u6613\u5e73\u53f0\uff0c\u63d0\u4f9b\u5404\u7c7b\u670d\u9970\u3001\u7f8e\u5bb9\u3001\u5bb6\u5c45\u3001\u6570\u7801\u3001\u8bdd\u8d39/\u70b9\u5361\u5145\u503c\u2026 \u6570\u4ebf\u4f18\u8d28\u5546\u54c1\uff0c\u540c\u65f6\u63d0\u4f9b\u62c5\u4fdd\u4ea4\u6613(\u5148\u6536\u8d27\u540e\u4ed8\u6b3e)\u7b49\u5b89\u5168\u4ea4\u6613\u4fdd\u969c\u670d\u52a1\uff0c\u5e76\u7531\u5546\u5bb6\u63d0\u4f9b\u9000\u8d27\u627f\u8bfa\u3001\u7834\u635f\u8865\u5bc4\u7b49\u6d88\u8d39\u8005\u4fdd\u969c\u670d\u52a1\uff0c\u8ba9\u4f60\u5b89\u5fc3\u4eab\u53d7\u7f51\u4e0a\u8d2d\u7269\u4e50\u8da3\uff01",
+        "Official Site": "https://taobao.com",
+        "Icon": "N/A",
+        "Redirect": "https://taobao.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://taobao.com"
+    },
+    {
+        "link": "https://statista.com",
+        "Heading": "Statista - The Statistics Portal for Market Data, Market Research and Market Studies",
+        "Abstract": "Find statistics, consumer survey results and industry studies from over 22,500 sources on over 60,000 topics on the internet's leading statistics database",
+        "Official Site": "https://www.statista.com/",
+        "Icon": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+        "Redirect": "https://www.statista.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.statista.com/"
+    },
+    {
+        "link": "https://supercell.com",
+        "Heading": "Supercell",
+        "Abstract": "Visit Supercell.com and find out more about us and our games.",
+        "Official Site": "https://supercell.com/en/",
+        "Icon": "https://supercell.com/_next/static/media/og_default.397a54a5.jpg",
+        "Redirect": "https://supercell.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://supercell.com/en/"
+    },
+    {
+        "link": "https://skyhigh.cloud",
+        "Heading": "Skyhigh Security | AI SSE Platform for Enterprise Cloud Protection",
+        "Abstract": "Secure your enterprise data in the AI era. Skyhigh SSE delivers unified protection across SaaS, web, and private apps\u2014with built-in DLP, threat detection, and Shadow AI controls.",
+        "Official Site": "https://www.skyhighsecurity.com/",
+        "Icon": "https://www.skyhighsecurity.com/wp-content/uploads/2024/11/skyhigh-ai-promo.png",
+        "Redirect": "https://www.skyhighsecurity.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.skyhighsecurity.com/"
+    },
+    {
+        "link": "https://foxnews.com",
+        "Heading": "Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos",
+        "Abstract": "Breaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",
+        "Official Site": "https://www.foxnews.com",
+        "Icon": "//static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+        "Redirect": "https://www.foxnews.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.foxnews.com"
+    },
+    {
+        "link": "https://netangels.ru",
+        "Heading": "VDS/VPS \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u043e\u0442 NetAngels \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0435 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0435\u0440\u044b \u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
+        "Abstract": "\u0410\u0440\u0435\u043d\u0434\u0430 VDS/VPS \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432 \u043d\u0430 \u0431\u044b\u0441\u0442\u0440\u044b\u0445 NVMe-\u0434\u0438\u0441\u043a\u0430\u0445 \u043e\u0442 NetAngels. \u041c\u043e\u0449\u043d\u044b\u0435 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438, \u0437\u0430\u0449\u0438\u0442\u0430 \u043e\u0442 DDoS-\u0430\u0442\u0430\u043a, \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u043e\u0432. \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
+        "Official Site": "https://www.netangels.ru/",
+        "Icon": "https://www.netangels.ru/static-next/open-graph/main.png?v=2",
+        "Redirect": "https://www.netangels.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.netangels.ru/"
+    },
+    {
+        "link": "https://ipinfo.io",
+        "Heading": "IP Data Intelligence for Developers & Enterprises | IPinfo",
+        "Abstract": "IPinfo delivers fast, accurate, and reliable IP data to power fraud detection, geolocation, analytics, and more. Trusted by over 500,000 developers.",
+        "Official Site": "https://ipinfo.io/",
+        "Icon": "https://website-cdn.assets.ipinfo.io/images/og/og_homepage.jpg",
+        "Redirect": "https://ipinfo.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ipinfo.io/"
+    },
+    {
+        "link": "https://sberbank.ru",
+        "Heading": "sberbank.ru",
+        "Abstract": null,
+        "Official Site": "https://sberbank.ru",
+        "Icon": "N/A",
+        "Redirect": "https://sberbank.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sberbank.ru"
+    },
+    {
+        "link": "https://name.com",
+        "Heading": "Domain Names, Registration, Websites & Hosting | name.com",
+        "Abstract": "name.com is your complete source for domain names, hosting and other online presence solutions.",
+        "Official Site": "https://name.com",
+        "Icon": "/_nuxt/ogimage.WjYw3rHo.jpeg",
+        "Redirect": "https://name.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://name.com"
+    },
+    {
+        "link": "https://t-mobile.com",
+        "Heading": "\n      T-Mobile\u00ae Official Site | Best 5G Network & Unlimited Data Plans\n    ",
+        "Abstract": "Discover America's Best Network with T-Mobile! Get unbeatable deals, unlimited 5G plans, and T-Satellite coverage that keeps you connected while saving big.",
+        "Official Site": "https://www.t-mobile.com/",
+        "Icon": "https://t-mobile.scene7.com/is/image/Tmusprod/OG-Image-Lifestyle",
+        "Redirect": "https://www.t-mobile.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.t-mobile.com/"
+    },
+    {
+        "link": "https://paloaltonetworks.com",
+        "Heading": "Leader in Cybersecurity Protection & Software for the Modern Enterprises - Palo Alto Networks",
+        "Abstract": "Implement Zero Trust, Secure your Network, Cloud workloads, Hybrid Workforce, Leverage Threat Intelligence & Security Consulting. Cybersecurity Services & Education for CISO\u2019s, Head of Infrastructure, Network Security Engineers, Cloud Architects & SOC Managers",
+        "Official Site": "https://www.paloaltonetworks.com",
+        "Icon": "https://www.paloaltonetworks.com/etc/clientlibs/pan-templates/seoimages/social-panw.png",
+        "Redirect": "https://www.paloaltonetworks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.paloaltonetworks.com"
+    },
+    {
+        "link": "https://speedtest.net",
+        "Heading": "Speedtest by Ookla - The Global Broadband Speed Test",
+        "Abstract": "Use Speedtest on all your devices with our free desktop and mobile apps.",
+        "Official Site": "https://www.speedtest.net/",
+        "Icon": "https://www.speedtest.net/images/share-logo.png",
+        "Redirect": "https://www.speedtest.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.speedtest.net/"
+    },
+    {
+        "link": "https://crpt.ru",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Abstract": "",
+        "Official Site": "https://crpt.ru",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://crpt.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crpt.ru"
+    },
+    {
+        "link": "https://vkontakte.ru",
+        "Heading": "VK | Welcome!",
+        "Abstract": "VK is the largest European social network with more than 100 million active users. Our goal is to keep old friends, ex-classmates, neighbors and colleagues in touch.",
+        "Official Site": "https://vkontakte.ru",
+        "Icon": "/images/icons/favicons/fav_logo.ico?8",
+        "Redirect": "https://vkontakte.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vkontakte.ru"
+    },
+    {
+        "link": "https://mikrotik.com",
+        "Heading": "\n        MikroTik\n                    \u00b7 Routers and Wireless\n            ",
+        "Abstract": "MikroTik makes networking hardware and software, which is used in nearly all countries of the world. Our mission is to make existing Internet technologies faster, more powerful and affordable to wider range of users.",
+        "Official Site": "https://mikrotik.com",
+        "Icon": "https://mikrotik.com/images/logo/open-graph.png",
+        "Redirect": "https://mikrotik.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mikrotik.com"
+    },
+    {
+        "link": "https://goodreads.com",
+        "Heading": "Goodreads | Meet your next favorite book",
+        "Abstract": "Discover and share books you love on Goodreads, the world's largest site for readers and book recommendations!",
+        "Official Site": "https://www.goodreads.com/",
+        "Icon": "https://s.gr-assets.com/assets/facebook/goodreads_wide-5b93ced856c0da068d73467d3cb82a2c.png",
+        "Redirect": "https://www.goodreads.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.goodreads.com/"
+    },
+    {
+        "link": "https://grammarly.com",
+        "Heading": "Grammarly: Free AI Writing Assistance",
+        "Abstract": "Grammarly makes AI writing convenient. Work smarter with personalized AI guidance and text generation on any app or website.",
+        "Official Site": "https://www.grammarly.com/",
+        "Icon": "https://static-web.grammarly.com/1e6ajr2k4140/1kGiUxfxoLhCPH7wGcvknN/c218a7bbcdfc24301fbbfb6ae9892ec6/default_social_share.png",
+        "Redirect": "https://www.grammarly.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.grammarly.com/"
+    },
+    {
+        "link": "https://duolingo.com",
+        "Heading": "Duolingo",
+        "Abstract": "Learn languages by playing a game. It's 100% free, fun, and scientifically proven to work.",
+        "Official Site": "https://www.duolingo.com/",
+        "Icon": "https://www.duolingo.com/images/facebook/duo-08523a2.jpg",
+        "Redirect": "https://www.duolingo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.duolingo.com/"
+    },
+    {
+        "link": "https://g.page",
+        "Heading": "Get Listed on Google - Google Business Profile",
+        "Abstract": "List your business on Google with a free Business Profile. Turn people who find you on Search & Maps into new customers.",
+        "Official Site": "https://business.google.com/us/business-profile/",
+        "Icon": "https://business.google.com/static/images/google-favicon-48.png",
+        "Redirect": "https://business.google.com/us/business-profile/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://business.google.com/us/business-profile/"
+    },
+    {
+        "link": "https://mediatek.com",
+        "Heading": "MediaTek | Home Page",
+        "Abstract": "MediaTek powers smarter devices with cutting-edge chipsets for smartphones, smart homes, automotive, IoT, and more. Discover innovation that connects.",
+        "Official Site": "https://www.mediatek.com",
+        "Icon": "https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/Static%20Images/Ghosted%20M%201200X%20630.jpg",
+        "Redirect": "https://www.mediatek.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mediatek.com"
+    },
+    {
+        "link": "https://ietf.org",
+        "Heading": "IETF  | Internet Engineering Task Force",
+        "Abstract": "Read more about the Internet Engineering Task Force (IETF), the premier standards development organization (SDO) for the Internet.",
+        "Official Site": "/",
+        "Icon": "/media/images/ietf-logo-500-square-250x250.original.jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://addtoany.com",
+        "Heading": "AddToAny: Share Buttons by the Universal Sharing Platform",
+        "Abstract": "Get share buttons for your website visitors to share content on any social sharing service. AddToAny is the universal sharing platform for websites and apps.",
+        "Official Site": "https://www.addtoany.com",
+        "Icon": "https://static.addtoany.com/images/icon-200-3.png",
+        "Redirect": "https://www.addtoany.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.addtoany.com"
+    },
+    {
+        "link": "https://eventbrite.com",
+        "Heading": "Eventbrite - Discover the Best Local Events & Things to Do",
+        "Abstract": "Find tickets to your next unforgettable experience. Browse concerts, workshops, yoga classes, charity events, food and music festivals, and more things to do.",
+        "Official Site": "https://www.eventbrite.com/",
+        "Icon": "https://cdn.evbstatic.com/s3-build/perm_001/6ce389/django/images/logos/eb_orange_on_white_1200x630.png",
+        "Redirect": "https://www.eventbrite.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.eventbrite.com/"
+    }
+]

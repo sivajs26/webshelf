@@ -1,0 +1,182 @@
+[
+    {
+        "link": "https://threads.com",
+        "Heading": "Threads",
+        "Abstract": "Join Threads to share ideas, ask questions, post random thoughts, find your people and more. Log in with your Instagram.",
+        "Official Site": "https://www.threads.com/",
+        "Icon": "https://static.cdninstagram.com/rsrc.php/yp/r/GYVO97MXC-b.webp",
+        "Redirect": "https://www.threads.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.threads.com/"
+    },
+    {
+        "link": "https://disneyplus.com",
+        "Heading": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site",
+        "Abstract": "Access your favorite entertainment with Disney+. Disney+ is the streaming home for Disney, Hulu, ESPN, Pixar, Marvel, Star Wars, Nat Geo, and so much more.",
+        "Official Site": "https://www.disneyplus.com",
+        "Icon": "https://static-assets.bamgrid.com/product/disneyplus/images/share-default.8bf3102623e935e7bc126df36b956b98.jpg",
+        "Redirect": "https://www.disneyplus.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.disneyplus.com"
+    },
+    {
+        "link": "https://hihonorcloud.com",
+        "Heading": null,
+        "Abstract": "\u8363\u8000\u5f00\u53d1\u8005\u670d\u52a1\u5e73\u53f0\u662f\u9762\u5411\u8363\u8000\u5f00\u53d1\u8005\u7684\u5b98\u65b9\u7f51\u7ad9\u3002\u4e3a\u5e94\u7528\u5f00\u53d1\u8005\u548c\u8bbe\u8ba1\u4eba\u5458\u63d0\u4f9b\u8363\u8000SDK\u548c\u6587\u6863\u3002\u81f4\u529b\u4e8e\u6784\u5efa\u5168\u573a\u666f\u3001\u9762\u5411\u5168\u6e20\u9053\u3001\u670d\u52a1\u5168\u4eba\u7fa4\uff0c\u521b\u9020\u5c5e\u4e8e\u6bcf\u4e2a\u4eba\u7684\u667a\u6167\u65b0\u4e16\u754c\u3002",
+        "Official Site": "https://hihonorcloud.com",
+        "Icon": "https://www.hihonor.com/etc/designs/honor-site/assets/favicon.ico",
+        "Redirect": "https://hihonorcloud.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hihonorcloud.com"
+    },
+    {
+        "link": "https://creativecdn.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://creativecdn.com",
+        "Icon": "N/A",
+        "Redirect": "https://creativecdn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://creativecdn.com"
+    },
+    {
+        "link": "https://tapad.com",
+        "Heading": "Tapad | Homepage",
+        "Abstract": "Connecting brands to consumers across devices",
+        "Official Site": "https://www.tapad.com/",
+        "Icon": "https://tapad.com/assets/images/former-cloudfront/TapadThumbnail.jpg",
+        "Redirect": "https://www.tapad.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tapad.com/"
+    },
+    {
+        "link": "https://tencent.com",
+        "Heading": "Tencent \u817e\u8baf",
+        "Abstract": "\u817e\u8baf\u4e8e1998\u5e7411\u6708\u6210\u7acb\uff0c\u662f\u4e00\u5bb6\u4e92\u8054\u7f51\u516c\u53f8\uff0c\u901a\u8fc7\u6280\u672f\u4e30\u5bcc\u4e92\u8054\u7f51\u7528\u6237\u7684\u751f\u6d3b\uff0c\u52a9\u529b\u4f01\u4e1a\u6570\u5b57\u5316\u5347\u7ea7\u3002\u6211\u4eec\u7684\u4f7f\u547d\u662f\u201c\u7528\u6237\u4e3a\u672c \u79d1\u6280\u5411\u5584\u201d\u3002Founded in 1998, Tencent is an Internet-based platform company using technology to enrich the lives of Internet users and assist the digital upgrade of enterprises. Our mission is \"Value for Users, Tech for Good\".",
+        "Official Site": "https://tencent.com",
+        "Icon": "N/A",
+        "Redirect": "https://tencent.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tencent.com"
+    },
+    {
+        "link": "https://asus.com",
+        "Heading": "ASUS Global",
+        "Abstract": "Driven by innovation & committed to quality, ASUS has a wide selection of best in class products. Find & buy a laptop, phone, router, monitor, motherboard & more",
+        "Official Site": "https://www.asus.com",
+        "Icon": "https://dlcdnimgs.asus.com/websites/global/Sno/79183.jpg",
+        "Redirect": "https://www.asus.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.asus.com"
+    },
+    {
+        "link": "https://newrelic.com",
+        "Heading": "AI-powered Observability",
+        "Abstract": "New Relic is an AI-powered observability platform that correlates your telemetry across your entire stack, so you can isolate the root cause and reduce MTTR.",
+        "Official Site": "https://newrelic.com",
+        "Icon": "https://newrelic.com/themes/custom/erno/assets/images/metadata/NROG_Image.png",
+        "Redirect": "https://newrelic.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://newrelic.com"
+    },
+    {
+        "link": "https://cursor.sh",
+        "Heading": "Cursor: The best way to code with AI",
+        "Abstract": "Built to make you extraordinarily productive, Cursor is the best way to build software with AI.",
+        "Official Site": "https://cursor.com",
+        "Icon": "https://cursor.com/public/opengraph-image.png",
+        "Redirect": "https://cursor.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cursor.com"
+    },
+    {
+        "link": "https://it.com",
+        "Heading": "IT.COM",
+        "Abstract": "Why choose IT.COM? Reasonable price just $49 for each regular domain. Free SSL and Cloudflare support. High recognition of IT.COM zone and solid SEO benefits.",
+        "Official Site": "https://it.com",
+        "Icon": "/itcom_meta_logo.png",
+        "Redirect": "https://it.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://it.com"
+    },
+    {
+        "link": "https://box.com",
+        "Heading": "Secure, AI-Powered Content Management, Workflow & Collaboration",
+        "Abstract": "Intelligent Content Management makes it easy to automate workflows, collaborate internally and externally, and protect your sensitive data, all on one platform.",
+        "Official Site": "https://www.box.com/home",
+        "Icon": "https://assets.box.com/sites/default/files/box_default_og_sharing_image/box-social.jpg",
+        "Redirect": "https://www.box.com/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.box.com/home"
+    },
+    {
+        "link": "https://ys7.com",
+        "Heading": "\u8424\u77f3\u5546\u57ce-\u667a\u80fd\u5bb6\u5c45-\u6444\u50cf\u673a-\u89c6\u9891\u9501-\u667a\u80fd\u673a\u5668\u4eba-\u8424\u77f3\u4e91\u670d\u52a1-\u8424\u77f3\u7f51\u7ad9",
+        "Abstract": "\u8424\u77f3\u5546\u57ce\u662f\u8424\u77f3\u65d7\u4e0b\u81ea\u8425\u7535\u5546\u54c1\u724c\uff0c\u63d0\u4f9b\u8424\u77f3\u6444\u50cf\u673a\u3001\u667a\u80fd\u9501\u3001\u732b\u773c\u95e8\u94c3\u3001\u7f51\u5173\u4f20\u611f\u3001\u513f\u7ae5\u966a\u62a4\u3001\u751f\u6d3b\u7535\u5668\u3001\u667a\u80fd\u7167\u660e\u3001\u5168\u5c4b\u65b9\u6848\u7b49\u667a\u80fd\u5bb6\u5c45\u4ea7\u54c1\u548c\u670d\u52a1",
+        "Official Site": "https://ys7.com",
+        "Icon": "N/A",
+        "Redirect": "https://ys7.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ys7.com"
+    },
+    {
+        "link": "https://xerox.com",
+        "Heading": "Workplace and Digital Printing Solutions | Xerox",
+        "Abstract": "Workplace solutions, document management and digital printing technologies to help organizations communicate, connect and work. ",
+        "Official Site": "https://www.xerox.com/en-us",
+        "Icon": "https://images.ctfassets.net/ao073xfdpkqn/20HKrrl4nPCo1uynhfixgX/bd38b86a08b3ea57d444db72bbc6403e/we-make-work-work-1200x628.jpg",
+        "Redirect": "https://www.xerox.com/en-us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.xerox.com/en-us"
+    },
+    {
+        "link": "https://appspot.com",
+        "Heading": "Google Cloud Platform",
+        "Abstract": "Google Cloud Platform lets you build, deploy, and scale applications, websites, and services on the same infrastructure as Google.",
+        "Official Site": "https://appspot.com",
+        "Icon": "N/A",
+        "Redirect": "https://appspot.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://appspot.com"
+    },
+    {
+        "link": "https://ring.com",
+        "Heading": "Home Security Systems - Cameras, Alarms, Doorbells | Ring",
+        "Abstract": "Protect your home & watch over what's important from your phone with video doorbells, security cameras, alarms, smart lighting & more.",
+        "Official Site": "https://ring.com",
+        "Icon": "//images.ctfassets.net/a3peezndovsu/3NsvhwHGDIPoK1nhiPJR1e/f8bd29e62e6845f7a92e10054d77caa1/Ring_MemorialDayPromo2026_mobile_375x420_2x.jpg",
+        "Redirect": "https://ring.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ring.com"
+    },
+    {
+        "link": "https://nypost.com",
+        "Heading": "New York Post \u2013 Breaking News, Top Headlines, Photos & Videos",
+        "Abstract": "Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.",
+        "Official Site": "https://nypost.com/",
+        "Icon": "https://nypost.com/wp-content/themes/gtf/static/images/default/nypost.png",
+        "Redirect": "https://nypost.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nypost.com/"
+    },
+    {
+        "link": "https://abc.net.au",
+        "Heading": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+        "Abstract": "Follow the latest headlines from ABC News, Australia's most trusted media source, with live events, audio and on-demand video from the national broadcaster.",
+        "Official Site": "https://www.abc.net.au/",
+        "Icon": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
+        "Redirect": "https://www.abc.net.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.abc.net.au/"
+    },
+    {
+        "link": "https://bandcamp.com",
+        "Heading": "Client Challenge",
+        "Abstract": null,
+        "Official Site": "https://bandcamp.com",
+        "Icon": "N/A",
+        "Redirect": "https://bandcamp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bandcamp.com"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "link": "https://mullvad.net",
+        "Heading": "Mullvad VPN - Privacy is for the people",
+        "Abstract": "Free the internet from mass surveillance and censorship. Fight for privacy with Mullvad VPN and Mullvad Browser.",
+        "Official Site": "https://mullvad.net/en",
+        "Icon": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png",
+        "Redirect": "https://mullvad.net/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mullvad.net/en"
+    },
+    {
+        "link": "https://bankrate.com",
+        "Heading": "Bankrate: Trusted ways to save, borrow and thrive",
+        "Abstract": "Your bank has a mortgage rate. Bankrate has a better one. Access verified data and personalized tools on the platform built to put your financial goals first.",
+        "Official Site": "https://www.bankrate.com/",
+        "Icon": "https://a.storyblok.com/f/102997/1200x630/531fb9a603/br-open-graph.jpg",
+        "Redirect": "https://www.bankrate.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bankrate.com/"
+    },
+    {
+        "link": "https://razorpay.com",
+        "Heading": "Razorpay USA - Best Payment Solution for Online Payments & Businesses",
+        "Abstract": "Simplify online payments in the USA with Razorpay\u2019s robust payment suite. Accept payments instantly via cards and ACH using our easy-to-integrate gateway, smart links, and real-time reporting tools.",
+        "Official Site": "https://razorpay.com/us/",
+        "Icon": "https://framerusercontent.com/assets/eI5IGPZqHwSqYm0XvZVxUFl4xI8.png",
+        "Redirect": "https://razorpay.com/us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://razorpay.com/us/"
+    },
+    {
+        "link": "https://reverbnation.com",
+        "Heading": "ReverbNation : Artists First",
+        "Abstract": "ReverbNation helps Artists grow lasting careers by introducing them to industry partners, exposing them to fans, and building innovative tools to promote their success.",
+        "Official Site": "http://www.reverbnation.com/",
+        "Icon": "https://d16o2fplq2wi4c.cloudfront.net/20260519182521/images/main_page/open_graph/rn-logo_1200x630.png",
+        "Redirect": "http://www.reverbnation.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.reverbnation.com/"
+    },
+    {
+        "link": "https://ertelecom.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ertelecom.ru",
+        "Icon": "N/A",
+        "Redirect": "https://ertelecom.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ertelecom.ru"
+    },
+    {
+        "link": "https://evidon.com",
+        "Heading": "Crownpeak",
+        "Abstract": "Discover Crownpeak's innovative solutions for digital growth. Leverage Fredhopper's AI-driven product discovery and FirstSpirit's enterprise content management to enhance user experiences, boost conversions, and ensure digital accessibility. Empower your brand with Crownpeak and achieve faster time-to-market, improved digital quality, and a broader reach in today's competitive landscape. Unlock your full potential today!",
+        "Official Site": "https://www.crownpeak.com/",
+        "Icon": "https://www.crownpeak.com/tech/logo/cp.png",
+        "Redirect": "https://www.crownpeak.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.crownpeak.com/"
+    },
+    {
+        "link": "https://termly.io",
+        "Heading": "All-in-One Data Privacy Compliance Solution for Websites & Apps - Termly",
+        "Abstract": "Termly is your all-in-one compliance solution for data privacy laws worldwide. Privacy policy generator, cookie consent, terms, and more.",
+        "Official Site": "https://termly.io/",
+        "Icon": "https://termly.io/wp-content/uploads/termly_solutions_showcase_with_badges.webp",
+        "Redirect": "https://termly.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://termly.io/"
+    },
+    {
+        "link": "https://expressapisv2.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://expressapisv2.net",
+        "Icon": "N/A",
+        "Redirect": "https://expressapisv2.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://expressapisv2.net"
+    },
+    {
+        "link": "https://20minutos.es",
+        "Heading": "20minutos.es | Diario abierto | \u00daltima hora, local, Espa\u00f1a y el mundo",
+        "Abstract": "Diario de informaci\u00f3n general y local m\u00e1s le\u00eddo de Espa\u00f1a, consulta las noticias de \u00faltima hora de Espa\u00f1a, internacional, local, deportes en 20minutos",
+        "Official Site": "https://www.20minutos.es/",
+        "Icon": "https://www.20minutos.es/images/20m-default.jpg",
+        "Redirect": "https://www.20minutos.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.20minutos.es/"
+    },
+    {
+        "link": "https://mygaru.com",
+        "Heading": "myGaru - Making the Internet a Human-centric Place",
+        "Abstract": null,
+        "Official Site": "https://mygaru.com",
+        "Icon": "https://cdn.prod.website-files.com/686b7178f0144d808454820f/68bfebbec7cc3db8b55def85_favicon-mg_32x32.png",
+        "Redirect": "https://mygaru.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mygaru.com"
+    },
+    {
+        "link": "https://cbslocal.com",
+        "Heading": "CBS Local - Your local news and live free 24/7 streaming news",
+        "Abstract": "Get your local news and live free 24/7 streaming news.",
+        "Official Site": "https://www.cbsnews.com/cbslocal/",
+        "Icon": "https://assets1.cbsnewsstatic.com/hub/i/2022/09/01/514677e6-59b2-4272-af7f-5eaad6690880/cbs-local-1920x1080.jpg",
+        "Redirect": "https://www.cbsnews.com/cbslocal/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cbsnews.com/cbslocal/"
+    },
+    {
+        "link": "https://emxdgt.com",
+        "Heading": "Redirecting...",
+        "Abstract": null,
+        "Official Site": "https://emxdgt.com",
+        "Icon": "N/A",
+        "Redirect": "https://emxdgt.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://emxdgt.com"
+    },
+    {
+        "link": "https://popsci.com",
+        "Heading": "Popular Science | Science and Technology Stories Since 1872",
+        "Abstract": "Awe-inspiring science reporting, technology news, and DIY projects. Skunks to space robots, primates to climates. That's Popular Science, 145 years strong.",
+        "Official Site": "https://www.popsci.com/",
+        "Icon": "https://www.popsci.com/wp-content/uploads/2021/03/06/pop-sci-logo-default.jpg?quality=85&w=1200",
+        "Redirect": "https://www.popsci.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.popsci.com/"
+    },
+    {
+        "link": "https://ezoic.net",
+        "Heading": "Ezoic | Data-Driven Ad Monetization   ",
+        "Abstract": "Ezoic provides the most complete ad monetization solution for websites. The leading provider of first-party data and identity protocol integration to ads; which enables sites to use audience lists to work more directly with advertisers.",
+        "Official Site": "https://ezoic.net",
+        "Icon": "https://cdn.sanity.io/images/dp4k4dp2/new-working-ver/d06c104d611232912788424dd392af7d43744cf3-1200x630.jpg?fm=webp&q=100&fit=crop",
+        "Redirect": "https://ezoic.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ezoic.net"
+    },
+    {
+        "link": "https://bbcgoodfood.com",
+        "Heading": "Good Food | Recipes and cooking tips | Good Food",
+        "Abstract": "We\u2019re all about good recipes, and about quality home cooking that everyone can enjoy.",
+        "Official Site": "https://www.bbcgoodfood.com",
+        "Icon": "N/A",
+        "Redirect": "https://www.bbcgoodfood.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bbcgoodfood.com"
+    },
+    {
+        "link": "https://kaltura.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kaltura.com",
+        "Icon": "N/A",
+        "Redirect": "https://kaltura.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kaltura.com"
+    },
+    {
+        "link": "https://depositphotos.com",
+        "Heading": "Royalty-free Images, Photo Stock, Video & Music | DepositPhotos",
+        "Abstract": "Royalty-free stock images at affordable prices on DepositPhotos. Download stock photos for commercial use. Pictures, videos, music for every topic.",
+        "Official Site": "https://depositphotos.com/",
+        "Icon": "https://static.depositphotos.com/storage/image/1cee5cc96bcf9964d6d3e074b64e7d555255f0a1.jpg",
+        "Redirect": "https://depositphotos.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://depositphotos.com/"
+    },
+    {
+        "link": "https://yadro.ru",
+        "Heading": "\u042f\u0434\u0440\u043e: \u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u0441\u0430\u0439\u0442\u043e\u0432",
+        "Abstract": null,
+        "Official Site": "https://yadro.ru",
+        "Icon": "/i/ya/icon.png",
+        "Redirect": "https://yadro.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yadro.ru"
+    },
+    {
+        "link": "https://derstandard.at",
+        "Heading": "derStandard.at",
+        "Abstract": null,
+        "Official Site": "https://derstandard.at",
+        "Icon": "N/A",
+        "Redirect": "https://derstandard.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://derstandard.at"
+    },
+    {
+        "link": "https://365scores.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://365scores.com",
+        "Icon": "https://imagecache.365scores.com/image/upload/v1607959594/WebSite/AssetsSVGNewBrand/Favicon/32.svg",
+        "Redirect": "https://365scores.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://365scores.com"
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "link": "https://arcpublishing.com",
+        "Heading": "Arc XP | The Platform and CMS for Media Companies",
+        "Abstract": "Explore Arc XP, a hybrid CMS purpose-built for media companies. Innovate and grow with AI-powered features and built-in tools for monetization and engagement.",
+        "Official Site": "https://arcmarketing-arc-marketing-prod-staging.web.arc-cdn.net",
+        "Icon": "https://static.themebuilder.aws.arc.pub/arcmarketing-staging/1686307761884.png",
+        "Redirect": "https://arcmarketing-arc-marketing-prod-staging.web.arc-cdn.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arcmarketing-arc-marketing-prod-staging.web.arc-cdn.net"
+    },
+    {
+        "link": "https://groupon.com",
+        "Heading": "Groupon\u00ae Official Site - Find Local Deals Near You",
+        "Abstract": "Save up to 70% on 1,000s of local restaurants, shopping, events & more. Find great deals on the best activities & things to do. Download the Groupon App today.",
+        "Official Site": "https://groupon.com",
+        "Icon": "https://www2.grouponcdn.com/layout/assets/grpn-favicon-96x96-a0ab412ac5.png",
+        "Redirect": "https://groupon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://groupon.com"
+    },
+    {
+        "link": "https://syr.edu",
+        "Heading": "Home - Syracuse University",
+        "Abstract": "Syracuse University, founded in 1870 and comprised of thirteen schools and colleges, is a private research university in the heart of New York State.",
+        "Official Site": "/",
+        "Icon": "https://static.cdn.syr.edu/static/www/original_images/hall-of-languages.jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://codeforces.com",
+        "Heading": "Codeforces",
+        "Abstract": "Codeforces. Programming competitions and contests, programming community",
+        "Official Site": "https://codeforces.com",
+        "Icon": "//codeforces.com/codeforces.org/s/75595/images/codeforces-sponsored-by-ton.png",
+        "Redirect": "https://codeforces.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://codeforces.com"
+    },
+    {
+        "link": "https://academy.com",
+        "Heading": "Academy Sports + Outdoors | Quality Sporting Goods | Top Hunting, Fishing & Outdoor Gear",
+        "Abstract": "Shop Academy Sports + Outdoors for sporting goods, hunting, fishing and camping equipment. Find recreation and leisure products, footwear, apparel, grills, bikes, g...",
+        "Official Site": "https://www.academy.com/",
+        "Icon": "https://storage.googleapis.com/prod1east_component_registry_vol/assets/images/defaultOGImage.png",
+        "Redirect": "https://www.academy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.academy.com/"
+    },
+    {
+        "link": "https://gencat.cat",
+        "Heading": "Inici. Generalitat de Catalunya",
+        "Abstract": null,
+        "Official Site": "https://gencat.cat",
+        "Icon": "N/A",
+        "Redirect": "https://gencat.cat",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gencat.cat"
+    },
+    {
+        "link": "https://emol.com",
+        "Heading": "EMOL - El sitio de noticias online de Chile.",
+        "Abstract": "Todas las noticias de Chile y el Mundo. Entra e informate de los \u00faltimos acontecimientos ocurridos en Emol.com",
+        "Official Site": "https://www.emol.com",
+        "Icon": "https://static.emol.cl/emol50/img/EmolTwitter.png",
+        "Redirect": "https://www.emol.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.emol.com"
+    },
+    {
+        "link": "https://sportsapi.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sportsapi.ru",
+        "Icon": "N/A",
+        "Redirect": "https://sportsapi.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sportsapi.ru"
+    },
+    {
+        "link": "https://ifixit.com",
+        "Heading": "iFixit: The Free Repair Manual",
+        "Abstract": "iFixit is a global community of people helping each other repair things. Let's fix the world, one device at a time. Troubleshoot with experts in the Answers forum\u2014and build your own how-to guides to share with the world. Fix your Apple and Android devices\u2014and buy all the parts and tools needed for your DIY repair projects.",
+        "Official Site": "https://www.ifixit.com/",
+        "Icon": "https://guide-images.cdn.ifixit.com/igi/YlogWMLVAtHbPF5J.full",
+        "Redirect": "https://www.ifixit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ifixit.com/"
+    },
+    {
+        "link": "https://backlinko.com",
+        "Heading": "Backlinko: SEO, Content Marketing, & Link Building Strategies",
+        "Abstract": "It's time to get backlinks that make a difference. Backlinko is the place for next-level SEO training and link building strategies.",
+        "Official Site": "https://backlinko.com",
+        "Icon": "https://api.backlinko.com/app/uploads/2024/08/backlinko-og-green.png",
+        "Redirect": "https://backlinko.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://backlinko.com"
+    },
+    {
+        "link": "https://protonmail.ch",
+        "Heading": "Proton Mail: Get a free email account with privacy and encryption | Proton",
+        "Abstract": "Proton Mail is the world\u2019s largest secure email service with over 100 million users. Available on Web, iOS, Android, and desktop. Protected by Swiss privacy law.",
+        "Official Site": "https://proton.me/mail/",
+        "Icon": "https://proton.me/images/social/proton-mail-og.png",
+        "Redirect": "https://proton.me/mail/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://proton.me/mail/"
+    },
+    {
+        "link": "https://httpwg.org",
+        "Heading": "IETF HTTP Working Group",
+        "Abstract": "We maintain and develop the Hypertext Transfer Protocol - the core protocol of the World Wide Web",
+        "Official Site": "https://httpwg.org/",
+        "Icon": "/assets/favicon/favicon.ico",
+        "Redirect": "https://httpwg.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://httpwg.org/"
+    },
+    {
+        "link": "https://ilgiornale.it",
+        "Heading": "il Giornale - Ultime notizie su attualit\u00e0, politica ed economia",
+        "Abstract": "Il Giornale \u00e8 un quotidiano nazionale italiano fondato a Milano nel 1974 da Indro Montanelli.",
+        "Official Site": "https://www.ilgiornale.it/",
+        "Icon": "https://www.ilgiornale.it/images/default-image.jpg",
+        "Redirect": "https://www.ilgiornale.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ilgiornale.it/"
+    },
+    {
+        "link": "https://ecfr.gov",
+        "Heading": "\n    eCFR :: Home\n  ",
+        "Abstract": null,
+        "Official Site": "https://ecfr.gov",
+        "Icon": "/assets/favicon/favicon-32x32-601e211398bdd3b5d26f99ae1ddae16e940b6a6223cb83f429419e6709f596f2.png",
+        "Redirect": "https://ecfr.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ecfr.gov"
+    },
+    {
+        "link": "https://hs-sites.com",
+        "Heading": "HubSpot | Software & Tools for your Business - Homepage",
+        "Abstract": "HubSpot's customer platform includes all the marketing, sales, customer service, and CRM software you need to grow your business.",
+        "Official Site": "https://www.hubspot.com",
+        "Icon": "https://www.hubspot.com/hubfs/assets/hubspot.com/homepage/hero-backgrounds-2025/HS_Full_Bleed_1.jpg",
+        "Redirect": "https://www.hubspot.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hubspot.com"
+    },
+    {
+        "link": "https://instabug.com",
+        "Heading": "Luciq | Agentic AI for Mobile Observability & Experience",
+        "Abstract": "Luciq transforms app quality into business outcomes with AI-powered mobile observability. Automate detection, resolution, and prevention for seamless app experiences at scale.",
+        "Official Site": "https://instabug.com",
+        "Icon": "https://cdn.prod.website-files.com/6898c7bad2e3e342ea1c43bd/68d288b6ec6fb1ff522ef323_Home_OG.png",
+        "Redirect": "https://instabug.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://instabug.com"
+    },
+    {
+        "link": "https://accompany.com",
+        "Heading": "Accompany | People and company intelligence for executives.",
+        "Abstract": "People and company intelligence for executives.",
+        "Official Site": "https://www.accompany.com/",
+        "Icon": "https://www.accompany.com/wp-content/uploads/Accompany-meet-your-chief-of-staff-600x300.jpg",
+        "Redirect": "https://www.accompany.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.accompany.com/"
+    },
+    {
+        "link": "https://juicyads.com",
+        "Heading": "JuicyAds Adult Ad Network - Banners - Native - Pop Traffic",
+        "Abstract": "Adult Ad Network. Buy high quality and trageted adult traffic. Our self-serve marketplace has pop traffic, banner ads, and native adult advertising.",
+        "Official Site": "https://www.juicyads.com/",
+        "Icon": "https://www.juicyads.com/wp-content/uploads/2019/09/food-fruit-orange-65923SMA-e1569804198903.jpg",
+        "Redirect": "https://www.juicyads.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.juicyads.com/"
+    },
+    {
+        "link": "https://2dehands.be",
+        "Heading": "\u2461 2dehands - D\u00e9 plek om nieuwe en tweedehands zaken te kopen en verkopen",
+        "Abstract": "De grootste zoekertjessite van Belgi\u00eb. Nieuwe en tweedehands goederen en diensten, koop en verkoop je op 2dehands.",
+        "Official Site": "https://www.2dehands.be/",
+        "Icon": "https://www.hzcdn.io/bff/static/vendor/hz-web-ui/twh/favicons/favicon-192x192.1c5d8455.png",
+        "Redirect": "https://www.2dehands.be/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.2dehands.be/"
+    },
+    {
+        "link": "https://unodc.org",
+        "Heading": "United Nations Office on Drugs and Crime",
+        "Abstract": "united nations office on drugs and crime",
+        "Official Site": "//www.unodc.org/unodc/en/index.html",
+        "Icon": "https://www.unodc.org/res/index_html/vienna-international-centre.jpg",
+        "Redirect": "//www.unodc.org/unodc/en/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "//www.unodc.org/unodc/en/index.html"
+    },
+    {
+        "link": "https://octopus.energy",
+        "Heading": "Octopus Energy: The UK's most awarded energy supplier",
+        "Abstract": "Octopus customers pay less: Cheaper than price-cap prices, rewards for using less when the grid is stressed, and smart tariff savings for your home, car or battery",
+        "Official Site": "https://octopus.energy",
+        "Icon": "https://static.octopuscdn.com/oegb/social-share.png",
+        "Redirect": "https://octopus.energy",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://octopus.energy"
+    },
+    {
+        "link": "https://cntraveler.com",
+        "Heading": "Cond\u00e9 Nast Traveler - Travel Reviews, News, Guides & Tips | Cond\u00e9 Nast Traveler",
+        "Abstract": "Get the latest travel news, guides, tips, and ideas. See photos and slideshows of the most beautiful places, best vacation spots, and places to visit.",
+        "Official Site": "https://www.cntraveler.com/",
+        "Icon": "https://media.cntraveler.com/photos/667aaf2475431d75a584f219/16:9/w_1280,c_limit/cnt-social.png",
+        "Redirect": "https://www.cntraveler.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cntraveler.com/"
+    },
+    {
+        "link": "https://sport1.de",
+        "Heading": "SPORT1 - Aktuelle Sportnachrichten, News, Liveticker & Ergebnisse",
+        "Abstract": "SPORT1 ist die Nummer 1-Plattform, wenn es um Livesport geht: Livestreams, Liveticker und aktuelle Berichterstattung aus allen Bereichen des Sports.",
+        "Official Site": "https://www.sport1.de/",
+        "Icon": "/images/sport1-default-og.jpg",
+        "Redirect": "https://www.sport1.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sport1.de/"
+    },
+    {
+        "link": "https://taylorfrancis.com",
+        "Heading": "Home | Taylor & Francis eBooks, Reference Works and Collections",
+        "Abstract": "Browse our vast collection of ebooks in specialist subjects led by a global network of editors.",
+        "Official Site": "https://www.taylorfrancis.com/",
+        "Icon": "https://www.taylorfrancis.com/assets/img/homepage.jpg",
+        "Redirect": "https://www.taylorfrancis.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.taylorfrancis.com/"
+    },
+    {
+        "link": "https://workday.com",
+        "Heading": "\n      The Enterprise AI Platform for HR, Finance, and IT | Workday\n    ",
+        "Abstract": "Superintelligence for work is here. Empower your people with agentic AI.",
+        "Official Site": "https://workday.com",
+        "Icon": "https://www.workday.com/content/dam/web/en-us/images/social/workday-og-theme.png",
+        "Redirect": "https://workday.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://workday.com"
+    },
+    {
+        "link": "https://drcedirect.com",
+        "Heading": "DRC Insight: Sign-In",
+        "Abstract": null,
+        "Official Site": "https://drcedirect.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://drcedirect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drcedirect.com"
+    },
+    {
+        "link": "https://jfrog.io",
+        "Heading": "Software Supply Chain Solutions for DevOps & Security | JFrog",
+        "Abstract": "JFrog software supply chain solutions provide an end-to-end pipeline to control your binaries from build to production. Power your software updates to the edge.",
+        "Official Site": "https://jfrog.com/",
+        "Icon": "https://speedmedia2.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/media.jfrog.com/wp-content/uploads/2018/06/20132021/JFROG.png",
+        "Redirect": "https://jfrog.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jfrog.com/"
+    },
+    {
+        "link": "https://fpjs.io",
+        "Heading": "Fingerprint | Identify Every Web Visitor & Mobile Device",
+        "Abstract": "The Fingerprint device intelligence platform works across web and mobile applications to identify all visitors with industry-leading accuracy \u2014 even if they\u2019re anonymous.",
+        "Official Site": "https://fingerprint.com/",
+        "Icon": "https://fingerprint.com/img/fpjs-preview.png",
+        "Redirect": "https://fingerprint.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fingerprint.com/"
+    },
+    {
+        "link": "https://adnkronos.com",
+        "Heading": "News in tempo reale, ultime notizie e video | Adnkronos",
+        "Abstract": "News dell'ultima ora dall'Italia e dal mondo. Notizie, video, rubriche e approfondimenti su Sport, Cronaca, Economia, Politica, Salute e tanto altro",
+        "Official Site": "https://www.adnkronos.com/",
+        "Icon": "https://www.adnkronos.com/assets/themes/desktop/images/adnkronos-share.jpg",
+        "Redirect": "https://www.adnkronos.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.adnkronos.com/"
+    },
+    {
+        "link": "https://rtvslo.si",
+        "Heading": "RTV SLO",
+        "Abstract": "MMC - Multimedijski center RTV Slovenija. Najbolj objektivne in verodostojne informacije iz Slovenije in sveta, novice s podro\u010dij kulture, \u0161porta in zabave.",
+        "Official Site": "https://www.rtvslo.si",
+        "Icon": "https://img.rtvslo.si/_static/r102/novi/img/rtvslo-share3.jpg",
+        "Redirect": "https://www.rtvslo.si",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rtvslo.si"
+    },
+    {
+        "link": "https://thanhnien.vn",
+        "Heading": "Tin t\u1ee9c 24h m\u1edbi nh\u1ea5t, tin nhanh, tin n\u00f3ng h\u00e0ng ng\u00e0y | B\u00e1o Thanh Ni\u00ean",
+        "Abstract": "Tin t\u1ee9c 24h, \u0111\u1ecdc b\u00e1o TN c\u1eadp nh\u1eadt tin n\u00f3ng online Vi\u1ec7t Nam v\u00e0 th\u1ebf gi\u1edbi m\u1edbi nh\u1ea5t trong ng\u00e0y, tin nhanh th\u1eddi s\u1ef1, ch\u00ednh tr\u1ecb, x\u00e3 h\u1ed9i h\u00f4m nay, tin t\u1ee9c, top news VN",
+        "Official Site": "https://thanhnien.vn",
+        "Icon": "https://static.thanhnien.com.vn/thanhnien.vn/image/logo-share.jpg",
+        "Redirect": "https://thanhnien.vn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thanhnien.vn"
+    }
+]

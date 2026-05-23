@@ -1,0 +1,342 @@
+[
+    {
+        "link": "https://vmailru.net",
+        "Heading": "VK / \u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Abstract": "VK \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043c\u0438\u043b\u043b\u0438\u043e\u043d\u0430\u043c \u043b\u044e\u0434\u0435\u0439 \u0440\u0435\u0448\u0430\u0442\u044c \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u0447\u0438 \u043e\u043d\u043b\u0430\u0439\u043d. \u0421\u0435\u0440\u0432\u0438\u0441\u0430\u043c\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 \u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0431\u043e\u043b\u044c\u0448\u0435 95% \u0430\u0443\u0434\u0438\u0442\u043e\u0440\u0438\u0438 \u0440\u0443\u043d\u0435\u0442\u0430.",
+        "Official Site": "https://vk.company/ru/",
+        "Icon": "/career/static/corp_redesign/img/cover VK.png",
+        "Redirect": "https://vk.company/ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vk.company/ru/"
+    },
+    {
+        "link": "https://adguard-dns.com",
+        "Heading": "AdGuard DNS \u2014 ad-blocking DNS server",
+        "Abstract": "Create your ad-blocking DNS server that will protect your personal data, prevent tracking and allow you to control access to specific content on the Internet.",
+        "Official Site": "https://adguard-dns.io/en/welcome.html",
+        "Icon": "https://cdn.adguardcdn.com/website/adguard-dns.io/og-welcome.png",
+        "Redirect": "https://adguard-dns.io/en/welcome.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adguard-dns.io/en/welcome.html"
+    },
+    {
+        "link": "https://zomato.com",
+        "Heading": "Zomato",
+        "Abstract": "India\u2019s largest Food Delivery, Dining and Restaurant Discovery Service. Better food for more people.",
+        "Official Site": "https://www.zomato.com",
+        "Icon": "https://b.zmtcdn.com/images/square_zomato_logo_new.svg",
+        "Redirect": "https://www.zomato.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zomato.com"
+    },
+    {
+        "link": "https://michigan.gov",
+        "Heading": "State of Michigan",
+        "Abstract": "Explore the official website of the State of Michigan. We'll help you find the government services, information, and resources you need.",
+        "Official Site": "https://www.michigan.gov/som",
+        "Icon": "https://www.michigan.gov/som/-/media/Project/Websites/SOM/Images/Global-SOM/Michigangov-OG-Image.png?rev=04d34972184442b1bd24b5efb46cd150",
+        "Redirect": "https://www.michigan.gov/som",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.michigan.gov/som"
+    },
+    {
+        "link": "https://bustle.com",
+        "Heading": "Bustle",
+        "Abstract": "Bustle is the premier digital destination for young women. Since launching in 2013, Bustle has been creating relatable and impactful dialogue through content from a diverse set of voices. Covering politics, sex and relationships, fashion, beauty, entertainment, and more, Bustle empowers women to be curious, to be themselves, and to be excited about owning their place in the world.",
+        "Official Site": "https://www.bustle.com",
+        "Icon": "https://imgix.bustle.com/uploads/image/2020/6/30/6d22de04-dedd-4236-9c06-71902dec41f0-socialshare_bustle.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+        "Redirect": "https://www.bustle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bustle.com"
+    },
+    {
+        "link": "https://viglink.com",
+        "Heading": "Commerce - Sovrn, Inc.",
+        "Abstract": "Tools to efficiently optimize, operate, and scale your entire affiliate business. See how Sovrn Commerce can maximize your earnings today.",
+        "Official Site": "https://www.sovrn.com/commerce/",
+        "Icon": "https://www.sovrn.com/wp-content/uploads/commerce-icon-2.png",
+        "Redirect": "https://www.sovrn.com/commerce/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sovrn.com/commerce/"
+    },
+    {
+        "link": "https://ku.dk",
+        "Heading": "K\u00f8benhavns Universitet - K\u00f8benhavns Universitet",
+        "Abstract": "K\u00f8benhavns Universitet er med cirka 40.000 studerende og 9.000 medarbejdere en af Nordens st\u00f8rste forsknings- og uddannelsesinstitutioner.",
+        "Official Site": "https://www.ku.dk",
+        "Icon": "https://www.ku.dk/fileadmin/_processed_/b/f/csm_Soendre_Campus_humaniora_050_c21ed95775.jpg",
+        "Redirect": "https://www.ku.dk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ku.dk"
+    },
+    {
+        "link": "https://azbyka.ru",
+        "Heading": "\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u044b\u0439 \u043f\u043e\u0440\u0442\u0430\u043b \u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb | \u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u044b\u0439 \u0441\u0430\u0439\u0442",
+        "Abstract": "\u00ab\u0410\u0437\u0431\u0443\u043a\u0430 \u0432\u0435\u0440\u044b\u00bb \u2013 \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043f\u043e\u0440\u0442\u0430\u043b: 40 \u0441\u0430\u0439\u0442\u043e\u0432, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0438\u0445 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0443, \u043c\u043e\u043b\u0438\u0442\u0432\u043e\u0441\u043b\u043e\u0432, \u043a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c, \u0430\u0443\u0434\u0438\u043e, \u0432\u0438\u0434\u0435\u043e, \u0432\u0438\u043a\u0442\u043e\u0440\u0438\u043d\u044b...",
+        "Official Site": "https://azbyka.ru/",
+        "Icon": "https://azbyka.ru/wp-content/uploads/2021/10/av_social_white.png",
+        "Redirect": "https://azbyka.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://azbyka.ru/"
+    },
+    {
+        "link": "https://meteoblue.com",
+        "Heading": "Weather Phoenix - meteoblue",
+        "Abstract": "Today's and tonight's professional weather forecast for Phoenix. Precipitation radar, HD satellite images, and current weather warnings, hourly temperature, chance of rain, and sunshine hours.",
+        "Official Site": "https://www.meteoblue.com/en/weather/week/phoenix_united-states_5308655",
+        "Icon": "https://static.meteoblue.com/assets/images/logo/meteoblue_tile_large.png",
+        "Redirect": "https://www.meteoblue.com/en/weather/week/phoenix_united-states_5308655",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.meteoblue.com/en/weather/week/phoenix_united-states_5308655"
+    },
+    {
+        "link": "https://liquidweb.com",
+        "Heading": "Web Hosting Solutions | Managed Hosting Built for Reliability, Speed, and Scalability",
+        "Abstract": "Liquid Web delivers hosting solutions built for uptime, performance, and security. Explore dedicated servers, managed hosting, and compliant infrastructure now.",
+        "Official Site": "https://www.liquidweb.com/",
+        "Icon": "https://res.cloudinary.com/lwcom/images/f_auto,q_auto/v1776856652/prod/Evolution-with-purpose_-The-new-Liquid-Web-by-Nexcess-Old-Brand-Large-1024x1024-1_4311320e71a/Evolution-with-purpose_-The-new-Liquid-Web-by-Nexcess-Old-Brand-Large-1024x1024-1_4311320e71a.webp?_i=AA",
+        "Redirect": "https://www.liquidweb.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.liquidweb.com/"
+    },
+    {
+        "link": "https://epfl.ch",
+        "Heading": "EPFL",
+        "Abstract": "Bas\u00e9e \u00e0 Lausanne, L\u2019EPFL est une universit\u00e9 dont les trois missions sont l\u2019\u00e9ducation, la recherche et l\u2019innovation.",
+        "Official Site": "https://www.epfl.ch/fr/",
+        "Icon": "https://www.epfl.ch/wp-content/uploads/2020/01/EPFL-vue-aerienne.jpg",
+        "Redirect": "https://www.epfl.ch/fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.epfl.ch/fr/"
+    },
+    {
+        "link": "https://prosv.ru",
+        "Heading": "idp-state-frame",
+        "Abstract": null,
+        "Official Site": "https://prosv.ru",
+        "Icon": "N/A",
+        "Redirect": "https://prosv.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://prosv.ru"
+    },
+    {
+        "link": "https://wallpapers.com",
+        "Heading": "Wallpapers.com | 1,500,000+ Free HD Wallpapers for Desktop, Mobiles & Tablets",
+        "Abstract": "Download high-quality wallpapers for your desktop, mobile phone and tablet. Over 40,000+ cool wallpapers to choose from. Multiple sizes available for all screen sizes - 100% Free!",
+        "Official Site": "https://wallpapers.com/",
+        "Icon": "https://wallpapers.com/wp-content/uploads/2021/06/sns.jpg",
+        "Redirect": "https://wallpapers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wallpapers.com/"
+    },
+    {
+        "link": "https://zopim.com",
+        "Heading": "Live chat software",
+        "Abstract": "Live chat helps you deliver personalized experiences and instant support via website, mobile app, and social channels. Learn about the best live chat software.",
+        "Official Site": "https://www.zendesk.com/service/messaging/live-chat-software/",
+        "Icon": "https://web-assets.zendesk.com/images/social-share/zendesk-champions-of-customer-service-4.png",
+        "Redirect": "https://www.zendesk.com/service/messaging/live-chat-software/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zendesk.com/service/messaging/live-chat-software/"
+    },
+    {
+        "link": "https://vizio.com",
+        "Heading": "VIZIO Official Site | Smart TVs, Soundbars, and Smart TV Platform",
+        "Abstract": "Explore VIZIO's latest Smart TVs and Soundbars designed to bring entertainment to life with stunning picture quality and immersive audio.",
+        "Official Site": "https://www.vizio.com/en/home",
+        "Icon": "/etc.clientlibs/vizio/clientlibs/2020/favicon/resources/favicon.ico",
+        "Redirect": "https://www.vizio.com/en/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vizio.com/en/home"
+    },
+    {
+        "link": "https://mywot.com",
+        "Heading": "Website Safety Check & Phishing Protection | WOT",
+        "Abstract": "WOT Free Browser Security for Chrome, Edge, Firefox, Android & iOS. Stay protected from all online threats. Check website safety to avoid Phishing, Scams & Malware.",
+        "Official Site": "https://www.mywot.com/",
+        "Icon": "https://www.mywot.com/images/summary_card_image_1200x630.png",
+        "Redirect": "https://www.mywot.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mywot.com/"
+    },
+    {
+        "link": "https://geetest.com",
+        "Heading": "GEETEST-\u6781\u9a8c\u5168\u7403\u9ed1\u4ea7\u5bf9\u6297\u5f15\u9886\u8005-\u4e1a\u52a1\u5b89\u5168\u4e28\u4e1a\u52a1\u98ce\u63a7\u4e28\u9a8c\u8bc1\u7801\u5b89\u5168",
+        "Abstract": "\u6df1\u8015\u4e92\u8054\u7f51\u4e1a\u52a1\u5b89\u516813\u4f59\u5e74\uff0c\u7387\u5148\u5229\u7528\u4eba\u5de5\u667a\u80fd\u6280\u672f\uff0c\u5f00\u521b\u667a\u80fd\u9a8c\u8bc1\u7801\u65b0\u65f6\u4ee3\uff0c\u4f9d\u6258\u9a8c\u8bc1\u7801\u3001\u6781\u9a8c\u8bbe\u5907\u6807\u8bc6\u3001\u8eab\u4efd\u6838\u9a8c\u7b49\u4ea7\u54c1\u80fd\u529b\u4e3a\u5404\u884c\u4e1a\u63d0\u4f9b\u9ed1\u4ea7\u5bf9\u6297\u89e3\u51b3\u65b9\u6848",
+        "Official Site": "https://geetest.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://geetest.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://geetest.com"
+    },
+    {
+        "link": "https://caranddriver.com",
+        "Heading": "Car and Driver: New Car Reviews, Buying Advice and News",
+        "Abstract": "Covering the auto industry since 1955 with reviews, analysis, and advice for car owners and buyers.",
+        "Official Site": "https://caranddriver.com",
+        "Icon": "/_assets/design-tokens/caranddriver/static/images/favicon.02aa5c3.ico",
+        "Redirect": "https://caranddriver.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caranddriver.com"
+    },
+    {
+        "link": "https://qodeinteractive.com",
+        "Heading": "We Bring Beauty to WordPress - Qode Interactive",
+        "Abstract": "Build a perfect website with premium WordPress themes designed by Qode Interactive. Discover amazing designs with a wide variety of features and customization options.",
+        "Official Site": "https://qodeinteractive.com/",
+        "Icon": "https://qodeinteractive.com/wp-content/uploads/2022/10/opengraph-qode.png",
+        "Redirect": "https://qodeinteractive.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qodeinteractive.com/"
+    },
+    {
+        "link": "https://fujifilm.com",
+        "Heading": "Fujifilm [Global]",
+        "Abstract": "At Fujifilm we create innovative products and deliver effective solutions in a wide variety of fields to serve society, contribute to the quality of life, and enhance environmental sustainability.",
+        "Official Site": "https://fujifilm.com",
+        "Icon": "https://asset.fujifilm.com/common/img/fujifilm_ogp.png",
+        "Redirect": "https://fujifilm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fujifilm.com"
+    },
+    {
+        "link": "https://genially.com",
+        "Heading": "Genially: Create interactive content, presentations, and much more",
+        "Abstract": "Genially is the all-in-one tool for creating interactive and animated content. Design presentations, infographics, quizzes, escape rooms, and much more \u2014 no code needed.",
+        "Official Site": "https://genially.com/",
+        "Icon": "https://assets.genially.com/s3fs-public/images/genially.com_.png",
+        "Redirect": "https://genially.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://genially.com/"
+    },
+    {
+        "link": "https://ipecho.net",
+        "Heading": "IP Echo Service",
+        "Abstract": null,
+        "Official Site": "https://ipecho.net",
+        "Icon": "N/A",
+        "Redirect": "https://ipecho.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ipecho.net"
+    },
+    {
+        "link": "https://skechers.com",
+        "Heading": "SKECHERS Official Site | The Comfort Technology Company",
+        "Abstract": "Shop Skechers, The Comfort Technology Company\u00ae, for the Hands Free Slip-ins, work shoes, and boots for the whole family. Join Skechers Plus for 20% off and free shipping on any order.",
+        "Official Site": "https://www.skechers.com/",
+        "Icon": "https://www.skechers.com/on/demandware.static/-/Library-Sites-SkechersSharedLibrary/default/images/product/highlights/website-icon-2024.png",
+        "Redirect": "https://www.skechers.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.skechers.com/"
+    },
+    {
+        "link": "https://foundationapi.com",
+        "Heading": "\n        Error\n    ",
+        "Abstract": null,
+        "Official Site": "https://foundationapi.com",
+        "Icon": "N/A",
+        "Redirect": "https://foundationapi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://foundationapi.com"
+    },
+    {
+        "link": "https://uni-hamburg.de",
+        "Heading": "UHH : Universit\u00e4t Hamburg",
+        "Abstract": "Die Universit\u00e4t Hamburg ist mit mehr als 42.000 Studierenden die gr\u00f6\u00dfte Forschungs- und Ausbildungseinrichtung Norddeutschlands. Als eine der leistungsst\u00e4rksten Universit\u00e4ten in Deutschland vereint sie ein umfangreiches Lehrangebot mit exzellenter Fo",
+        "Official Site": "https://www.uni-hamburg.de/",
+        "Icon": "https://www.uni-hamburg.de/6694510/hauptgebaeude1200x300-ef680e585b2db44e8424982970ddc82e1345bef1.jpg",
+        "Redirect": "https://www.uni-hamburg.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uni-hamburg.de/"
+    },
+    {
+        "link": "https://deltaork.com",
+        "Heading": "Deltaork - Lots of Free Games",
+        "Abstract": "Welcome To Deltaork, We add Online Games or Popular games or New Games or Hot Games for every day! Play Best Online Games On Deltaork",
+        "Official Site": "https://deltaork.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://deltaork.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deltaork.com"
+    },
+    {
+        "link": "https://xlgmedia.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://xlgmedia.com",
+        "Icon": "N/A",
+        "Redirect": "https://xlgmedia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xlgmedia.com"
+    },
+    {
+        "link": "https://expiredwixdomain.com",
+        "Heading": "Reconnect Your Domain | Wix.com",
+        "Abstract": "This domain used to be connected to a Wix website. Learn how to reconnect it, or create your own website.",
+        "Official Site": "https://www.expiredwixdomain.com",
+        "Icon": "https://static.wixstatic.com/media/375882_4cadb4c3a18f49be92c4d1691d80d392~mv2.jpg/v1/fill/w_1200,h_628,al_c/375882_4cadb4c3a18f49be92c4d1691d80d392~mv2.jpg",
+        "Redirect": "https://www.expiredwixdomain.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.expiredwixdomain.com"
+    },
+    {
+        "link": "https://bnf.fr",
+        "Heading": "Accueil | BnF \u2013 Site institutionnel",
+        "Abstract": ".",
+        "Official Site": "https://www.bnf.fr/fr/node",
+        "Icon": "/themes/custom/bnfsi/favicon.ico",
+        "Redirect": "https://www.bnf.fr/fr/node",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bnf.fr/fr/node"
+    },
+    {
+        "link": "https://diy.com",
+        "Heading": "DIY Products at Everyday Low Prices at B&Q",
+        "Abstract": "Shop for everything you need to complete your home and garden project. Order online for 1hr Click+Collect, or free home delivery on orders over \u00a375.",
+        "Official Site": "https://www.diy.com/",
+        "Icon": "https://s7g10.scene7.com/is/image/KingfisherDigital/6efb42fa36fc1a6ff245d194231a8c3360f438d9",
+        "Redirect": "https://www.diy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.diy.com/"
+    },
+    {
+        "link": "https://tv-asahi.co.jp",
+        "Heading": "\u30c6\u30ec\u30d3\u671d\u65e5",
+        "Abstract": "\u30c6\u30ec\u30d3\u671d\u65e5\u516c\u5f0f\u30db\u30fc\u30e0\u30da\u30fc\u30b8\u3002\u756a\u7d44\u306e\u6700\u65b0\u60c5\u5831\u3084\u30cb\u30e5\u30fc\u30b9\u3001\u30a4\u30d9\u30f3\u30c8\u3084\u6620\u753b\u306a\u3069\u30c6\u30ec\u30d3\u671d\u65e5\u306b\u95a2\u3059\u308b\u69d8\u3005\u306a\u60c5\u5831\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
+        "Official Site": "https://www.tv-asahi.co.jp/",
+        "Icon": "N/A",
+        "Redirect": "https://www.tv-asahi.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tv-asahi.co.jp/"
+    },
+    {
+        "link": "https://justgiving.com",
+        "Heading": "Online fundraising donations and ideas - JustGiving",
+        "Abstract": "Raise money, support your friends, give to a cause. Show you care.",
+        "Official Site": "https://www.justgiving.com",
+        "Icon": "https://www.justgiving.com/ui/2013/images/icons/G.jpg",
+        "Redirect": "https://www.justgiving.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.justgiving.com"
+    },
+    {
+        "link": "https://dndbeyond.com",
+        "Heading": "D&D Beyond | Play Your Way With the Official D&D Toolset | Dungeons & Dragons",
+        "Abstract": "Play Dungeons & Dragons with digital tools on D&D Beyond: character builder, encounter and campaign management, and Maps VTT for running adventures online or in person.",
+        "Official Site": "https://dndbeyond.com",
+        "Icon": "https://cdn.media.amplience.net/i/wizardsprod/How-to-play-blue-dragon",
+        "Redirect": "https://dndbeyond.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dndbeyond.com"
+    },
+    {
+        "link": "https://rtl.de",
+        "Heading": "RTL.de: Nachrichten, die Deutschland bewegen.",
+        "Abstract": "Alles, was ihr braucht, auf einen Blick: Nachrichten, TV- und Streaming-Highlights, Star-News, RTL-Sportereignisse sowie Lifestyle- und Ratgeber-Informationen.",
+        "Official Site": "https://www.rtl.de",
+        "Icon": "https://www.rtl.de/rtl_logo.png",
+        "Redirect": "https://www.rtl.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rtl.de"
+    }
+]

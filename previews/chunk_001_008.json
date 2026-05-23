@@ -1,0 +1,232 @@
+[
+    {
+        "link": "https://opendns.com",
+        "Heading": "Cloud Delivered Enterprise Security by OpenDNS",
+        "Abstract": "Predict and prevent attacks before they happen using our cloud-delivered enterprise security service. Protect any device, anywhere with OpenDNS.",
+        "Official Site": "https://www.opendns.com/",
+        "Icon": "https://d3j20uveo70stj.cloudfront.net/opendns-www/img/opendns-logo-100x38.png",
+        "Redirect": "https://www.opendns.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.opendns.com/"
+    },
+    {
+        "link": "https://stanford.edu",
+        "Heading": "Stanford University",
+        "Abstract": "Our mission of discovery and learning is energized by a spirit of optimism and possibility that dates to our founding.",
+        "Official Site": "https://www.stanford.edu/",
+        "Icon": "https://www.stanford.edu/wp-content/uploads/2023/03/Community.png",
+        "Redirect": "https://www.stanford.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.stanford.edu/"
+    },
+    {
+        "link": "https://plesk.com",
+        "Heading": "Hosting Control Panel Licenses | Plesk",
+        "Abstract": "Plesk is a web hosting and server management platform that helps you manage websites, servers, security, and WordPress from one dashboard.",
+        "Official Site": "https://www.plesk.com/",
+        "Icon": "https://cdn1.plesk.com/wp-content/uploads/2026/02/18111607/Plesk-screenshot_360.png",
+        "Redirect": "https://www.plesk.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.plesk.com/"
+    },
+    {
+        "link": "https://adriver.ru",
+        "Heading": "AdRiver \u2014 \u0421\u0438\u0441\u0442\u0435\u043c\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0438 \u0430\u0443\u0434\u0438\u0442\u0430 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0440\u0435\u043a\u043b\u0430\u043c\u044b",
+        "Abstract": null,
+        "Official Site": "https://adriver.ru",
+        "Icon": "https://www.adriver.ru/wp-content/uploads/2026/03/ico_adriver.png",
+        "Redirect": "https://adriver.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adriver.ru"
+    },
+    {
+        "link": "https://nvidia.com",
+        "Heading": "World Leader in Artificial Intelligence Computing | NVIDIA",
+        "Abstract": "We create the world\u2019s fastest supercomputer and largest gaming platform.",
+        "Official Site": "https://www.nvidia.com/en-us/",
+        "Icon": "https://www.nvidia.com/content/dam/en-zz/Solutions/homepage/v2/sfg/nvidia-corporate-og-image-1200x630.jpg",
+        "Redirect": "https://www.nvidia.com/en-us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nvidia.com/en-us/"
+    },
+    {
+        "link": "https://temu.com",
+        "Heading": "Temu | Explore the Latest Clothing, Beauty, Home, Jewelry & More",
+        "Abstract": "Make Temu your one-stop destination for the latest fashion products, cosmetics & more. Free shipping on items shipped from Temu. Free returns within 90 days. Shop on Temu and start saving.",
+        "Official Site": "https://www.temu.com",
+        "Icon": "https://aimg.kwcdn.com/upload_aimg/th/17118177-aa57-4cb7-bd96-3dea184a6a83.png",
+        "Redirect": "https://www.temu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.temu.com"
+    },
+    {
+        "link": "https://hcaptcha.com",
+        "Heading": "hCaptcha - Stop bots and human abuse.",
+        "Abstract": "Enterprise grade AI security platform with a privacy focus. Replace reCAPTCHA v2, v3, or Enterprise with next generation tech at better value. Used by millions.",
+        "Official Site": "https://hcaptcha.com",
+        "Icon": "images/64da82f6bf67de1b1278926d_favicon%25403x.png",
+        "Redirect": "https://hcaptcha.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hcaptcha.com"
+    },
+    {
+        "link": "https://tp-link.com",
+        "Heading": "TP-Link: Your Smart Home, Simplified",
+        "Abstract": "We are a US-based leader in Wi-Fi and smart home technology. See why families trust TP-Link to make their home smart, secure, and effortlessly connected.\u00a0",
+        "Official Site": "https://www.tp-link.com/us/",
+        "Icon": "https://static.tp-link.com/assets/images/icon/open_graph_logo.png",
+        "Redirect": "https://www.tp-link.com/us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tp-link.com/us/"
+    },
+    {
+        "link": "https://globo.com",
+        "Heading": "globo.com - Absolutamente tudo sobre not\u00edcias, esportes e entretenimento",
+        "Abstract": "\u00daltimas not\u00edcias do jornalismo, esporte, entretenimento e mais! Na globo.com voc\u00ea acompanha tudo que est\u00e1 acontecendo hoje no Brasil e no mundo.",
+        "Official Site": "https://www.globo.com/",
+        "Icon": "https://s3.glbimg.com/v1/AUTH_fd78dc4be9404a2e92b908ade306e9e6/prod/globocom_opengraph.png",
+        "Redirect": "https://www.globo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.globo.com/"
+    },
+    {
+        "link": "https://espn.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://espn.com",
+        "Icon": "N/A",
+        "Redirect": "https://espn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://espn.com"
+    },
+    {
+        "link": "https://nasa.gov",
+        "Heading": "NASA",
+        "Abstract": "NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research.",
+        "Official Site": "https://www.nasa.gov/",
+        "Icon": "https://www.nasa.gov/wp-content/uploads/2018/07/174116main_2006_01777_highres.jpg",
+        "Redirect": "https://www.nasa.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nasa.gov/"
+    },
+    {
+        "link": "https://vivoglobal.com",
+        "Heading": "\u7ef4\u6c83\u79fb\u52a8\u901a\u4fe1\u6709\u9650\u516c\u53f8",
+        "Abstract": null,
+        "Official Site": "https://vivoglobal.com",
+        "Icon": "https://wwwstatic.vivo.com.cn/vivoportal/web/dist/img/common/favicon_ecf768e.ico",
+        "Redirect": "https://vivoglobal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vivoglobal.com"
+    },
+    {
+        "link": "https://zendesk.com",
+        "Heading": "AI-Powered Service Platform | Zendesk",
+        "Abstract": "Move beyond deflection with AI agents that resolve issues end-to-end. Improve service quality, speed, and scale. Start your free trial.",
+        "Official Site": "https://www.zendesk.com/",
+        "Icon": "https://d1eipm3vz40hy0.cloudfront.net/images/logos/favicons/zendesk-image.png",
+        "Redirect": "https://www.zendesk.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zendesk.com/"
+    },
+    {
+        "link": "https://calendly.com",
+        "Heading": "Free Online Appointment Scheduling Software | Calendly",
+        "Abstract": "Calendly is the modern scheduling platform that makes \u201cfinding time\u201d a breeze. When connecting is easy, your teams can get more done.",
+        "Official Site": "https://calendly.com",
+        "Icon": "https://images.ctfassets.net/k0lk9kiuza3o/6sN1GkuaBoQ67Nhkqa8Hgn/bcefc60aa064f94237bac2524bad875c/homepage.png",
+        "Redirect": "https://calendly.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://calendly.com"
+    },
+    {
+        "link": "https://go.com",
+        "Heading": "Go.com | The Walt Disney Company\u00a0",
+        "Abstract": "Go is the top-level home on the Internet to the online properties of The Walt Disney Company.",
+        "Official Site": "http://go.com/",
+        "Icon": "https://lumiere-a.akamaihd.net/v1/images/image_9cbc603c.png",
+        "Redirect": "http://go.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://go.com/"
+    },
+    {
+        "link": "https://walmart.com",
+        "Heading": "Walmart | Save Money. Live better.",
+        "Abstract": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum. Start your free 30-day trial now!",
+        "Official Site": "https://www.walmart.com/",
+        "Icon": "https://i5.walmartimages.com/dfw/63fd9f59-49ff/k2-_52fee322-2e60-452a-bccc-1e847f452a13.v1.png",
+        "Redirect": "https://www.walmart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.walmart.com/"
+    },
+    {
+        "link": "https://cloudns.net",
+        "Heading": "Free DNS hosting, Cloud DNS hosting and Domain names | ClouDNS",
+        "Abstract": "ClouDNS provides Free DNS, Cloud DNS, Managed DNS, GeoDNS and DDoS Protected DNS hosting with included web redirects, mail forwards and Round-Robin load balancing. Instant updates in Europe, North and South America, Asia and Australia.",
+        "Official Site": "https://cloudns.net",
+        "Icon": "/images/logo/social.png",
+        "Redirect": "https://cloudns.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cloudns.net"
+    },
+    {
+        "link": "https://duckduckgo.com",
+        "Heading": "DuckDuckGo - Protection. Privacy. Peace of mind.",
+        "Abstract": "The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.",
+        "Official Site": "https://duckduckgo.com",
+        "Icon": "https://duckduckgo.com/assets/logo_social-media.png",
+        "Redirect": "https://duckduckgo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://duckduckgo.com"
+    },
+    {
+        "link": "https://ip-api.com",
+        "Heading": "IP-API.com - Geolocation API",
+        "Abstract": "Free IP Geolocation API - lookup any IP address",
+        "Official Site": "https://ip-api.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://ip-api.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ip-api.com"
+    },
+    {
+        "link": "https://businessinsider.com",
+        "Heading": "Business Insider - Latest News in Tech, Markets, Economy & Innovation",
+        "Abstract": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
+        "Official Site": "https://www.businessinsider.com",
+        "Icon": "https://www.businessinsider.com/public/assets/logos/og-image-logo-social.png?v=2023-11",
+        "Redirect": "https://www.businessinsider.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.businessinsider.com"
+    },
+    {
+        "link": "https://line.me",
+        "Heading": "LINE\uff5calways at your side.",
+        "Abstract": "More than just a messenger app. LINE is new level of communication and the very infrastructure of your life.",
+        "Official Site": "https://line.me",
+        "Icon": "https://line.me/static/img/og.png",
+        "Redirect": "https://line.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://line.me"
+    },
+    {
+        "link": "https://amazonalexa.com",
+        "Heading": "Alexa Plus",
+        "Abstract": "Alexa Plus for free",
+        "Official Site": "https://www.amazon.com/alexaplus/dp/B0CXRRF584",
+        "Icon": "https://m.media-amazon.com/images/I/61Y87c+F4NL.jpg",
+        "Redirect": "https://www.amazon.com/alexaplus/dp/B0CXRRF584",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.amazon.com/alexaplus/dp/B0CXRRF584"
+    },
+    {
+        "link": "https://163.com",
+        "Heading": "\u7f51\u6613",
+        "Abstract": null,
+        "Official Site": "https://163.com",
+        "Icon": "N/A",
+        "Redirect": "https://163.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://163.com"
+    }
+]

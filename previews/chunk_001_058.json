@@ -1,0 +1,342 @@
+[
+    {
+        "link": "https://flashbots.net",
+        "Heading": "Flashbots",
+        "Abstract": "A research and development organization mitigating the negative externalities posed by MEV.",
+        "Official Site": "https://www.flashbots.net",
+        "Icon": "https://www.flashbots.net/default_card.png",
+        "Redirect": "https://www.flashbots.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.flashbots.net"
+    },
+    {
+        "link": "https://billboard.com",
+        "Heading": "Billboard \u2013 Music Charts, News, Photos & Video",
+        "Abstract": "Music Charts, News, Photos & Video",
+        "Official Site": "https://www.billboard.com/",
+        "Icon": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-512x512.png",
+        "Redirect": "https://www.billboard.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.billboard.com/"
+    },
+    {
+        "link": "https://servidoresdns.net",
+        "Heading": "Arsys - Buy domain and hosting",
+        "Abstract": "Register your domain and purchase your hosting with Arsys. With our servers located in Spain, your Internet presence is guaranteed.",
+        "Official Site": "https://www.arsys.net/",
+        "Icon": "https://www.arsys.net/get/image/opengraph.png?v=y26m05d19h13m45s07",
+        "Redirect": "https://www.arsys.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.arsys.net/"
+    },
+    {
+        "link": "https://elle.com",
+        "Heading": "Fashion Magazine - Beauty Tips, Fashion Trends, & Celebrity News - ELLE",
+        "Abstract": "Watch runway shows from the hottest fashion designers, scope out the best-dressed celebrities on the red carpet, discover the latest and greatest beauty products to maintain a healthy glow, and get a sneak peek at our celebrity cover shoots.",
+        "Official Site": "https://elle.com",
+        "Icon": "/_assets/design-tokens/elle/static/images/favicon.bf092aa.ico",
+        "Redirect": "https://elle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elle.com"
+    },
+    {
+        "link": "https://surfshark.com",
+        "Heading": "Surfshark VPN & all-in-one cybersecurity suites - Official Site",
+        "Abstract": "Surfshark VPN \u2013 secure your data \u25cf Unlimited devices \u25cf 24/7 support \u25cf 4500+ servers in 100+ countries \u25cf No-logs policy \u25cf RAM-only servers, & more.",
+        "Official Site": "https://surfshark.com",
+        "Icon": "https://surfshark.com/website/_next/public/home/images/og/og-en.png",
+        "Redirect": "https://surfshark.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://surfshark.com"
+    },
+    {
+        "link": "https://hoster.kz",
+        "Heading": "\u1408 \u041a\u0443\u043f\u0438\u0442\u044c \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435. \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u043e\u0432 .KZ",
+        "Abstract": "\u041d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0438 \u0441\u0443\u043f\u0435\u0440-\u0431\u044b\u0441\u0442\u0440\u044b\u0439 \ud83d\ude80 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435 \u0431\u043b\u0438\u0437\u043a\u043e \u043a \u0432\u0430\u0448\u0438\u043c \u043a\u043b\u0438\u0435\u043d\u0442\u0430\u043c \u0432 \u0410\u043b\u043c\u0430\u0442\u044b, \u0410\u0441\u0442\u0430\u043d\u0435 \u0438 \u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0435, \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u043e\u0432 .KZ, \ud83d\udcde 8 (747) 094-9284, \u2709\ufe0f billing@hoster.kz, \u043e\u0431\u0440\u0430\u0449\u0430\u0439\u0442\u0435\u0441\u044c \u0432 \u043b\u044e\u0431\u043e\u0435 \u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0434\u043b\u044f \u0412\u0430\u0441 \u0432\u0440\u0435\u043c\u044f",
+        "Official Site": "https://hoster.kz",
+        "Icon": "/local/templates/main/favicon.svg",
+        "Redirect": "https://hoster.kz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hoster.kz"
+    },
+    {
+        "link": "https://nymag.com",
+        "Heading": "New York Magazine",
+        "Abstract": "New York Magazine obsessively chronicles the ideas, people, and cultural events that are forever reshaping our world.",
+        "Official Site": "https://nymag.com/",
+        "Icon": "https://assets.nymag.com/media/sites/nymag/icon.1500x1500.png",
+        "Redirect": "https://nymag.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nymag.com/"
+    },
+    {
+        "link": "https://timesofisrael.com",
+        "Heading": "The Times of Israel | News from Israel, the Middle East and the Jewish World",
+        "Abstract": "News from Israel, the Middle East and the Jewish World",
+        "Official Site": "https://www.timesofisrael.com",
+        "Icon": "https://static-cdn.toi-media.com/www/uploads/2018/11/toi_icon_512-200x200.png",
+        "Redirect": "https://www.timesofisrael.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.timesofisrael.com"
+    },
+    {
+        "link": "https://usembassy.gov",
+        "Heading": "Homepage - Websites of U.S. Missions and Offices Providing Consular Services",
+        "Abstract": "The mission of the U.S. Embassy is to advance the interests of the United States, and to serve and protect U.S. citizens in [country].",
+        "Official Site": "https://www.usembassy.gov/",
+        "Icon": "https://www.usembassy.gov/wp-content/themes/mwp/images/favicon/mwpr/favicon-16x16.png",
+        "Redirect": "https://www.usembassy.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.usembassy.gov/"
+    },
+    {
+        "link": "https://samokat.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://samokat.ru",
+        "Icon": "N/A",
+        "Redirect": "https://samokat.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://samokat.ru"
+    },
+    {
+        "link": "https://geeksforgeeks.org",
+        "Heading": "GeeksforGeeks | Your All-in-One Learning Portal",
+        "Abstract": "Your All-in-One Learning Portal. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+        "Official Site": "https://www.geeksforgeeks.org/undefined",
+        "Icon": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "Redirect": "https://www.geeksforgeeks.org/undefined",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.geeksforgeeks.org/undefined"
+    },
+    {
+        "link": "https://thingiverse.com",
+        "Heading": "Thingiverse - The community for Open Hardware",
+        "Abstract": "Thingiverse - The community for Open Hardware",
+        "Official Site": "https://www.thingiverse.com/",
+        "Icon": "https://cdn.thingiverse.com/site/img/ThingiverseOpenGraph.webp",
+        "Redirect": "https://www.thingiverse.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thingiverse.com/"
+    },
+    {
+        "link": "https://hootsuite.com",
+        "Heading": "Social Media Marketing and Management Tool | Hootsuite",
+        "Abstract": "Hootsuite is a social media management tool that brings scheduling, content creation, analytics, and social listening to one place.",
+        "Official Site": "https://www.hootsuite.com/",
+        "Icon": "https://images.ctfassets.net/ta4ffdi8h2om/2e939I9iQUeZCq5jO7cXP3/ee5e562f3e215343daade4f303b7b5c1/Webpreview__1_.png",
+        "Redirect": "https://www.hootsuite.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hootsuite.com/"
+    },
+    {
+        "link": "https://ucsb.edu",
+        "Heading": "Home | UC Santa Barbara",
+        "Abstract": "UC Santa Barbara is a leading center for teaching and research located on the California coast - truly a learning and living environment like no other!",
+        "Official Site": "https://www.ucsb.edu/home",
+        "Icon": "/themes/ucsb/favicon.ico",
+        "Redirect": "https://www.ucsb.edu/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ucsb.edu/home"
+    },
+    {
+        "link": "https://sonos.com",
+        "Heading": "Sonos: Save on Soundbars, Speakers, & Portables",
+        "Abstract": "Experience the sound of the Sonos system, now with discounts on select products. Available for a limited time.",
+        "Official Site": "https://www.sonos.com/en-us/home",
+        "Icon": "https://media.sonos.com/images/znqtjj88/production/f3c7a2ce5b0a13d698233adaa4b83cdd85efa2fd-4000x3207.png",
+        "Redirect": "https://www.sonos.com/en-us/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sonos.com/en-us/home"
+    },
+    {
+        "link": "https://curl.se",
+        "Heading": "curl",
+        "Abstract": null,
+        "Official Site": "https://curl.se",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://curl.se",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://curl.se"
+    },
+    {
+        "link": "https://rokt.com",
+        "Heading": "Unlock the Moment That Matters Most | Rokt",
+        "Abstract": "Ecommerce technology platform powering 10B+ transactions annually. AI-driven relevance in the Transaction Moment\u2122 drives incremental profit, customer acquisition, and enhanced CX for 30,000+ global brands.",
+        "Official Site": "https://rokt.com",
+        "Icon": "https://cdn.prod.website-files.com/65fde97097a89753eefc6b3d/66708622a25adb49d861d864_Opengraph.png",
+        "Redirect": "https://rokt.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rokt.com"
+    },
+    {
+        "link": "https://duosecurity.com",
+        "Heading": "Complete Identity Security & MFA Solutions | Cisco Duo",
+        "Abstract": "Duo Security offers solutions to protect organizations from identity threats. Explore Duo identity security, phishing-resistant MFA, and other solutions.",
+        "Official Site": "https://duo.com",
+        "Icon": "https://duo.com/assets/img/seo-images/socialshare-home.jpg",
+        "Redirect": "https://duo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://duo.com"
+    },
+    {
+        "link": "https://adition.com",
+        "Heading": "Virtual Minds. Excellence in Adtech. Made in Europe.",
+        "Abstract": "Leading European adtech provider. Programmatic advertising solutions for publishers, broadcasters, agencies, and advertisers. Premium Adtechnology made in Europe.",
+        "Official Site": "https://virtualminds.com/",
+        "Icon": "https://virtualminds.com/wp-content/uploads/2024/10/vm-fallback.png",
+        "Redirect": "https://virtualminds.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://virtualminds.com/"
+    },
+    {
+        "link": "https://playfamily.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://playfamily.ru",
+        "Icon": "N/A",
+        "Redirect": "https://playfamily.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://playfamily.ru"
+    },
+    {
+        "link": "https://fitbit.com",
+        "Heading": "Google Fitbit, Pixel Watches & Trackers with Google Health",
+        "Abstract": "Make every move a healthy one with Google Pixel and Fitbit fitness trackers and smartwatches designed for Google Health.",
+        "Official Site": "https://store.google.com/category/watches_trackers?hl=en-US",
+        "Icon": "https://lh3.googleusercontent.com/Ao4IBqkFeitmAyhf6RzAkuuPrb74i6Gb8Dr0e0NrMrSvsUsa-T99n7JqVv2OIsBmqom6S2ZnfhBUZgCqzXpHJsdpfRB9eBoYCsvw=rj-sc0xffffffff",
+        "Redirect": "https://store.google.com/category/watches_trackers?hl=en-US",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://store.google.com/category/watches_trackers?hl=en-US"
+    },
+    {
+        "link": "https://chase.com",
+        "Heading": "Credit Card, Mortgage, Banking, Auto | Chase Online | Chase.com",
+        "Abstract": "Chase online; credit cards, mortgages, commercial banking, auto loans, investing & retirement planning, checking and business banking.",
+        "Official Site": "https://chase.com",
+        "Icon": "/etc/designs/chase-ux/favicon.ico",
+        "Redirect": "https://chase.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chase.com"
+    },
+    {
+        "link": "https://crunchbase.com",
+        "Heading": "Crunchbase",
+        "Abstract": null,
+        "Official Site": "https://crunchbase.com",
+        "Icon": "/favicon.ico?v=2.0",
+        "Redirect": "https://crunchbase.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crunchbase.com"
+    },
+    {
+        "link": "https://profi.ru",
+        "Heading": "\u041f\u0440\u043e\u0444\u0438.\u0440\u0443 \u2014 \u0441\u0435\u0440\u0432\u0438\u0441 \u043f\u043e\u0438\u0441\u043a\u0430 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043e\u0432",
+        "Abstract": "\u041f\u0440\u043e\u0444\u0438.\u0440\u0443 \u2014 \u0441\u0435\u0440\u0432\u0438\u0441 \u043f\u043e\u0438\u0441\u043a\u0430 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043e\u0432 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435: \u043c\u0430\u0441\u0442\u0435\u0440\u0430 \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443, \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u044b, \u0442\u0440\u0435\u043d\u0435\u0440\u044b, \u0430\u0440\u0442\u0438\u0441\u0442\u044b \u0438 \u043c\u0443\u0437\u044b\u043a\u0430\u043d\u0442\u044b, \u043c\u0430\u0441\u0442\u0435\u0440\u0430 \u043a\u0440\u0430\u0441\u043e\u0442\u044b \u0438 \u043f\u0440. \u2014 \u0431\u043e\u043b\u0435\u0435 3 000 000 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043e\u0432. \u0426\u0435\u043d\u044b \u0438 \u043e\u0442\u0437\u044b\u0432\u044b \u043d\u0430 \u041f\u0440\u043e\u0444\u0438.\u0440\u0443. \u2705\ufe0f\u041f\u043e\u0438\u0441\u043a \u043f\u043e \u0432\u0430\u0448\u0438\u043c \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u044f\u043c, \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043e\u0434\u0445\u043e\u0434, \u0443\u0434\u043e\u0431\u043d\u044b\u0439 \u0433\u0440\u0430\u0444\u0438\u043a. \u2705\u0412\u0441\u0435 \u0440\u0430\u0439\u043e\u043d\u044b \u2705\ufe0f\u041d\u0430 \u0440\u044b\u043d\u043a\u0435 \u0441 2014 \u0433\u043e\u0434\u0430. \u2705\ufe0f\u0411\u043e\u043b\u0435\u0435 13 000 000 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432",
+        "Official Site": "//profi.ru",
+        "Icon": "https://profi.ru/static/img/social-main.png?version=1",
+        "Redirect": "//profi.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "//profi.ru"
+    },
+    {
+        "link": "https://goodhousekeeping.com",
+        "Heading": "Good Housekeeping: Trusted Home Advice, Product Reviews & Recipes",
+        "Abstract": "Discover expert-tested product reviews, modern home tips, cleaning hacks, recipes and more.",
+        "Official Site": "https://goodhousekeeping.com",
+        "Icon": "/_assets/design-tokens/goodhousekeeping/static/images/favicon.8e97a02.ico",
+        "Redirect": "https://goodhousekeeping.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://goodhousekeeping.com"
+    },
+    {
+        "link": "https://lycos.com",
+        "Heading": "lycos.com",
+        "Abstract": null,
+        "Official Site": "https://lycos.com",
+        "Icon": "N/A",
+        "Redirect": "https://lycos.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lycos.com"
+    },
+    {
+        "link": "https://cosmopolitan.com",
+        "Heading": "Cosmopolitan.com - The Women's Magazine for Dating Advice, Relationships, and Celebrity News",
+        "Abstract": "Your source for the latest dating tips, celebrity news, relationship help, beauty tutorials, fashion trends, and more.",
+        "Official Site": "https://cosmopolitan.com",
+        "Icon": "/_assets/design-tokens/cosmopolitan/static/images/favicon.f9ef38f.ico",
+        "Redirect": "https://cosmopolitan.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cosmopolitan.com"
+    },
+    {
+        "link": "https://garant.ru",
+        "Heading": "\t\u0413\u0410\u0420\u0410\u041d\u0422 - \u0417\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e (\u043a\u043e\u0434\u0435\u043a\u0441\u044b, \u0437\u0430\u043a\u043e\u043d\u044b, \u0443\u043a\u0430\u0437\u044b, \u043f\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f) \u0420\u0424, \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430, \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0438, \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430.\n",
+        "Abstract": "\u0417\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e - \u0437\u0430\u043a\u043e\u043d\u044b \u0438 \u043a\u043e\u0434\u0435\u043a\u0441\u044b \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438. \u041f\u043e\u043b\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u044b \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0432 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0439 \u0440\u0435\u0434\u0430\u043a\u0446\u0438\u0438. \u0410\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b. \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0420\u0424",
+        "Official Site": "https://www.garant.ru/",
+        "Icon": "https://www.garant.ru/static/garant/images/layout/garant_logo_fb2.jpg",
+        "Redirect": "https://www.garant.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.garant.ru/"
+    },
+    {
+        "link": "https://nzherald.co.nz",
+        "Heading": "NZ Herald: Breaking & Latest New Zealand News - NZ Herald",
+        "Abstract": "Get the latest breaking news, analysis and opinion from NZ and around the world, including politics, business, sport, entertainment, travel and more.",
+        "Official Site": "https://www.nzherald.co.nz",
+        "Icon": "/pf/resources/images/fallback-promo-image.png?d=1036",
+        "Redirect": "https://www.nzherald.co.nz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nzherald.co.nz"
+    },
+    {
+        "link": "https://onaudience.com",
+        "Heading": "OnAudience: Global Data Provider",
+        "Abstract": "OnAudience fuels digital campaigns and business solutions through high-quality data with global reach. Privacy-safe & GDPR-compliant data.",
+        "Official Site": "https://onaudience.com/",
+        "Icon": "https://onaudience.com/wp-content/uploads/2023/12/Global-Data_Provider_OnAudience.jpg",
+        "Redirect": "https://onaudience.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onaudience.com/"
+    },
+    {
+        "link": "https://databricks.com",
+        "Heading": "Databricks: Leading Data and AI Platform for Enterprises",
+        "Abstract": "Databricks offers a unified platform for data, analytics and AI. Build better AI with a data-centric approach. Simplify ETL, data warehousing, governance and AI on the Data Intelligence Platform.",
+        "Official Site": "https://www.databricks.com/",
+        "Icon": "https://www.databricks.com/sites/default/files/2023-11/databricks-og-universal.png",
+        "Redirect": "https://www.databricks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.databricks.com/"
+    },
+    {
+        "link": "https://redis.io",
+        "Heading": "Redis - Real-time data for agents & apps",
+        "Abstract": "Developers love Redis. Unlock the full potential of the Redis database with Redis Enterprise and start building blazing fast apps.",
+        "Official Site": "https://redis.io/",
+        "Icon": "https://redis.io/_next/static/media/open-graph.0ec72f52.png",
+        "Redirect": "https://redis.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://redis.io/"
+    },
+    {
+        "link": "https://schneevonmorgen.com",
+        "Heading": "webTV solutions for professional broadcasters<",
+        "Abstract": "Our commitment and services help publishers and advertisers to reroute parts of their revenue streams into the webTV market and to secure new audiences.",
+        "Official Site": "https://schneevonmorgen.com",
+        "Icon": "N/A",
+        "Redirect": "https://schneevonmorgen.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://schneevonmorgen.com"
+    },
+    {
+        "link": "https://pushwoosh.com",
+        "Heading": "Mobile Push Notification Service | Pushwoosh",
+        "Abstract": "All-in-one customer engagement platform: omnichannel messaging, actionable CDP, advanced segmentation &amp; automation. Turn customer data into high-converting campaigns.",
+        "Official Site": "https://www.pushwoosh.com/",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://www.pushwoosh.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pushwoosh.com/"
+    }
+]

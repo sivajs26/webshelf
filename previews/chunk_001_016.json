@@ -1,0 +1,302 @@
+[
+    {
+        "link": "https://aljazeera.com",
+        "Heading": "Breaking News, World News and Video from Al Jazeera",
+        "Abstract": "News, analysis from the Middle East & worldwide, multimedia & interactives, opinions, documentaries, podcasts, long reads and broadcast schedule.",
+        "Official Site": "https://www.aljazeera.com",
+        "Icon": "https://www.aljazeera.com/images/logo_aje_social.png",
+        "Redirect": "https://www.aljazeera.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.aljazeera.com"
+    },
+    {
+        "link": "https://bild.de",
+        "Heading": "Aktuelle Nachrichten | BILD.de",
+        "Abstract": "BILD.de: Die Seite 1 f\u00fcr aktuelle Nachrichten und Themen, Bilder und Videos aus den Bereichen News, Wirtschaft, Politik, Show, Sport, und Promis.",
+        "Official Site": "https://www.bild.de/",
+        "Icon": "https://a.bildstatic.de/assets/social-fallback-xwOAZY_4.jpg",
+        "Redirect": "https://www.bild.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bild.de/"
+    },
+    {
+        "link": "https://pccc.com",
+        "Heading": "Industry Leading Computer IT Support | PCCC",
+        "Abstract": "Highly skilled computer consulting firm that provides top-notch computer IT support, anti-spam filtering, TLC for websites, and much more.",
+        "Official Site": "https://pccc.com/",
+        "Icon": "https://pccc.com/wp-content/uploads/elementor/thumbs/IT-Administrator-pnpqn6ogoexov7o4x1chbegb62a8xx0fnknikde0yo.png",
+        "Redirect": "https://pccc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pccc.com/"
+    },
+    {
+        "link": "https://datadoghq.com",
+        "Heading": "Cloud Monitoring as a Service | Datadog",
+        "Abstract": "See metrics from all of your apps, tools & services in one place with Datadog\u2019s cloud monitoring as a service solution. Try it for free.",
+        "Official Site": "https://www.datadoghq.com/",
+        "Icon": "https://corp.dd-static.net/img/og/og-image-10-25.png?fit=crop&w=1200&h=630",
+        "Redirect": "https://www.datadoghq.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.datadoghq.com/"
+    },
+    {
+        "link": "https://lenovo.com",
+        "Heading": "Lenovo Official Site | Laptops, Desktop PCs, Tablets, Monitors | Lenovo US\n      ",
+        "Abstract": "Explore Lenovo laptops, desktops, tablets, monitors, pc accessories & servers. Shop innovative tech designed for business, education, gaming & everyday use.",
+        "Official Site": "https://www.lenovo.com/us/en/",
+        "Icon": "https://www.lenovo.com/content/dam/lenovo/site-design/lenovo-helix/ftv/hero-discover-ai-solutions.png",
+        "Redirect": "https://www.lenovo.com/us/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lenovo.com/us/en/"
+    },
+    {
+        "link": "https://zoho.com",
+        "Heading": "Zoho | Cloud Software Suite for Businesses",
+        "Abstract": "A unique and powerful software suite trusted by millions of businesses worldwide. Zoho covers your end-to-end business needs, from sales and marketing to finance, HR, and beyond.",
+        "Official Site": "https://www.zoho.com/",
+        "Icon": "https://www.zohowebstatic.com/sites/zweb/images/ogimage/zoho-logo.png",
+        "Redirect": "https://www.zoho.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zoho.com/"
+    },
+    {
+        "link": "https://claude.ai",
+        "Heading": "Claude",
+        "Abstract": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+        "Official Site": "https://claude.ai",
+        "Icon": "https://claude.ai/images/claude_ogimage.png",
+        "Redirect": "https://claude.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://claude.ai"
+    },
+    {
+        "link": "https://discordapp.com",
+        "Heading": "Discord - Group Chat That\u2019s All Fun & Games",
+        "Abstract": "Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.",
+        "Official Site": "https://discordapp.com",
+        "Icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg",
+        "Redirect": "https://discordapp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://discordapp.com"
+    },
+    {
+        "link": "https://onetag-sys.com",
+        "Heading": "OneTag Advertising System",
+        "Abstract": null,
+        "Official Site": "https://onetag-sys.com",
+        "Icon": "N/A",
+        "Redirect": "https://onetag-sys.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onetag-sys.com"
+    },
+    {
+        "link": "https://singular.net",
+        "Heading": "Marketing Attribution & Analytics with AI Insights | Singular",
+        "Abstract": "Smarter Insights Faster GrowthPowered by AI The end-to-end marketing platform to unify and move your data effortlessly, measure True ROI, and scale faster",
+        "Official Site": "https://www.singular.net/",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png?v=kP3JbwApQO",
+        "Redirect": "https://www.singular.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.singular.net/"
+    },
+    {
+        "link": "https://lefigaro.fr",
+        "Heading": "Le Figaro - Actualit\u00e9 en direct et informations en continu",
+        "Abstract": "A la Une : Retrouvez toute l'actualit\u00e9 en France, \u00e0 l'international, l'actualit\u00e9 \u00e9conomique et politique avec Le Figaro",
+        "Official Site": "https://www.lefigaro.fr/",
+        "Icon": "https://i.f1g.fr/media/ext/1200x1200_crop/static.lefigaro.fr/f1/lefigaro/metas/og-image.png",
+        "Redirect": "https://www.lefigaro.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lefigaro.fr/"
+    },
+    {
+        "link": "https://erome.com",
+        "Heading": "EroMe - Porn Video & Photo Sharing",
+        "Abstract": "EroMe is the best place to share your erotic pics and porn videos. Every day, thousands of people use EroMe to enjoy free photos and videos. Come share your amateur horny pictures and films.",
+        "Official Site": "https://erome.com",
+        "Icon": "/android-chrome-192x192.png",
+        "Redirect": "https://erome.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://erome.com"
+    },
+    {
+        "link": "https://welt.de",
+        "Heading": "WELT - Aktuelle Nachrichten, News, Hintergr\u00fcnde & Videos",
+        "Abstract": "Nachrichten, Kommentare, Liveticker, Videos und Streams sowie News aus Politik, Wirtschaft, Finanzen, Wetter, Sport, Fu\u00dfball, Kultur, Reise und Internet ...",
+        "Official Site": "https://www.welt.de/",
+        "Icon": "https://www.welt.de/assets/public/images/global/welt_brand.png",
+        "Redirect": "https://www.welt.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.welt.de/"
+    },
+    {
+        "link": "https://figma.com",
+        "Heading": "Figma: The Collaborative Interface Design Tool",
+        "Abstract": "Figma is the leading collaborative design platform for building meaningful products. Design, prototype, and build products faster\u2014while gathering feedback all in one place.",
+        "Official Site": "https://www.figma.com/",
+        "Icon": "https://cdn.sanity.io/images/599r6htc/regionalized/342e17642c7afa81206490b0dd21c3e5724ae040-2400x1260.png?w=1200&q=70&fit=max&auto=format",
+        "Redirect": "https://www.figma.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.figma.com/"
+    },
+    {
+        "link": "https://openstreetmap.org",
+        "Heading": "OpenStreetMap",
+        "Abstract": "OpenStreetMap is a map of the world, created by people like you and free to use under an open license.",
+        "Official Site": "https://www.openstreetmap.org/",
+        "Icon": "https://www.openstreetmap.org/assets/osm_logo_256-ed028f90468224a272961c380ecee0cfb73b8048b34f4b4b204b7f0d1097875d.png",
+        "Redirect": "https://www.openstreetmap.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.openstreetmap.org/"
+    },
+    {
+        "link": "https://vivo.com.cn",
+        "Heading": "vivo\u667a\u80fd\u624b\u673a\u5b98\u65b9\u7f51\u7ad9 - X300\u7cfb\u5217 \u4e13\u4e1a\u5f71\u50cf\u65d7\u8230",
+        "Abstract": "\u624b\u673a\u9886\u57df\u7684\u56fd\u9645\u5316\u54c1\u724c\uff0cvivo\u5b98\u7f51\u63d0\u4f9b\u624b\u673a\u8d44\u8baf\u3001\u552e\u524d\u54a8\u8be2\u3001\u5728\u7ebf\u8d2d\u4e70\u3001\u552e\u540e\u670d\u52a1\u7b49\u529f\u80fd\uff1bvivo\u5f53\u5b63\u660e\u661f\u673a\u578b\u6709X300\u7cfb\u5217\u3001S30\u7cfb\u5217\u3001X Fold5\u3001iQOO 15\u3001vivo Pad5 Pro\u7b49\u3002",
+        "Official Site": "https://vivo.com.cn",
+        "Icon": "data:image/x-icon;base64,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",
+        "Redirect": "https://vivo.com.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vivo.com.cn"
+    },
+    {
+        "link": "https://me.com",
+        "Heading": "iCloud",
+        "Abstract": "Log in to iCloud to access your photos, mail, notes, documents and more. Sign in with your Apple\u00a0Account or create a new account to start using Apple services.",
+        "Official Site": "https://me.com",
+        "Icon": "https://www.icloud.com/icloud_logo/icloud_logo.png",
+        "Redirect": "https://me.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://me.com"
+    },
+    {
+        "link": "https://academia.edu",
+        "Heading": "Academia.edu - Find Research Papers, Topics, Researchers",
+        "Abstract": "Academia.edu is the platform to share, find, and explore 50 Million research papers. Join us to accelerate your research needs & academic interests.",
+        "Official Site": "https://academia.edu",
+        "Icon": "//a.academia-assets.com/images/open-graph-icons/horizontal-black.png",
+        "Redirect": "https://academia.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://academia.edu"
+    },
+    {
+        "link": "https://mercadolivre.com.br",
+        "Heading": "Mercado Livre Brasil - Frete Gr\u00e1tis no mesmo dia",
+        "Abstract": "Compre produtos com Frete Gr\u00e1tis no mesmo dia no Mercado Livre Brasil. Encontre milhares de marcas e produtos a pre\u00e7os incr\u00edveis.",
+        "Official Site": "https://mercadolivre.com.br",
+        "Icon": "https://http2.mlstatic.com/static/org-img/homesnw/mercado-libre.png?v=2",
+        "Redirect": "https://mercadolivre.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mercadolivre.com.br"
+    },
+    {
+        "link": "https://focus.de",
+        "Heading": "FOCUS online - Aktuelle Nachrichten",
+        "Abstract": "FOCUS online \u2013 minutenaktuelle Nachrichten und Service-Informationen von Deutschlands modernem Nachrichtenmagazin.",
+        "Official Site": "https://www.focus.de/",
+        "Icon": "https://static.focus.de/pics/fol/focus_online_2022_logo_color_1200x627px.jpg",
+        "Redirect": "https://www.focus.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.focus.de/"
+    },
+    {
+        "link": "https://agoda.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://agoda.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://agoda.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agoda.com"
+    },
+    {
+        "link": "https://instructure.com",
+        "Heading": "Instructure: Leading EdTech for K\u201312, Higher Ed & Business",
+        "Abstract": "Empower learning with Instructure\u2019s LMS and edtech solutions for K\u201312, higher education, and businesses. Discover Canvas, Impact, and Mastery to drive success.",
+        "Official Site": "https://www.instructure.com/node/1426",
+        "Icon": "https://www.instructure.com/sites/default/files/image/2025-07/2025-Meta-OG-thumb-ENG_0.jpg",
+        "Redirect": "https://www.instructure.com/node/1426",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.instructure.com/node/1426"
+    },
+    {
+        "link": "https://livejournal.com",
+        "Heading": "LiveJournal: Discover global communities of bloggers who share your unique passions and interests.",
+        "Abstract": "Your life is the best story! Just start your blog today!",
+        "Official Site": "https://www.livejournal.com/",
+        "Icon": "https://l-stat.livejournal.net/img/og_image.jpg",
+        "Redirect": "https://www.livejournal.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.livejournal.com/"
+    },
+    {
+        "link": "https://jetbrains.com",
+        "Heading": "JetBrains: Essential tools for software developers and teams",
+        "Abstract": "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA \u2013 the leading Java IDE, and the Kotlin programming language.",
+        "Official Site": "https://www.jetbrains.com/",
+        "Icon": "https://resources.jetbrains.com/storage/products/jetbrains/img/meta/preview.png",
+        "Redirect": "https://www.jetbrains.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jetbrains.com/"
+    },
+    {
+        "link": "https://synology.com",
+        "Heading": "Synology Inc.",
+        "Abstract": "Synology uniquely enables you to manage, secure, and protect your data - at the scale needed to accommodate the exponential data growth of the digital world.",
+        "Official Site": "https://www.synology.com/",
+        "Icon": "https://fileres.synology.com/images/common/meta-tag-preview-image/img_synology.jpg",
+        "Redirect": "https://www.synology.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.synology.com/"
+    },
+    {
+        "link": "https://wpguardian.com",
+        "Heading": "Effective Security for WordPress Sites- WPGuardian",
+        "Abstract": "Your All Seeing Eye to proactively scan & identify threats",
+        "Official Site": "https://wpguardian.com/",
+        "Icon": "https://wpguardian.com/wp-content/uploads/2024/06/SM-WPGuardian_2.png",
+        "Redirect": "https://wpguardian.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wpguardian.com/"
+    },
+    {
+        "link": "https://themeforest.net",
+        "Heading": "WordPress Themes & Website Templates from ThemeForest",
+        "Abstract": "Discover 1000s of premium WordPress themes & website templates, including multipurpose and responsive Bootstrap templates, email templates & HTML templates.",
+        "Official Site": "https://themeforest.net",
+        "Icon": "https://assets.market-storefront.envato-static.com/storefront/assets/og-images/themeforest-67f19309e05516418c3b6a69a8d910b031071f8ece7bb6f4cb5a274edef6c4ad.png",
+        "Redirect": "https://themeforest.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://themeforest.net"
+    },
+    {
+        "link": "https://anthropic.com",
+        "Heading": "Home \\ Anthropic",
+        "Abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+        "Official Site": "https://anthropic.com",
+        "Icon": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg",
+        "Redirect": "https://anthropic.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anthropic.com"
+    },
+    {
+        "link": "https://webmd.com",
+        "Heading": "WebMD - Better information. Better health.",
+        "Abstract": "The leading source for trustworthy and timely health and medical news and information. Providing credible health information, supportive community, and educational services by blending award-winning expertise in content, community services, expert commentary, and medical review.",
+        "Official Site": "https://www.webmd.com/",
+        "Icon": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
+        "Redirect": "https://www.webmd.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.webmd.com/"
+    },
+    {
+        "link": "https://chess.com",
+        "Heading": "Chess.com - Play Chess Online - Free Games",
+        "Abstract": "Play chess online for free on Chess.com with over 250 million members from around the world. Have fun playing with friends or challenging the computer!",
+        "Official Site": "https://www.chess.com/",
+        "Icon": "https://www.chess.com/bundles/web/images/social/share-home.a3e2cdbb.png",
+        "Redirect": "https://www.chess.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.chess.com/"
+    }
+]

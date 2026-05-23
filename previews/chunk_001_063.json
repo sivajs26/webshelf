@@ -1,0 +1,332 @@
+[
+    {
+        "link": "https://cloudappsecurity.com",
+        "Heading": "Microsoft Defender for Cloud Apps | Microsoft Security",
+        "Abstract": "Gain full visibility and control of your SaaS app landscape with Microsoft Defender for Cloud Apps, a robust solution for SaaS security and CASB security.",
+        "Official Site": "https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-cloud-apps",
+        "Icon": "/favicon.ico?v2",
+        "Redirect": "https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-cloud-apps",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-cloud-apps"
+    },
+    {
+        "link": "https://undertone.com",
+        "Heading": "Perion | AI-native execution infrastructure for modern media",
+        "Abstract": "AI-native execution infrastructure that connects data, creative, and channels to optimize media performance.",
+        "Official Site": "https://newperion.kinsta.cloud/",
+        "Icon": "https://newperion.kinsta.cloud/wp-content/uploads/2026/04/download.png",
+        "Redirect": "https://newperion.kinsta.cloud/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://newperion.kinsta.cloud/"
+    },
+    {
+        "link": "https://tagesspiegel.de",
+        "Heading": "Aktuelle News: Nachrichten aus Berlin und der Welt",
+        "Abstract": "Aktuelle News aus Berlin \u2013 Nachrichten aus Deutschland und der Welt \u2013 Kommentare, Hintergr\u00fcnde und Interviews aus Politik, Wirtschaft und Berlin.",
+        "Official Site": "https://tagesspiegel.de",
+        "Icon": "/assets/nda/images/favicon-16x16.705f2c1c.png",
+        "Redirect": "https://tagesspiegel.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tagesspiegel.de"
+    },
+    {
+        "link": "https://a2hosting.com",
+        "Heading": "The Best Web Hosting Services at 20x Speeds | hosting.com",
+        "Abstract": "Get the best hosting with premium hardware for speed and reliability. 24/7/365 global support. Try risk-free with our money back guarantee.",
+        "Official Site": "https://hosting.com/",
+        "Icon": "https://hosting.com/assets/brand/favicons/open-graph.png",
+        "Redirect": "https://hosting.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hosting.com/"
+    },
+    {
+        "link": "https://georgetown.edu",
+        "Heading": "Georgetown University in Washington DC",
+        "Abstract": null,
+        "Official Site": "https://www.georgetown.edu/",
+        "Icon": "/wp-content/uploads/fbrfg/favicon-32x32.png",
+        "Redirect": "https://www.georgetown.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.georgetown.edu/"
+    },
+    {
+        "link": "https://bounceexchange.com",
+        "Heading": "Maximize Revenue With AI Decisioning | Unlock Consumer Identity | Wunderkind",
+        "Abstract": "Wunderkind transforms anonymous traffic into revenue by leveraging advanced AI and identity insights, ensuring guaranteed revenue growth through personalized marketing strategies.",
+        "Official Site": "https://www.wunderkind.co",
+        "Icon": "https://www.wunderkind.co/hubfs/Wunderkind_Symbol_RGB_Black%20(2).png",
+        "Redirect": "https://www.wunderkind.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wunderkind.co"
+    },
+    {
+        "link": "https://bitly.com",
+        "Heading": "Bitly Connections Platform | Short URLs, QR Codes, and More",
+        "Abstract": "Bitly\u2019s Connections Platform is more than a free URL shortener, with robust link management software, advanced QR Code features, and a landing page solution.",
+        "Official Site": "https://bitly.com/",
+        "Icon": "https://mkt-static.bitly.com/static/1778697222/pages/wp-content/uploads/2024/05/hero-img_desktop@2x.png",
+        "Redirect": "https://bitly.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bitly.com/"
+    },
+    {
+        "link": "https://the-ozone-project.com",
+        "Heading": "The Audience Connection Platform - Ozone",
+        "Abstract": "Ozone \u2013 a digital advertising business with a difference \u2013 combines real human connections at scale with standout creative and deep audience capabilities to deliver measurable business impact for brands.",
+        "Official Site": "https://ozoneproject.com/",
+        "Icon": "https://ozoneproject.com/wp-content/uploads/2024/01/Ozone-banner.png",
+        "Redirect": "https://ozoneproject.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ozoneproject.com/"
+    },
+    {
+        "link": "https://lenovomm.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://lenovomm.com",
+        "Icon": "/_next/static/images/favicon-f87a489f2d293ef5241ddf34007b6823.ico",
+        "Redirect": "https://lenovomm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lenovomm.com"
+    },
+    {
+        "link": "https://krushmedia.com",
+        "Heading": "Home - Krush Media",
+        "Abstract": null,
+        "Official Site": "https://krushmedia.com/",
+        "Icon": "https://krushmedia.com/wp-content/uploads/2024/05/epsilon_logo-300x81.png",
+        "Redirect": "https://krushmedia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://krushmedia.com/"
+    },
+    {
+        "link": "https://indiana.edu",
+        "Heading": "Indiana University Bloomington",
+        "Abstract": "Founded in 1820, IU Bloomington is the flagship campus of IU\u2019s eight campuses and is known for innovation, creativity, and academic freedom.",
+        "Official Site": "https://bloomington.iu.edu/index.html",
+        "Icon": "https://bloomington.iu.edu/images/social-media-photos/facebook-social-media.jpg",
+        "Redirect": "https://bloomington.iu.edu/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bloomington.iu.edu/index.html"
+    },
+    {
+        "link": "https://theregister.com",
+        "Heading": "Technology news and analysis | The Register",
+        "Abstract": "The Register is an iconic enterprise technology news website read by millions of IT pros around the world",
+        "Official Site": "https://www.theregister.com/",
+        "Icon": "/view-resources/dachser2/public/theregister/favicons/favicon.ico",
+        "Redirect": "https://www.theregister.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.theregister.com/"
+    },
+    {
+        "link": "https://lonelyplanet.com",
+        "Heading": "Travel Guides & Travel Inspiration - Lonely Planet",
+        "Abstract": "Love travel? Discover, plan and book your perfect trip with expert advice, travel guides, destination information and inspiration from Lonely Planet.",
+        "Official Site": "https://www.lonelyplanet.com/homepage",
+        "Icon": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_8sh57ld25p50j027vkpf296n4e",
+        "Redirect": "https://www.lonelyplanet.com/homepage",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lonelyplanet.com/homepage"
+    },
+    {
+        "link": "https://sproutsocial.com",
+        "Heading": "Sprout Social: Social Media Management Tool",
+        "Abstract": "Maximize your social ROI with Sprout Social, trusted by the world's most talked about brands. Power everything from publishing and engagement to analytics and influencer marketing. Try 30 days free.",
+        "Official Site": "https://sproutsocial.com/",
+        "Icon": "https://brandfolder.sproutsocial.com/VXTUTVL1/at/xzptwj9cwpvmpnh6wpxgnx/og_general.png?auto=webp",
+        "Redirect": "https://sproutsocial.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sproutsocial.com/"
+    },
+    {
+        "link": "https://stuff.co.nz",
+        "Heading": "Stuff: Latest breaking news | New Zealand",
+        "Abstract": "News from New Zealand and the world: breaking news, videos, sport, rugby, politics, business, entertainment, lifestyle, travel, and property",
+        "Official Site": "https://stuff.co.nz",
+        "Icon": "assets/icon/Favicon-Stuff-192x192.png",
+        "Redirect": "https://stuff.co.nz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stuff.co.nz"
+    },
+    {
+        "link": "https://wistia.com",
+        "Heading": "The Video Marketing Platform for Businesses | Wistia",
+        "Abstract": "Wistia is the video marketing platform for business. Create, host, market, and measure video content with our collaborative tools, and thrive with video.",
+        "Official Site": "https://wistia.com",
+        "Icon": "https://images.ctfassets.net/buksmp4dkugj/iE7tNEpx71bpM630sHTxD/17d9755ecd7bbd53a99e9c606877e22b/Home-MetaImage.jpg?w=1200&h=630&fit=fill&fl=progressive",
+        "Redirect": "https://wistia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wistia.com"
+    },
+    {
+        "link": "https://myanimelist.net",
+        "Heading": "MyAnimeList.net - Anime and Manga Database and Community\n",
+        "Abstract": "Welcome to MyAnimeList, the world's most active online anime and manga community and database. Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more!",
+        "Official Site": "https://myanimelist.net/",
+        "Icon": "https://cdn.myanimelist.net/img/sp/icon/apple-touch-icon-256.png",
+        "Redirect": "https://myanimelist.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myanimelist.net/"
+    },
+    {
+        "link": "https://hubapi.com",
+        "Heading": "HubSpot Developers | Create tomorrow's solutions today on HubSpot's Developer Platform.",
+        "Abstract": "Craft experiences with HubSpot\u2019s Developer Platform\u2014APIs, SDKs, tooling, and sample apps, plus a world-class builder community. Get started with a free account.",
+        "Official Site": "https://developers.hubspot.com",
+        "Icon": "https://developers.hubspot.com/hubfs/developers-website/2025/developer-homepage-og-img-1.jpg",
+        "Redirect": "https://developers.hubspot.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://developers.hubspot.com"
+    },
+    {
+        "link": "https://immersivelabs.online",
+        "Heading": "Immersive",
+        "Abstract": null,
+        "Official Site": "https://immersivelabs.online",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://immersivelabs.online",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://immersivelabs.online"
+    },
+    {
+        "link": "https://economictimes.com",
+        "Heading": "Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times",
+        "Abstract": "Business news today: Read India Business News Live. Latest Business news and updates on Finance, share market, IPO, and economy. Discover Business News Headlines, Top Financial News, and more on The Economic Times.",
+        "Official Site": "https://economictimes.indiatimes.com",
+        "Icon": "https://economictimes.indiatimes.com/photo/65498029.cms",
+        "Redirect": "https://economictimes.indiatimes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://economictimes.indiatimes.com"
+    },
+    {
+        "link": "https://samsunghealth.com",
+        "Heading": "Samsung Health",
+        "Abstract": null,
+        "Official Site": "https://samsunghealth.com",
+        "Icon": "/static/img/favicon-196x196.png",
+        "Redirect": "https://samsunghealth.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://samsunghealth.com"
+    },
+    {
+        "link": "https://domaintools.com",
+        "Heading": "Threat Intelligence & Domain Security Platform | DomainTools",
+        "Abstract": "DomainTools provides DNS-based threat intelligence covering 97% of internet infrastructure. Detect, investigate & block malicious domains. Request a demo.",
+        "Official Site": "https://domaintools.com",
+        "Icon": "https://cdn.prod.website-files.com/6914bc46af7a937a5c07ee9e/695fce43a021acb55e54f465_open-graph.png",
+        "Redirect": "https://domaintools.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://domaintools.com"
+    },
+    {
+        "link": "https://iqzone.com",
+        "Heading": "IQzone \u2014 Programmatic Intelligence Platform",
+        "Abstract": null,
+        "Official Site": "https://iqzone.com",
+        "Icon": "N/A",
+        "Redirect": "https://iqzone.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iqzone.com"
+    },
+    {
+        "link": "https://revcontent.com",
+        "Heading": "RevContent | Performance-Driven Native Advertising Platform for Publishers & Advertisers",
+        "Abstract": "RevContent helps publishers and advertisers drive results with high-performing native ads. Grow your revenue and reach the right audiences across premium content environments.",
+        "Official Site": "https://revcontent.com",
+        "Icon": "https://d2fygbv2jsp7sc.cloudfront.net/666eb0acab3d7ab79b4aa515/6716487d519656a03351414c_revcontent-social.png",
+        "Redirect": "https://revcontent.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://revcontent.com"
+    },
+    {
+        "link": "https://gaijin.net",
+        "Heading": "Gaijin Entertainment",
+        "Abstract": "Gaijin.Net \u2014 Online Games Distribution Service",
+        "Official Site": "https://gaijin.net",
+        "Icon": "https://gaijin.net/assets/build/images/jpg/og_image.jpg",
+        "Redirect": "https://gaijin.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gaijin.net"
+    },
+    {
+        "link": "https://ahagamecenter.com",
+        "Heading": "AHA Games, Play More Live More",
+        "Abstract": "Aha Games is a distribution platform providing you with an unlimited library of Mobile Games (APK & HTML5). With over 1000 free games to download, and 20 million users worldwide, AHA Games is a platform where you can feed your entertainment pleasure till the very LAST DROP!",
+        "Official Site": "https://aha.game/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://aha.game/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aha.game/"
+    },
+    {
+        "link": "https://libero.it",
+        "Heading": "Libero: Mail, Ricerca e News con aggiornamento quotidiano",
+        "Abstract": "Entra su Libero.it: Mail e Email PEC, Login, le Ultime Notizie con aggiornamento quotidiano, Video, Motore di Ricerca e tanto altro",
+        "Official Site": "https://www.libero.it/",
+        "Icon": "/public/e/img/img_social.png?v1",
+        "Redirect": "https://www.libero.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.libero.it/"
+    },
+    {
+        "link": "https://salon.com",
+        "Heading": "Salon.com - News, Politics, Culture, Science & Food",
+        "Abstract": null,
+        "Official Site": "https://www.salon.com/?utm_source=website&utm_medium=social&utm_campaign=ogshare&utm_content=og",
+        "Icon": "https://www.salon.com/app/themes/salon/assets/img/favicon-32x32.png",
+        "Redirect": "https://www.salon.com/?utm_source=website&utm_medium=social&utm_campaign=ogshare&utm_content=og",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.salon.com/?utm_source=website&utm_medium=social&utm_campaign=ogshare&utm_content=og"
+    },
+    {
+        "link": "https://zerocdn.com",
+        "Heading": "ZeroCDN.com ::  CDN for mp4 and HLS, cloud storage",
+        "Abstract": "ZeroCDN.com - affordable CDN, CDN for video content, cloud storage",
+        "Official Site": "https://zerocdn.com",
+        "Icon": "/static/img/favicon.ico",
+        "Redirect": "https://zerocdn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zerocdn.com"
+    },
+    {
+        "link": "https://kahoot.it",
+        "Heading": "Kahoot!",
+        "Abstract": "Join a game of kahoot \u2013 answer questions in an interactive quiz, compete with others, and experience awesome learning.",
+        "Official Site": "https://kahoot.it",
+        "Icon": "https://assets-cdn.kahoot.it/controller/v2/favicon.ico",
+        "Redirect": "https://kahoot.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kahoot.it"
+    },
+    {
+        "link": "https://org.ru",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430 \u0434\u043e\u043c\u0435\u043d\u043e\u0432 NET.RU, ORG.RU, PP.RU",
+        "Abstract": "\u0421\u0430\u0439\u0442 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442\u043e\u0440\u0430 \u0434\u043e\u043c\u0435\u043d\u043e\u0432 \u0432 \u0434\u043e\u043c\u0435\u043d\u043d\u044b\u0445 \u0437\u043e\u043d\u0430\u0445 net.ru, org.ru, pp.ru",
+        "Official Site": "./",
+        "Icon": "./images/bg.jpg",
+        "Redirect": "./",
+        "AbstractSource": "BS4",
+        "AbstractURL": "./"
+    },
+    {
+        "link": "https://similarweb.com",
+        "Heading": "Similarweb: AI-Powered Digital Data Intelligence Solutions",
+        "Abstract": "Similarweb is an AI-powered digital data company providing real-time market intelligence, competitive insights, and consumer trends to accelerate business growth.",
+        "Official Site": "https://www.similarweb.com/",
+        "Icon": "https://static-us-west-2.similarcdn.com/build/20260520.master.a0a114d/dist/scripts/lite-app/assets/e23cf3508cf10cb3b580.png",
+        "Redirect": "https://www.similarweb.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.similarweb.com/"
+    },
+    {
+        "link": "https://federalregister.gov",
+        "Heading": "\n      Federal Register\n       :: \n      Home - Friday, May 22nd\n    ",
+        "Abstract": "Search, browse and learn about the Federal Register. Federal Register 2.0 is the unofficial daily publication for rules, proposed rules, and notices of Federal agencies and organizations, as well as executive orders and other presidential documents.",
+        "Official Site": "https://www.federalregister.gov/",
+        "Icon": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
+        "Redirect": "https://www.federalregister.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.federalregister.gov/"
+    }
+]

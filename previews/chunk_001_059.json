@@ -1,0 +1,362 @@
+[
+    {
+        "link": "https://esa.int",
+        "Heading": "European Space Agency",
+        "Abstract": "The European Space Agency portal features the latest news in space exploration, human spaceflight, launchers, telecommunications, navigation, monitoring and space science. ",
+        "Official Site": "https://esa.int",
+        "Icon": "N/A",
+        "Redirect": "https://esa.int",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://esa.int"
+    },
+    {
+        "link": "https://modrinth.com",
+        "Heading": "Modrinth",
+        "Abstract": "Discover and publish Minecraft content!",
+        "Official Site": "https://modrinth.com",
+        "Icon": "https://cdn.modrinth.com/modrinth-new.png",
+        "Redirect": "https://modrinth.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://modrinth.com"
+    },
+    {
+        "link": "https://ctnsnet.com",
+        "Heading": "Welcome to nginx!",
+        "Abstract": null,
+        "Official Site": "https://ctnsnet.com",
+        "Icon": "N/A",
+        "Redirect": "https://ctnsnet.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ctnsnet.com"
+    },
+    {
+        "link": "https://pp.ru",
+        "Heading": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430 \u0434\u043e\u043c\u0435\u043d\u043e\u0432 NET.RU, ORG.RU, PP.RU",
+        "Abstract": "\u0421\u0430\u0439\u0442 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442\u043e\u0440\u0430 \u0434\u043e\u043c\u0435\u043d\u043e\u0432 \u0432 \u0434\u043e\u043c\u0435\u043d\u043d\u044b\u0445 \u0437\u043e\u043d\u0430\u0445 net.ru, org.ru, pp.ru",
+        "Official Site": "./",
+        "Icon": "./images/bg.jpg",
+        "Redirect": "./",
+        "AbstractSource": "BS4",
+        "AbstractURL": "./"
+    },
+    {
+        "link": "https://check24.de",
+        "Heading": "CHECK24 | Das Vergleichsportal",
+        "Abstract": "CHECK24 - Das Vergleichsportal: Sparen Sie mit den Vergleichsrechnern f\u00fcr Versicherungen, Kredite, Energie, Internet, Reisen, Fl\u00fcge und mehr.",
+        "Official Site": "https://www.check24.de",
+        "Icon": "https://www.check24.de/assets/images/web/misc/check24_200x200.png",
+        "Redirect": "https://www.check24.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.check24.de"
+    },
+    {
+        "link": "https://univie.ac.at",
+        "Heading": "Universit\u00e4t Wien \u2013 Studieren, Forschen, Leben in Wien",
+        "Abstract": "Die Universit\u00e4t Wien ist mit \u00fcber 90.000 Studierenden eine der gr\u00f6\u00dften Hochschulen Europas. Entdecken Sie unser vielf\u00e4ltiges Studienangebot, exzellente Forschung und das Unileben im Herzen Wiens.",
+        "Official Site": "https://www.univie.ac.at/",
+        "Icon": "https://www.univie.ac.at/fileadmin/_processed_/6/b/csm_Uni_Logo_e2ab7bfa6c.png",
+        "Redirect": "https://www.univie.ac.at/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.univie.ac.at/"
+    },
+    {
+        "link": "https://ripe.net",
+        "Heading": "\n      \n        Welcome to RIPE and the RIPE NCC \u2014 RIPE Network Coordination Centre\n      \n    ",
+        "Abstract": "The RIPE NCC is one of five Regional Internet Registries (RIRs) providing Internet resource allocation and registration, and coordination activities.",
+        "Official Site": "https://www.ripe.net/",
+        "Icon": "/static/images/logo.png",
+        "Redirect": "https://www.ripe.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ripe.net/"
+    },
+    {
+        "link": "https://freshdesk.com",
+        "Heading": "Freshdesk: AI-powered platform for modern customer service | Freshworks",
+        "Abstract": "Freshdesk is an AI-powered customer service solution that\u2019s easy to set up, simple to use, and built to boost agent productivity and deliver seamless customer experiences. Try it free!",
+        "Official Site": "https://www.freshworks.com/freshdesk/",
+        "Icon": "https://dam.freshworks.com/m/541afb2fa140d046/original/OGImage_CX-Freshdesk.webp",
+        "Redirect": "https://www.freshworks.com/freshdesk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.freshworks.com/freshdesk/"
+    },
+    {
+        "link": "https://rtve.es",
+        "Heading": "Noticias de \ufffdltima hora, programas y series de televisi\ufffdn - RTVE.es",
+        "Abstract": "Noticias, deportes, actualidad, \ufffdlbumes, series y programas, y la \ufffdltima hora de Espa\ufffda y el mundo.",
+        "Official Site": "https://www.rtve.es/",
+        "Icon": "http://www.rtve.es/contenidos/imagenes/rtve_facebook.jpg",
+        "Redirect": "https://www.rtve.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rtve.es/"
+    },
+    {
+        "link": "https://pitt.edu",
+        "Heading": "Home | University of Pittsburgh",
+        "Abstract": null,
+        "Official Site": "https://pitt.edu",
+        "Icon": "/themes/custom/pitt_25_edu/favicon.ico",
+        "Redirect": "https://pitt.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pitt.edu"
+    },
+    {
+        "link": "https://grass.io",
+        "Heading": "Get rewarded for the internet you don't use",
+        "Abstract": "Grass turns the unused part of your internet into rewards. Just download the app, let it run in the background, and start earning.",
+        "Official Site": "https://www.grass.io/",
+        "Icon": "https://www.grass.io/images/seo-banner-2.png",
+        "Redirect": "https://www.grass.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.grass.io/"
+    },
+    {
+        "link": "https://hotmart.com",
+        "Heading": "Hotmart \u2014 Learn what you want, teach what you know",
+        "Abstract": "Learn more about Hotmart, the leading platform for selling and distributing digital products.",
+        "Official Site": "https://hotmart.com",
+        "Icon": "https://hotmart.com/static/app-hotmart-next/images/share--general.jpg",
+        "Redirect": "https://hotmart.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotmart.com"
+    },
+    {
+        "link": "https://cygwin.com",
+        "Heading": "Cygwin",
+        "Abstract": null,
+        "Official Site": "https://cygwin.com",
+        "Icon": "N/A",
+        "Redirect": "https://cygwin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cygwin.com"
+    },
+    {
+        "link": "https://nyc.gov",
+        "Heading": "Official Website of New York City Government - nyc.gov",
+        "Abstract": "On the homepage of nyc.gov, you can check today's statuses for parking, schools, and trash collection. You can also access popular services, news, and see what's new from NYC government. ",
+        "Official Site": "https://nyc.gov",
+        "Icon": "/etc.clientlibs/nycgov/clientlibs/clientlib-site/resources/favicon/icon-192x192.svg",
+        "Redirect": "https://nyc.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nyc.gov"
+    },
+    {
+        "link": "https://axis.com",
+        "Heading": "Axis Communications - Leader in network cameras and other IP networking solutions | Axis Communications",
+        "Abstract": null,
+        "Official Site": "https://axis.com",
+        "Icon": "/themes/custom/axiscom/favicon.ico",
+        "Redirect": "https://axis.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://axis.com"
+    },
+    {
+        "link": "https://onlinepbx.ru",
+        "Heading": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0410\u0422\u0421 \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430: \u043e\u0431\u043b\u0430\u0447\u043d\u0430\u044f \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f \u0434\u043b\u044f \u043e\u0444\u0438\u0441\u0430 | onlinePBX",
+        "Abstract": "\u0412\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0410\u0422\u0421 \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430: \u043e\u0431\u043b\u0430\u0447\u043d\u0430\u044f \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0438\u044f \u0434\u043b\u044f \u043e\u0444\u0438\u0441\u0430 | onlinePBX",
+        "Official Site": "https://onlinepbx.ru",
+        "Icon": "https://static.tildacdn.com/tild3761-3335-4836-a130-653666656133/photo.png",
+        "Redirect": "https://onlinepbx.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onlinepbx.ru"
+    },
+    {
+        "link": "https://yg5sjx5kzy.com",
+        "Heading": "Hola | Fast, Secure, and Reliable Proxy Unblocker & VPN",
+        "Abstract": "Wish you could access worldwide content anytime, anywhere? With Hola you can! Experience uninterrupted content at the tip of your fingers! Discover more.",
+        "Official Site": "https://hola.org/",
+        "Icon": "https://hola.org/img/hola_og.png",
+        "Redirect": "https://hola.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hola.org/"
+    },
+    {
+        "link": "https://starbucks.com",
+        "Heading": "Starbucks Coffee Company",
+        "Abstract": "Explore our menu of handcrafted drinks, order ahead, sign up for Starbucks\u00ae Rewards, manage your gift card and more.",
+        "Official Site": "https://www.starbucks.com/",
+        "Icon": "/next_static/icons/summary_square.png",
+        "Redirect": "https://www.starbucks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.starbucks.com/"
+    },
+    {
+        "link": "https://allstate.com",
+        "Heading": "Allstate Insurance Company | You're In Good Hands.",
+        "Abstract": "Get an online insurance quote for quality coverage in the blink of an eye. Allstate offers insurance for your car, home, rental, motorcycle and more.",
+        "Official Site": "https://www.allstate.com/",
+        "Icon": "/dist/content-client-react-app/favicon.ico",
+        "Redirect": "https://www.allstate.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.allstate.com/"
+    },
+    {
+        "link": "https://insales.ru",
+        "Heading": "\u0421\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u0438 \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u043e\u043d\u043b\u0430\u0439\u043d \u0447\u0435\u0440\u0435\u0437 inSales",
+        "Abstract": "inSales \u2014 \u0435\u0434\u0438\u043d\u044b\u0439 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043f\u0440\u043e\u0434\u0430\u0436: \u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d, \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u0447\u0435\u0440\u0435\u0437 \u043c\u0430\u0440\u043a\u0435\u0442\u043f\u043b\u0435\u0439\u0441\u044b, \u0441\u043e\u0446\u0441\u0435\u0442\u0438 \u0438 \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u044b.",
+        "Official Site": "/",
+        "Icon": "https://static.insales-cdn.com/assets/1/7561/6544777/1777547991/og-new.png",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://voximplant.com",
+        "Heading": "Intelligent Cloud Communications: APIs|SDKs, Contact Center, IVR, NLP",
+        "Abstract": "Voximplant\u2019s platform is a full-featured CPaaS for voice, video & messaging. Innovate and scale real-time communications with cloud-based call center solutions. Improve communication processes now.",
+        "Official Site": "https://voximplant.com",
+        "Icon": "/vox/og_en.jpg",
+        "Redirect": "https://voximplant.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://voximplant.com"
+    },
+    {
+        "link": "https://flic.kr",
+        "Heading": "Flickr | The best place to be a photographer online.",
+        "Abstract": "The nicest place on the internet is here for you: inspiration, community, creativity, art, passion, and a heaping scoop of weirdness await you. Join for free.",
+        "Official Site": "https://flic.kr",
+        "Icon": "https://combo.staticflickr.com/66a031f9fc343c5e42d965ca/671aaf5d51c929e483e8b26d_Open%20Graph%20Home.jpg",
+        "Redirect": "https://flic.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flic.kr"
+    },
+    {
+        "link": "https://mimecast.com",
+        "Heading": "Human Risk Management & Advanced Email Security | Mimecast",
+        "Abstract": "Protect email and collaboration tools with Mimecast. Manage human risk and stay ahead of cyber threats with advanced security solutions.",
+        "Official Site": "https://www.mimecast.com/",
+        "Icon": "/sc-static/img/favicons/icons_m_192x192.png",
+        "Redirect": "https://www.mimecast.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mimecast.com/"
+    },
+    {
+        "link": "https://likeevideo.ru",
+        "Heading": "Likee - Short Video Community",
+        "Abstract": "Likee is a Short Video Community that allows you to explore more content of your interests and make more like-minded friends.",
+        "Official Site": "https://likeevideo.ru",
+        "Icon": "https://static-web.likeevideo.com/as/likee-static/likee_logo/logo_200.png",
+        "Redirect": "https://likeevideo.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://likeevideo.ru"
+    },
+    {
+        "link": "https://flipboard.com",
+        "Heading": "Flipboard: Your Social Magazine",
+        "Abstract": "One place for all the stories you care about. Join the Flipboard community to discover and share what inspires you.",
+        "Official Site": "https://flipboard.com/",
+        "Icon": "https://cdn.flipboard.com/itemshare/Logo-250X250.png",
+        "Redirect": "https://flipboard.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flipboard.com/"
+    },
+    {
+        "link": "https://sfr.fr",
+        "Heading": "SFR | Internet Fibre et ADSL, Forfaits 5G, T\u00e9l\u00e9phone, TV",
+        "Abstract": "D\u00e9couvrez les offres Internet et mobile sur SFR.FR : Box fibre et Tr\u00e8s Haut D\u00e9bit, forfaits mobiles, smartphones, box 5G, bouquets TV, et maison s\u00e9curis\u00e9e.",
+        "Official Site": "https://www.sfr.fr/",
+        "Icon": "https://static.s-sfr.fr/media/icon-192x192.png",
+        "Redirect": "https://www.sfr.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sfr.fr/"
+    },
+    {
+        "link": "https://timeout.com",
+        "Heading": "Time Out | Best Things To Do and Events In Cities Worldwide",
+        "Abstract": "Your ultimate guide to the best art and entertainment, food and drink, attractions, hotels and things to do in the world\u2019s greatest cities.",
+        "Official Site": "https://www.timeout.com",
+        "Icon": "https://media.timeout.com/images/105686275/image.jpg",
+        "Redirect": "https://www.timeout.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.timeout.com"
+    },
+    {
+        "link": "https://mediavine.com",
+        "Heading": "Homepage - Mediavine",
+        "Abstract": "Smarter Monetization Starts Here Mediavine powers digital businesses with technology and data engineered to outperform. Our platform delivers cleaner delivery, stronger revenue, and long-term performance for publishers building what\u2019s next. Trusted by 17,000+ publishers, built on technology proven to perform One Platform Built to Outperform Mediavine gives digital publishers a competitive advantage with technology designed...",
+        "Official Site": "https://www.mediavine.com/",
+        "Icon": "https://www.mediavine.com/wp-content/uploads/2025/11/hp-hero-image.png",
+        "Redirect": "https://www.mediavine.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mediavine.com/"
+    },
+    {
+        "link": "https://callrail.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://callrail.com",
+        "Icon": "favicon.png",
+        "Redirect": "https://callrail.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://callrail.com"
+    },
+    {
+        "link": "https://straitstimes.com",
+        "Heading": "The Straits Times - Breaking news, Singapore news, Asia and world news & multimedia",
+        "Abstract": "The Straits Times - Get latest breaking news, business, sports, lifestyle, tech & multimedia and more news in Singapore, Asia & rest of the world at straitstimes.com.",
+        "Official Site": "https://www.straitstimes.com/global",
+        "Icon": "https://static1.straitstimes.com.sg/s3fs-public/articles/2025/06/05/ST-bg.jpg",
+        "Redirect": "https://www.straitstimes.com/global",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.straitstimes.com/global"
+    },
+    {
+        "link": "https://picsart.com",
+        "Heading": "Picsart: The AI Creative Platform",
+        "Abstract": "Picsart is an all-in-one creative platform with a wide selection of free AI design tools. Create content fast with expert-crafted templates, built-in asset libraries, and generative AI tools.",
+        "Official Site": "https://picsart.com/",
+        "Icon": "https://cdn-cms-uploads.picsart.com/cms-uploads/3ceeb21d-405b-4062-ab27-216905e74624.webp",
+        "Redirect": "https://picsart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://picsart.com/"
+    },
+    {
+        "link": "https://storygize.net",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://storygize.net",
+        "Icon": "N/A",
+        "Redirect": "https://storygize.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://storygize.net"
+    },
+    {
+        "link": "https://vt.edu",
+        "Heading": "Home | Virginia Tech",
+        "Abstract": null,
+        "Official Site": "https://vt.edu/content/vt_edu/en/index.html",
+        "Icon": "//assets.cms.vt.edu/favicon/favicon.ico",
+        "Redirect": "https://vt.edu/content/vt_edu/en/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vt.edu/content/vt_edu/en/index.html"
+    },
+    {
+        "link": "https://foursquare.com",
+        "Heading": "Location Intelligence Platform | Foursquare",
+        "Abstract": "Foursquare is the industry-leading geospatial intelligence platform. Power your business with 100M+ POIs, foot traffic data, and location-based solutions for marketers, developers, and analysts.",
+        "Official Site": "https://foursquare.com/",
+        "Icon": "https://foursquare.com/wp-content/uploads/sites/2/2022/10/FSQ_Hero2.png",
+        "Redirect": "https://foursquare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://foursquare.com/"
+    },
+    {
+        "link": "https://popularmechanics.com",
+        "Heading": "Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology",
+        "Abstract": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world, whether it's practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science.",
+        "Official Site": "https://popularmechanics.com",
+        "Icon": "/_assets/design-tokens/popularmechanics/static/images/favicon.ee0d102.ico",
+        "Redirect": "https://popularmechanics.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://popularmechanics.com"
+    },
+    {
+        "link": "https://advolve.io",
+        "Heading": "Carty",
+        "Abstract": null,
+        "Official Site": "https://advolve.io",
+        "Icon": "/cartydsp/carty-icon.png",
+        "Redirect": "https://advolve.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://advolve.io"
+    }
+]

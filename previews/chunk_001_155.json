@@ -1,0 +1,332 @@
+[
+    {
+        "link": "https://bcorporation.net",
+        "Heading": "B Labs Logo - Home Link",
+        "Abstract": null,
+        "Official Site": "https://bcorporation.net",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://bcorporation.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bcorporation.net"
+    },
+    {
+        "link": "https://wri.org",
+        "Heading": "World Resources Institute - Research for People & Planet",
+        "Abstract": "WRI is a global research organization working to improve people\u2019s lives, protect nature and halt climate change.",
+        "Official Site": "https://wri.org",
+        "Icon": "/sites/default/files/favicon.ico",
+        "Redirect": "https://wri.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wri.org"
+    },
+    {
+        "link": "https://delishkitchen.tv",
+        "Heading": "\u30c7\u30ea\u30c3\u30b7\u30e5\u30ad\u30c3\u30c1\u30f3 | \u6599\u7406\u30ec\u30b7\u30d4\u52d5\u753b\u3067\u4f5c\u308a\u65b9\u304c\u7c21\u5358\u306b\u308f\u304b\u308b",
+        "Abstract": "\u6bce\u65e5\u306e\u671d\u3054\u306f\u3093\u3084\u3001\u304a\u5f01\u5f53\u306e\u304a\u304b\u305a\u3001\u30c0\u30a4\u30a8\u30c3\u30c8\u306b\u3046\u308c\u3057\u3044\u91ce\u83dc\u305f\u3063\u3077\u308a\u306e\u30ec\u30b7\u30d4\u306a\u3069\u3001\u5bb6\u65cf\u304c\u559c\u3076\u304a\u3044\u3057\u3044\u3054\u98ef\u306e\u30ec\u30b7\u30d4\u304c1\u5206\u307b\u3069\u306e\u6599\u7406\u52d5\u753b\u3068\u89e3\u8aac\u3067\u7c21\u5358\u306b\u4f5c\u308c\u307e\u3059\uff01",
+        "Official Site": "https://delishkitchen.tv",
+        "Icon": "https://delishkitchen.tv/s/images/ogp_image.png?version=20260114",
+        "Redirect": "https://delishkitchen.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://delishkitchen.tv"
+    },
+    {
+        "link": "https://pudelek.pl",
+        "Heading": "Pudelek.pl - Plotki, Gwiazdy, Sensacja - Pudelek",
+        "Abstract": "Tylko \u015bwie\u017ce plotki ze \u015bwiata polskich i zagranicznych celebryt\u00f3w. Najnowsze newsy, skandale, zdj\u0119cia i wpadki. Zdradzamy sekrety najwi\u0119kszych gwiazd!",
+        "Official Site": "https://www.pudelek.pl/",
+        "Icon": "https://pudelek.pl/staticfiles/tile-wide.png",
+        "Redirect": "https://www.pudelek.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pudelek.pl/"
+    },
+    {
+        "link": "https://wildlifestudios.com",
+        "Heading": "Wildlife",
+        "Abstract": "\"Play Tennis Clash for an exciting game of tennis! Try Zooba for a unique Battle Royale experience. Join Wildlife Studios for a career in game development.\"",
+        "Official Site": "https://wildlifestudios.com/",
+        "Icon": "https://wildlifestudios.com/wp-content/themes/wildlife/assets/images/facebook.png",
+        "Redirect": "https://wildlifestudios.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wildlifestudios.com/"
+    },
+    {
+        "link": "https://hmetro.com.my",
+        "Heading": "Harian Metro | Berita Malaysia dan berita dunia terkini",
+        "Abstract": "Laman Harian Metro membawa berita harian di Malaysia, berita dunia, berita sukan, berita ekonomi, isu semasa pendidikan & pelbagai lagi berita terkini.",
+        "Official Site": "https://www.hmetro.com.my",
+        "Icon": "https://assets.hmetro.com.my/assets/logo-hm-ogimage.png",
+        "Redirect": "https://www.hmetro.com.my",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hmetro.com.my"
+    },
+    {
+        "link": "https://agones.gr",
+        "Heading": "\u03a3\u03c4\u03bf\u03b9\u03c7\u03b7\u03bc\u03b1 - Livescore - Stoixima",
+        "Abstract": "\u03a3\u03c4\u03bf\u03af\u03c7\u03b7\u03bc\u03b1 - Stoixima: Live scores \u03bc\u03b5 \u03bf\u03bb\u03cc\u03ba\u03bb\u03b7\u03c1\u03bf \u03c4\u03bf \u03b4\u03b5\u03bb\u03c4\u03af\u03bf \u03c4\u03bf\u03c5 \u03a0\u03ac\u03bc\u03b5 \u03a3\u03c4\u03bf\u03af\u03c7\u03b7\u03bc\u03b1 - Stoixima. \u03a0\u03c1\u03bf\u03b3\u03bd\u03c9\u03c3\u03c4\u03b9\u03ba\u03ac, \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03c8\u03b7\u03c6\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2.",
+        "Official Site": "https://agones.gr/",
+        "Icon": "https://agones.gr/static/img/default_og_image.png?v=764fe1aebf1838198a1b7442b5ebf2c1",
+        "Redirect": "https://agones.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agones.gr/"
+    },
+    {
+        "link": "https://bustimes.org",
+        "Heading": "Bus Times",
+        "Abstract": "Bus timetables, maps and tracking",
+        "Official Site": "https://bustimes.org",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://bustimes.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bustimes.org"
+    },
+    {
+        "link": "https://officeally.com",
+        "Heading": "Healthcare Software Solutions For Hospitals & Medical Practices",
+        "Abstract": "Discover Office Ally's comprehensive suite of healthcare solutions including Practice Mate, Service Center, Revenue Recovery, Insurance Discovery, & more.",
+        "Official Site": "https://officeally.com",
+        "Icon": "https://cdn.prod.website-files.com/6830ce6e8206ddade0c99cae/685a8608a3be0ee908352542_63167bd0b4cc9f6d41328966_OA-ico.png",
+        "Redirect": "https://officeally.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://officeally.com"
+    },
+    {
+        "link": "https://gree.jp",
+        "Heading": "GREE\uff08\u30b0\u30ea\u30fc\uff09",
+        "Abstract": "\u30bd\u30fc\u30b7\u30e3\u30eb\u30b2\u30fc\u30e0\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u300cGREE\uff08\u30b0\u30ea\u30fc\uff09\u300d\u306f\u3001\u4eba\u6c17\u30b2\u30fc\u30e0\u304c\u76db\u308a\u3060\u304f\u3055\u3093\uff01\u30b9\u30de\u30db\u304b\u3089\u7121\u6599\u30bd\u30fc\u30b7\u30e3\u30eb\u30b2\u30fc\u30e0\u3092\u697d\u3057\u3080\u306a\u3089GREE\u3002",
+        "Official Site": "https://gree.jp",
+        "Icon": "https://aimg-static-ssl.gree.net/ggp/img/1x/common/favicon.ico",
+        "Redirect": "https://gree.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gree.jp"
+    },
+    {
+        "link": "https://mm-cg.com",
+        "Heading": "WAIN\u8a0e\u8ad6\u5340_MM-CG.COM\u7d9c\u5408\u8ad6\u58c7",
+        "Abstract": null,
+        "Official Site": "https://mm-cg.com",
+        "Icon": "N/A",
+        "Redirect": "https://mm-cg.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mm-cg.com"
+    },
+    {
+        "link": "https://monetixads.com",
+        "Heading": "Monetix Ads | Boost Your Ad Revenue",
+        "Abstract": "Monetix empower publishers with technology-driven growth and maximized ad revenue. Unlock your site's earning power with Monetix Ads.",
+        "Official Site": "https://www.monetixads.com",
+        "Icon": "https://static.wixstatic.com/media/7410a8_bb66bf7e48644784bd1a81be8b606bd7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/7410a8_bb66bf7e48644784bd1a81be8b606bd7%7Emv2.png",
+        "Redirect": "https://www.monetixads.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.monetixads.com"
+    },
+    {
+        "link": "https://biletinial.com",
+        "Heading": "\nBiletinial - T\u00fcrkiye\u2019nin Etkinlik Biletleme Platformu",
+        "Abstract": "Bilet alman\u0131n en kolay yolu; konser, tiyatro, sinema, futbol, basketbol, voleybol biletleri ve \u00e7ok daha fazlas\u0131 burada...",
+        "Official Site": "https://biletinial.com/tr-tr",
+        "Icon": "https://b6s54eznn8xq.merlincdn.net/dist/assets/img/logo.svg",
+        "Redirect": "https://biletinial.com/tr-tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://biletinial.com/tr-tr"
+    },
+    {
+        "link": "https://newsbomb.gr",
+        "Heading": "\u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u039a\u03cc\u03c3\u03bc\u03bf \u03bc\u03b5 \u03b5\u03b3\u03ba\u03c5\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 - Newsbomb",
+        "Abstract": "\u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c4\u03ce\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae, \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1, \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ac, \u03a5\u03b3\u03b5\u03af\u03b1 \u03ba\u03b1\u03b9 \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1. \u038c,\u03c4\u03b9 \u03c3\u03c5\u03bc\u03b2\u03b1\u03af\u03bd\u03b5\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u039a\u03cc\u03c3\u03bc\u03bf.",
+        "Official Site": "https://www.newsbomb.gr/",
+        "Icon": "https://img.bbmd.gr/assets/template/og-image-2024.jpg",
+        "Redirect": "https://www.newsbomb.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.newsbomb.gr/"
+    },
+    {
+        "link": "https://toytheater.com",
+        "Heading": "\nToy Theater | Fun Online Educational Games for Kids",
+        "Abstract": "Make learning a blast! Toy Theater is chock full of interactive online art, reading & math games for kids. Designed with the needs of kindergarten through third grade classrooms in mind, these free games are trusted by teachers around the world to provide real educational value.",
+        "Official Site": "https://toytheater.com/",
+        "Icon": "https://toytheater.com/wp-content/uploads/toytheater.gif",
+        "Redirect": "https://toytheater.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://toytheater.com/"
+    },
+    {
+        "link": "https://rnz.co.nz",
+        "Heading": "RNZ - NZ News, Current Affairs, Audio On Demand",
+        "Abstract": "New Zealand's public broadcaster, providing comprehensive NZ news and current affairs, specialist audio features and documentaries.",
+        "Official Site": "https://www.rnz.co.nz/",
+        "Icon": "https://www.rnz.co.nz/brand-images/rnz-sky-sq.jpg",
+        "Redirect": "https://www.rnz.co.nz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rnz.co.nz/"
+    },
+    {
+        "link": "https://21vek.by",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d-\u0433\u0438\u043f\u0435\u0440\u043c\u0430\u0440\u043a\u0435\u0442 21vek.by",
+        "Abstract": "\u2b50\ufe0f \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0438 \u0441\u0430\u043c\u043e\u0432\u044b\u0432\u043e\u0437 \u043f\u043e \u0432\u0441\u0435\u0439 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438 \u2705 \u041e\u043f\u043b\u0430\u0442\u0430 \u0447\u0430\u0441\u0442\u044f\u043c\u0438 \u2b50\ufe0f \u041d\u0430\u043b\u0438\u0447\u043d\u0430\u044f \u0438 \u0431\u0435\u0437\u043d\u0430\u043b\u0438\u0447\u043d\u0430\u044f \u043e\u043f\u043b\u0430\u0442\u0430 \u27a4\u27a4 \u0428\u0438\u0440\u043e\u043a\u0438\u0439 \u0432\u044b\u0431\u043e\u0440 \u0442\u043e\u0432\u0430\u0440\u043e\u0432",
+        "Official Site": "https://www.21vek.by/",
+        "Icon": "https://www.21vek.by/img/up/logo_21vek.by.png",
+        "Redirect": "https://www.21vek.by/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.21vek.by/"
+    },
+    {
+        "link": "https://questionablequesting.com",
+        "Heading": "Questionable Questing",
+        "Abstract": "An oozing pit of lewdz and body fluids.",
+        "Official Site": "https://questionablequesting.com/",
+        "Icon": "N/A",
+        "Redirect": "https://questionablequesting.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://questionablequesting.com/"
+    },
+    {
+        "link": "https://1377x.to",
+        "Heading": "1377x | Download torrents | 1337x.to | 1377x.to",
+        "Abstract": "1377x.to - Download verified torrents: movies, music, games, software | 1337x.org | 1337x.to",
+        "Official Site": "https://1377x.to",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://1377x.to",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://1377x.to"
+    },
+    {
+        "link": "https://rawstory.com",
+        "Heading": "Raw Story - Celebrating 20 Years of Independent Journalism",
+        "Abstract": "Breaking news, political news, and investigative news reporting from Raw Story's team of journalists and prize-winning investigators.",
+        "Official Site": "https://rawstory.com",
+        "Icon": "https://www.rawstory.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDk4MDQwMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTgzNTExMjc0NH0.ZT756fKW6nJ8Jy1dvdQwXS-mCrrd8Pcskuj9pm5qgaQ/image.jpg?width=210",
+        "Redirect": "https://rawstory.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rawstory.com"
+    },
+    {
+        "link": "https://gammaplatform.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gammaplatform.com",
+        "Icon": "N/A",
+        "Redirect": "https://gammaplatform.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gammaplatform.com"
+    },
+    {
+        "link": "https://ib-game.jp",
+        "Heading": "ib-game.jp | \u30a2\u30c9\u30d0\u30b2\u30fc\u30e0\u306eOEM\u63d0\u4f9b",
+        "Abstract": "ib-game.jp\u306f\u3001\u30a2\u30c9\u30d0\u30b2\u30fc\u30e0\u3092OEM\u63d0\u4f9b\u3044\u305f\u3057\u307e\u3059\uff01",
+        "Official Site": "https://ib-game.jp",
+        "Icon": "N/A",
+        "Redirect": "https://ib-game.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ib-game.jp"
+    },
+    {
+        "link": "https://krisp.ai",
+        "Heading": "Voice AI for Meetings: Noise Cancellation & AI Note Taker | Krisp",
+        "Abstract": "Krisp cancels background noise, records, transcribes, and summarizes meetings and calls.",
+        "Official Site": "https://www.krisp.ai/",
+        "Icon": "https://krisp.ai/wp-content/uploads/2025/08/thumb1.jpg",
+        "Redirect": "https://www.krisp.ai/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.krisp.ai/"
+    },
+    {
+        "link": "https://saramin.co.kr",
+        "Heading": "\ub098\uc5d0\uac8c \ub531 \ub9de\ub294 \ucee4\ub9ac\uc5b4\ub9cc \ub9e4\uce58, \uc0ac\ub78c\uc778! | \ucde8\uc5c5, \ucc44\uc6a9, \ucee4\ub9ac\uc5b4 \ub9e4\uce6d \ud50c\ub7ab\ud3fc",
+        "Abstract": "\ub098\uc5d0\uac8c \ub531 \ub9de\ub294 \ucee4\ub9ac\uc5b4\ub9cc \ub9e4\uce58! \uc0ac\ub78c\uc778\uc5d0\uc11c \uc0c8\ub85c\uc6b4 \uae30\ud68c\ub97c \uc81c\uc548 \ubc1b\uace0 \uae30\uc5c5\uc815\ubcf4, \uc5f0\ubd09\uc815\ubcf4, \uba74\uc811\ud6c4\uae30 \ub4f1 \ucde8\uc5c5, \ucc44\uc6a9\uc5d0 \uaf2d \ud544\uc694\ud55c \uc815\ubcf4\ub97c \ud655\uc778\ud574\ubcf4\uc138\uc694.",
+        "Official Site": "https://www.saramin.co.kr/zf_user/",
+        "Icon": "//www.saraminimage.co.kr/logo/saraminsnslogo.png",
+        "Redirect": "https://www.saramin.co.kr/zf_user/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.saramin.co.kr/zf_user/"
+    },
+    {
+        "link": "https://alphapolis.co.jp",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://alphapolis.co.jp",
+        "Icon": "N/A",
+        "Redirect": "https://alphapolis.co.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alphapolis.co.jp"
+    },
+    {
+        "link": "https://ondigitalocean.com",
+        "Heading": "AI-Native Cloud | DigitalOcean",
+        "Abstract": "Run AI products in production with a unified stack for agents, inference, and cloud\u2014built for control, performance, and economics at scale.",
+        "Official Site": "https://www.digitalocean.com",
+        "Icon": "/_next/static/media/favicon.594d6067.ico",
+        "Redirect": "https://www.digitalocean.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.digitalocean.com"
+    },
+    {
+        "link": "https://abczdrowie.pl",
+        "Heading": "Zdrowie i zdrowy styl \u017cycia | WP abcZdrowie",
+        "Abstract": "Wysokiej jako\u015bci artyku\u0142y i porady o zdrowiu. Opisy chor\u00f3b, ich objaw\u00f3w i leczenia. Baza ekspert\u00f3w medycznych odpowiadaj\u0105ca na Wasze pytania.",
+        "Official Site": "https://portal.abczdrowie.pl/",
+        "Icon": "https://portal.abczdrowie.pl/d2lkZS5wS1MNCSxgGgxGR05ReHxGAwVGBQg8OlkSFx0YAjY2GAANVglFKj1SVRk",
+        "Redirect": "https://portal.abczdrowie.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://portal.abczdrowie.pl/"
+    },
+    {
+        "link": "https://ou.edu",
+        "Heading": "The University of Oklahoma",
+        "Abstract": "The University of Oklahoma",
+        "Official Site": "http://www.ou.edu/web.html",
+        "Icon": "https://www.ou.edu/content/dam/website-wordmarks/ou-logo-square.png",
+        "Redirect": "http://www.ou.edu/web.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.ou.edu/web.html"
+    },
+    {
+        "link": "https://your-storagebox.de",
+        "Heading": "Storage Box: secure & cheap online backup solution",
+        "Abstract": "Secure storage online backup service: \u2713 cheap data storage \u2713 GDPR-compliant hosted in germany and finland  \u2713 100 % green electricity",
+        "Official Site": "https://your-storagebox.de",
+        "Icon": "/_resources/themes/hetzner/images/favicons/favicon.ico",
+        "Redirect": "https://your-storagebox.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://your-storagebox.de"
+    },
+    {
+        "link": "https://pixocial.com",
+        "Heading": "Pixocial",
+        "Abstract": "Pixocial Technology is a software company that provides world leading beauty and creative solutions for global consumers, small business and enterprise clients.",
+        "Official Site": "https://pixocial.com",
+        "Icon": "/logo.svg",
+        "Redirect": "https://pixocial.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pixocial.com"
+    },
+    {
+        "link": "https://siftscience.com",
+        "Heading": "Digital Fraud Prevention & Risk-Based Authentication | Sift",
+        "Abstract": "Sift\u2019s fraud prevention and risk-based authentication platform empowers digital businesses to grow fearlessly and reduce risk without compromising trust.",
+        "Official Site": "https://sift.com/",
+        "Icon": "https://sift.com/wp-content/uploads/2025/12/digital-fraud-prevention-and-risk-based-authentication.jpg",
+        "Redirect": "https://sift.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sift.com/"
+    },
+    {
+        "link": "https://privateproperty.co.za",
+        "Heading": "Property Portal South Africa | Find your new home on privateproperty.co.za",
+        "Abstract": "Private Property is your property portal for all the best listings around South Africa. Find your new home on privateproperty.co.za",
+        "Official Site": "https://www.privateproperty.co.za/",
+        "Icon": "https://helium.privateproperty.co.za/live-za-images/socialmediasharing/private-property-icon.png",
+        "Redirect": "https://www.privateproperty.co.za/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.privateproperty.co.za/"
+    },
+    {
+        "link": "https://wikitree.co.kr",
+        "Heading": "\uc704\ud0a4\ud2b8\ub9ac | WIKITREE, ALWAYS ON",
+        "Abstract": "\uc18c\uc15c \ub274\uc2a4 \ubbf8\ub514\uc5b4 \uc704\ud0a4\ud2b8\ub9ac - \uacbd\uc81c, \uc0ac\ud68c, \uc815\uce58, \uc5d4\ud130\ud14c\uc778\uba3c\ud2b8, \uc2a4\ud3ec\uce20 \ub4f1 \ucd5c\uc2e0 \ub274\uc2a4\ub97c \ube60\ub974\uace0 \uc815\ud655\ud558\uac8c \uc804\ub2ec\ud569\ub2c8\ub2e4.",
+        "Official Site": "https://wikitree.co.kr",
+        "Icon": "https://cdnweb01.wikitree.co.kr/webdata/editor/_common/thumb.png",
+        "Redirect": "https://wikitree.co.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wikitree.co.kr"
+    }
+]

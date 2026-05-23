@@ -1,0 +1,282 @@
+[
+    {
+        "link": "https://aviasales.com",
+        "Heading": "Cheap Flights, Airline Tickets & Airfares - Find Deals on Flights at Aviasales.com",
+        "Abstract": "Aviasales.com helps you find and buy tickets for the cheapest flights. Search for tickets with 2000+ airlines and leading ticket offices and get the best prices on flights.",
+        "Official Site": "https://aviasales.com",
+        "Icon": "https://static.aviasales.com/selene-static/spa/favicons/AS-favicon.ico",
+        "Redirect": "https://aviasales.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aviasales.com"
+    },
+    {
+        "link": "https://ihc.ru",
+        "Heading": "\u0425\u043e\u0441\u0442\u0438\u043d\u0433, VPS/VDS, \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u043e\u0432 | \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0425\u043e\u0441\u0442\u0438\u043d\u0433 \u0426\u0435\u043d\u0442\u0440",
+        "Abstract": "\u0425\u043e\u0441\u0442\u0438\u043d\u0433 \u0434\u043b\u044f \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u043b\u044e\u0431\u043e\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043e\u0442 117 \u0440\u0443\u0431\u043b\u0435\u0439 \u0432 \u043c\u0435\u0441\u044f\u0446. \u0410\u0440\u0435\u043d\u0434\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432, \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433, VDS/VPS \u0441 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u043e\u0439 24/7. \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u043e\u0432. \u0412\u044b\u043f\u0443\u0441\u043a SSL-\u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0432. \u2705",
+        "Official Site": "https://ihc.ru",
+        "Icon": "https://www.ihc.ru/og.png",
+        "Redirect": "https://ihc.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ihc.ru"
+    },
+    {
+        "link": "https://nexon.com",
+        "Heading": "Nexon Home",
+        "Abstract": null,
+        "Official Site": "https://nexon.com",
+        "Icon": "//web.nxfs.nexon.com/arena-home/static/images/nexon.ico",
+        "Redirect": "https://nexon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nexon.com"
+    },
+    {
+        "link": "https://cancer.gov",
+        "Heading": "Comprehensive Cancer Information - NCI",
+        "Abstract": "Accurate, up-to-date, comprehensive cancer information from the U.S. government's principal agency for cancer research.",
+        "Official Site": "https://www.cancer.gov/",
+        "Icon": "https://www.cancer.gov/sites/www/files/styles/cgov_social_media/public/cgov_image/media_image/2023-07/hero-image-homepage-promo.jpg",
+        "Redirect": "https://www.cancer.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cancer.gov/"
+    },
+    {
+        "link": "https://tmz.com",
+        "Heading": "Celebrity News | Entertainment News | TMZ.com",
+        "Abstract": "Breaking the biggest stories in celebrity and entertainment news. Get exclusive access to the latest stories, photos, and video as only TMZ can.",
+        "Official Site": "https://www.tmz.com/",
+        "Icon": "https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png",
+        "Redirect": "https://www.tmz.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tmz.com/"
+    },
+    {
+        "link": "https://ctvnews.ca",
+        "Heading": "CTV News \u2013 Breaking News and Video, Canada News Today",
+        "Abstract": "Get live updates on the latest local, national, and international news, including trusted reporting on politics, health, business, sports and more.",
+        "Official Site": "https://www.ctvnews.ca",
+        "Icon": "https://www.ctvnews.ca/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1730923620854.svg?auth=f1cf09be30d79f3fc423ee797e5d40ba62b742439525848fa3215fac178a9980&width=1200",
+        "Redirect": "https://www.ctvnews.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ctvnews.ca"
+    },
+    {
+        "link": "https://pi7.org",
+        "Heading": "Pi7 Organisation - Onine Web Tools",
+        "Abstract": "Pi7 is a leading organisation focused on open source services. Read the latest news and other technical topics on the Pi7 blog.",
+        "Official Site": "https://pi7.org",
+        "Icon": "/static/icons/apple-icon-60x60.png",
+        "Redirect": "https://pi7.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pi7.org"
+    },
+    {
+        "link": "https://caniuse.com",
+        "Heading": "Can I use... Support tables for HTML5, CSS3, etc",
+        "Abstract": null,
+        "Official Site": "https://caniuse.com",
+        "Icon": "/img/favicon-128.png",
+        "Redirect": "https://caniuse.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caniuse.com"
+    },
+    {
+        "link": "https://kemkes.go.id",
+        "Heading": "Selamat Datang di Situs Resmi Kementerian Kesehatan Republik Indonesia",
+        "Abstract": "Selamat Datang di Situs Resmi Kementerian Kesehatan Republik Indonesia",
+        "Official Site": "https://kemkes.go.id",
+        "Icon": "/app_asset/favicon/favicon-96x96.png",
+        "Redirect": "https://kemkes.go.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kemkes.go.id"
+    },
+    {
+        "link": "https://uspto.gov",
+        "Heading": "United States Patent and Trademark Office",
+        "Abstract": "Home page of the United States Patent and Trademark Office's main web site.",
+        "Official Site": "https://www.uspto.gov/",
+        "Icon": "https://www.uspto.gov/themes/custom/uspto_ds/images/USPTO-logo-RGB-stacked-1200px.png",
+        "Redirect": "https://www.uspto.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uspto.gov/"
+    },
+    {
+        "link": "https://dvr163.com",
+        "Heading": "Eseecloud",
+        "Abstract": null,
+        "Official Site": "https://dvr163.com",
+        "Icon": "N/A",
+        "Redirect": "https://dvr163.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dvr163.com"
+    },
+    {
+        "link": "https://ohchr.org",
+        "Heading": "UN Human Rights Office",
+        "Abstract": "UN Human Rights project transforms refugee camps into communitiesRead the story",
+        "Official Site": "https://www.ohchr.org/en/ohchr_homepage",
+        "Icon": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg",
+        "Redirect": "https://www.ohchr.org/en/ohchr_homepage",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ohchr.org/en/ohchr_homepage"
+    },
+    {
+        "link": "https://limo.media",
+        "Heading": "LIMO | \u304f\u3089\u3057\u3068\u304a\u91d1\u306e\u7d4c\u6e08\u30e1\u30c7\u30a3\u30a2",
+        "Abstract": "\u304f\u3089\u3057\u3068\u304a\u91d1\u306b\u307e\u3064\u308f\u308b\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9\u3092\u308f\u304b\u308a\u3084\u3059\u304f\u304a\u4f1d\u3048\u3057\u307e\u3059\u3002LIMO\u3067\u306f\u3001\u4eba\u751f\u3092\u3088\u308a\u8c4a\u304b\u306b\u3059\u308b\u305f\u3081\u306e\u304f\u3089\u3057\u3084\u304a\u91d1\u306e\u30d2\u30f3\u30c8\u3068\u306a\u308b\u60c5\u5831\u3084\u3001\u6c17\u306b\u306a\u308b\u6642\u4e8b\u30cd\u30bf\u3001\u53b3\u9078\u3057\u305f\u7d4c\u6e08\u30cb\u30e5\u30fc\u30b9\u306a\u3069\u3092\u6bce\u65e5\u304a\u5c4a\u3051\u3057\u3066\u3044\u307e\u3059\uff01",
+        "Official Site": "https://limo.media/",
+        "Icon": "https://limo.ismcdn.jp/common/images/limo/default_limo.png",
+        "Redirect": "https://limo.media/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://limo.media/"
+    },
+    {
+        "link": "https://thedailybeast.com",
+        "Heading": "The Daily Beast: The Latest in Politics, Media & Entertainment News",
+        "Abstract": "A smart, speedy take on breaking news and opinion in politics, media, entertainment, and more.",
+        "Official Site": "https://thedailybeast.com",
+        "Icon": "https://www.thedailybeast.com/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fthedailybeast%2F1741381130350.png?smart=true&auth=9944ab8bbceee1a01501dd4684bb6b782f7e8557cdb70bf4b20d962b29d17c75&width=1200",
+        "Redirect": "https://thedailybeast.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thedailybeast.com"
+    },
+    {
+        "link": "https://toutiao.com",
+        "Heading": "\u4eca\u65e5\u5934\u6761",
+        "Abstract": null,
+        "Official Site": "https://toutiao.com",
+        "Icon": "//sf3-cdn-tos.douyinstatic.com/obj/eden-cn/uhbfnupkbps/toutiao_favicon.ico",
+        "Redirect": "https://toutiao.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://toutiao.com"
+    },
+    {
+        "link": "https://starmakerstudios.com",
+        "Heading": "StarMaker: Sing Trending Karaoke Songs with Lyrics For Free",
+        "Abstract": "Find best karaoke songs with lyrics, sing on pitch using autotune, and learn how to sing better with our online vocal lessons and exercises!",
+        "Official Site": "https://starmakerstudios.com",
+        "Icon": "/next-assets/favicon.ico",
+        "Redirect": "https://starmakerstudios.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://starmakerstudios.com"
+    },
+    {
+        "link": "https://bi.go.id",
+        "Heading": "\n\tBank Indonesia\n",
+        "Abstract": null,
+        "Official Site": "https://bi.go.id",
+        "Icon": "/favicon.png",
+        "Redirect": "https://bi.go.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bi.go.id"
+    },
+    {
+        "link": "https://wellsfargo.com",
+        "Heading": "Wells Fargo Bank | Financial Services & Online Banking",
+        "Abstract": "See how we\u2019re helping customers succeed and communities thrive. For support 7 days a week, message us @WellsFargo",
+        "Official Site": "https://www.wellsfargo.com/",
+        "Icon": "https://www17.wellsfargomedia.com/assets/images/logos/wellsfargo/logo_974x1050.png",
+        "Redirect": "https://www.wellsfargo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wellsfargo.com/"
+    },
+    {
+        "link": "https://uncutmaza.com.co",
+        "Heading": "UncutMaza \u00bb 18+ Hindi Uncut Web Series Form Ullu",
+        "Abstract": "UncutMaza.com.co Is The No.1 Website For Streaming Indian Adult Web Series Online For Free. Enjoy Thousands Of 18+ Web Series With No Ads And No Lag. Watch High-quality Content Anytime, Anywhere On Our Site, UncutMaza.com.co.",
+        "Official Site": "https://uncutmazaa.com/",
+        "Icon": "https://uncutmazaa.com/wp-content/uploads/2024/11/cropped-UncutMaza-32x32.png",
+        "Redirect": "https://uncutmazaa.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uncutmazaa.com/"
+    },
+    {
+        "link": "https://postman.com",
+        "Heading": "Postman: The World's Leading API Platform | Sign Up for Free",
+        "Abstract": "Accelerate API development with Postman's all-in-one platform. Streamline collaboration and simplify the API lifecycle for faster, better results. Learn more.",
+        "Official Site": "https://postman.com",
+        "Icon": "https://voyager.postman.com/social-preview/postman-v12-social-preview-homepage.jpg",
+        "Redirect": "https://postman.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://postman.com"
+    },
+    {
+        "link": "https://demandbase.com",
+        "Heading": "ABM Platform for B2B Sales & Marketing Success | Demandbase",
+        "Abstract": "Elevate your B2B go-to-market strategy with Demandbase's ABM platform, delivering smarter insights, agent-led automation, and AI-powered pipeline.",
+        "Official Site": "https://www.demandbase.com/",
+        "Icon": "https://www.demandbase.com/wp-content/uploads/2026/04/Featured_800x537-10.png",
+        "Redirect": "https://www.demandbase.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.demandbase.com/"
+    },
+    {
+        "link": "https://esquire.com",
+        "Heading": "Esquire - Men's Fashion, Cocktails, Politics, Interviews, and Women",
+        "Abstract": "Esquire is your destination for the latest news headlines, culture coverage, political developments, celebrity interviews, mens fashion advice, and food & drink recipes.",
+        "Official Site": "https://esquire.com",
+        "Icon": "/_assets/design-tokens/esquire/static/images/favicon.9bd3ce0.ico",
+        "Redirect": "https://esquire.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://esquire.com"
+    },
+    {
+        "link": "https://dmac-solutions.net",
+        "Heading": "DMAC Solutions | Software for Texas Educators K-12",
+        "Abstract": "DMAC Solutions offers online testing, data analysis, appraisals, student documentation and planning tools tailored to the needs of Texas educators. Developed by the Region 7 Education Service Center, DMAC aligns with state mandates and standards, simplifying tasks for K-12 public and charter schools. Discover efficient, Texas-specific solutions for your school today!",
+        "Official Site": "https://www.dmac-solutions.net",
+        "Icon": "https://static.wixstatic.com/media/ddcf00_f8a0670550b4494d883be93b673f6673%7Emv2.png/v1/fit/w_2500,h_1330,al_c/ddcf00_f8a0670550b4494d883be93b673f6673%7Emv2.png",
+        "Redirect": "https://www.dmac-solutions.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dmac-solutions.net"
+    },
+    {
+        "link": "https://joomla.org",
+        "Heading": "Joomla Content Management System (CMS) - try it! It's free!",
+        "Abstract": "Joomla! is the mobile-ready and user-friendly way to build your website. Choose from thousands of features and designs. Joomla! is free and open source.",
+        "Official Site": "https://joomla.org",
+        "Icon": "https://cdn.joomla.org/images/sharing/joomla-org-og.jpg",
+        "Redirect": "https://joomla.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://joomla.org"
+    },
+    {
+        "link": "https://mountain.com",
+        "Heading": "Connected TV Performance Marketing Platform - MNTN",
+        "Abstract": "The #1 platform that lets brands of any size create & launch TV commercials on the hottest shows, movies, & live sports - in under an hour.",
+        "Official Site": "https://mountain.com/",
+        "Icon": "https://mountain.com/wp-content/uploads/2025/02/MNTN_Homepage_Open-Graph-1200x630-1.jpg",
+        "Redirect": "https://mountain.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mountain.com/"
+    },
+    {
+        "link": "https://mingky02.net",
+        "Heading": "\ubc0d\ud0a4\ub137\uc5d0 \uc624\uc2e0\uac83\uc744 \ud658\uc601\ud569\ub2c8\ub2e4.",
+        "Abstract": "\ub9e4\uc77c \uc5c4\uc120\ub41c \uc218\ubc31 \uac1c \ud55c\uad6d, \uc77c\ubcf8, \ub3d9\uc591, \uc11c\uc591 \uace0\ud654\uc9c8 \ub3d9\uc601\uc0c1\uc744 \ucd08\uace0\uc18d \uc989\uc2dc \uc7ac\uc0dd \uc2e4\uc2dc\uac04 \uc2a4\ud2b8\ub9ac\ubc0d\uc73c\ub85c \ub9cc\ub098\ubcf4\uc138\uc694. \uc990\uaca8\ucc3e\uae30 \ucc1c\ud558\uae30\uc640 \ud3b8\ub9ac\ud55c \uc2dc\uccad\uae30\ub85d \uad00\ub9ac\ub85c \ub098\ub9cc\uc758 \ub9de\ucda4\ud615 \ube44\ub514\uc624 \ub77c\uc774\ube0c\ub7ec\ub9ac\ub97c \ub9cc\ub07d\ud558\uc138\uc694.",
+        "Official Site": "https://mingky13.net",
+        "Icon": "https://mingky13.net/theme/movie/img/assets/feature2.jpg",
+        "Redirect": "https://mingky13.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mingky13.net"
+    },
+    {
+        "link": "https://xvideo.vlog.br",
+        "Heading": "\n        Xvideo - Videos Porno, Filmes de Sexo, Xvideos Brasil    ",
+        "Abstract": "Xvideo: Cenas de sexo e filmes porno do x videos brasil. Os melhores videos porno do xv\u00eddeos novinhas. Assistir filmes de sexo e porno HD gr\u00e1tis!",
+        "Official Site": "https://xvideo.vlog.br",
+        "Icon": "https://xvideo.vlog.br/wp-content/themes/xvideo-v2/images/favicon.png",
+        "Redirect": "https://xvideo.vlog.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xvideo.vlog.br"
+    },
+    {
+        "link": "https://rkdms.com",
+        "Heading": "rkdms.com Homepage",
+        "Abstract": null,
+        "Official Site": "https://rkdms.com",
+        "Icon": "/static/m1_favicon.ico",
+        "Redirect": "https://rkdms.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rkdms.com"
+    }
+]

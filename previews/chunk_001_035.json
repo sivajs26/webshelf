@@ -1,0 +1,262 @@
+[
+    {
+        "link": "https://about.com",
+        "Heading": "People Inc. - America's Largest Digital & Print Publisher",
+        "Abstract": "People Inc. is America\u2019s largest digital and print publisher. Learn about career opportunities, leadership, and advertising solutions across our trusted brands",
+        "Official Site": "https://dotdash-homepage-k8s-prod.a-ue1.dotdash.com/home",
+        "Icon": "https://images.prismic.io/ddhomepage/aIqLO6Tt2nPbZlRQ_social-share.png?auto=format,compress&rect=223,0,1194,624&w=1200&h=627",
+        "Redirect": "https://dotdash-homepage-k8s-prod.a-ue1.dotdash.com/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dotdash-homepage-k8s-prod.a-ue1.dotdash.com/home"
+    },
+    {
+        "link": "https://inleed.net",
+        "Heading": "Webbhotell, VPS, Dedikerad server, CO-location - Inleed",
+        "Abstract": "Inleed \u2013 Kvalitetshosting med breda tj\u00e4nster, inklusive webbhotell, VPS, dedikerade servrar och co-location. Exceptionell kundservice och transparenta priser.",
+        "Official Site": "https://inleed.se",
+        "Icon": "https://login.inleed.net/assets/logo.ico",
+        "Redirect": "https://inleed.se",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://inleed.se"
+    },
+    {
+        "link": "https://ico.org.uk",
+        "Heading": "Information Commissioner's Office",
+        "Abstract": "",
+        "Official Site": "https://ico.org.uk/",
+        "Icon": "/media2/lhphq55z/favicon.ico",
+        "Redirect": "https://ico.org.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ico.org.uk/"
+    },
+    {
+        "link": "https://mashable.com",
+        "Heading": "Mashable",
+        "Abstract": "Mashable is a global, multi-platform media and entertainment company.",
+        "Official Site": "https://mashable.com",
+        "Icon": "https://helios-i.mashable.com/imagery/defaults/fallback-thumbnail.fill.size_1200x675.1.png",
+        "Redirect": "https://mashable.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mashable.com"
+    },
+    {
+        "link": "https://like.video",
+        "Heading": "Likee - Short Video Community",
+        "Abstract": "Likee is a Short Video Community that allows you to explore more content of your interests and make more like-minded friends.",
+        "Official Site": "https://like.video",
+        "Icon": "https://static-web.likeevideo.com/as/likee-static/likee_logo/logo_200.png",
+        "Redirect": "https://like.video",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://like.video"
+    },
+    {
+        "link": "https://rapid7.com",
+        "Heading": "Rapid7 Managed Cybersecurity: Outpace Attackers",
+        "Abstract": "Outpace attackers with the only endpoint to cloud, unified cybersecurity platform. Build business resilience with expert-led 24/7 MDR.",
+        "Official Site": "https://www.rapid7.com/",
+        "Icon": "https://www.rapid7.com/rapid7-social-card.jpg",
+        "Redirect": "https://www.rapid7.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rapid7.com/"
+    },
+    {
+        "link": "https://meetup.com",
+        "Heading": "Meetup | Find Local Groups, Events, and Activities Near You",
+        "Abstract": "Find Meetup events, join groups, or start your own. Make new friends and connect with like-minded people. Meet people near you who share your interests.",
+        "Official Site": "https://www.meetup.com",
+        "Icon": "https://secure.meetupstatic.com/next/images/shared/meetup-flyer.png",
+        "Redirect": "https://www.meetup.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.meetup.com"
+    },
+    {
+        "link": "https://qcloud.com",
+        "Heading": "\u817e\u8baf\u4e91 \u4ea7\u4e1a\u667a\u53d8\u00b7\u4e91\u542f\u672a\u6765 - \u817e\u8baf",
+        "Abstract": "\u817e\u8baf\u4e91(tencent cloud)\u4e3a\u6570\u767e\u4e07\u7684\u4f01\u4e1a\u548c\u5f00\u53d1\u8005\u63d0\u4f9b\u5b89\u5168\u7a33\u5b9a\u7684\u4e91\u8ba1\u7b97\u670d\u52a1\uff0c\u6db5\u76d6\u4e91\u670d\u52a1\u5668\u3001\u4e91\u6570\u636e\u5e93\u3001\u4e91\u5b58\u50a8\u3001\u89c6\u9891\u4e0eCDN\u3001\u57df\u540d\u6ce8\u518c\u7b49\u5168\u65b9\u4f4d\u4e91\u670d\u52a1\u548c\u5404\u884c\u4e1a\u89e3\u51b3\u65b9\u6848\u3002",
+        "Official Site": "https://cloud.tencent.com",
+        "Icon": "https://cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/shareicons/cloud.png",
+        "Redirect": "https://cloud.tencent.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cloud.tencent.com"
+    },
+    {
+        "link": "https://themeisle.com",
+        "Heading": "Themeisle - Built to Last WordPress Themes & Plugins",
+        "Abstract": "Reliable WordPress themes and plugins with exceptional support. Behind Neve, Optimole & WP Full Pay powering over 2M+ active installations.",
+        "Official Site": "https://themeisle.com",
+        "Icon": "https://mllj2j8xvfl0.i.optimole.com/cb:3970~373ad/w:800/h:900/q:mauto/f:best/https://themeisle.com/wp-content/uploads/2022/10/neve-new-fp.jpg",
+        "Redirect": "https://themeisle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://themeisle.com"
+    },
+    {
+        "link": "https://here.com",
+        "Heading": "HERE Technologies | The world's #1 location platform",
+        "Abstract": "HERE is a PaaS for building, deploying and scaling location solutions. Create custom maps, visualize location datasets, gather insights and buy and sell location assets.",
+        "Official Site": "https://here.com",
+        "Icon": "https://images.here.com/x7rx8ayph7ee/7849150f-7a0f-4a8b-ba48-3b11c54be578/3a68c6ce6a363e428fb9e05461c9c105/homepage-hero-og.jpg?w=1024&q=80&fm=webp",
+        "Redirect": "https://here.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://here.com"
+    },
+    {
+        "link": "https://getbootstrap.com",
+        "Heading": "Bootstrap \u00b7 The most popular HTML, CSS, and JS library in the world.",
+        "Abstract": "Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.",
+        "Official Site": "https://getbootstrap.com/",
+        "Icon": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-social.png",
+        "Redirect": "https://getbootstrap.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://getbootstrap.com/"
+    },
+    {
+        "link": "https://mapbox.com",
+        "Heading": "Mapbox | Maps, Navigation, Search, and Data",
+        "Abstract": "APIs and SDKs for AI-powered maps, location search, turn-by-turn navigation, and geospatial data in mobile or web apps. Get started for free.",
+        "Official Site": "https://mapbox.com",
+        "Icon": "https://cdn.prod.website-files.com/5d9ebe34931ebc466df7557a/5edf3834596e9c56b813489c_Home%20page.jpg",
+        "Redirect": "https://mapbox.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mapbox.com"
+    },
+    {
+        "link": "https://badoo.com",
+        "Heading": "Best Free Online Dating Site & App - Friends, Chat, Flirt | Badoo",
+        "Abstract": "Join Badoo\u2019s community - the best free online dating app. Chat before you match, meet & date people in your area or make new friends from all over the world.",
+        "Official Site": "https://badoo.com/en/",
+        "Icon": "https://badoo.com/badoo-homepage/badoo-share.png",
+        "Redirect": "https://badoo.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://badoo.com/en/"
+    },
+    {
+        "link": "https://imanage.com",
+        "Heading": "Knowledge Work Platform for Legal & Professional Services",
+        "Abstract": "iManage is the leading AI knowledge work platform that manages and activates knowledge, powering smarter decisions while securely connecting people and AI.",
+        "Official Site": "https://imanage.com/",
+        "Icon": "https://imanage.com/media/jndedi3t/header-home-no-gw.png",
+        "Redirect": "https://imanage.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://imanage.com/"
+    },
+    {
+        "link": "https://jwplayer.com",
+        "Heading": "Video technology & monetization platform for streamers, publishers & advertisers | JWX",
+        "Abstract": "JWX helps streamers, publishers, and advertisers create, deliver, and monetize video with one intelligent workflow - built for speed, scale, and results.",
+        "Official Site": "https://jwx.com",
+        "Icon": "https://jwx.com/hubfs/JWX_Featured_Image-1.jpg",
+        "Redirect": "https://jwx.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jwx.com"
+    },
+    {
+        "link": "https://connatix.com",
+        "Heading": "Video technology & monetization platform for streamers, publishers & advertisers | JWX",
+        "Abstract": "JWX helps streamers, publishers, and advertisers create, deliver, and monetize video with one intelligent workflow - built for speed, scale, and results.",
+        "Official Site": "https://jwx.com",
+        "Icon": "https://jwx.com/hubfs/JWX_Featured_Image-1.jpg",
+        "Redirect": "https://jwx.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jwx.com"
+    },
+    {
+        "link": "https://loopme.me",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://loopme.me",
+        "Icon": "N/A",
+        "Redirect": "https://loopme.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://loopme.me"
+    },
+    {
+        "link": "https://bbb.org",
+        "Heading": "BBB | Better Business Bureau",
+        "Abstract": "BBB helps consumers and businesses in the United States and Canada. Find trusted BBB Accredited Businesses. Get BBB Accredited. File a complaint, leave a review, report a scam.",
+        "Official Site": "https://www.bbb.org",
+        "Icon": "https://m.bbb.org/brand/logos/bbb_primarylogo_blue_rgb_300w.png",
+        "Redirect": "https://www.bbb.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bbb.org"
+    },
+    {
+        "link": "https://intentiq.com",
+        "Heading": "Cookieless Advertising Solution | Intent IQ",
+        "Abstract": "A Cookieless Advertising solution Delivering 2B+ targeted cookieless ads per dayPatented, proprietary technologyPrivacy-centric",
+        "Official Site": "https://www.intentiq.com/",
+        "Icon": "https://www.intentiq.com/wp-content/uploads/2023/10/Big-Logo.svg",
+        "Redirect": "https://www.intentiq.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.intentiq.com/"
+    },
+    {
+        "link": "https://telegra.ph",
+        "Heading": "Telegraph",
+        "Abstract": "Telegra.ph is a minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click. Telegraph posts also get beautiful Instant View pages on Telegram.",
+        "Official Site": "https://telegra.ph",
+        "Icon": "https://telegra.ph/images/logo.png",
+        "Redirect": "https://telegra.ph",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://telegra.ph"
+    },
+    {
+        "link": "https://adroll.com",
+        "Heading": "Multichannel Advertising & Account-Based Marketing Platform | AdRoll",
+        "Abstract": "Boost brand awareness, generate leads, and drive conversions with personalized advertising. AdRoll's been trusted by 140,000+ brands for over 17 years.",
+        "Official Site": "https://www.adroll.com/",
+        "Icon": "https://www.adroll.com/assets/img/globals/social-shares/adroll-og.png",
+        "Redirect": "https://www.adroll.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.adroll.com/"
+    },
+    {
+        "link": "https://douyin.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://douyin.com",
+        "Icon": "data:;base64,=",
+        "Redirect": "https://douyin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://douyin.com"
+    },
+    {
+        "link": "https://nba.com",
+        "Heading": "The official site of the NBA for the latest NBA Scores, Stats & News. | NBA.com",
+        "Abstract": "Follow the action on NBA scores, schedules, stats, news, teams, and players. Buy tickets or watch the games anywhere with NBA League Pass.",
+        "Official Site": "https://www.nba.com",
+        "Icon": "https://cdn.nba.com/next/fallback.jpg",
+        "Redirect": "https://www.nba.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nba.com"
+    },
+    {
+        "link": "https://ucsd.edu",
+        "Heading": "University of California San Diego",
+        "Abstract": "The University California San Diego is one of the world's leading public research universities, located in beautiful La Jolla, California",
+        "Official Site": "https://ucsd.edu/index.html",
+        "Icon": "https://ucsd.edu/_images/homepage/img-hero-triton-giving-day.jpg",
+        "Redirect": "https://ucsd.edu/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ucsd.edu/index.html"
+    },
+    {
+        "link": "https://evernote.com",
+        "Heading": "Best Note Taking App - Organize Your Notes with Evernote",
+        "Abstract": "Our note taking app helps you capture and prioritize ideas, projects and to-do lists, so nothing falls through the cracks. Start your free trial today!",
+        "Official Site": "https://evernote.com",
+        "Icon": "N/A",
+        "Redirect": "https://evernote.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://evernote.com"
+    },
+    {
+        "link": "https://moengage.com",
+        "Heading": "MoEngage - Insights-led Customer Engagement Platform",
+        "Abstract": "Execute your cross channel marketing strategy with MoEngage\u2019s insights-led customer engagement platform. Leverage the power of personalization with MoEngage.",
+        "Official Site": "https://www.moengage.com/",
+        "Icon": "https://www.moengage.com/wp-content/uploads/cropped-MoE-Favicon-1-32x32.png",
+        "Redirect": "https://www.moengage.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.moengage.com/"
+    }
+]

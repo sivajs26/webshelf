@@ -1,0 +1,262 @@
+[
+    {
+        "link": "https://weibo.com",
+        "Heading": "Sina Visitor System",
+        "Abstract": null,
+        "Official Site": "https://weibo.com",
+        "Icon": "N/A",
+        "Redirect": "https://weibo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://weibo.com"
+    },
+    {
+        "link": "https://launchdarkly.com",
+        "Heading": "Runtime Control for AI-Era Software | Feature Flags & AI Agent Control | LaunchDarkly",
+        "Abstract": "LaunchDarkly helps teams safely manage code and AI agents in production with feature flags, progressive delivery, automated rollback, and runtime control.",
+        "Official Site": "https://launchdarkly.com/",
+        "Icon": "https://launchdarkly.com/images/social-share/launchdarkly-social-cover.jpg",
+        "Redirect": "https://launchdarkly.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://launchdarkly.com/"
+    },
+    {
+        "link": "https://slack.com",
+        "Heading": "Slack | AI Work Platform & Productivity Tools | Slack",
+        "Abstract": "Boost productivity and save time with Slack\u200c \u2014 \u200cthe AI work platform for managing projects, automating workflows, and connecting teams securely. Start working smarter today.",
+        "Official Site": "https://slack.com",
+        "Icon": "https://a.slack-edge.com/737c9d1/marketing/img/homepage/revamped-24/unfurl/hp-revamp-unfurl.en-GB.jpg",
+        "Redirect": "https://slack.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://slack.com"
+    },
+    {
+        "link": "https://pushy.io",
+        "Heading": "Pushy - Lightning-Fast & Highly-Reliable Push Notifications",
+        "Abstract": "Pushy is a reliable push notification gateway for time-sensitive, mission-critical apps.",
+        "Official Site": "https://pushy.io",
+        "Icon": "/img/favicon.png",
+        "Redirect": "https://pushy.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pushy.io"
+    },
+    {
+        "link": "https://alidns.com",
+        "Heading": "\u963f\u91cc\u516c\u5171DNS",
+        "Abstract": "{{OG_DESCRIPTION}}",
+        "Official Site": "https://alidns.com",
+        "Icon": "/assets/favicon-29bc214a.png",
+        "Redirect": "https://alidns.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alidns.com"
+    },
+    {
+        "link": "https://issuu.com",
+        "Heading": "Issuu",
+        "Abstract": "Issuu converts PDFs and documents into an interactive flipbook and marketing assets. Embed flipbooks onto your website and distribute online. Create yours with Issuu.",
+        "Official Site": "https://issuu.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://issuu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://issuu.com"
+    },
+    {
+        "link": "https://ea.com",
+        "Heading": "Electronic Arts Home Page - Official EA Site",
+        "Abstract": "We exist to inspire the world through Play. Electronic Arts is a leading publisher of games on Console, PC and Mobile.",
+        "Official Site": "https://www.ea.com/",
+        "Icon": "https://media.contentapi.ea.com/content/dam/eacom/images/2021/03/ea-featured-tile-generic-electronic-arts.png.adapt.crop191x100.1200w.png",
+        "Redirect": "https://www.ea.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ea.com/"
+    },
+    {
+        "link": "https://moe.video",
+        "Heading": "MoeVideo - \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u0430\u044f \u0441\u0435\u0442\u044c",
+        "Abstract": "MoeVideo - \u043c\u043e\u043d\u0435\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u0442\u0440\u0430\u0444\u0438\u043a\u0430 \u0438 \u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0434\u043e\u0445\u043e\u0434 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0443\u0434\u043e\u0431\u043d\u044b\u0445 \u0440\u0435\u043a\u043b\u0430\u043c\u043d\u044b\u0445 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432.",
+        "Official Site": "https://moe.video",
+        "Icon": "/storage/content/zmdianoam1lx7i.png",
+        "Redirect": "https://moe.video",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://moe.video"
+    },
+    {
+        "link": "https://crashlytics.com",
+        "Heading": "Firebase Crashlytics | Track, prioritize, and fix app crashes faster",
+        "Abstract": "Explore how Firebase Crashlytics provides realtime app crash &amp; stability reporting for iOS, Android, Flutter, and Unity apps so you can fix crashes faster.",
+        "Official Site": "https://firebase.google.com/products/crashlytics",
+        "Icon": "https://firebase.google.com/images/social.png",
+        "Redirect": "https://firebase.google.com/products/crashlytics",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://firebase.google.com/products/crashlytics"
+    },
+    {
+        "link": "https://quickconnect.to",
+        "Heading": "Synology QuickConnect",
+        "Abstract": "Synology QuickConnect allows you to access your Synology NAS anytime, anywhere, from any device and browser, without having to set up port forwarding and firewalls.",
+        "Official Site": "https://quickconnect.to",
+        "Icon": "/favicon.8f5fa591b187b2297da55b6023f86d0f.ico",
+        "Redirect": "https://quickconnect.to",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quickconnect.to"
+    },
+    {
+        "link": "https://onelink.me",
+        "Heading": "Deep Linking Software Solutions | AppsFlyer OneLink",
+        "Abstract": "Create deep links for web-to-app, QR codes, email, social, and more. Boost ROAS and LTV with seamless user journeys powered by AppsFlyer\u2019s OneLink technology.",
+        "Official Site": "https://www.appsflyer.com/products/deep-linking/",
+        "Icon": "https://www.appsflyer.com/wp-content/uploads/2025/11/cropped-54649.-New-Website-favicon-32x32.png",
+        "Redirect": "https://www.appsflyer.com/products/deep-linking/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.appsflyer.com/products/deep-linking/"
+    },
+    {
+        "link": "https://tradingview.com",
+        "Heading": "TradingView \u2014 Track All Markets",
+        "Abstract": "Where the world charts, chats, and trades markets. We're a supercharged super-charting platform and social network for traders and investors. Free to sign up.",
+        "Official Site": "https://www.tradingview.com/",
+        "Icon": "https://s.tradingview.com/static/images/illustrations/main-page.jpg",
+        "Redirect": "https://www.tradingview.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tradingview.com/"
+    },
+    {
+        "link": "https://ivi.ru",
+        "Heading": "\u041e\u043d\u043b\u0430\u0439\u043d-\u043a\u0438\u043d\u043e\u0442\u0435\u0430\u0442\u0440 \u0418\u0432\u0438 - \u0444\u0438\u043b\u044c\u043c\u044b, \u0441\u0435\u0440\u0438\u0430\u043b\u044b \u0438 \u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c\u044b \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u0432 \u0445\u043e\u0440\u043e\u0448\u0435\u043c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435",
+        "Abstract": "\u041a\u0438\u043d\u043e \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435 - \u044d\u0442\u043e \u0418\u0432\u0438",
+        "Official Site": "https://ivi.ru",
+        "Icon": "https://s3.dfs.ivi.ru/849c829d658baaeff512d766b0db3cce/dist/release_26.05.09_fe070393/storm/images/social/ivi_1000x523.jpg",
+        "Redirect": "https://ivi.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ivi.ru"
+    },
+    {
+        "link": "https://checkpoint.com",
+        "Heading": "Check Point Software: Leader in Cyber Security Solutions",
+        "Abstract": "Check Point Software Technologies Ltd. is a leading provider of cyber security solutions to corporate enterprises and governments globally.",
+        "Official Site": "https://www.checkpoint.com/",
+        "Icon": "//www.checkpoint.com/wp-content/themes/checkpoint-theme-v2/images/fav/favicon-32x32.png",
+        "Redirect": "https://www.checkpoint.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.checkpoint.com/"
+    },
+    {
+        "link": "https://weebly.com",
+        "Heading": "\n\t\t\t\tFree Website Builder: Build a Free Website or Online Store | Weebly\n\t\t",
+        "Abstract": "Weebly\u2019s free website builder makes it easy to build a website, blog, or online store. Find customizable designs, domains, and eCommerce tools for any type of business using our website builder. ",
+        "Official Site": "https://www.weebly.com",
+        "Icon": "https://www.weebly.com/editor/uploads/1/_/1/custom_themes/578730180640357361/files/weebly.jpg",
+        "Redirect": "https://www.weebly.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.weebly.com"
+    },
+    {
+        "link": "https://cdc.gov",
+        "Heading": "Centers for Disease Control and Prevention | CDC",
+        "Abstract": null,
+        "Official Site": "https://www.cdc.gov/index.html",
+        "Icon": "/TemplatePackage/5.0/img/favicon/favicon-32x32.png",
+        "Redirect": "https://www.cdc.gov/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cdc.gov/index.html"
+    },
+    {
+        "link": "https://mi.com",
+        "Heading": "Xiaomi United States | Xiaomi Official Website",
+        "Abstract": "Xiaomi, a global company producing quality products at honest pricing.",
+        "Official Site": "https://www.mi.com/us/",
+        "Icon": "https://i01.appmifile.com/webfile/globalimg/mobile/logo/mi.png",
+        "Redirect": "https://www.mi.com/us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mi.com/us/"
+    },
+    {
+        "link": "https://un.org",
+        "Heading": "Welcome to the United Nations",
+        "Abstract": null,
+        "Official Site": "http://www.un.org",
+        "Icon": "https://www.un.org/images/splash/Flag.jpg ",
+        "Redirect": "http://www.un.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.un.org"
+    },
+    {
+        "link": "https://naver.com",
+        "Heading": "NAVER",
+        "Abstract": "\ub124\uc774\ubc84 \uba54\uc778\uc5d0\uc11c \ub2e4\uc591\ud55c \uc815\ubcf4\uc640 \uc720\uc6a9\ud55c \ucee8\ud150\uce20\ub97c \ub9cc\ub098 \ubcf4\uc138\uc694",
+        "Official Site": "https://www.naver.com/",
+        "Icon": "https://s.pstatic.net/static/www/mobile/edit/2016/0705/mobile_212852414260.png",
+        "Redirect": "https://www.naver.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.naver.com/"
+    },
+    {
+        "link": "https://aliyun.com",
+        "Heading": "Alibaba Cloud: AI and Cloud Computing Services ",
+        "Abstract": "Alibaba Cloud is one of the world's largest cloud computing companies, providing scalable, secure, and reliable cloud computing services globally to accelerate digitalization empowered by comprehensive cloud products and solutions.",
+        "Official Site": "https://www.alibabacloud.com",
+        "Icon": "https://img.alicdn.com/tfs/TB1xpNqnmslXu8jSZFuXXXg7FXa-1200-630.png_.webp",
+        "Redirect": "https://www.alibabacloud.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alibabacloud.com"
+    },
+    {
+        "link": "https://bilibili.com",
+        "Heading": "\u54d4\u54e9\u54d4\u54e9 (\u309c-\u309c)\u3064\u30ed \u5e72\u676f~-bilibili",
+        "Abstract": null,
+        "Official Site": "https://bilibili.com",
+        "Icon": "//www.bilibili.com/favicon.ico",
+        "Redirect": "https://bilibili.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bilibili.com"
+    },
+    {
+        "link": "https://cnbc.com",
+        "Heading": "Stock Markets, Business News, Financials, Earnings - CNBC",
+        "Abstract": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information.",
+        "Official Site": "https://www.cnbc.com",
+        "Icon": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&w=1920&h=1080",
+        "Redirect": "https://www.cnbc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cnbc.com"
+    },
+    {
+        "link": "https://ezvizlife.com",
+        "Heading": "\u8424\u77f3\u5b98\u65b9\u7f51\u7ad9 - \u667a\u6167\u751f\u6d3b\u5b88\u62a4\u8005",
+        "Abstract": "\u8424\u77f3\u6784\u5efa\u201c2+5+N\u201d\u4ea7\u54c1\u751f\u6001\u4f53\u7cfb\uff0c\u805a\u7126\u667a\u80fd\u89c6\u9891\u53ca\u89c6\u89c9\u6280\u672f\uff0c\u4ee5\u8424\u77f3\u4e91+AI\u53cc\u6838\u9a71\u52a8\uff0c\u642d\u8f7d\u667a\u80fd\u5bb6\u5c45\u6444\u50cf\u673a\u3001\u667a\u80fd\u5165\u6237\u3001\u667a\u80fd\u63a7\u5236\u3001\u667a\u80fd\u670d\u52a1\u673a\u5668\u4eba\u3001\u667a\u80fd\u7a7f\u6234\u4e94\u7c7b\u81ea\u7814\u786c\u4ef6\uff0c\u5f00\u653e\u63a5\u5165\u73af\u5883\u63a7\u5236\u7b49\u5b50\u7cfb\u7edf\uff0c\u5b9e\u73b0\u5bb6\u5c45\u53ca\u5468\u8fb9\u573a\u666f\u7684\u5168\u5c4b\u667a\u80fd\u5316\u3002",
+        "Official Site": "https://ezvizlife.com",
+        "Icon": "N/A",
+        "Redirect": "https://ezvizlife.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ezvizlife.com"
+    },
+    {
+        "link": "https://aol.com",
+        "Heading": "News, Politics, Sports, Mail & Latest Headlines - AOL.com",
+        "Abstract": "Discover the latest breaking news in the U.S. and around the world \u2014 politics, weather, entertainment, lifestyle, finance, sports and much more.",
+        "Official Site": "https://aol.com",
+        "Icon": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png",
+        "Redirect": "https://aol.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aol.com"
+    },
+    {
+        "link": "https://dailymail.co.uk",
+        "Heading": "US Home | Daily Mail Online",
+        "Abstract": "MailOnline - get the latest breaking news, celebrity photos, viral videos, science & tech news, and top stories from MailOnline and the Daily Mail newspaper.",
+        "Official Site": "http://www.dailymail.com/ushome/index.html",
+        "Icon": "https://i.dailymail.com/i/social/img_mol-logo_50x50.png",
+        "Redirect": "http://www.dailymail.com/ushome/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.dailymail.com/ushome/index.html"
+    },
+    {
+        "link": "https://dailymotion.com",
+        "Heading": "Dailymotion",
+        "Abstract": null,
+        "Official Site": "https://dailymotion.com",
+        "Icon": "//static.neon-ssr.dailymotion.com/neon-user-ssr/static/favicons/android-icon-36x36.2bcbc53d92a87f65eaf3.png",
+        "Redirect": "https://dailymotion.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dailymotion.com"
+    }
+]

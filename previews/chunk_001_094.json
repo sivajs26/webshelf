@@ -1,0 +1,272 @@
+[
+    {
+        "link": "https://telogis.com",
+        "Heading": "Login",
+        "Abstract": null,
+        "Official Site": "https://telogis.com",
+        "Icon": "favicon.ico?v=3",
+        "Redirect": "https://telogis.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://telogis.com"
+    },
+    {
+        "link": "https://intellij.net",
+        "Heading": "The Leading IDE for Professional Java and Kotlin Development",
+        "Abstract": "IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy.",
+        "Official Site": "https://www.jetbrains.com/idea/",
+        "Icon": "https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/preview.png",
+        "Redirect": "https://www.jetbrains.com/idea/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jetbrains.com/idea/"
+    },
+    {
+        "link": "https://withings.net",
+        "Heading": "Withings | Withings USA",
+        "Abstract": "The full ecosystem of Withings smart devices is designed to give you the powerful tools and insights you need to understand and improve your health for the long term.",
+        "Official Site": "/us/en/homepage",
+        "Icon": "https://media.withings.com/web/images/homepage/metadata-img.jpg",
+        "Redirect": "/us/en/homepage",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/us/en/homepage"
+    },
+    {
+        "link": "https://media6degrees.com",
+        "Heading": "Predictive AI Audience Targeting | Dstillery",
+        "Abstract": "Multimodal AI that learns from everything. Get custom programmatic audiences in 24-48 hours that refresh daily and activate everywhere.",
+        "Official Site": "https://dstillery.com/",
+        "Icon": "https://dstillery.com/wp-content/themes/Starter/favicon.png?v=3",
+        "Redirect": "https://dstillery.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dstillery.com/"
+    },
+    {
+        "link": "https://cbp.gov",
+        "Heading": "U.S. Customs and Border Protection | U.S. Customs and Border Protection",
+        "Abstract": "Securing America's Borders",
+        "Official Site": "https://www.cbp.gov/",
+        "Icon": "N/A",
+        "Redirect": "https://www.cbp.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cbp.gov/"
+    },
+    {
+        "link": "https://r7.com",
+        "Heading": "R7 - Not\u00edcias do Dia no Brasil e no Mundo ",
+        "Abstract": "Acompanhe as \u00faltimas not\u00edcias e v\u00eddeos do Brasil e do mundo sobre pol\u00edtica, esportes, entretenimento e muito mais no portal da Record TV. ",
+        "Official Site": "https://r7.com",
+        "Icon": "https://static.themebuilder.aws.arc.pub/newr7/1715348331329.png",
+        "Redirect": "https://r7.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://r7.com"
+    },
+    {
+        "link": "https://coveo.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://coveo.com",
+        "Icon": "N/A",
+        "Redirect": "https://coveo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coveo.com"
+    },
+    {
+        "link": "https://upi.com",
+        "Heading": "Top News, Latest headlines, Latest News, World News &amp; U.S News - UPI.com",
+        "Abstract": "UPI delivers the latest headlines from around the world: Top News, Entertainment, Health, Business, Science and Sports News - United Press International",
+        "Official Site": "https://upi.com",
+        "Icon": "//www.upi.com/img/upi-fb.png",
+        "Redirect": "https://upi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://upi.com"
+    },
+    {
+        "link": "https://biblehub.com",
+        "Heading": "Bible Hub: Online Bible Study Suite",
+        "Abstract": "Online Bible Study Suite. Topical, Greek and Hebrew study tools, plus concordances, commentaries, sermons and devotionals.",
+        "Official Site": "https://biblehub.com",
+        "Icon": "N/A",
+        "Redirect": "https://biblehub.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://biblehub.com"
+    },
+    {
+        "link": "https://imperial.ac.uk",
+        "Heading": "Imperial College London",
+        "Abstract": "Imperial College London is a world-leading university for science, technology, engineering, medicine and business (STEMB). Across our London campuses, and throughout our international network, we use science to tackle global challenges.",
+        "Official Site": "https://www.imperial.ac.uk/",
+        "Icon": "https://www.imperial.ac.uk/T4Assets/favicon-196x196.png",
+        "Redirect": "https://www.imperial.ac.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.imperial.ac.uk/"
+    },
+    {
+        "link": "https://7-zip.org",
+        "Heading": "7-Zip",
+        "Abstract": null,
+        "Official Site": "https://7-zip.org",
+        "Icon": "N/A",
+        "Redirect": "https://7-zip.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://7-zip.org"
+    },
+    {
+        "link": "https://gta5-mods.com",
+        "Heading": "\n\t\tGTA5-Mods.com - Your source for the latest GTA 5 car mods, scripts, tools and more.\n\t",
+        "Abstract": null,
+        "Official Site": "https://gta5-mods.com",
+        "Icon": "https://images.gta5-mods.com/icons/favicon.png",
+        "Redirect": "https://gta5-mods.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gta5-mods.com"
+    },
+    {
+        "link": "https://beeg.com",
+        "Heading": "Beeg",
+        "Abstract": null,
+        "Official Site": "https://beeg.com",
+        "Icon": "/assets/favicon.svg",
+        "Redirect": "https://beeg.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://beeg.com"
+    },
+    {
+        "link": "https://huya.com",
+        "Heading": "\u864e\u7259\u76f4\u64ad-\u6280\u672f\u9a71\u52a8\u5a31\u4e50-\u5f39\u5e55\u5f0f\u4e92\u52a8\u76f4\u64ad\u5e73\u53f0",
+        "Abstract": null,
+        "Official Site": "https://huya.com",
+        "Icon": "N/A",
+        "Redirect": "https://huya.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://huya.com"
+    },
+    {
+        "link": "https://qualys.com",
+        "Heading": "Enterprise Cyber Risk and Security Platform | Qualys",
+        "Abstract": "Discover how Qualys helps your business measure & eliminate cyber threats through a host of cybersecurity detection & remediation tools. Try it today!",
+        "Official Site": "https://www.qualys.com",
+        "Icon": "https://ik.imagekit.io/qualys/image/logo/qualys-vertical-sans-tagline-social.png",
+        "Redirect": "https://www.qualys.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.qualys.com"
+    },
+    {
+        "link": "https://neocities.org",
+        "Heading": "Neocities: Create your own free website!",
+        "Abstract": "Create and surf awesome websites for free.",
+        "Official Site": "https://neocities.org",
+        "Icon": "https://neocities.org/img/neocities-front-screenshot.jpg",
+        "Redirect": "https://neocities.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://neocities.org"
+    },
+    {
+        "link": "https://dynu.com",
+        "Heading": "Free dynamic DNS service | Dynu Systems, Inc. \n",
+        "Abstract": "Dynu Systems, Inc. provides free dynamic DNS service as well as other services such as domain registration, email and SSL services. \n",
+        "Official Site": "http://www.dynu.com",
+        "Icon": "http://www.dynu.com/content/images/logodynu.png",
+        "Redirect": "http://www.dynu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.dynu.com"
+    },
+    {
+        "link": "https://smashingmagazine.com",
+        "Heading": "Smashing Magazine \u2014 For Web Designers And Developers",
+        "Abstract": "Magazine on CSS, JavaScript, front-end, accessibility, UX and design. For developers, designers and front-end engineers.",
+        "Official Site": "https://www.smashingmagazine.com/",
+        "Icon": "https://smashingmagazine.com/images/smashing-homepage.png",
+        "Redirect": "https://www.smashingmagazine.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.smashingmagazine.com/"
+    },
+    {
+        "link": "https://forrester.com",
+        "Heading": "Forrester Helps Organizations Thrive Through Volatility",
+        "Abstract": "Forrester is a leading global market research company that helps organizations exceed customer demands and excel with technology. Learn how Forrester can help.",
+        "Official Site": "https://www.forrester.com/bold/",
+        "Icon": "https://go.forrester.com/wp-content/uploads/2022/03/FMK_FORR_GenericSocialImage_220314.jpg",
+        "Redirect": "https://www.forrester.com/bold/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.forrester.com/bold/"
+    },
+    {
+        "link": "https://bleepingcomputer.com",
+        "Heading": "BleepingComputer | Cybersecurity, Technology News and Support",
+        "Abstract": "BleepingComputer is a premier destination for cybersecurity news for over 20 years, delivering breaking stories on the latest hacks, malware threats, and how to protect your devices.",
+        "Official Site": "https://www.bleepingcomputer.com/",
+        "Icon": "https://www.bleepstatic.com/logo/bleepingcomputer-logo.png",
+        "Redirect": "https://www.bleepingcomputer.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bleepingcomputer.com/"
+    },
+    {
+        "link": "https://webguy.net",
+        "Heading": "WebGuy.com - Home",
+        "Abstract": null,
+        "Official Site": "https://webguy.net",
+        "Icon": "/media/com_favicon/icons/1/favicon.ico",
+        "Redirect": "https://webguy.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webguy.net"
+    },
+    {
+        "link": "https://aylanetworks.com",
+        "Heading": "Simplifying Smart Home IoT | Ayla Networks",
+        "Abstract": "For smart home IoT solutions, highlight your differentiated devices using a proven cloud platform to reliably deliver custom-built, smart-connected products, improving customers' experience.  Ayla Networks is your one-stop US-based shop for devices, firmware, cloud platform, and a 5-star mobile app.",
+        "Official Site": "https://www.aylanetworks.com",
+        "Icon": "https://static.wixstatic.com/ficons/ea43ac_eb241f8dc5a14a539764b7576d70e0f9%7Emv2.ico",
+        "Redirect": "https://www.aylanetworks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.aylanetworks.com"
+    },
+    {
+        "link": "https://clinch.co",
+        "Heading": "Agentic AI Platform for Omnichannel Advertising",
+        "Abstract": "Clinch offers AI-powered omnichannel personalization and dynamic creative optimization to help brands deliver targeted, high-performing ad campaigns.",
+        "Official Site": "https://clinch.co",
+        "Icon": "https://cdn.prod.website-files.com/6602f44d0ecacadb068116ea/68754b71611a6d4efd3cfe38_Clinch-Logo.jpg",
+        "Redirect": "https://clinch.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://clinch.co"
+    },
+    {
+        "link": "https://rocketreach.co",
+        "Heading": "RocketReach Lead Intelligence: Phone and Email Finder",
+        "Abstract": "RocketReach finds email, phone & social media for 700M+ professionals. Try for free at rocketreach.co. Automate lead intelligence and streamline your outreach!",
+        "Official Site": "https://rocketreach.co/",
+        "Icon": "https://static.rocketreach.co/images/logo/logoWhiteRocketBlueHaloWhiteText.png",
+        "Redirect": "https://rocketreach.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rocketreach.co/"
+    },
+    {
+        "link": "https://collider.com",
+        "Heading": "New Movie News, Movie Trailers & Upcoming Movie Reviews | Collider",
+        "Abstract": "Stay up to date with new movie news, watch the latest movie trailers & get trusted reviews of upcoming movies & more from the team at Collider.",
+        "Official Site": "https://collider.com/",
+        "Icon": "https://static0.colliderimages.com/wordpress/wp-content/uploads/social/cl-og-img.png?w=1200&h=675&fit=crop",
+        "Redirect": "https://collider.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://collider.com/"
+    },
+    {
+        "link": "https://picpay.com",
+        "Heading": "Para voc\u00ea",
+        "Abstract": "Conhe\u00e7a as vantagens de ter uma conta digital em um dos maiores parceiros financeiros que \u00e9 o PicPay! Entenda a praticidade do app e os benef\u00edcios oferecidos.",
+        "Official Site": "https://picpay.com/pt-br/pf",
+        "Icon": "https://picpay.com/pt-br/media_1640c26f085d1d4187a4490a8a885f91c562b95ea.webp?width=1200&format=pjpg&optimize=medium",
+        "Redirect": "https://picpay.com/pt-br/pf",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://picpay.com/pt-br/pf"
+    },
+    {
+        "link": "https://devline.tv",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://devline.tv",
+        "Icon": "favicon.ico",
+        "Redirect": "https://devline.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://devline.tv"
+    }
+]
