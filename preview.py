@@ -101,7 +101,7 @@ def get_link_preview(origin):
 # write the output to output.json
 async def main():
     # read csv files from sites folder
-    files = glob.glob("chunks/*.csv")
+    files = glob.glob("sites/*.csv")
     
     results = []
     for file in files:
