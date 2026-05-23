@@ -1,0 +1,312 @@
+[
+    {
+        "link": "https://uni-jena.de",
+        "Heading": "Friedrich-Schiller-Universit\u00e4t Jena | Uni Jena",
+        "Abstract": "Die Universit\u00e4t Jena verbindet: Menschen und Ideen, Wissenschaft und Wirtschaft, Hochschulen und au\u00dferuniversit\u00e4re Forschungseinrichtungen.",
+        "Official Site": "https://www.uni-jena.de/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.uni-jena.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uni-jena.de/"
+    },
+    {
+        "link": "https://elledecor.com",
+        "Heading": "Home Decor - Best Home Decorating Ideas",
+        "Abstract": "Elegant home decor inspiration and interior design ideas, provided by the experts at ELLEDecor.com. Tour celebrity homes, get inspired by famous interior designers, and explore the world's architectural treasures.",
+        "Official Site": "https://elledecor.com",
+        "Icon": "/_assets/design-tokens/elledecor/static/images/favicon.6fa1622.ico",
+        "Redirect": "https://elledecor.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elledecor.com"
+    },
+    {
+        "link": "https://adr.org",
+        "Heading": "American Arbitration Association | Arbitration & ADR Services",
+        "Abstract": "The American Arbitration Association (AAA) offers neutral, efficient dispute resolution services including arbitration and mediation across the U.S.",
+        "Official Site": "/home/",
+        "Icon": "/media/jc1ltuc5/adr_homepage_og_image.webp",
+        "Redirect": "/home/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/home/"
+    },
+    {
+        "link": "https://funtime.su",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f | FunTime",
+        "Abstract": null,
+        "Official Site": "https://funtime.su",
+        "Icon": "favicon.png?v=5",
+        "Redirect": "https://funtime.su",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://funtime.su"
+    },
+    {
+        "link": "https://edutopia.org",
+        "Heading": "Edutopia - What Works in Education",
+        "Abstract": "We share evidence and practitioner-based learning strategies that empower you to improve preK-12 education.",
+        "Official Site": "https://www.edutopia.org",
+        "Icon": "https://wpvip.edutopia.org/wp-content/uploads/2022/10/community_share.jpg",
+        "Redirect": "https://www.edutopia.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.edutopia.org"
+    },
+    {
+        "link": "https://getshop.tv",
+        "Heading": "getshop.tv",
+        "Abstract": null,
+        "Official Site": "https://getshop.tv",
+        "Icon": "N/A",
+        "Redirect": "https://getshop.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://getshop.tv"
+    },
+    {
+        "link": "https://unistra.fr",
+        "Heading": "\n      Accueil | Universit\u00e9 de Strasbourg\n    ",
+        "Abstract": "D\u00e9couvrez l\u2019Universit\u00e9 de Strasbourg, ses formations et sa recherche au c\u0153ur de Strasbourg, Alsace, France.",
+        "Official Site": "https://unistra.fr",
+        "Icon": "/themes/custom/studiometa/favicon.ico",
+        "Redirect": "https://unistra.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unistra.fr"
+    },
+    {
+        "link": "https://alloy.com",
+        "Heading": "Identity & Fraud Prevention Platform for financial services | Alloy",
+        "Abstract": "Alloy is an identity data orchestration platform and fraud prevention software that helps banks and fintechs with identity verification, AML monitoring\u2026",
+        "Official Site": "https://www.alloy.com/",
+        "Icon": "https://alloy-website.transforms.svdcdn.com/production/what-is-alloy_header.png?w=1200&h=630&q=82&auto=format&fit=min&dm=1623168107&s=759f68211f42b96ff5ead7de5b9df794",
+        "Redirect": "https://www.alloy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alloy.com/"
+    },
+    {
+        "link": "https://questionpro.com",
+        "Heading": "Online Survey Software and Tools | QuestionPro",
+        "Abstract": "Our free survey platform features 80+ question types, ready-made templates, and more! Discover QuestionPro, the best online survey software to create surveys in minutes! ",
+        "Official Site": "https://questionpro.com",
+        "Icon": "https://questionpro.com/images/qphome/questionpro-thumbnail.png",
+        "Redirect": "https://questionpro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://questionpro.com"
+    },
+    {
+        "link": "https://diariovasco.com",
+        "Heading": "El Diario Vasco - Noticias de Donostia, San Sebasti\u00e1n y Gipuzkoa",
+        "Abstract": "Noticias y \u00faltima hora de Donostia-San Sebasti\u00e1n, Gipuzkoa y todas sus comarcas y municipios en El Diario Vasco",
+        "Official Site": "https://www.diariovasco.com/",
+        "Icon": "https://static.vocstatic.com/voc26/latest/assets/images/placeholder/diariovasco-placeholder.png",
+        "Redirect": "https://www.diariovasco.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.diariovasco.com/"
+    },
+    {
+        "link": "https://la-croix.com",
+        "Heading": "La Croix - Actualit\u00e9 en direct, informations France, Monde, Economie, Religion...",
+        "Abstract": "Toute l\u2019actualit\u00e9 en France et \u00e0 l'international, les infos politiques, \u00e9conomiques et religieuses. La Croix d\u00e9crypte pour vous les infos \u00e0 la Une dans le monde",
+        "Official Site": "https://www.la-croix.com/",
+        "Icon": "https://www.la-croix.com/assets/build/images/logos/logo-lacroix.f8ae96b5.svg",
+        "Redirect": "https://www.la-croix.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.la-croix.com/"
+    },
+    {
+        "link": "https://turktelekom.com.tr",
+        "Heading": "\n\tT\u00fcrk Telekom \u2013 De\u011ferli Hissettirir\n",
+        "Abstract": "T\u00fcrk Telekom, kullan\u0131c\u0131lar\u0131na ihtiya\u00e7lara g\u00f6re \u00f6zelle\u015ftirilmi\u015f en uygun tarifeleri, cihazlar\u0131 ve kampanyalar\u0131 en iyi fiyatlarla sunarak de\u011ferli hissettirir.",
+        "Official Site": "https://www.turktelekom.com.tr/Sayfalar/default.aspx",
+        "Icon": "https://www.turktelekom.com.tr/Assets/img/turk-telekom-og.png",
+        "Redirect": "https://www.turktelekom.com.tr/Sayfalar/default.aspx",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.turktelekom.com.tr/Sayfalar/default.aspx"
+    },
+    {
+        "link": "https://eib.org",
+        "Heading": "Homepage | European Investment Bank",
+        "Abstract": "The European Investment Bank (EIB) is the lending arm of the European Union. We are the world\u2019s largest multilateral lender and the biggest provider of climate finance.",
+        "Official Site": "https://eib.org",
+        "Icon": "https://www.eib.org/photos/rs/ff58d908-cb76-4dbf-901e-5058a9854634/largeprvw/image.jpg",
+        "Redirect": "https://eib.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eib.org"
+    },
+    {
+        "link": "https://caissedesdepots.fr",
+        "Heading": "Ensemble, faisons grandir la France | Groupe Caisse des D\u00e9p\u00f4ts",
+        "Abstract": null,
+        "Official Site": "https://caissedesdepots.fr",
+        "Icon": "/themes/custom/cdc_si/favicon.ico",
+        "Redirect": "https://caissedesdepots.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caissedesdepots.fr"
+    },
+    {
+        "link": "https://newyorkfed.org",
+        "Heading": "FEDERAL RESERVE BANK of NEW YORK - Serving the Second District and the Nation - FEDERAL RESERVE BANK of NEW YORK",
+        "Abstract": "The Federal Reserve Bank of New York plays a leadership role in monetary policy, financial supervision and the payments system.",
+        "Official Site": "https://newyorkfed.org",
+        "Icon": "/medialibrary/media/favicon.ico",
+        "Redirect": "https://newyorkfed.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://newyorkfed.org"
+    },
+    {
+        "link": "https://mz.de",
+        "Heading": "Mitteldeutsche Zeitung",
+        "Abstract": "Aktuelle regionale Nachrichten aus Sachsen-Anhalt, Polizeiberichte und Reportagen. Lesen Sie hier auf mz.de",
+        "Official Site": "https://www.mz.de/",
+        "Icon": "/static/favicons/mz-android-icon-192x192.png",
+        "Redirect": "https://www.mz.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mz.de/"
+    },
+    {
+        "link": "https://plusline.de",
+        "Heading": "IT Outsourcing, Managed Hosting und Managed Cloud mit Plus.line",
+        "Abstract": "Ihr zuverl\u00e4ssiger Dienstleister f\u00fcr IT Outsourcing, Managed Hosting / Cloud und erstklassige Network Services f\u00fcr den Mittelstand und Enterprises.",
+        "Official Site": "https://www.plusline.net/",
+        "Icon": "https://www.plusline.net/wp-content/uploads/2024/02/Plus.line-AG-Performance-fuer-Ihre-IT-min.png",
+        "Redirect": "https://www.plusline.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.plusline.net/"
+    },
+    {
+        "link": "https://berlingske.dk",
+        "Heading": "Berlingske",
+        "Abstract": "L\u00e6s med p\u00e5 berlingske.dk og bliv opdateret p\u00e5 de seneste nyheder. Berlingske leverer nyheder med afs\u00e6t i fire styrkeomr\u00e5der; Nyheder, Opinion, Business og AOK.",
+        "Official Site": "https://www.berlingske.dk/",
+        "Icon": "/brands/berlingske/share.jpg",
+        "Redirect": "https://www.berlingske.dk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.berlingske.dk/"
+    },
+    {
+        "link": "https://drogariaspacheco.com.br",
+        "Heading": "Farm\u00e1cia Online - Drogarias Pacheco: Compre Medicamentos e Cosm\u00e9ticos",
+        "Abstract": "Compre Medicamentos, Gen\u00e9ricos, Perfumaria e \u00cdtens de Higiene Pessoal na Drogarias Pacheco. Entrega R\u00e1pida e Segura. Parcele at\u00e9 3X s/ Juros!",
+        "Official Site": "https://drogariaspacheco.com.br",
+        "Icon": "/arquivos/drogariaspacheco-favicon.ico?v=636728816167330000",
+        "Redirect": "https://drogariaspacheco.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drogariaspacheco.com.br"
+    },
+    {
+        "link": "https://pcisecuritystandards.org",
+        "Heading": "PCI Security Standards Council \u2013 Protect Payment Data with Industry-driven Security Standards, Training, and Programs",
+        "Abstract": "A global forum that brings together payments industry stakeholders to develop and drive adoption of data security standards and resources for safe payments.",
+        "Official Site": "https://www.pcisecuritystandards.org/",
+        "Icon": "https://www.pcisecuritystandards.org/wp-content/uploads/2022/07/slider-pcidss.webp",
+        "Redirect": "https://www.pcisecuritystandards.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pcisecuritystandards.org/"
+    },
+    {
+        "link": "https://dochub.com",
+        "Heading": "Sign PDF Documents | DocHub",
+        "Abstract": "Sign PDF documents online, request eSignatures, and send reusable PDF templates. It's a PDF editor in your browser that integrates with Google and Gmail. Sign up instantly and for free.",
+        "Official Site": "https://www.dochub.com/",
+        "Icon": "https://cdn.dochub.com/assets/img/logo/dochub-meta-image-9cb8f407884e9ab716771e1d9d9e1b657a909032b78e7f585fbf15145ca6e93a.jpg",
+        "Redirect": "https://www.dochub.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dochub.com/"
+    },
+    {
+        "link": "https://chocolatey.org",
+        "Heading": "Chocolatey Software | Chocolatey - The package manager for Windows",
+        "Abstract": "Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. Chocolatey integrates w/SCCM, Puppet, Chef, etc. Chocolatey is trusted by businesses to manage software deployments.",
+        "Official Site": "https://chocolatey.org/",
+        "Icon": "https://img.chocolatey.org/social-share/facebook-share.png",
+        "Redirect": "https://chocolatey.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chocolatey.org/"
+    },
+    {
+        "link": "https://charlotteobserver.com",
+        "Heading": "Charlotte News: Breaking, Sports & Crime |  Charlotte Observer",
+        "Abstract": "Today's latest news from Charlotte and Mecklenburg covering local business, sports, crime, politics and community updates from North Carolina.",
+        "Official Site": "https://charlotteobserver.com",
+        "Icon": "https://www.charlotteobserver.com/wps/build/images/charlotteobserver/facebook.jpg",
+        "Redirect": "https://charlotteobserver.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://charlotteobserver.com"
+    },
+    {
+        "link": "https://prdredir.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://prdredir.com",
+        "Icon": "N/A",
+        "Redirect": "https://prdredir.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://prdredir.com"
+    },
+    {
+        "link": "https://adara.com",
+        "Heading": "Homepage - ADARA Travel Intent Marketing Platform",
+        "Abstract": "Adara, a RateGain company, is a leading data exchange platform offering ethically sourced traveler data from 270+ global partners. With insights from 4 billion searches and 23 billion data elements, we help brands optimize marketing ROI and thrive in the digital economy.",
+        "Official Site": "https://adara.com/",
+        "Icon": "https://adara.com/wp-content/uploads/2020/08/adara_favicon-32x32.png",
+        "Redirect": "https://adara.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adara.com/"
+    },
+    {
+        "link": "https://techinasia.com",
+        "Heading": "Tech in Asia - Connecting Asia's startup ecosystem",
+        "Abstract": null,
+        "Official Site": "https://techinasia.com",
+        "Icon": "https://static.techinasia.com/assets/favicon-32x32.png",
+        "Redirect": "https://techinasia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://techinasia.com"
+    },
+    {
+        "link": "https://jbhifi.com.au",
+        "Heading": "JB Hi-Fi - Australia's Largest Home Entertainment Retailer",
+        "Abstract": "JB Hi-Fi is Australia's largest home entertainment retailer with top products, great quality + value. Learn more about our product range online.",
+        "Official Site": "https://www.jbhifi.com.au/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/logo.png?height=628&pad_color=fff&v=1613146384&width=1200",
+        "Redirect": "https://www.jbhifi.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jbhifi.com.au/"
+    },
+    {
+        "link": "https://walkscore.com",
+        "Heading": "Find Apartments for Rent and Rentals - Get Your Walk Score",
+        "Abstract": "Find apartments for rent and rentals on Walk Score. Find apartments with a better commute, great nearby places, and transportation choices.",
+        "Official Site": "https://walkscore.com",
+        "Icon": "https://pp.walk.sc/_/s/_i/images/fb-walkscore-180.jpg",
+        "Redirect": "https://walkscore.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://walkscore.com"
+    },
+    {
+        "link": "https://europe1.fr",
+        "Heading": "Actualit\u00e9s du jour | Europe 1",
+        "Abstract": "Ecoutez Europe 1 en direct et retrouvez toute l\u2019actualit\u00e9 politique, \u00e9conomique et internationale, ainsi que les replays de vos \u00e9missions",
+        "Official Site": "https://www.europe1.fr/",
+        "Icon": "/themes/europe1/favicon.ico",
+        "Redirect": "https://www.europe1.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.europe1.fr/"
+    },
+    {
+        "link": "https://doteasy.com",
+        "Heading": "Reliable Web Hosting and Domains in Canada - Doteasy",
+        "Abstract": "Doteasy offers web hosting, domains, and website solutions. Start your online journey with us for fast, secure, and affordable hosting with expert support",
+        "Official Site": "https://doteasy.com/",
+        "Icon": "https://doteasy.com/assets/brand/favicons/open-graph.png",
+        "Redirect": "https://doteasy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://doteasy.com/"
+    },
+    {
+        "link": "https://iseeme.com",
+        "Heading": "Personalized Children's Books",
+        "Abstract": "Personalized Children's Books | I See Me! | Personalized Books for Kids",
+        "Official Site": "https://iseeme.com",
+        "Icon": "https://www.iseeme.com/media/favicon/default/ISM_Favicon_32x32.png",
+        "Redirect": "https://iseeme.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iseeme.com"
+    }
+]

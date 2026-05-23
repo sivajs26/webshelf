@@ -1,0 +1,222 @@
+[
+    {
+        "link": "https://wikileaks.org",
+        "Heading": "WikiLeaks",
+        "Abstract": null,
+        "Official Site": "https://wikileaks.org",
+        "Icon": "/IMG/favicon.ico",
+        "Redirect": "https://wikileaks.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wikileaks.org"
+    },
+    {
+        "link": "https://zippia.com",
+        "Heading": "Zippia - Find Jobs, Salaries, Companies, Resume Help, Career Paths, and More",
+        "Abstract": "Zippia helps you find new career options and land a job now. Search by your major and see who would be interested in hiring you.",
+        "Official Site": "https://www.zippia.com/",
+        "Icon": "https://static.zippia.com/assets/zippia-og-image.png",
+        "Redirect": "https://www.zippia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zippia.com/"
+    },
+    {
+        "link": "https://tuwien.ac.at",
+        "Heading": "Technische Universit\u00e4t Wien | TU Wien",
+        "Abstract": "Homepage der Technischen Universit\u00e4t Wien. TU Wien, TUW. \"Technik f\u00fcr Menschen\". News. Alles zu: Studium, Forschung, Kooperationen, Services.",
+        "Official Site": "https://tuwien.ac.at",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://tuwien.ac.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tuwien.ac.at"
+    },
+    {
+        "link": "https://aeroadmin.com",
+        "Heading": "FREE remote desktop software, remote desktop connection",
+        "Abstract": "AeroAdmin - zero configuration FREE for business and home remote desktop software. Start a remote desktop connection instantly.",
+        "Official Site": "https://aeroadmin.com",
+        "Icon": "../images/favicon/favicon.ico",
+        "Redirect": "https://aeroadmin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aeroadmin.com"
+    },
+    {
+        "link": "https://pantone.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pantone.com",
+        "Icon": "N/A",
+        "Redirect": "https://pantone.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pantone.com"
+    },
+    {
+        "link": "https://carleton.ca",
+        "Heading": "Carleton University - Ottawa, Canada",
+        "Abstract": "Carleton University in Ottawa prepares career-ready graduates with top-ranked programs, cutting-edge research and a thriving campus life.",
+        "Official Site": "https://carleton.ca/",
+        "Icon": "https://carleton.ca/wp-content/uploads/2024/10/social-media-sample-red-247w-1.png",
+        "Redirect": "https://carleton.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://carleton.ca/"
+    },
+    {
+        "link": "https://optimonk.com",
+        "Heading": "OptiMonk: The AI Popup Builder",
+        "Abstract": "Build high-converting ecommerce popups with AI, no coding needed. Capture leads, reduce cart abandonment and boost sales with OptiMonk.",
+        "Official Site": "https://www.optimonk.com",
+        "Icon": "https://www.optimonk.com/images/og/homepage-og.png",
+        "Redirect": "https://www.optimonk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.optimonk.com"
+    },
+    {
+        "link": "https://rvo.nl",
+        "Heading": "Rijksdienst voor Ondernemend Nederland | RVO.nl",
+        "Abstract": "RVO is voor iedereen die werkt aan een duurzame, sterke economie. Wij helpen u graag vooruit. Met voorlichting, advies, financiering en de juiste contacten. We helpen u graag vooruit!",
+        "Official Site": "https://www.rvo.nl/home",
+        "Icon": "N/A",
+        "Redirect": "https://www.rvo.nl/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rvo.nl/home"
+    },
+    {
+        "link": "https://dvrlists.com",
+        "Heading": "dvrlists.com DDNS server (login)",
+        "Abstract": "Fast, free and extremely reliable. dvrlists.com DDNS server login.",
+        "Official Site": "https://dvrlists.com",
+        "Icon": "img/shortcut.ico",
+        "Redirect": "https://dvrlists.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dvrlists.com"
+    },
+    {
+        "link": "https://dayunlinks.cn",
+        "Heading": "\u6df1\u5733\u5e02\u5343\u9e1f\u7965\u4e91\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "Abstract": null,
+        "Official Site": "https://dayunlinks.cn",
+        "Icon": "/assets/favicon.c3a16cad.png",
+        "Redirect": "https://dayunlinks.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dayunlinks.cn"
+    },
+    {
+        "link": "https://uschamber.com",
+        "Heading": "U.S. Chamber of Commerce | U.S. Chamber of Commerce",
+        "Abstract": "The U.S. Chamber of Commerce is the world\u2019s largest business organization. We advocate, connect, inform, and fight for business growth and America\u2019s success.",
+        "Official Site": "https://www.uschamber.com/",
+        "Icon": "https://uschamber.imgix.net/https%3A%2F%2Fwww.uschamber.com%2Fassets%2Fimages%2Fuscc-default-1200x600.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.5&fp-y=0.5&h=630&q=80&w=1200&s=bb6e7375c63d2cb9cef0787207594176",
+        "Redirect": "https://www.uschamber.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uschamber.com/"
+    },
+    {
+        "link": "https://adventori.com",
+        "Heading": "Home - baliho-local",
+        "Abstract": null,
+        "Official Site": "https://fr.cool.co/",
+        "Icon": "https://fr.cool.co/wp-content/uploads/2026/01/cropped-favico-adventori-192x192-1-150x150.png",
+        "Redirect": "https://fr.cool.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fr.cool.co/"
+    },
+    {
+        "link": "https://presseportal.de",
+        "Heading": "Die Plattform f\u00fcr Pressemitteilungen und Pressemeldungen | Presseportal",
+        "Abstract": "Die Plattform f\u00fcr Pressemitteilungen und Pressemeldungen",
+        "Official Site": "https://presseportal.de",
+        "Icon": "/assets/img/favicons/de.png?4",
+        "Redirect": "https://presseportal.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://presseportal.de"
+    },
+    {
+        "link": "https://myip.link",
+        "Heading": "MyIP - Main page",
+        "Abstract": null,
+        "Official Site": "https://myip.link",
+        "Icon": "/images/favicon.png",
+        "Redirect": "https://myip.link",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myip.link"
+    },
+    {
+        "link": "https://gwdg.de",
+        "Heading": "GWDG | GWDG - IT in der Wissenschaft",
+        "Abstract": "Exzellente Forschung und Lehre braucht eine leistungsf\u00e4hige und innovative IT-Infrastruktur Als Hochschulrechenzentrum f\u00fcr die Georg-August-Universit\u00e4t G\u00f6ttingen und Rechen- und IT-Kompetenzzentrum f\u00fcr die Max-Planck-Gesellschaft bieten wir ein breites Spektrum an Informations- und Kommunikationsleistungen f\u00fcr die Wissenschaft.\nDurch unsere eigene Forschung im Bereich der Praktischen und Angewandten Informatik und die Beteiligung an zahlreichen Forschungsprojekten schaffen wir die Basis f\u00fcr innovative und kundennahe IT-L\u00f6sungen.\nUnsere Mitarbeiterinnen und Mitarbeiter stehen Ihnen bei allen Fragen rund um die wissenschaftliche Datenverarbeitung mit einem umfangreichen Beratungs- und Betreuungsangebot mit Rat und Tat zur Seite.",
+        "Official Site": "https://gwdg.de/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://gwdg.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gwdg.de/"
+    },
+    {
+        "link": "https://theme-fusion.com",
+        "Heading": "Avada - The #1 Selling Website Builder for WordPress & WooCommerce",
+        "Abstract": "Avada is a Website Builder for WordPress. Build mobile-friendly sites with no coding required. An ideal choice for beginners, marketers, and professionals.",
+        "Official Site": "https://avada.com/",
+        "Icon": "https://avada.com/wp-content/uploads/2022/07/freedom.jpg",
+        "Redirect": "https://avada.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avada.com/"
+    },
+    {
+        "link": "https://onlineradiobox.com",
+        "Heading": "Free online radio stations \u2013 listen for free at OnlineRadioBox.com",
+        "Abstract": "With our Internet radio player you can listen to any online radio station from around the world. Listen to radio for free at OnlineRadioBox.com",
+        "Official Site": "https://onlineradiobox.com/",
+        "Icon": "https://cdn.onlineradiobox.com/img/fb-share_en.png",
+        "Redirect": "https://onlineradiobox.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onlineradiobox.com/"
+    },
+    {
+        "link": "https://liebherr.com",
+        "Heading": "Liebherr - international Group & family-run company - Liebherr",
+        "Abstract": "The Liebherr Group is one of the largest construction machine manufacturers in the world. It is also among the leading providers of technology in many",
+        "Official Site": "https://www.liebherr.com/en-us/group/start-page-3782471",
+        "Icon": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/images/about-liebherr/general-about-liebherr/liebherr-flags-1200x630.jpg",
+        "Redirect": "https://www.liebherr.com/en-us/group/start-page-3782471",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.liebherr.com/en-us/group/start-page-3782471"
+    },
+    {
+        "link": "https://gu.se",
+        "Heading": "Hem | G\u00f6teborgs universitet",
+        "Abstract": null,
+        "Official Site": "https://www.gu.se/",
+        "Icon": "/themes/custom/gu_basic_themes/gu_theme_base/src/images/favicons/favicon.ico",
+        "Redirect": "https://www.gu.se/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gu.se/"
+    },
+    {
+        "link": "https://whatfix.com",
+        "Heading": "Whatfix | AI-Powered Digital Adoption Platform",
+        "Abstract": "Whatfix's interactive digital adoption platform and analytics enable employees with contextual user experiences, step-by-step guidance, self-help user support, and user behavior analytics to drive digital adoption for desktop, mobile, and web applications.",
+        "Official Site": "https://whatfix.com/",
+        "Icon": "https://website.whatfix.com/wp-content/uploads/2024/01/whatfix.png",
+        "Redirect": "https://whatfix.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://whatfix.com/"
+    },
+    {
+        "link": "https://guim.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://guim.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://guim.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://guim.co.uk"
+    },
+    {
+        "link": "https://belastingdienst.nl",
+        "Heading": "Belastingdienst Nederland | Belastingdienst",
+        "Abstract": "Startpunt voor belastingen. Lees hoe u aangifte doet en wanneer wij uw voorlopige aanslag uitbetalen. Of vind het antwoord op uw vraag.",
+        "Official Site": "https://belastingdienst.nl",
+        "Icon": "/bld-assets/bld/images/favicon.ico",
+        "Redirect": "https://belastingdienst.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://belastingdienst.nl"
+    }
+]

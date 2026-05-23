@@ -1,0 +1,242 @@
+[
+    {
+        "link": "https://thetvdb.com",
+        "Heading": "Welcome - TheTVDB.com",
+        "Abstract": null,
+        "Official Site": "https://thetvdb.com",
+        "Icon": "/images/icon.png",
+        "Redirect": "https://thetvdb.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thetvdb.com"
+    },
+    {
+        "link": "https://cdn-fileserver.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://cdn-fileserver.com",
+        "Icon": "N/A",
+        "Redirect": "https://cdn-fileserver.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cdn-fileserver.com"
+    },
+    {
+        "link": "https://crn.com",
+        "Heading": "Technology News for IT Channel Partners and Solution Providers | CRN",
+        "Abstract": "CRN is the top technology news and information source for solution providers, IT channel partners, and value-added resellers (VARs). Get exclusive and breaking news, IT vendor and product reviews, channel partner resources and more.",
+        "Official Site": "https://www.crn.com/",
+        "Icon": "https://www.crn.com/media_1b20c92236949f3c374bcd5f99614c6b1a5357ce5.jpg?width=1200&format=pjpg&optimize=medium",
+        "Redirect": "https://www.crn.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.crn.com/"
+    },
+    {
+        "link": "https://robbreport.com",
+        "Heading": "Robb Report \u2013 The Best Luxury Cars, Jets, Yachts, Travel, Watches",
+        "Abstract": "The Best Luxury Cars, Jets, Yachts, Travel, Watches",
+        "Official Site": "https://robbreport.com/",
+        "Icon": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvcm9iYnJlcG9ydC5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzA0XC9jcm9wcGVkLXJvYmJyZXBvcnRfZmF2aWNvbi5wbmciLCJ0eHQiOiJSb2JiIFJlcG9ydCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxNzkyODc3NDB9.0t-e4c5yHXALufbnFP9XJEIXX0mfZE0UTdpHDtxP-D0MQ",
+        "Redirect": "https://robbreport.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://robbreport.com/"
+    },
+    {
+        "link": "https://blocksite.co",
+        "Heading": "BlockSite: Easily Block Distracting Websites And Apps",
+        "Abstract": "BlockSite allows you to block any website for any period of time. Remove distractions, block adult content, and customize your browsing environment.",
+        "Official Site": "https://blocksite.co",
+        "Icon": "https://blocksite.co/wp-content/uploads/2025/11/cropped-bsBadge-min.png",
+        "Redirect": "https://blocksite.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://blocksite.co"
+    },
+    {
+        "link": "https://pressherald.com",
+        "Heading": "Portland Press Herald - Maine Sunday Telegram",
+        "Abstract": "Maine\u2019s top source for news and information. We bring you breaking news, investigations, politics, features, sports, and opinion from across the state.",
+        "Official Site": "https://www.pressherald.com/",
+        "Icon": "http://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png",
+        "Redirect": "https://www.pressherald.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pressherald.com/"
+    },
+    {
+        "link": "https://hibob.com",
+        "Heading": "All-in-one HR software for people, payroll & finance | HiBob",
+        "Abstract": "Streamline HR, Payroll & Finance with HiBob. Automate processes with Bob to cut the noise. Just Enough Thinking, just the right results.",
+        "Official Site": "https://www.hibob.com/",
+        "Icon": "https://res.cloudinary.com/hibob-website-prod/images/f_auto,q_auto/v1765722016/wp-website/New-Homepage-sharing-banner/New-Homepage-sharing-banner.png?_i=AA",
+        "Redirect": "https://www.hibob.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hibob.com/"
+    },
+    {
+        "link": "https://anet.net.th",
+        "Heading": "ANET | Internet Service Provider Anet",
+        "Abstract": "ANET \u0e1c\u0e39\u0e49\u0e19\u0e33\u0e17\u0e32\u0e07\u0e14\u0e49\u0e32\u0e19 INTERNET \u0e41\u0e25\u0e30 CYBER SECURITY \u0e17\u0e35\u0e48\u0e21\u0e35\u0e04\u0e38\u0e13\u0e20\u0e32\u0e1e \u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22 \u0e43\u0e2a\u0e48\u0e43\u0e08\u0e25\u0e39\u0e01\u0e04\u0e49\u0e32\u0e14\u0e49\u0e27\u0e22\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e2b\u0e25\u0e31\u0e07\u0e01\u0e32\u0e23\u0e02\u0e32\u0e22\u0e17\u0e35\u0e48\u0e21\u0e35\u0e1b\u0e23\u0e30\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e20\u0e32\u0e1e",
+        "Official Site": "https://anet.net.th",
+        "Icon": "https://www.wewyn.com/asset/images/imageStock/favicon/2376.png",
+        "Redirect": "https://anet.net.th",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anet.net.th"
+    },
+    {
+        "link": "https://tu-chemnitz.de",
+        "Heading": "Technische Universit\u00e4t Chemnitz",
+        "Abstract": "Technische Universit\u00e4t Chemnitz",
+        "Official Site": "https://tu-chemnitz.de",
+        "Icon": "/tucal4/img/tuc.png",
+        "Redirect": "https://tu-chemnitz.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tu-chemnitz.de"
+    },
+    {
+        "link": "https://quip.com",
+        "Heading": "Quip",
+        "Abstract": "Quip is real-time collaborative documents, spreadsheets, and chat embedded inside Salesforce to transform any business process.",
+        "Official Site": "https://quip.com",
+        "Icon": "https://quip-marketing.com/_next/static/_/static/images/social-share-quip.6fbc4455618f010b057181f0fb13fd87.png",
+        "Redirect": "https://quip.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quip.com"
+    },
+    {
+        "link": "https://pocket-lint.com",
+        "Heading": "Pocket-lint | Phone, gadget, and entertainment reviews, product news, and the best of the internet",
+        "Abstract": "Welcome to Pocket-lint, for the latest product reviews, including news on gadgets, digital cameras, home cinema, audio, cars and mobile phones.",
+        "Official Site": "https://www.pocket-lint.com/",
+        "Icon": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/social/pl-og-img.png?w=1200&h=675&fit=crop",
+        "Redirect": "https://www.pocket-lint.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pocket-lint.com/"
+    },
+    {
+        "link": "https://c2.com",
+        "Heading": "Cunningham & Cunningham, Inc.",
+        "Abstract": null,
+        "Official Site": "https://c2.com",
+        "Icon": "N/A",
+        "Redirect": "https://c2.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://c2.com"
+    },
+    {
+        "link": "https://imhd.sk",
+        "Heading": "MHD Bratislava \u2022 imhd.sk Bratislava",
+        "Abstract": "Mestsk\u00e1 hromadn\u00e1 doprava a region\u00e1lna doprava na Slovensku",
+        "Official Site": "https://imhd.sk",
+        "Icon": "https://imhd.sk/data/img/logo_imhd-sk_vertical.png",
+        "Redirect": "https://imhd.sk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://imhd.sk"
+    },
+    {
+        "link": "https://hts.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://hts.ru",
+        "Icon": "N/A",
+        "Redirect": "https://hts.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hts.ru"
+    },
+    {
+        "link": "https://umkc.edu",
+        "Heading": "\n\t\t    University of Missouri-Kansas City\n\t\t",
+        "Abstract": "University of Missouri\u2013Kansas City a public research university in Kansas City, MO. UMKC is part of the University of Missouri System and has a medical school.",
+        "Official Site": "https://www.umkc.edu/index.html",
+        "Icon": "N/A",
+        "Redirect": "https://www.umkc.edu/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.umkc.edu/index.html"
+    },
+    {
+        "link": "https://telewebion.ir",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://telewebion.ir",
+        "Icon": "N/A",
+        "Redirect": "https://telewebion.ir",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://telewebion.ir"
+    },
+    {
+        "link": "https://avm.de",
+        "Heading": "FRITZ! - Alles f\u00fcr das Heimnetz",
+        "Abstract": "Entdecke FRITZ! - Informiere dich \u00fcber die vielseitigen und benutzerfreundlichen L\u00f6sungen f\u00fcr deinen Internetanschluss und deine Heimvernetzung.",
+        "Official Site": "https://fritz.com/",
+        "Icon": "http://fritz.com/cdn/shop/files/kampagne_2025_willkommen_header_1200x628_b3221394-5c8a-4011-88a1-1d2c697c8210.webp?v=1758531012",
+        "Redirect": "https://fritz.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fritz.com/"
+    },
+    {
+        "link": "https://forward.com",
+        "Heading": "News That Matters to American Jews \u2013 The Forward",
+        "Abstract": null,
+        "Official Site": "https://forward.com/",
+        "Icon": "https://forward.com/wp-content/themes/studio-simpatico/svgs/logo.svg",
+        "Redirect": "https://forward.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://forward.com/"
+    },
+    {
+        "link": "https://dootchi.ai",
+        "Heading": "404",
+        "Abstract": null,
+        "Official Site": "https://dootchi.ai",
+        "Icon": "N/A",
+        "Redirect": "https://dootchi.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dootchi.ai"
+    },
+    {
+        "link": "https://lovetoknow.com",
+        "Heading": "LoveToKnow - Live a Life You Love",
+        "Abstract": "Let us help you live a life you love. Find tools to help you have fun and make the most out of each and every day.",
+        "Official Site": "https://lovetoknow.com",
+        "Icon": "https://www.lovetoknow.com/lovetoknow/favicon-196.png",
+        "Redirect": "https://lovetoknow.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lovetoknow.com"
+    },
+    {
+        "link": "https://sanmar.com",
+        "Heading": "Wholesale Apparel, Bags and Caps | SanMar",
+        "Abstract": null,
+        "Official Site": "https://sanmar.com",
+        "Icon": "//cdnp.sanmar.com/_ui/v/1801316507/responsive/theme-blue/images/favicon.ico",
+        "Redirect": "https://sanmar.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sanmar.com"
+    },
+    {
+        "link": "https://solutionslabkit.com",
+        "Heading": "solutionslabkit.com",
+        "Abstract": null,
+        "Official Site": "https://solutionslabkit.com/",
+        "Icon": "https://img1.wsimg.com/isteam/videos/uA41GmyyG8IMaxXdb",
+        "Redirect": "https://solutionslabkit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://solutionslabkit.com/"
+    },
+    {
+        "link": "https://aerzteblatt.de",
+        "Heading": "Deutsches \u00c4rzteblatt: Aktuelles aus Gesundheitspolitik und Medizin",
+        "Abstract": "Aktuelles aus der Gesundheitspolitik, neueste Studien aus der medizinischen Forschung, Nachrichten aus der \u00e4rztlichen Berufspolitik und den Hochschulen",
+        "Official Site": "https://aerzteblatt.de",
+        "Icon": "/img/aerzteblatt/favicon.ico",
+        "Redirect": "https://aerzteblatt.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aerzteblatt.de"
+    },
+    {
+        "link": "https://pewtrusts.org",
+        "Heading": "The Pew Charitable Trusts | The Pew Charitable Trusts",
+        "Abstract": "Pew's work lays the foundation for effective policies and practices by invigorating civic life, conducting research, informing and engaging citizens, linking diverse interests to pursue common cause, and insisting on tangible results.",
+        "Official Site": "http://www1.pew.org/en/",
+        "Icon": "https://www1.pew.org/-/media/files/favicon.ico",
+        "Redirect": "http://www1.pew.org/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www1.pew.org/en/"
+    }
+]

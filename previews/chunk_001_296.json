@@ -1,0 +1,332 @@
+[
+    {
+        "link": "https://wink.ru",
+        "Heading": "\u0413\u0435\u043e\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430",
+        "Abstract": null,
+        "Official Site": "https://wink.ru",
+        "Icon": "https://block.wink.ru/favicon.ico",
+        "Redirect": "https://wink.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wink.ru"
+    },
+    {
+        "link": "https://codechef.com",
+        "Heading": "\n        CodeChef - Learn and Practice Coding with Problems    ",
+        "Abstract": "CodeChef | CodeChef: Practical coding for everyone",
+        "Official Site": "https://www.codechef.com/",
+        "Icon": "https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png",
+        "Redirect": "https://www.codechef.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.codechef.com/"
+    },
+    {
+        "link": "https://worldofwarcraft.com",
+        "Heading": "World of Warcraft",
+        "Abstract": "Join thousands of mighty heroes in Azeroth, a world of magic and limitless adventure.",
+        "Official Site": "https://worldofwarcraft.com",
+        "Icon": "https://blz-contentstack-images.akamaized.net/v3/assets/blt3452e3b114fab0cd/blt078aa5707fe32653/6757390465d1b1528eadc82d/wow-opengraph.png",
+        "Redirect": "https://worldofwarcraft.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://worldofwarcraft.com"
+    },
+    {
+        "link": "https://irfanview.com",
+        "Heading": "IrfanView - Official Homepage - One of the Most Popular Viewers Worldwide",
+        "Abstract": "IrfanView ... one of the most popular viewers worldwide.",
+        "Official Site": "https://irfanview.com",
+        "Icon": "images/favicon.png",
+        "Redirect": "https://irfanview.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://irfanview.com"
+    },
+    {
+        "link": "https://jharkhand.gov.in",
+        "Heading": " Jharkhand State Portal | Official Website of Government of Jharkhand ",
+        "Abstract": "State Portal of Jharkhand is a Mission Mode Project under the State E-Governance Plan, designed and developed by Jharkhand Agency for Promotion of Information Technology (JAPIT), Department of Information Technology & e-Governance, Government of Jharkhand. It has been developed with an objective to enable a single window access to information and services being provided by the various State Government entities.",
+        "Official Site": "https://jharkhand.gov.in",
+        "Icon": "https://www.jharkhand.gov.in/images/favicon.ico",
+        "Redirect": "https://jharkhand.gov.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jharkhand.gov.in"
+    },
+    {
+        "link": "https://39.net",
+        "Heading": "39\u5065\u5eb7",
+        "Abstract": "",
+        "Official Site": "https://39.net",
+        "Icon": "https://www.39.net/favicon.ico",
+        "Redirect": "https://39.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://39.net"
+    },
+    {
+        "link": "https://bytro.com",
+        "Heading": "Bytro has moved",
+        "Abstract": null,
+        "Official Site": "https://bytro.com",
+        "Icon": "N/A",
+        "Redirect": "https://bytro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bytro.com"
+    },
+    {
+        "link": "https://mydrivers.com",
+        "Heading": "\u5feb\u79d1\u6280--\u79d1\u6280\u6539\u53d8\u672a\u6765",
+        "Abstract": "\u5feb\u79d1\u6280\u4e3a\u60a8\u63d0\u4f9b\u7b2c\u4e00\u624b\u7684\u79d1\u6280\u65b0\u95fb\u8d44\u8baf\u3001\u4ea7\u54c1\u8bc4\u6d4b\u3001\u9a71\u52a8\u4e0b\u8f7d\u7b49\u670d\u52a1\uff0c\u80fd\u591f\u505a\u5230\u201c\u5185\u5bb9\u53d1\u5e03\u540e\u4e00\u4e2a\u5c0f\u65f6\u5185\u5c31\u4f1a\u4f20\u904d\u6574\u4e2a\u4e2d\u56fd\u4e92\u8054\u7f51\u201d\uff0c\u5df2\u7ecf\u6210\u4e3a\u534e\u8bed\u4e92\u8054\u7f51\u5e73\u53f0\u7684\u5185\u5bb9\u6e90\uff0c\u805a\u96c6\u4e86\u5927\u91cf\u7684\u79d1\u6280\u53d1\u70e7\u53cb\uff0c\u662f\u56fd\u5185\u5f71\u54cd\u529b\u9886\u5148\u7684\u79d1\u6280\u8d44\u8baf\u5e73\u53f0\u3002",
+        "Official Site": "https://mydrivers.com",
+        "Icon": "N/A",
+        "Redirect": "https://mydrivers.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mydrivers.com"
+    },
+    {
+        "link": "https://refiner.io",
+        "Heading": "\n            Refiner: In-app survey software | Web app surveys, mobile app surveys, and more.\n        ",
+        "Abstract": "Refiner helps collect invaluable user feedback with in-app surveys, web app surveys, mobile and SDK surveys, and more.",
+        "Official Site": "https://refiner.io/",
+        "Icon": "https://refiner.io/static/images/og-image.png",
+        "Redirect": "https://refiner.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://refiner.io/"
+    },
+    {
+        "link": "https://glasswire.com",
+        "Heading": "GlassWire - Personal Firewall & Network Monitor",
+        "Abstract": "GlassWire is a modern personal firewall and network monitor with over 52 million downloads. Download GlassWire free!",
+        "Official Site": "https://www.glasswire.com/",
+        "Icon": "https://www.glasswire.com/img/share-wide.jpg",
+        "Redirect": "https://www.glasswire.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.glasswire.com/"
+    },
+    {
+        "link": "https://idmap.ai",
+        "Heading": "IDMAP.AI",
+        "Abstract": null,
+        "Official Site": "https://idmap.ai",
+        "Icon": "N/A",
+        "Redirect": "https://idmap.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://idmap.ai"
+    },
+    {
+        "link": "https://onfinality.io",
+        "Heading": "OnFinality - Blockchain Infrastructure Made Smarter",
+        "Abstract": "Scalable API endpoints and dedicated nodes for the biggest blockchain networks to save Web3 developers time and money",
+        "Official Site": "https://onfinality.io/en",
+        "Icon": "https://static.onfinality.io/header.jpg",
+        "Redirect": "https://onfinality.io/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onfinality.io/en"
+    },
+    {
+        "link": "https://humanitix.com",
+        "Heading": "Humanitix | Find the Best Events & Things to Do",
+        "Abstract": "Find tickets to the best events happening in your city, from live concerts and festivals to free markets this weekend. Discover what's on with Humanitix.",
+        "Official Site": "/us",
+        "Icon": "https://humanitix.com/social-sharing.jpg",
+        "Redirect": "/us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/us"
+    },
+    {
+        "link": "https://csasecurityapp.com",
+        "Heading": "\tClean Security - Threats, Email Checker",
+        "Abstract": "With Clean Security you can drive your endorphins",
+        "Official Site": "https://csasecurityapp.com/index.html",
+        "Icon": "/static/covergreyback2.png",
+        "Redirect": "https://csasecurityapp.com/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://csasecurityapp.com/index.html"
+    },
+    {
+        "link": "https://salsify-ecdn.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://salsify-ecdn.com",
+        "Icon": "N/A",
+        "Redirect": "https://salsify-ecdn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://salsify-ecdn.com"
+    },
+    {
+        "link": "https://hl.co.uk",
+        "Heading": "Hargreaves Lansdown | ISAs, pensions, investments, savings",
+        "Abstract": "Hargreaves Lansdown is an award-winning investment and active saving service - explore our ISAs, pensions, investments and active savings accounts.",
+        "Official Site": "https://hl.co.uk",
+        "Icon": "https://images.hl.uk/29bwk8jme0ya/1Oxgrf5m7SqQZJwnWnXsjH/ad889b0896396e0ed87bb8f41c760c95/hl-shareable.png",
+        "Redirect": "https://hl.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hl.co.uk"
+    },
+    {
+        "link": "https://bupa.com.au",
+        "Heading": "Bupa Private Health Insurance & Care | Bupa",
+        "Abstract": "Bupa cares about your wellbeing. That's why health insurance, aged care, dental, optical & more are all part of our private health fund. Get in touch today.",
+        "Official Site": "https://www.bupa.com.au",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.bupa.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bupa.com.au"
+    },
+    {
+        "link": "https://randewoo.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://randewoo.ru",
+        "Icon": "N/A",
+        "Redirect": "https://randewoo.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://randewoo.ru"
+    },
+    {
+        "link": "https://wfu.edu",
+        "Heading": "Wake Forest University",
+        "Abstract": "Founded in 1834, Wake Forest University is a private university located in Winston-Salem, N.C. We are a vibrant and diverse academic community where our students study in one or more of the 45 majors and programs we offer within our seven colleges and schools.",
+        "Official Site": "https://www.wfu.edu/",
+        "Icon": "https://prod.wp.cdn.aws.wfu.edu/2023/06/20211109campus7359-f.jpg",
+        "Redirect": "https://www.wfu.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wfu.edu/"
+    },
+    {
+        "link": "https://legal-rights.us",
+        "Heading": "Checking your browser...",
+        "Abstract": null,
+        "Official Site": "https://legal-rights.us",
+        "Icon": "N/A",
+        "Redirect": "https://legal-rights.us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://legal-rights.us"
+    },
+    {
+        "link": "https://devcycle.com",
+        "Heading": "DevCycle | The First OpenFeature-Native Feature Flag Platform",
+        "Abstract": "The first and only OpenFeature-native feature flag management platform built by OpenFeature governance board members. Ship faster with confidence.",
+        "Official Site": "https://devcycle.com",
+        "Icon": "https://devcycle.com/social-default.png",
+        "Redirect": "https://devcycle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://devcycle.com"
+    },
+    {
+        "link": "https://curtin.edu.au",
+        "Heading": "Curtin University | Make tomorrow better",
+        "Abstract": "Curtin University is an international university with locations in Western Australia, Malaysia, Singapore, Colombo, Mauritius and Dubai.",
+        "Official Site": "https://www.curtin.edu.au/",
+        "Icon": "https://s30991.pcdn.co/wp-content/themes/mimas/dist/images/icons/favicon.ico",
+        "Redirect": "https://www.curtin.edu.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.curtin.edu.au/"
+    },
+    {
+        "link": "https://bcs.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bcs.ru",
+        "Icon": "N/A",
+        "Redirect": "https://bcs.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bcs.ru"
+    },
+    {
+        "link": "https://zone.ee",
+        "Heading": "Domeeni registreerimine | Veebimajutus | Pilveserver - Zone.ee - Zone.ee",
+        "Abstract": "KALLEIM DOMEEN ONREGISTREERIMATA DOMEEN .EU domeen vaid 1 \u20ac ja on sinu 3 aastaks. Homme v\u00f5ib see nimi olla juba v\u00f5etud. Kampaania kestab 25.05.2026",
+        "Official Site": "https://www.zone.ee/et/",
+        "Icon": "https://www.zone.ee/static/2026/05/erksam_0435_1440x1090px-1.webp",
+        "Redirect": "https://www.zone.ee/et/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zone.ee/et/"
+    },
+    {
+        "link": "https://viettelidc.com.vn",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://viettelidc.com.vn",
+        "Icon": "N/A",
+        "Redirect": "https://viettelidc.com.vn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://viettelidc.com.vn"
+    },
+    {
+        "link": "https://soulapp.cn",
+        "Heading": "Soul App - \u591a\u5143\u6709\u8da3\u7684Gen AI\u793e\u4ea4\u6e38\u4e50\u56ed",
+        "Abstract": "Soul App\u662f\u4e2d\u56fd\u9886\u5148\u7684AI+ \u6c89\u6d78\u5f0f\u793e\u4ea4\u5e73\u53f0\u3002\u6211\u4eec\u57fa\u4e8e\u7528\u6237\u5174\u8da3\u548c\u4e2a\u6027\uff0c\u800c\u975e\u73b0\u5b9e\u8eab\u4efd\u6216\u5916\u8c8c\uff0c\u4f9d\u6258\u5148\u8fdb\u7684AI\u6a21\u578b\u53ca\u7b97\u6cd5\uff0c\u521b\u5efa\u4e86\u4e00\u4e2a\u6e29\u6696\u7684\u60c5\u7eea\u7eff\u6d32\u3002",
+        "Official Site": "https://soulapp.cn",
+        "Icon": "https://china-img.soulapp.cn/admin/2026-04-20/8cb22405-287a-4ba6-9934-0cbcf4a3dd5b.png",
+        "Redirect": "https://soulapp.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soulapp.cn"
+    },
+    {
+        "link": "https://lucidmotors.com",
+        "Heading": "Home | Lucid Motors",
+        "Abstract": "Lucid is the future of sustainable mobility, designing electric cars that further reimagines the driving experience.",
+        "Official Site": "https://lucidmotors.com",
+        "Icon": "https://images.ctfassets.net/5ky6szwjj7ya/lucid-home-og.png/cddc89064c34590a2a7bb2a67ac1e2eb/lucid-home-og.png",
+        "Redirect": "https://lucidmotors.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lucidmotors.com"
+    },
+    {
+        "link": "https://familie.de",
+        "Heading": "Online-Ratgeber zu Kindererziehung von Baby bis Teenie",
+        "Abstract": "Familie von A bis Z: Ob Kinderwunsch, Schwangerschaft, Basteltipps oder Familienleben - hier findest du Tipps und Rat zu Themen, die Eltern interessieren.",
+        "Official Site": "https://www.familie.de/",
+        "Icon": "https://cdn2.familie.de/cb/c8/dd/5cdd0760c75563c93deb3bab01_A2M4NWQ2NzY5ZWIw.png",
+        "Redirect": "https://www.familie.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.familie.de/"
+    },
+    {
+        "link": "https://quoka.de",
+        "Heading": "Kostenlose Kleinanzeigen auf Quoka schalten",
+        "Abstract": "Kostenlose Kleinanzeigen auf Quoka.de \u2013 Dein Marktplatz zum Kaufen, Verkaufen & Inserieren. Jetzt Angebote einstellen & loslegen!",
+        "Official Site": "https://quoka.de",
+        "Icon": "https://www.quoka.de/favicons/quoka-favicon.ico",
+        "Redirect": "https://quoka.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://quoka.de"
+    },
+    {
+        "link": "https://dukeupress.edu",
+        "Heading": "Duke University Press",
+        "Abstract": "Duke University Press is a not-for-profit scholarly publisher specializing in books, journals, open access, and other digital publishing initiatives in the humanities, social sciences, and mathematics. Our mission is to advance the frontiers of knowledge and contribute to the international community of scholarship. ",
+        "Official Site": "https://dukeupress.edu/",
+        "Icon": "N/A",
+        "Redirect": "https://dukeupress.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dukeupress.edu/"
+    },
+    {
+        "link": "https://rsna.org",
+        "Heading": "Radiological Society of North America | RSNA",
+        "Abstract": "The Radiological Society of North America (RSNA) supports your career in radiology. Explore membership benefits and find a variety of high-quality education resources.",
+        "Official Site": "https://www.rsna.org/",
+        "Icon": "/images/rsna/favicon.png",
+        "Redirect": "https://www.rsna.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rsna.org/"
+    },
+    {
+        "link": "https://flightstats.com",
+        "Heading": "FlightStats - Global Flight Status & Tracker, Airport Weather and Delays",
+        "Abstract": "Track real-time flight status, departures and arrivals, airport delays, and airport information using FlightStats Global Flight Tracker from Cirium.",
+        "Official Site": "https://www.flightstats.com/v2/",
+        "Icon": "https://assets.flightstats.com/common/fs-meta-social.jpg",
+        "Redirect": "https://www.flightstats.com/v2/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.flightstats.com/v2/"
+    },
+    {
+        "link": "https://redintelligence.net",
+        "Heading": "redintelligence.net",
+        "Abstract": null,
+        "Official Site": "https://redintelligence.net",
+        "Icon": "N/A",
+        "Redirect": "https://redintelligence.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://redintelligence.net"
+    }
+]

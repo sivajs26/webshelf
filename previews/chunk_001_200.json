@@ -1,0 +1,282 @@
+[
+    {
+        "link": "https://caradisiac.com",
+        "Heading": "Caradisiac - 1er site d'info automobile : essais, nouveaut\u00e9s, guides d'achat auto",
+        "Abstract": "L'actualit\u00e9 automobile de r\u00e9f\u00e9rence ! Retrouvez nos essais, guides d'achat, comparatifs et vid\u00e9os mais aussi les avis des propri\u00e9taires et les fiches techniques de milliers de mod\u00e8les.",
+        "Official Site": "https://caradisiac.com",
+        "Icon": "https://static.caradisiac.com/img_site/favicon/favicon-192x192.png",
+        "Redirect": "https://caradisiac.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caradisiac.com"
+    },
+    {
+        "link": "https://bis.org",
+        "Heading": "Bank for International Settlements",
+        "Abstract": "Bank for International Settlements",
+        "Official Site": "https://www.bis.org/index.htm",
+        "Icon": "https://www.bis.org/img/bislogo_og.jpg",
+        "Redirect": "https://www.bis.org/index.htm",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bis.org/index.htm"
+    },
+    {
+        "link": "https://rsf.org",
+        "Heading": "Homepage | RSF",
+        "Abstract": "Reporters sans fronti\u00e8res assure la promotion et la d\u00e9fense de la libert\u00e9 d'informer et d'\u00eatre inform\u00e9 partout dans le monde. L'organisation, bas\u00e9e \u00e0 Paris, compte des bureaux \u00e0 l'international (Berlin, Bruxelles, Gen\u00e8ve, Madrid, Stockholm, Tripoli, Tunis, Vienne et Washington DC) et plus de 150 correspondants r\u00e9partis sur les cinq continents.",
+        "Official Site": "https://rsf.org",
+        "Icon": "/themes/custom/rsf/favicons/android-icon-192x192.png",
+        "Redirect": "https://rsf.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rsf.org"
+    },
+    {
+        "link": "https://nbcnewyork.com",
+        "Heading": "NBC 4 New York \u2013 NY local news, breaking news, weather",
+        "Abstract": "Find New York news and weather on NBC 4. NBC New York brings you breaking news alerts, local news and weather forecasts for NY and New Jersey.",
+        "Official Site": "https://www.nbcnewyork.com/",
+        "Icon": "https://media.nbcnewyork.com/2024/05/Tile-NBC-New-York.png?resize=1200%2C675&quality=85&strip=all",
+        "Redirect": "https://www.nbcnewyork.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nbcnewyork.com/"
+    },
+    {
+        "link": "https://pie.org",
+        "Heading": "Pie Adblock: Premium ad blocking, for free.",
+        "Abstract": "Works on YouTube, Twitch and beyond. Finally, an adblocker that works for you.",
+        "Official Site": "https://www.pie.org/",
+        "Icon": "https://cdn.pie.org/images/og-adblock-free.png",
+        "Redirect": "https://www.pie.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pie.org/"
+    },
+    {
+        "link": "https://plarium.com",
+        "Heading": "Plarium: Enter a World of Cross-Platform Gaming!",
+        "Abstract": "Join over 400 million registered players worldwide - play Plarium games on your phone, and on your computer!",
+        "Official Site": "https://plarium.com/",
+        "Icon": "https://plarium.com/wp-content/uploads/2024/11/open_graph_allgames_re.webp",
+        "Redirect": "https://plarium.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://plarium.com/"
+    },
+    {
+        "link": "https://ovrc.com",
+        "Heading": "OvrC: Cloud Management for Residential & IT Integrators | OvrC",
+        "Abstract": "What is OvrC? Learn more about the revolutionary support platform that helps professionals keep everything on the network running smoothly.",
+        "Official Site": "https://ovrc.com",
+        "Icon": "https://cdn.prod.website-files.com/67a0ec082bf71c81d53529e3/684c839fae470e89c87d3da1_OvrC.png",
+        "Redirect": "https://ovrc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ovrc.com"
+    },
+    {
+        "link": "https://sun-sentinel.com",
+        "Heading": "Sun Sentinel \u2013 Sun Sentinel: Your source for South Florida breaking news, sports, business, entertainment, weather and traffic",
+        "Abstract": "Sun Sentinel: Your source for South Florida breaking news, sports, business, entertainment, weather and traffic",
+        "Official Site": "https://www.sun-sentinel.com",
+        "Icon": "https://www.sun-sentinel.com/wp-content/uploads/2023/03/SS-WordPress-Fallback-Image.png",
+        "Redirect": "https://www.sun-sentinel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sun-sentinel.com"
+    },
+    {
+        "link": "https://cloudfilter.net",
+        "Heading": "Messaging security for evolving threats | Cloudmark EN",
+        "Abstract": "Cloudmark is a trusted leader in intelligent threat protection against known and future attacks, safeguarding 12 percent of the world\u2019s inboxes from wide-scale and targeted email threats.",
+        "Official Site": "https://www.cloudmark.com/en",
+        "Icon": "/themes/custom/proofpoint/apps/drupal/favicon.ico",
+        "Redirect": "https://www.cloudmark.com/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cloudmark.com/en"
+    },
+    {
+        "link": "https://velesstroy.com",
+        "Heading": "\u0412\u0415\u041b\u0415\u0421\u0421\u0422\u0420\u041e\u0419 \u2013 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u2014 Velesstroy",
+        "Abstract": null,
+        "Official Site": "https://velesstroy.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://velesstroy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://velesstroy.com"
+    },
+    {
+        "link": "https://unfpa.org",
+        "Heading": "United Nations Population Fund",
+        "Abstract": "UNFPA is the United Nations sexual and reproductive health agency. Our mission is to deliver a world where every pregnancy is wanted, every childbirth is safe and every young person's potential is fulfilled.",
+        "Official Site": "https://www.unfpa.org/",
+        "Icon": "/sites/default/files/unfpa_global_redesign/images/placeholders/unfpa-social-img-en.svg",
+        "Redirect": "https://www.unfpa.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.unfpa.org/"
+    },
+    {
+        "link": "https://aweber.com",
+        "Heading": "\nAWeber | Email Marketing & More for Small Businesses\n",
+        "Abstract": "Looking for free email marketing software? Get started with AWeber for free today. Powerfully-simple email marketing.",
+        "Official Site": "https://www.aweber.com/index.htm",
+        "Icon": "https://assets.aweber-static.com/www/assets/img/og-default.84dd517f.png",
+        "Redirect": "https://www.aweber.com/index.htm",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.aweber.com/index.htm"
+    },
+    {
+        "link": "https://slickstream.com",
+        "Heading": "Slickstream Engagement Suite",
+        "Abstract": "Get the most out of your blog with turnkey search, discovery and engagement tools.",
+        "Official Site": "https://www.slickstream.com",
+        "Icon": "https://www.slickstream.com/hubfs/files/Backgrounds/Featured%20Images/FI%20-%20ES%20Home.jpg",
+        "Redirect": "https://www.slickstream.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.slickstream.com"
+    },
+    {
+        "link": "https://unipin.com",
+        "Heading": "UniPin - The Leading Digital Entertainment Enabler",
+        "Abstract": "Top up or buy game credits/diamonds/game voucher, fast and cheap at UniPin. UniPin is the best way to buy game credits/game vouchers.",
+        "Official Site": "http://www.unipin.com",
+        "Icon": "https://cdn.unipin.com/images/unipin-dark-og.png",
+        "Redirect": "http://www.unipin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.unipin.com"
+    },
+    {
+        "link": "https://unleashed.be",
+        "Heading": "Homepage - Work at Mobile Vikings",
+        "Abstract": "Looking for a great place to work? At Mobile Vikings you're guaranteed the best job in the market. And those top-notch colleagues? You get those for free.",
+        "Official Site": "https://work.mobilevikings.be/",
+        "Icon": "https://ire-s3-wordpress-production-unleashed.s3.eu-west-1.amazonaws.com/content/uploads/2020/03/03113922/cropped-favicon-32x32.png",
+        "Redirect": "https://work.mobilevikings.be/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://work.mobilevikings.be/"
+    },
+    {
+        "link": "https://securiti.ai",
+        "Heading": "Securiti: DSPM | Data Security | AI Security | PrivacyOps",
+        "Abstract": "Securiti Data Command Center\u2122: Empowering safe use of data and AI. Achieve unified intelligence and controls across hybrid multicloud environments, ensure security, privacy, governance, and compliance.",
+        "Official Site": "https://securiti.ai/",
+        "Icon": "https://media.securiti.ai/wp-content/uploads/2024/01/Securiti-OG-Image.jpg",
+        "Redirect": "https://securiti.ai/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://securiti.ai/"
+    },
+    {
+        "link": "https://sutochno.ru",
+        "Heading": "\u0421\u0423\u0422\u041e\u0427\u041d\u041e.\u0420\u0423 \u2014 \u043d\u0430\u0439\u0434\u0451\u043c, \u0433\u0434\u0435 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c\u0441\u044f: \u043e\u0442\u0435\u043b\u0438, \u043a\u0432\u0430\u0440\u0442\u0438\u0440\u044b, \u0433\u043e\u0441\u0442\u0435\u0432\u044b\u0435 \u0434\u043e\u043c\u0430",
+        "Abstract": "\u041f\u043e\u043c\u043e\u0436\u0435\u043c \u043d\u0430\u0439\u0442\u0438 \u0438 \u0437\u0430\u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0436\u0438\u043b\u044c\u0451 \u043f\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0438 \u0437\u0430 \u0440\u0443\u0431\u0435\u0436\u043e\u043c. \u0411\u043e\u043b\u0435\u0435 330 \u0442\u044b\u0441\u044f\u0447 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432 \u0432\u043e \u0432\u0441\u0435\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f\u0445 \u0434\u043b\u044f \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0439: \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u041a\u0430\u0437\u0430\u043d\u044c, \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433, \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434, \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a, \u0421\u043e\u0447\u0438, \u041a\u0440\u044b\u043c, \u041c\u0438\u043d\u0441\u043a, \u0410\u0431\u0445\u0430\u0437\u0438\u044f \u0438 \u0434\u0440\u0443\u0433\u0438\u0435.",
+        "Official Site": "https://sutochno.ru/",
+        "Icon": "https://cdn.sutochno.ru/static-pages/_nuxt/og-logo.DZzuOInF.png",
+        "Redirect": "https://sutochno.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sutochno.ru/"
+    },
+    {
+        "link": "https://shipstation.com",
+        "Heading": "Shipping Software for Ecommerce Fulfillment - ShipStation",
+        "Abstract": "Import, manage and ship your orders with ShipStation. Our shipping software will save you time and money on eCommerce order fulfillment.",
+        "Official Site": "https://www.shipstation.com/",
+        "Icon": "https://www.shipstation.com/wp-content/uploads/2026/02/Station-Favicon-2026.svg",
+        "Redirect": "https://www.shipstation.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.shipstation.com/"
+    },
+    {
+        "link": "https://deepmind.google",
+        "Heading": "Google DeepMind",
+        "Abstract": "Build AI responsibly to benefit humanity",
+        "Official Site": "https://deepmind.google/",
+        "Icon": "https://lh3.googleusercontent.com/BJIjbCcZWJxE1GFvgIXWdWFXW0ECXBzsBe-JHx95GSuDVFKdli-cocBQRXll_xaipD6bNQ0B_Wz7JI2Ken5TFjrfUuSlv0hgq2qjgirOMK2eirjLXA8=w1200-h630-n-nu-rw",
+        "Redirect": "https://deepmind.google/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deepmind.google/"
+    },
+    {
+        "link": "https://ilivedata.com",
+        "Heading": "Livedata - Complete solutions for global and multilingual online interaction",
+        "Abstract": "By real-time messaging service, AI translation and AI multilingual content moderation, we help global social platforms to build a legal content environment and high-quality online social infrastructure with low cost.",
+        "Official Site": "https://ilivedata.com",
+        "Icon": "/images/logo/logo_w300px_whitebg.png",
+        "Redirect": "https://ilivedata.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ilivedata.com"
+    },
+    {
+        "link": "https://dot-st.com",
+        "Heading": "and ST (\u30a2\u30f3\u30c9\u30a8\u30b9\u30c6\u30a3) | \u516c\u5f0f\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u901a\u8ca9",
+        "Abstract": null,
+        "Official Site": "https://dot-st.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://dot-st.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dot-st.com"
+    },
+    {
+        "link": "https://unipd.it",
+        "Heading": "Universit\u00e0 di Padova | Universit\u00e0 di Padova",
+        "Abstract": "Fondata nel 1222, siamo una delle pi\u00f9 antiche universit\u00e0 al mondo, con una storia che si intreccia con quella di tante figure illustri quali Galileo Galilei , Copernico e William Harvey; \u00e8 nostro il primo Orto botanico universitario del mondo, si laure\u00f2 qui la prima donna nella storia. E ancora oggi siamo protagonisti nel mondo della ricerca, e ai livelli pi\u00f9 alti nei ranking internazionali anche per la qualit\u00e0 della didattica e dei servizi.",
+        "Official Site": "https://www.unipd.it",
+        "Icon": "https://wwwassets.unipd.it/sites/default/files/media/2026-04/UNIPD_Marchio_STD_RED.png",
+        "Redirect": "https://www.unipd.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.unipd.it"
+    },
+    {
+        "link": "https://lemon8-app.com",
+        "Heading": "Lemon8 - Fresh discoveries every day",
+        "Abstract": "Get the Lemon8 app and start your discovery. A lifestyle content community featuring photos and videos of beauty, fashion, food, travel, fitness, pets, and more.",
+        "Official Site": "https://www.lemon8-app.com/en-US",
+        "Icon": "https://lf-lemon8-web.tiktokcdn-us.com/obj/lemon8-web-tx/lemon8_web/homepage/default/_assets/square_fullcolor-52301691b2b3e95ab8a6.png",
+        "Redirect": "https://www.lemon8-app.com/en-US",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lemon8-app.com/en-US"
+    },
+    {
+        "link": "https://disa.mil",
+        "Heading": "Welcome to LWC Communities!",
+        "Abstract": null,
+        "Official Site": "https://disa.mil",
+        "Icon": "/sfsites/c/cms/delivery/media/MCUR6JIHPLOJEZZE7XJDZEMZVZBA?width=32&height=32",
+        "Redirect": "https://disa.mil",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://disa.mil"
+    },
+    {
+        "link": "https://bosch.com",
+        "Heading": "Invented for life | Bosch Global",
+        "Abstract": "Moving stories and inspiring interviews. Experience the meaning of \"invented for life\" by Bosch completely new. Visit our international website.",
+        "Official Site": "https://www.bosch.com/",
+        "Icon": "https://assets.bosch.com/media/global/fallback/fallback-16x9.jpg",
+        "Redirect": "https://www.bosch.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bosch.com/"
+    },
+    {
+        "link": "https://district.in",
+        "Heading": "District by Zomato: Movies, Events, Dining, Sports & Concerts Nearby",
+        "Abstract": "Discover life in your District - movies, restaurants, live shows, comedy gigs, sports, and more. Download the District app now for real-time updates.",
+        "Official Site": "https://www.district.in",
+        "Icon": "https://b.zmtcdn.com/data/edition_assets/1731516000703.png",
+        "Redirect": "https://www.district.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.district.in"
+    },
+    {
+        "link": "https://pbworks.com",
+        "Heading": "Capture knowledge, share files, and manage projects within a secure, reliable environment | PBworks - Online Team Collaboration Software",
+        "Abstract": "PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. PBworks is secure, reliable, and accessible from any computer or mobile device, so your team can use it anywhere they go. You can even use it with clients or partners. And because it's hosted, you don't need to download any software or manage any servers.",
+        "Official Site": "https://pbworks.com",
+        "Icon": "images/favicon.ico?crc=351424999",
+        "Redirect": "https://pbworks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pbworks.com"
+    },
+    {
+        "link": "https://posteo.de",
+        "Heading": "Email green, secure, simple and ad-free - posteo.de - ",
+        "Abstract": "Posteo is an innovative email provider that is concerned with sustainability and privacy and is completely ad-free. Our email accounts, calendars and address books can be synchronised - we use comprehensive encryption.",
+        "Official Site": "https://posteo.de",
+        "Icon": "/images/app-icons/favicon-16x16.png?v=df1a4fd73be248b55bc8fb659c3d34a350a1ff7d8c108f5354f6f174adb780ce",
+        "Redirect": "https://posteo.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://posteo.de"
+    }
+]

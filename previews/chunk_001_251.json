@@ -1,0 +1,262 @@
+[
+    {
+        "link": "https://pccwglobal.com",
+        "Heading": "PCCW Global | Connectivity Solutions for Enterprises & Carriers",
+        "Abstract": "Explore PCCW Global's secure network solutions connecting 50+ countries. Discover NaaS, managed connectivity, mobility & voice services.",
+        "Official Site": "https://www.pccwglobalinc.com/",
+        "Icon": "https://www.pccwglobalinc.com/wp-content/uploads/2025/06/pcccw-gobal-thumbnails.png",
+        "Redirect": "https://www.pccwglobalinc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pccwglobalinc.com/"
+    },
+    {
+        "link": "https://1blu.de",
+        "Heading": "Webhosting, Homepage, Server, Onlinespeicher, Webbaukasten & Domains: 1blu",
+        "Abstract": "Webhosting von 1blu: Homepage-Pakete, Server und Domains f\u00fcr professionelle Websites & Internet-Anwendungen",
+        "Official Site": "https://1blu.de",
+        "Icon": "/styles/1blu.de/favicon.ico",
+        "Redirect": "https://1blu.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://1blu.de"
+    },
+    {
+        "link": "https://ripple.com",
+        "Heading": "Financial Infrastructure & Blockchain Technology Solutions | Ripple",
+        "Abstract": "Ripple is the leading provider of stablecoin-powered cross-border payments and digital asset custody solutions. Discover how we\u2019re driving impact with blockchain.",
+        "Official Site": "https://ripple.com",
+        "Icon": "https://cdn.sanity.io/images/ior4a5y3/production/f8d7783671e0be5da25501b4ac663221185b14f4-1921x1080.png",
+        "Redirect": "https://ripple.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ripple.com"
+    },
+    {
+        "link": "https://masters.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://masters.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://masters.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://masters.com"
+    },
+    {
+        "link": "https://artillex-studios.com",
+        "Heading": "Artillex Studios",
+        "Abstract": "Artillex Studios website",
+        "Official Site": "https://artillex-studios.com",
+        "Icon": "/images/favicon.webp",
+        "Redirect": "https://artillex-studios.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://artillex-studios.com"
+    },
+    {
+        "link": "https://schemaapp.com",
+        "Heading": "Schema App | Control How AI Understands Your Brand",
+        "Abstract": "Schema App helps you build and govern your semantic data layer using schema markup so AI and search engines understand your brand accurately, improving visibility, trust, and performance.",
+        "Official Site": "https://www.schemaapp.com/",
+        "Icon": "https://www.schemaapp.com/wp-content/uploads/2026/04/Homepage-Cover-Image-scaled.png",
+        "Redirect": "https://www.schemaapp.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.schemaapp.com/"
+    },
+    {
+        "link": "https://farmaciatei.ro",
+        "Heading": "Farmacia Tei : Farmacia Tei online",
+        "Abstract": "Din 1992 cu pasiune pentru profesia de farmacist si dragoste de oameni. Azi, liderul pietei farmacii online. Expediere rapida la Pachetomat sau acasa.",
+        "Official Site": "https://comenzi.farmaciatei.ro/",
+        "Icon": "https://comenzi.farmaciatei.ro/themes/bootstrap5/images/logo.png",
+        "Redirect": "https://comenzi.farmaciatei.ro/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://comenzi.farmaciatei.ro/"
+    },
+    {
+        "link": "https://hashvault.pro",
+        "Heading": "{{hvCtrl.pool.coinNameCapital || 'HashVault'}} Mining Pool{{hvCtrl.isLanding ? 's' : ''}} - HashVault.pro",
+        "Abstract": "{{hvCtrl.pool.coinNameCapital || 'Cryptocurrency'}} mining pool, PPLNS or SOLO with hourly payments. Data rich interface, global servers, predictable and proven rewards.",
+        "Official Site": "https://hashvault.pro/{{hvCtrl.pool.coinNameSmall || ''}}",
+        "Icon": "{{hvCtrl.pool.apiUrl}}/pool/chart/hashrateAndMiners.png",
+        "Redirect": "https://hashvault.pro/{{hvCtrl.pool.coinNameSmall || ''}}",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hashvault.pro/{{hvCtrl.pool.coinNameSmall || ''}}"
+    },
+    {
+        "link": "https://q10.com",
+        "Heading": "Q10 | Software acad\u00e9mico integral en Colombia.",
+        "Abstract": "Q10 es un software acad\u00e9mico en la nube para la gesti\u00f3n administrativa, comercial, acad\u00e9mica y de educaci\u00f3n virtual para las instituciones de educaci\u00f3n en Latinoam\u00e9rica.",
+        "Official Site": "https://www.q10.com:80/Colombia",
+        "Icon": "http://www.q10.com/Images/Facebook_Shared_solo.png",
+        "Redirect": "https://www.q10.com:80/Colombia",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.q10.com:80/Colombia"
+    },
+    {
+        "link": "https://profitwell.com",
+        "Heading": "Paddle - Global Payments for SaaS & Mobile Apps",
+        "Abstract": "Increase revenue, reduce risk and reduce cost with the payment solution powering global revenue for n8n, Letterboxd & AdGuard. One platform that handles billing, tax and compliance.",
+        "Official Site": "https://profitwell.com",
+        "Icon": "https://images.prismic.io/paddle/Z9gwpziBA97GijeQ_paddle-merchant-of-record-og.png?auto=format,compress&rect=0,20,1200,591&w=1280&h=630",
+        "Redirect": "https://profitwell.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://profitwell.com"
+    },
+    {
+        "link": "https://qidian.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://qidian.com",
+        "Icon": "N/A",
+        "Redirect": "https://qidian.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qidian.com"
+    },
+    {
+        "link": "https://aligntech.com",
+        "Heading": "Align Technology",
+        "Abstract": null,
+        "Official Site": "https://aligntech.com",
+        "Icon": "N/A",
+        "Redirect": "https://aligntech.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aligntech.com"
+    },
+    {
+        "link": "https://findarticles.com",
+        "Heading": "FindArticles: News & Information That Matters",
+        "Abstract": "FindArticles delivers the latest news, stories, and insights on brands, products, and industry trends from around the world.",
+        "Official Site": "https://www.findarticles.com/",
+        "Icon": "https://www.findarticles.com/wp-content/uploads/2025/08/FindArticles-Knowledge-Graph-Logo.png",
+        "Redirect": "https://www.findarticles.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.findarticles.com/"
+    },
+    {
+        "link": "https://rituals.com",
+        "Heading": "Rituals Cosmetics Webshop | Country Selector",
+        "Abstract": "Select a country and language for the best user exerience on our webshop.",
+        "Official Site": "https://rituals.com",
+        "Icon": "/on/demandware.static/Sites-Global-Site/-/default/dwd63b59f2/images/favicon.ico",
+        "Redirect": "https://rituals.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rituals.com"
+    },
+    {
+        "link": "https://cumhuriyet.com.tr",
+        "Heading": "Cumhuriyet - Haberler, Spor, Ekonomi, G\u00fcndem Haberleri, G\u00fcncel Son Dakika Haberleri, ",
+        "Abstract": "Cumhuriyet haber, 90 y\u0131l\u0131 a\u015fk\u0131n birikimiyle T\u00fcrkiye'deki do\u011fru haberin tek adresidir. Son dakika haberlerinden, g\u00fcncel haberlerin t\u00fcm\u00fc Cumhuriyet'te!",
+        "Official Site": "https://www.cumhuriyet.com.tr",
+        "Icon": "https://media.cumhuriyet.com.tr/assets/images/main/cumhuriyet.jpg",
+        "Redirect": "https://www.cumhuriyet.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cumhuriyet.com.tr"
+    },
+    {
+        "link": "https://keepa.com",
+        "Heading": "Keepa - Amazon Price Tracker",
+        "Abstract": "Amazon price history charts, price drop alerts, price watches, daily drops and browser extensions.",
+        "Official Site": "https://keepa.com",
+        "Icon": "//cdn.keepa.com/favicon-32x32.png",
+        "Redirect": "https://keepa.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://keepa.com"
+    },
+    {
+        "link": "https://payermax.com",
+        "Heading": "PayerMax - Cross border payment gateway-Your Trusted Global Payment Partner",
+        "Abstract": "PayerMax is a leading payment gateway simplifying global payments for businesses worldwide. Specializing in cross-border payment solutions, it enables seamless transactions across diverse markets, ensuring secure, efficient, and localized payment experiences. Empowering growth through innovative technology, PayerMax bridges financial boundaries for global commerce.",
+        "Official Site": "https://payermax.com",
+        "Icon": "./public/favicon.ico",
+        "Redirect": "https://payermax.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://payermax.com"
+    },
+    {
+        "link": "https://300624.com",
+        "Heading": "Wondershare Official Website: Creativity, Productivity, Utility",
+        "Abstract": "Wondershare Official Website: Creativity, Productivity, Utility Solutions",
+        "Official Site": "https://www.wondershare.com/index.html",
+        "Icon": "https://images.wondershare.com/images2020/og-img/home.jpg",
+        "Redirect": "https://www.wondershare.com/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wondershare.com/index.html"
+    },
+    {
+        "link": "https://iarc.fr",
+        "Heading": "IARC \u2013 INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
+        "Abstract": null,
+        "Official Site": "https://www.iarc.who.int",
+        "Icon": "https://www.iarc.who.int/wp-content/uploads/2018/07/cropped-Selection_999182_-32x32.png",
+        "Redirect": "https://www.iarc.who.int",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.iarc.who.int"
+    },
+    {
+        "link": "https://rockpapershotgun.com",
+        "Heading": "Rock Paper Shotgun",
+        "Abstract": "PC gaming news, previews, reviews, opinion.",
+        "Official Site": "https://www.rockpapershotgun.com/",
+        "Icon": "https://assetsio.gnwcdn.com/0502_rockpapershotgun-logo-og.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "Redirect": "https://www.rockpapershotgun.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rockpapershotgun.com/"
+    },
+    {
+        "link": "https://doodles.google",
+        "Heading": "Google Doodles - Google\u2019s Search Logo Changes for Every Occasion",
+        "Abstract": "Explore the Google search logo changes made throughout the years to celebrate culture, holidays, and much more.",
+        "Official Site": "https://doodles.google/",
+        "Icon": "https://www.gstatic.com/marketing-cms/21/aa/880950ef4a22aa6507f00c9750c3/image-15.png",
+        "Redirect": "https://doodles.google/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://doodles.google/"
+    },
+    {
+        "link": "https://abnamro.nl",
+        "Heading": "ABN AMRO Bank - Jouw bankzaken goed geregeld - ABN AMRO",
+        "Abstract": "Regel bij ABN AMRO je bankzaken zoals jij dat wilt. Persoonlijk, met de app of online.",
+        "Official Site": "https://www.abnamro.nl/nl/prive/index.html",
+        "Icon": "nl/owa/static/favicon.ico",
+        "Redirect": "https://www.abnamro.nl/nl/prive/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.abnamro.nl/nl/prive/index.html"
+    },
+    {
+        "link": "https://q4inc.com",
+        "Heading": "Q4 Inc. - Q4 Inc \u2013 Investor Relations Platform | IR Websites, Events and More",
+        "Abstract": "Q4 Inc. - Q4 Inc \u2013 Investor Relations Platform | IR Websites, Events and More",
+        "Official Site": "https://www.q4inc.com",
+        "Icon": "https://www.q4inc.com/hubfs/Q4%20logo.jpg",
+        "Redirect": "https://www.q4inc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.q4inc.com"
+    },
+    {
+        "link": "https://bruteprotect.com",
+        "Heading": "Security and Backup Services for WordPress Sites \u2013 Jetpack",
+        "Abstract": "Jetpack Security provides easy-to-use, powerful WordPress security including backups, malware scanning, and spam protection",
+        "Official Site": "https://jetpack.com/features/security/",
+        "Icon": "https://jetpack.com/wp-content/uploads/2024/07/jpcom-security.png",
+        "Redirect": "https://jetpack.com/features/security/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jetpack.com/features/security/"
+    },
+    {
+        "link": "https://ctrltech.ai",
+        "Heading": "ctrl your traffic",
+        "Abstract": "\u0410\u0433\u0440\u0435\u0433\u0430\u0442\u043e\u0440 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a \u0442\u0440\u0430\u0444\u0438\u043a\u0430 \u0434\u043b\u044f DSP",
+        "Official Site": "https://ctrltech.ai",
+        "Icon": "/images/og-image.jpg",
+        "Redirect": "https://ctrltech.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ctrltech.ai"
+    },
+    {
+        "link": "https://unizar.es",
+        "Heading": "Universidad de Zaragoza | Universidad de Zaragoza",
+        "Abstract": null,
+        "Official Site": "https://unizar.es",
+        "Icon": "/themes/custom/unizar_unizar/favicon.ico",
+        "Redirect": "https://unizar.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unizar.es"
+    }
+]

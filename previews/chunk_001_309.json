@@ -1,0 +1,392 @@
+[
+    {
+        "link": "https://scssoft.com",
+        "Heading": "SCS Software \u2013 Simulation games development since 1997",
+        "Abstract": "Homepage for SCS Software\u2019s corporate webpage, presenting an overview of the company\u2019s statistics, projects, and testimonials from our customers and staff.",
+        "Official Site": "https://www.scssoft.com/",
+        "Icon": "/assets/images/favicon-32.png",
+        "Redirect": "https://www.scssoft.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.scssoft.com/"
+    },
+    {
+        "link": "https://icoremail.net",
+        "Heading": "Coremail\u8bba\u5ba2\u4f01\u4e1a\u90ae\u7bb1\u767b\u5f55",
+        "Abstract": null,
+        "Official Site": "https://icoremail.net",
+        "Icon": "N/A",
+        "Redirect": "https://icoremail.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://icoremail.net"
+    },
+    {
+        "link": "https://metacpan.org",
+        "Heading": "Search the CPAN - metacpan.org",
+        "Abstract": null,
+        "Official Site": "https://metacpan.org/",
+        "Icon": "https://metacpan.org/static/images/og.png",
+        "Redirect": "https://metacpan.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://metacpan.org/"
+    },
+    {
+        "link": "https://monsido.com",
+        "Heading": "Website Content Optimization & Governance Platform | Acquia",
+        "Abstract": "Improve your site\u2019s accessibility, SEO, and quality with Acquia Web Governance. Automate WCAG compliance scans and fix content errors to deliver a better UX.",
+        "Official Site": "https://www.acquia.com/products/acquia-web-governance",
+        "Icon": "https://www.acquia.com/sites/default/files/media/image/2024-09/Acquia%20Optimize%20Social%20Display.jpg",
+        "Redirect": "https://www.acquia.com/products/acquia-web-governance",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.acquia.com/products/acquia-web-governance"
+    },
+    {
+        "link": "https://philenews.com",
+        "Heading": "\u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u039d\u03ad\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u039a\u03cd\u03c0\u03c1\u03bf | Philenews",
+        "Abstract": "\u0386\u03bc\u03b5\u03c3\u03b7 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03b5\u03be\u03b5\u03bb\u03af\u03be\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7\u03bd \u039a\u03cd\u03c0\u03c1\u03bf \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf. \u03a1\u03bf\u03ae \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd \u03cc\u03bb\u03bf \u03c4\u03bf \u03b5\u03b9\u03ba\u03bf\u03c3\u03b9\u03c4\u03b5\u03c4\u03c1\u03ac\u03c9\u03c1\u03bf. \u0386\u03c1\u03b8\u03c1\u03b1, \u03b3\u03bd\u03ce\u03bc\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae, \u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1, \u03a4\u03bf\u03c0\u03b9\u03ba\u03ac, \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u03ba\u03b1\u03b9 \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ac.",
+        "Official Site": "https://www.philenews.com/",
+        "Icon": "https://www.philenews.com/wp-content/uploads/2025/12/ximonas.jpg",
+        "Redirect": "https://www.philenews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.philenews.com/"
+    },
+    {
+        "link": "https://ilgazzettino.it",
+        "Heading": "Il Gazzettino",
+        "Abstract": "Il Gazzettino",
+        "Official Site": "https://www.ilgazzettino.it",
+        "Icon": "https://statics.cedscdn.it/utils/img/favicon/ilgazzettino/android-icon-192x192.png",
+        "Redirect": "https://www.ilgazzettino.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ilgazzettino.it"
+    },
+    {
+        "link": "https://jcyl.es",
+        "Heading": "P\u00e1gina principal de la Junta de Castilla y Le\u00f3n | Junta de Castilla y Le\u00f3n",
+        "Abstract": "P\u00e1gina principal de la Junta de Castilla y Le\u00f3n",
+        "Official Site": "https://www.jcyl.es/web/jcyl/Portada/es/Home/1246890364336/_/_/_",
+        "Icon": "N/A",
+        "Redirect": "https://www.jcyl.es/web/jcyl/Portada/es/Home/1246890364336/_/_/_",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jcyl.es/web/jcyl/Portada/es/Home/1246890364336/_/_/_"
+    },
+    {
+        "link": "https://infoblox.com",
+        "Heading": "Infoblox - Future-Proof DDI to Unite Networking and Security",
+        "Abstract": "Infoblox's DDI platform unites networking, security and cloud to seamlessly integrate, automate and secure critical network services across your environments.",
+        "Official Site": "https://www.infoblox.com/",
+        "Icon": "https://www.infoblox.com/wp-content/uploads/home-page-promo-banner.png",
+        "Redirect": "https://www.infoblox.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.infoblox.com/"
+    },
+    {
+        "link": "https://tu-dortmund.de",
+        "Heading": "TU Dortmund",
+        "Abstract": "Studieren, forschen, leben \u2013 an der TU Dortmund erwarten dich innovative Studieng\u00e4nge und exzellente Forschung in einer lebendigen Region voller Chancen.",
+        "Official Site": "https://tu-dortmund.de",
+        "Icon": "https://www.tu-dortmund.de/build/assets/tu-dortmund-logo-social.png",
+        "Redirect": "https://tu-dortmund.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tu-dortmund.de"
+    },
+    {
+        "link": "https://the-saleroom.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://the-saleroom.com",
+        "Icon": "N/A",
+        "Redirect": "https://the-saleroom.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://the-saleroom.com"
+    },
+    {
+        "link": "https://iadvize.com",
+        "Heading": "iAdvize: Trusted Generative AI for e-commerce",
+        "Abstract": "Discover iAdvize, the leader in Generative AI for e-commerce. Trusted by 350+ brands to transform their customer journeys for 10x more conversion",
+        "Official Site": "https://www.iadvize.com",
+        "Icon": "https://www.iadvize.com/hubfs/Thumbnail%20iAdvize.com%20-%20US%20(1).png",
+        "Redirect": "https://www.iadvize.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.iadvize.com"
+    },
+    {
+        "link": "https://arity.com",
+        "Heading": "Driving change with driving data - Arity",
+        "Abstract": "Arity is a mobility data and analytics company. Our mission is to make transportation smarter, safer, and more useful for everyone.",
+        "Official Site": "https://arity.com/",
+        "Icon": "https://arity.com/wp-content/uploads/2025/12/arity_social-sharing-tile.png",
+        "Redirect": "https://arity.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arity.com/"
+    },
+    {
+        "link": "https://realmoneygaming.ca",
+        "Heading": "Real Money Online Casino Canada | RealMoneyGaming.ca",
+        "Abstract": "The real money online casinos Canada have a wide range of games players can choose from, and you can do that as well. In this review, you will learn how to determine the good ones",
+        "Official Site": "https://realmoneygaming.ca/",
+        "Icon": "https://realmoneygaming.ca/wp-content/uploads/2021/09/favicon.png",
+        "Redirect": "https://realmoneygaming.ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://realmoneygaming.ca/"
+    },
+    {
+        "link": "https://tiktokshopglobalselling.com",
+        "Heading": "\u597d\u8d27\u5356\u5168\u7403 - TikTok Shop\u8de8\u5883\u7535\u5546\u5b98\u65b9\u7f51\u7ad9",
+        "Abstract": "TikTok Shop\u8de8\u5883\u7535\u5546\uff0c\u8986\u76d6\u7f8e\u56fd\u3001\u82f1\u56fd\u3001\u6c99\u7279\u963f\u62c9\u4f2f\u53ca\u4e1c\u5357\u4e9a\u5e02\u573a\uff01\u73b0\u5728\u5165\u9a7b\uff0c\u5e26\u4f60\u8f7b\u677e\u6253\u9020\u5168\u7403\u7206\u54c1\uff0c\u597d\u8d27\u5356\u5168\u7403\uff0c\u5f00\u542f\u60a8\u7684\u751f\u610f\u589e\u957f\u4e4b\u65c5\uff01",
+        "Official Site": "https://tiktokshopglobalselling.com",
+        "Icon": "//sf-gs-frontend-sg.fanchenstatic.com/obj/she-op-static-sg/she/official/web/tts-favicon.png",
+        "Redirect": "https://tiktokshopglobalselling.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tiktokshopglobalselling.com"
+    },
+    {
+        "link": "https://dataannotation.tech",
+        "Heading": "DataAnnotation | Future-Proof Your Career With AI Training Work",
+        "Abstract": "Join 100K+ experts earning $20-60+/hr training AI models. Flexible, remote work in coding, STEM, law, medicine, writing, and more. Apply today.",
+        "Official Site": "https://dataannotation.tech",
+        "Icon": "https://cdn.prod.website-files.com/6996ec17cbb52cceab20d127/69cb9570f7bca752e2551931_open-graph.png",
+        "Redirect": "https://dataannotation.tech",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dataannotation.tech"
+    },
+    {
+        "link": "https://retty.me",
+        "Heading": "Retty\uff08\u30ec\u30c3\u30c6\u30a3\uff09 - \u65e5\u672c\u6700\u5927\u7d1a\u306e\u5b9f\u540d\u578b\u30b0\u30eb\u30e1\u30b5\u30fc\u30d3\u30b9",
+        "Abstract": "\u65e5\u672c\u6700\u5927\u7d1a\u306e\u5b9f\u540d\u578b\u30b0\u30eb\u30e1\u30b5\u30fc\u30d3\u30b9Retty\u3002Retty\u3067\u306f\u5168\u56fd\u306e\u98df\u304c\u597d\u304d\u306a\u30e6\u30fc\u30b6\u30fc\u304c\u30aa\u30b9\u30b9\u30e1\u3059\u308b\u304a\u5e97\u3092\u63a2\u305b\u307e\u3059\u3002\u5168\u56fd\u7d0470\u4e07\u5e97\u8217\u307b\u3069\u306e\u304a\u5e97\u3092\u63b2\u8f09\u3057\u3066\u304a\u308a\u3001\u5b9f\u540d\u3067\u30ea\u30a2\u30eb\u306a\u30aa\u30b9\u30b9\u30e1\u53e3\u30b3\u30df\u3084\u5730\u56f3\u60c5\u5831\u30fb\u55b6\u696d\u6642\u9593\u30fb\u5199\u771f\u306a\u3069\u3001\u304a\u5e97\u63a2\u3057\u306b\u6d3b\u7528\u3067\u304d\u308b\u60c5\u5831\u304c\u76db\u308a\u6ca2\u5c71\u3067\u3059\u3002Retty\u3067\u98df\u304c\u597d\u304d\u306a\u30b0\u30eb\u30e1\u306a\u4eba\u305f\u3061\u304b\u3089\u304a\u5e97\u3092\u63a2\u305d\u3046\uff01",
+        "Official Site": "https://retty.me/",
+        "Icon": "https://retty.me/images/icon.png",
+        "Redirect": "https://retty.me/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://retty.me/"
+    },
+    {
+        "link": "https://fancode.com",
+        "Heading": "Watch Live Cricket Streaming, Live Scores, Highlights & Videos, Stats, News & Tips | FanCode",
+        "Abstract": "Live Cricket Match Streaming Online & Cricket Highlights & Videos with FanCode. Get Live Scores & Coverage, Ball by Ball Commentary, News, Fantasy Tips, Schedule, Videos, Match Highlights, Replays of ICC Cricket matches & more.",
+        "Official Site": "https://www.fancode.com/",
+        "Icon": "https://www.fancode.com/skillup-uploads/fc-web/fc_logo_og_image.png",
+        "Redirect": "https://www.fancode.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fancode.com/"
+    },
+    {
+        "link": "https://decider.com",
+        "Heading": "Decider | Where To Stream Movies & Shows on Netflix, Hulu, Amazon Prime, HBO Max",
+        "Abstract": "Decider helps you find what to watch. Discover the best movies and shows streaming on Netflix, Disney+, Hulu, Amazon Prime Video, HBO Max, and more.",
+        "Official Site": "https://decider.com/",
+        "Icon": "https://decider.com/wp-content/themes/gtf/static/images/default/decider.png",
+        "Redirect": "https://decider.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://decider.com/"
+    },
+    {
+        "link": "https://funeral-notices.co.uk",
+        "Heading": "Funeral Notices",
+        "Abstract": "Find local and national death notices, funeral notices, obituaries, in memoriams, acknowledgements and family announcements including birthdays, births, anniversaries and marriages at funeral-notices.co.uk",
+        "Official Site": "https://funeral-notices.co.uk",
+        "Icon": "/assets/favicons/favicon-32x32.png",
+        "Redirect": "https://funeral-notices.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://funeral-notices.co.uk"
+    },
+    {
+        "link": "https://barcelo.com",
+        "Heading": "Barcel\u00f3\u00ae Hotel Group - United States - Hotels and Resorts",
+        "Abstract": "Book at the best Hotels and Resorts at the Best Guaranteed Price \u2714 Enjoy the Barcel\u00f3, Occidental, Allegro, and Royal Hideaway experience!",
+        "Official Site": "https://www.barcelo.com/en-us/",
+        "Icon": "https://static.barcelo.com/content/dam/barcelo/commons/bhg-rrss.png.bhgimg.png",
+        "Redirect": "https://www.barcelo.com/en-us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.barcelo.com/en-us/"
+    },
+    {
+        "link": "https://preyproject.com",
+        "Heading": "Prey: reliable device tracking and security tool",
+        "Abstract": "Prey offers a decade of experience in device tracking and security tools to protect laptop, phones, and tablets across multiple OS.",
+        "Official Site": "https://preyproject.com",
+        "Icon": "https://cdn.prod.website-files.com/639353f38b4804371dca1f6f/66ce8a3aa5c6e3d840df3100_Screenshot%202024-08-27%20at%208.23.20%E2%80%AFPM.avif",
+        "Redirect": "https://preyproject.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://preyproject.com"
+    },
+    {
+        "link": "https://avis.com",
+        "Heading": "Car Rentals from Avis | Book Online & Save Now",
+        "Abstract": "Reserve your next car rental online with Avis save. A large selection of vehicles available & with the Avis Signature Series you can travel in style.",
+        "Official Site": "https://www.avis.com/en/home",
+        "Icon": "https://www.avis.com/content/dam/avis/na/us/common/offers/avis-car-rental-social-brand-1200x630.jpg",
+        "Redirect": "https://www.avis.com/en/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.avis.com/en/home"
+    },
+    {
+        "link": "https://gbooking.ru",
+        "Heading": "GBooking|\u0441\u0435\u0440\u0432\u0438\u0441 \u043e\u043d\u043b\u0430\u0439\u043d-\u0437\u0430\u043f\u0438\u0441\u0438 \u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u043e\u043c.",
+        "Abstract": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u043b\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439 \u0441\u0444\u0435\u0440\u044b \u0443\u0441\u043b\u0443\u0433: \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b, \u043e\u043d\u043b\u0430\u0439\u043d-\u0437\u0430\u043f\u0438\u0441\u044c, \u0443\u0447\u0435\u0442 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432, \u0440\u0430\u0441\u0441\u044b\u043b\u043a\u0430 sms-\u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0439.",
+        "Official Site": "https://gbooking.ru/",
+        "Icon": "https://gbooking.ru/wp-content/themes/gbooking/img/bb19_02.jpg",
+        "Redirect": "https://gbooking.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gbooking.ru/"
+    },
+    {
+        "link": "https://doceree.com",
+        "Heading": "Doceree | Powering Global Healthcare Marketing with AI",
+        "Abstract": "Doceree is an AI-first healthcare marketing operating system that connects intelligence, programmatic activation, and point-of-care engagement in a privacy-compliant way.",
+        "Official Site": "https://doceree.com/",
+        "Icon": "https://doceree.com/wp-content/uploads/2022/04/doceree-fav.png",
+        "Redirect": "https://doceree.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://doceree.com/"
+    },
+    {
+        "link": "https://your-objectstorage.com",
+        "Heading": "S3 storage solution: Object Storage by Hetzner",
+        "Abstract": "Get your object storage: S3 Storage that grows with your needs \u2713 GDPR-compliant \u2713 cheap price  \u2713 100% green electricity",
+        "Official Site": "https://your-objectstorage.com",
+        "Icon": "/_resources/themes/hetzner/images/favicons/favicon.ico",
+        "Redirect": "https://your-objectstorage.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://your-objectstorage.com"
+    },
+    {
+        "link": "https://mopinion.com",
+        "Heading": "Mopinion Feedback for Websites, Apps and Email",
+        "Abstract": "Create a seamless user and customer experience. Improve your websites, apps and emails with Mopinion's real time user feedback software.",
+        "Official Site": "https://mopinion.com/",
+        "Icon": "https://media.mopinion.com/wp-content/themes/Mopinionated/images/customers/Customer_logos_175x70/svg/logo_dhl.svg",
+        "Redirect": "https://mopinion.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mopinion.com/"
+    },
+    {
+        "link": "https://tovima.gr",
+        "Heading": "\u03a4\u039f \u0392\u0397\u039c\u0391 | \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u0395\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u039a\u03cc\u03c3\u03bc\u03bf",
+        "Abstract": "\u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0393\u03bd\u03ce\u03bc\u03b5\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u039a\u03cc\u03c3\u03bc\u03bf \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03be\u03b9\u03bf\u03c0\u03b9\u03c3\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u0392\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2. \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae, \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1, \u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1, \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03bc\u03cc\u03c2",
+        "Official Site": "https://www.tovima.gr/",
+        "Icon": "https://www.tovima.gr/wp-content/uploads/2023/02/20/toVima_OG.jpg",
+        "Redirect": "https://www.tovima.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tovima.gr/"
+    },
+    {
+        "link": "https://bsn.cloud",
+        "Heading": "BSN.Cloud - BrightSign Digital Signage Management Platform",
+        "Abstract": "Secure cloud infrastructure for managing BrightSign players, delivering content, and monitoring digital signage networks. Experience seamless remote management.",
+        "Official Site": "https://www.bsn.cloud/",
+        "Icon": "https://bsn.cloud/assets/images/og-image.png",
+        "Redirect": "https://www.bsn.cloud/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bsn.cloud/"
+    },
+    {
+        "link": "https://thueringer-allgemeine.de",
+        "Heading": "Th\u00fcringer Allgemeine - Aktuelle Nachrichten",
+        "Abstract": "Aktuelle Nachrichten aus Politik, Sport und Wirtschaft aus Th\u00fcringen. Dazu Kommentare, Kolumnen und detaillierte Hintergrundberichte aus allen Ressorts der TH\u00dcRINGER ALLGEMEINE.",
+        "Official Site": "https://www.thueringer-allgemeine.de/",
+        "Icon": "https://www.thueringer-allgemeine.de/static/latest/mgt-ta/favicon.png",
+        "Redirect": "https://www.thueringer-allgemeine.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thueringer-allgemeine.de/"
+    },
+    {
+        "link": "https://2345.com",
+        "Heading": "2345\u7f51\u5740\u5bfc\u822a \u2013 \u7cbe\u9009\u5168\u7f51\u4f18\u8d28\u7f51\u5740\u548c\u8d44\u6e90",
+        "Abstract": null,
+        "Official Site": "https://2345.com",
+        "Icon": "N/A",
+        "Redirect": "https://2345.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://2345.com"
+    },
+    {
+        "link": "https://peerj.com",
+        "Heading": "PeerJ  - Peer-Reviewed Open Access Journals, Trusted by Researchers",
+        "Abstract": "Trusted by researchers, committed to open. PeerJ delivers open-access publishing with transparent peer review across two STM and computer science journals.",
+        "Official Site": "https://peerj.com",
+        "Icon": "https://d2pdyyx74uypu5.cloudfront.net/images/favicon/peerj/android-icon-192x192.png",
+        "Redirect": "https://peerj.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://peerj.com"
+    },
+    {
+        "link": "https://charlestyrwhitt.com",
+        "Heading": "Men's Clothing & Formal Menswear | Charles Tyrwhitt",
+        "Abstract": "For beautifully tailored men's shirts, smart and comfortable loungewear and more, discover the Spring/Summer range at Charles Tyrwhitt. Shop online today.",
+        "Official Site": "https://charlestyrwhitt.com",
+        "Icon": "/on/demandware.static/Sites-CTShirts-US-Site/-/default/dw8f592565/images/favicon-48x48.png",
+        "Redirect": "https://charlestyrwhitt.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://charlestyrwhitt.com"
+    },
+    {
+        "link": "https://visir.is",
+        "Heading": "Fors\u00ed\u00f0a - V\u00edsir",
+        "Abstract": "\u00c1 V\u00edsi er h\u00e6gt a\u00f0 lesa fr\u00e9ttir, sko\u00f0a brot \u00far dagskr\u00e1 St\u00f6\u00f0var 2, Bylgjunnar, FM957 og X977. Fr\u00e9ttir, sj\u00f3nvarp, \u00fatvarp, fasteignir, atvinna, ...",
+        "Official Site": "https://www.visir.is",
+        "Icon": "https://www.visir.is/static/img/visir-logo.svg",
+        "Redirect": "https://www.visir.is",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.visir.is"
+    },
+    {
+        "link": "https://diariodenavarra.es",
+        "Heading": "Diario de Navarra - Noticias de Navarra hoy, Pamplona, Osasuna",
+        "Abstract": "Noticias de Navarra hoy y \u00faltima hora de Pamplona, Tudela, Estella, Osasuna, San Ferm\u00edn y todo lo que ocurra en la Comunidad Foral",
+        "Official Site": "https://www.diariodenavarra.es/",
+        "Icon": "https://www.diariodenavarra.es/images/logo_dn_big.png",
+        "Redirect": "https://www.diariodenavarra.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.diariodenavarra.es/"
+    },
+    {
+        "link": "https://eatbu.com",
+        "Heading": "DISH WEBSITE",
+        "Abstract": "Your website for hospitality - Whether your establishment is a restaurant, cafe, bar, bakery or delivery service, you can now build your own website within minutes without any coding knowledge required",
+        "Official Site": "https://eatbu.com",
+        "Icon": "https://cdn.website.dish.co/static/20260409144919/android-icon-192x192.png",
+        "Redirect": "https://eatbu.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eatbu.com"
+    },
+    {
+        "link": "https://advanceautoparts.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://advanceautoparts.com",
+        "Icon": "N/A",
+        "Redirect": "https://advanceautoparts.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://advanceautoparts.com"
+    },
+    {
+        "link": "https://bwin.com",
+        "Heading": "bwin",
+        "Abstract": null,
+        "Official Site": "https://bwin.com",
+        "Icon": "N/A",
+        "Redirect": "https://bwin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bwin.com"
+    },
+    {
+        "link": "https://chicago.gov",
+        "Heading": "\n  \tCity of Chicago\n",
+        "Abstract": "Welcome to the official City of Chicago Website. The source for information about City services, departments, programs and initiatives, and officials for Chicago residents, businesses, and visitors.",
+        "Official Site": "https://www.chicago.gov/content/city/en.html",
+        "Icon": "/content/dam/city/general/favicons/favicon-32x32.png",
+        "Redirect": "https://www.chicago.gov/content/city/en.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.chicago.gov/content/city/en.html"
+    },
+    {
+        "link": "https://fastweb.it",
+        "Heading": "Fastweb - Fibra ottica, ADSL, Mobile ed Energia",
+        "Abstract": null,
+        "Official Site": "https://fastweb.it",
+        "Icon": "/adsl-fibra-ottica/gfx/favicon/favicon.ico",
+        "Redirect": "https://fastweb.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fastweb.it"
+    }
+]

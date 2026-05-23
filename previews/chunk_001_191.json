@@ -1,0 +1,352 @@
+[
+    {
+        "link": "https://linuxmint.com",
+        "Heading": "Home - Linux Mint",
+        "Abstract": "Linux Mint is an elegant, easy to use, up to date and comfortable desktop operating system.",
+        "Official Site": "https://linuxmint.com",
+        "Icon": "/web/img/favicon.ico",
+        "Redirect": "https://linuxmint.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://linuxmint.com"
+    },
+    {
+        "link": "https://mamba.ru",
+        "Heading": "..",
+        "Abstract": null,
+        "Official Site": "https://mamba.ru",
+        "Icon": "N/A",
+        "Redirect": "https://mamba.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mamba.ru"
+    },
+    {
+        "link": "https://hsappstatic.net",
+        "Heading": "HubSpot | Software & Tools for your Business - Homepage",
+        "Abstract": "HubSpot's customer platform includes all the marketing, sales, customer service, and CRM software you need to grow your business.",
+        "Official Site": "https://www.hubspot.com",
+        "Icon": "https://www.hubspot.com/hubfs/assets/hubspot.com/homepage/hero-backgrounds-2025/HS_Full_Bleed_1.jpg",
+        "Redirect": "https://www.hubspot.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hubspot.com"
+    },
+    {
+        "link": "https://socialmediatoday.com",
+        "Heading": "Social Media News | Social Media Today",
+        "Abstract": "The latest news, trends, and tips in social media.",
+        "Official Site": "https://socialmediatoday.com",
+        "Icon": "https://d12v9rtnomnebu.cloudfront.net/divesite/header_image_logos/socialmediatoday_dive_feed_header.jpg",
+        "Redirect": "https://socialmediatoday.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://socialmediatoday.com"
+    },
+    {
+        "link": "https://apptimize.com",
+        "Heading": "Customer Experience Platform | Airship",
+        "Abstract": "Airship is the only mobile-first customer experience platform that delivers measurable results through AI-powered, unified cross-channel experiences.",
+        "Official Site": "https://www.airship.com/",
+        "Icon": "https://www.airship.com/wp-content/uploads/2026/02/Airship-preview-3.jpg",
+        "Redirect": "https://www.airship.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.airship.com/"
+    },
+    {
+        "link": "https://fordham.edu",
+        "Heading": "Fordham University",
+        "Abstract": "Fordham is a top-ranked university in NYC, offering exceptional education in the Jesuit, Catholic tradition to approx. 17,000 students across 8 schools.",
+        "Official Site": "https://fordham.edu",
+        "Icon": "/media/review/site-assets/images/icons/favicon.ico",
+        "Redirect": "https://fordham.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fordham.edu"
+    },
+    {
+        "link": "https://jup.ag",
+        "Heading": "Jupiter | The Home of Onchain Finance",
+        "Abstract": "Swap, Borrow, Lend, Perps, Wallet, and more. For everything DeFi, just use Jupiter.",
+        "Official Site": "https://jup.ag/",
+        "Icon": "https://jup.ag/meta-og/jupiter-meta-main.webp",
+        "Redirect": "https://jup.ag/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jup.ag/"
+    },
+    {
+        "link": "https://databank.com",
+        "Heading": "DataBank | Data Center Solutions in More Metros Than Any Other US Provider",
+        "Abstract": "DataBank provides scalable and secure data center solutions for enterprises, offering colocation, cloud, and managed services. Our expert team ensures 24/7 support and maximum uptime for your critical IT infrastructure.",
+        "Official Site": "https://www.databank.com/",
+        "Icon": "https://www.databank.com/wp-content/uploads/2023/03/DB-Logo-Horizontal-in-1200x628-Canvas.jpg",
+        "Redirect": "https://www.databank.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.databank.com/"
+    },
+    {
+        "link": "https://convertio.co",
+        "Heading": "Convertio \u2014 File Converter",
+        "Abstract": "Convertio - Easy tool to convert files online. More than 309 different document, image, spreadsheet, ebook, archive, presentation, audio and video formats supported.",
+        "Official Site": "https://convertio.co",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpFNDY1NDg3RDc3N0JFODExODNENjlCOEE4NDIwQ0ZCMyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBNzIyRUYxOUU2OEMxMUU5OENDMkRGRDY2MUEyMUNEMCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBNzIyRUYxOEU2OEMxMUU5OENDMkRGRDY2MUEyMUNEMCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjBBQzRBRDc4OEJFNkU5MTE5RDNFOEE4MDBCRkY0NDZDIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkU0NjU0ODdENzc3QkU4MTE4M0Q2OUI4QTg0MjBDRkIzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6G+jpQAAA/9JREFUeNq0V1lIlFEU/kZbjPYkEysospJGbBW1KAgX2qCHFIpepOVBBFHBpiQiIjIXFIveUiIhCcqXVoPqoZ0CM1qgtB5EsEItNR2TtHO8d3Lm/8//z6/pgY9h/nvvOd+992zXNbR+PRzKDMJOwlbCGsJSwmw99pPwhfCa8JBwi9DjRKnLAYFogoewjzDdIdlfhFpCMaHJbmKIzVgY4SzhHeHQKIxDzz2k1xZrXaMisIzwTO98CsYuvPaI1hVtT+DVKwVgHeGJvufxEtb1eFj3iB3hBDZsYJZ3CQsw/rJgWLeyITrhNH1Uq23VREQACQnA8uVAeDjw5w/Q0QG8eaN21tUVjAhNRCKhj/9M8hs4aWvc5QJSU4H0dMDtBqZONc/p7QWuXQOqqykILaMwTtvy+J8AO90HwmRnGYFSQloacOAAEBlpHm9tBXJzKTN8sdIwQFjFIerzgaOWxtlYUlLgN95dXR2QkQHU15vXLFwIXLigrkuWydrmsBPO1ElGmEbzSkuB8nIgPt483kfXePw4cOWK7CsVFUBoqBWJvWybCewQkwzf+YkTyrCPSEyMWc3QkDJ05455bOVK2to+u2S1gwkki8PZ2cD27YFXcf48sHixTKKoCPj2zTx2+DDtc6YVieQQ7ZWBwp6emWmePncucO6c+pUioLZW2CdtNCXFMiJCdASMCO/a47GOAD4BPvIwIb03NMhrOG9YpHwmMOvfX75vvne+fzuJjQXOnCEXNpSSzk55flSUlaZZnAf6xYJz+TJF6irzkt27VZz/S+ZEoqwM2LIleP4YoPDPyQFevvR9+c1bkHOnvxF/mTcv8P/gIFBYCLx9a2+c55065W+cpYsJNIsLHj2SFa1da/7m9QJ5eUBLizWBkhIpVJtDdHEwy4MHQHe3+fv+/cqzjcL3z8cr+cGlS6pGCIWJCdwXCfCuamrM37kCHjsmOyqfQFZWYCHiXXNaluU+E7itezizMIGPH83ft20D8vNlEk3UAhYUKIfj++Z750QlZA627auGFwkHRRKLFgFVVWrnRrl3Dzh9WiUho3ABa2yUx5RUcd/oI8BdynvLirhkCVBZqaqcUdraVP1nMj2OOnFfOaamAp9CT6ok0aH7/k3i9B8/gBs3VMyvWKGKk3+N2LxZFZ1EanT6Ka18/hyMAJVXXJVasudibTDmdk6tcXEqJzCp9nZ19y9eyAXJ3JIlaR/wI8D9nGoYnxLmY2LkO2Ej2WoiW0JXzAPk44SvE2D867BuZSPo04xP4nrQ63AufOx7pGea1cuIJ3INLdEeO1YZ0DoSrN6Idm9Dr26d3TpP9I7CcJ+Oc7fW4f2f17H/83yX4Xk+xxeohuf5TafP878CDADrJR+o7JYu7QAAAABJRU5ErkJggg==",
+        "Redirect": "https://convertio.co",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://convertio.co"
+    },
+    {
+        "link": "https://gkg.net",
+        "Heading": "GKG | The DNSSEC Friendly Registrar with Free DNS",
+        "Abstract": "Domains and Hosting with DNSSEC, IPv6 support, friendly service and always low prices.",
+        "Official Site": "https://www.gkg.net/",
+        "Icon": "https://www.gkg.net/images/navbar/gkg.png",
+        "Redirect": "https://www.gkg.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gkg.net/"
+    },
+    {
+        "link": "https://masterhost.ru",
+        "Heading": "\u041c\u0430\u0441\u0442\u0435\u0440\u0445\u043e\u0441\u0442 \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u043e\u0432 | masterhost",
+        "Abstract": "\u041c\u0430\u0441\u0442\u0435\u0440\u0445\u043e\u0441\u0442 \u2014 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u043e\u0432, VPS, \u0432\u044b\u0434\u0435\u043b\u0435\u043d\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0435\u0440\u044b, colocation. \u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u0430\u044f \u0442\u0435\u0445\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0438 \u043a\u0432\u0430\u043b\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u044b.",
+        "Official Site": "https://masterhost.ru/",
+        "Icon": "https://masterhost.ru/images/masterhost_v2/logos/og_snippet.jpg",
+        "Redirect": "https://masterhost.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://masterhost.ru/"
+    },
+    {
+        "link": "https://xumo.com",
+        "Heading": "Xumo | All you can stream",
+        "Abstract": "Xumo is leading the future of streaming for everyone, backed by industry veterans Comcast and Charter. ",
+        "Official Site": "https://www.xumo.com",
+        "Icon": "https://xumo-cms.directus.app/assets/f8a4e680-8d80-40b8-8004-70806c69daa4",
+        "Redirect": "https://www.xumo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.xumo.com"
+    },
+    {
+        "link": "https://bark.us",
+        "Heading": "Parental Controls for Families | Bark",
+        "Abstract": "Learn how Bark's parental controls can help you protect your kids online and in real life with monitoring, screen time controls, and more.",
+        "Official Site": "https://www.bark.us/",
+        "Icon": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2023/10/boy-apps-monitorning.webp",
+        "Redirect": "https://www.bark.us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bark.us/"
+    },
+    {
+        "link": "https://stricted.de",
+        "Heading": "stricted.net",
+        "Abstract": "",
+        "Official Site": "https://stricted.de",
+        "Icon": "https://stricted.net/wcf/images/favicon.ico",
+        "Redirect": "https://stricted.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stricted.de"
+    },
+    {
+        "link": "https://configcat.com",
+        "Heading": "ConfigCat - Feature Flag Service for Teams",
+        "Abstract": "ConfigCat is a feature flag service with unlimited seats, awesome support, and a reasonable price tag.",
+        "Official Site": "https://configcat.com/",
+        "Icon": "https://configcat.com/images/shared/home.png",
+        "Redirect": "https://configcat.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://configcat.com/"
+    },
+    {
+        "link": "https://cretaforce.gr",
+        "Heading": "CretaForce - Premium Internet Services",
+        "Abstract": "\u03a6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03af\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03c9\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7 CretaForce. \u0397 \u03c0\u03b9\u03bf \u03b1\u03be\u03b9\u03cc\u03c0\u03b9\u03c3\u03c4\u03b7 \u03b5\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1 web hosting \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. \u039a\u03b1\u03c4\u03bf\u03c7\u03cd\u03c1\u03c9\u03c3\u03b7 domain names \u03ba\u03b1\u03b9 dedicated servers.",
+        "Official Site": "https://www.cretaforce.gr/",
+        "Icon": "https://www.cretaforce.gr/wp-content/uploads/2023/02/logo.webp",
+        "Redirect": "https://www.cretaforce.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cretaforce.gr/"
+    },
+    {
+        "link": "https://milanofinanza.it",
+        "Heading": "Milano Finanza - news di economia, finanza, fisco e borsa in tempo reale",
+        "Abstract": "Il meglio dell'informazione finanziaria ed economica. Tutto su politica, cronaca italiana ed estera, norme e tributi, fondi e obbligazioni.",
+        "Official Site": "https://www.milanofinanza.it/",
+        "Icon": "https://static.milanofinanza.it/milanofinanza/images/cover/cover-milano-finanza.jpg",
+        "Redirect": "https://www.milanofinanza.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.milanofinanza.it/"
+    },
+    {
+        "link": "https://twitpic.com",
+        "Heading": "Twitpic",
+        "Abstract": null,
+        "Official Site": "https://twitpic.com",
+        "Icon": "N/A",
+        "Redirect": "https://twitpic.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://twitpic.com"
+    },
+    {
+        "link": "https://mq.edu.au",
+        "Heading": "Macquarie University | Top 1% in the world | Multiply your potential",
+        "Abstract": "Macquarie University is a place of pioneering minds, breaking free of conventions. Discover our story as one of the global leaders in tertiary education.",
+        "Official Site": "https://www.mq.edu.au",
+        "Icon": "/?a=1232",
+        "Redirect": "https://www.mq.edu.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mq.edu.au"
+    },
+    {
+        "link": "https://adnami.io",
+        "Heading": "Adnami - High impact ads & attention measurement for real brand outcomes",
+        "Abstract": "Attract more attention with your programmatic advertising. Adnami's software makes it easy and scalable to create, measure and optimise high impact display ads.",
+        "Official Site": "https://www.adnami.io",
+        "Icon": "https://www.adnami.io/hubfs/favicon%20(1).png",
+        "Redirect": "https://www.adnami.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.adnami.io"
+    },
+    {
+        "link": "https://qualified.com",
+        "Heading": "Welcome to the era of agentic marketing",
+        "Abstract": "Convert inbound leads at scale with Piper, the #1 AI SDR Agent. Welcome to the era of agentic marketing\u2014faster B2B pipeline generation starts here.",
+        "Official Site": "https://qualified.com",
+        "Icon": "https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/69cd6abca0a78e5347ae79f9_social%20(12).webp",
+        "Redirect": "https://qualified.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qualified.com"
+    },
+    {
+        "link": "https://waplog.com",
+        "Heading": "Waplog - Chat Dating Meet Find Friends",
+        "Abstract": "Waplog finds you new friends from any country among millions of people. Register in 10 seconds to find new friends, share photos, live chat and be part of a great community!",
+        "Official Site": "https://waplog.com",
+        "Icon": "https://cdn.waplog.com/s/waplog/media/web2/img/web-favicon.ico",
+        "Redirect": "https://waplog.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://waplog.com"
+    },
+    {
+        "link": "https://nfcube.com",
+        "Heading": "Mintt Studio: Instafeed App for Shopify - Instagram Feeds",
+        "Abstract": "Mintt Instafeed adds shoppable Instagram feeds, Reels, Stories, and UGC to Shopify\u2014fast, on-brand proof that helps visitors become buyers.",
+        "Official Site": "https://minttstudio.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://minttstudio.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://minttstudio.com/"
+    },
+    {
+        "link": "https://aad.org",
+        "Heading": "American Academy of Dermatology",
+        "Abstract": null,
+        "Official Site": "https://aad.org",
+        "Icon": "N/A",
+        "Redirect": "https://aad.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aad.org"
+    },
+    {
+        "link": "https://anjuke.com",
+        "Heading": "\u623f\u4ea7\u7f51\uff0c\u4e8c\u624b\u623f/\u65b0\u623f/\u79df\u623f/\u5199\u5b57\u697c -\u623f\u5730\u4ea7\u79df\u552e\u670d\u52a1\u5e73\u53f0 -\u5b89\u5c45\u5ba2",
+        "Abstract": "\u5b89\u5c45\u5ba2\u623f\u4ea7\u7f51\u4e3a\u7528\u6237\u63d0\u4f9b\u627e\u623f\u4fe1\u606f\u3002\u5305\u62ec\u4e8c\u624b\u623f\u3001\u65b0\u623f\u3001\u79df\u623f\u3001\u5546\u94fa\u3001\u5199\u5b57\u697c\u3001\u6d77\u5916\u5730\u4ea7\u3001\u95ee\u7b54\u7b49\uff0c\u6311\u597d\u623f\u5c31\u4e0a\u5b89\u5c45\u5ba2",
+        "Official Site": "https://anjuke.com",
+        "Icon": "https://pages.anjukestatic.com/usersite/site/img/global/1/favicon.ico",
+        "Redirect": "https://anjuke.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anjuke.com"
+    },
+    {
+        "link": "https://userpilot.io",
+        "Heading": "Product Growth Platform | Userpilot",
+        "Abstract": "Userpilot helps product teams deliver personalized in-app experiences to increase growth metrics at every stage of the user journey.",
+        "Official Site": "https://userpilot.com/",
+        "Icon": "https://userpilot-website-assets.s3.us-west-2.amazonaws.com/wp-content/uploads/2026/05/11144757/UserpilotPreview-size-2026.png",
+        "Redirect": "https://userpilot.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://userpilot.com/"
+    },
+    {
+        "link": "https://mt.gov",
+        "Heading": "\n\t\t\tMT.gov - Official State Website\n\t\t",
+        "Abstract": null,
+        "Official Site": "https://mt.gov",
+        "Icon": "_files/images/favicon.ico",
+        "Redirect": "https://mt.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mt.gov"
+    },
+    {
+        "link": "https://enphaseenergy.com",
+        "Heading": "Enphase Energy: Solar, Batteries & EV Chargers",
+        "Abstract": "Go solar with confidence. Enphase offers advanced microinverters, battery storage, EV charging, and energy monitoring for a smarter, more resilient home.",
+        "Official Site": "https://enphaseenergy.com",
+        "Icon": "/themes/custom/smalcode/favicon.ico",
+        "Redirect": "https://enphaseenergy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://enphaseenergy.com"
+    },
+    {
+        "link": "https://iflscience.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://iflscience.com",
+        "Icon": "N/A",
+        "Redirect": "https://iflscience.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iflscience.com"
+    },
+    {
+        "link": "https://waz.de",
+        "Heading": "WAZ | Westdeutsche Allgemeine Zeitung",
+        "Abstract": "Aktuelle Nachrichten, Sport und Kultur aus dem Ruhrgebiet",
+        "Official Site": "https://www.waz.de/",
+        "Icon": "https://www.waz.de/static/latest/nrw-waz/favicon.png",
+        "Redirect": "https://www.waz.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.waz.de/"
+    },
+    {
+        "link": "https://augsburger-allgemeine.de",
+        "Heading": "Augsburger Allgemeine: Aktuelle Nachrichten und Hintergr\u00fcnde",
+        "Abstract": "Aktuelle Nachrichten aus der Region, Deutschland und dem Rest der Welt: Erfahren Sie alles Wichtige aus Politik, Wirtschaft, Sport, Kultur und mehr.",
+        "Official Site": "https://augsburger-allgemeine.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://augsburger-allgemeine.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://augsburger-allgemeine.de"
+    },
+    {
+        "link": "https://runsignup.com",
+        "Heading": "RunSignup",
+        "Abstract": "RunSignup provides a simple way to register for races. You can create and manage your race for free.",
+        "Official Site": "https://runsignup.com/",
+        "Icon": "https://d368g9lw5ileu7.cloudfront.net/img/nonversioned/favicon/runsignup/icon.png",
+        "Redirect": "https://runsignup.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://runsignup.com/"
+    },
+    {
+        "link": "https://postermywall.com",
+        "Heading": "Easy marketing for busy people | PosterMyWall",
+        "Abstract": "Win at marketing with PosterMyWall\u2019s time-saving AI tools. Create free designs, share event pages, and publish to socials and email\u2014all on one easy-to-use platform.",
+        "Official Site": "https://www.postermywall.com/",
+        "Icon": "https://d1csarkz8obe9u.cloudfront.net/assets/homepage-og-image.webp?ts=2",
+        "Redirect": "https://www.postermywall.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.postermywall.com/"
+    },
+    {
+        "link": "https://fdic.gov",
+        "Heading": "FDIC: Federal Deposit Insurance Corporation",
+        "Abstract": "The FDIC is an independent agency created by Congress to maintain stability and public confidence in the nation's financial system.",
+        "Official Site": "https://www.fdic.gov/home",
+        "Icon": "https://www.fdic.gov/system/files?file=2025-03/fdic-seal.png",
+        "Redirect": "https://www.fdic.gov/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fdic.gov/home"
+    },
+    {
+        "link": "https://linear.app",
+        "Heading": "Linear \u2013 The system for product development",
+        "Abstract": "Purpose-built for planning and building products with AI agents.",
+        "Official Site": "https://linear.app",
+        "Icon": "https://linear.app/static/og/homepage.jpg",
+        "Redirect": "https://linear.app",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://linear.app"
+    }
+]

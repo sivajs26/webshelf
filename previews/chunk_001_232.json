@@ -1,0 +1,322 @@
+[
+    {
+        "link": "https://bovada.lv",
+        "Heading": "Bovada | Online Sportsbook, Casino, and Poker",
+        "Abstract": "Bovada is a trusted online gambling site offering sports betting, poker, casino games and betting on horse racing. Join today to claim your welcome bonuses!",
+        "Official Site": "/",
+        "Icon": "/content/favicons/favicon.ico",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://oxfam.org",
+        "Heading": "The future is equal | Oxfam International",
+        "Abstract": "Oxfam is an international confederation of 21 NGOs working with partners in over 90 countries to end the injustices that cause poverty.",
+        "Official Site": "https://www.oxfam.org/en",
+        "Icon": "https://www.oxfam.org/en/themes/custom/oxfamint/images/logo.png",
+        "Redirect": "https://www.oxfam.org/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.oxfam.org/en"
+    },
+    {
+        "link": "https://sway-cdn.com",
+        "Heading": "Microsoft Sway | Create visually striking newsletters, presentations, and documentation in minutes",
+        "Abstract": "Sway is an easy-to-use digital storytelling app for creating interactive reports, presentations, personal stories and more. Its built-in design engine helps you create professional designs in minutes. With Sway, your images, text, videos, and other multimedia all flow together in a way that enhances your story. Sway makes sure your creations look great on any screen.",
+        "Official Site": "https://sway-cdn.com/",
+        "Icon": "https://sway-cdn.com/162011140105_Content/SocialMedia_Logo_Sway_400x400x32.png",
+        "Redirect": "https://sway-cdn.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sway-cdn.com/"
+    },
+    {
+        "link": "https://one-new-message-okay.com",
+        "Heading": "one-new-message-okay.com",
+        "Abstract": null,
+        "Official Site": "https://one-new-message-okay.com",
+        "Icon": "N/A",
+        "Redirect": "https://one-new-message-okay.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://one-new-message-okay.com"
+    },
+    {
+        "link": "https://torontosun.com",
+        "Heading": "\n    Home | Toronto Sun Home Page | Toronto Sun\n",
+        "Abstract": "\n    Read latest breaking news, updates, and headlines. Toronto Sun offers information on latest national and international events & more.\n",
+        "Official Site": "https://torontosun.com",
+        "Icon": "https://dcs-static.gprod.postmedia.digital/21.2.1/websites/images/suns/ogimage-tsun.png",
+        "Redirect": "https://torontosun.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://torontosun.com"
+    },
+    {
+        "link": "https://inet.fi",
+        "Heading": "Inet.fi",
+        "Abstract": null,
+        "Official Site": "https://www.inet.fi",
+        "Icon": "/images/inet/favicon.svg",
+        "Redirect": "https://www.inet.fi",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.inet.fi"
+    },
+    {
+        "link": "https://campaignmonitor.com",
+        "Heading": "Campaign Monitor: Email Marketing Platform & Services",
+        "Abstract": "Get results with email marketing. Gain loyal customers and manage customer journeys with our best-in-class email campaign software.",
+        "Official Site": "https://www.campaignmonitor.com/",
+        "Icon": "https://www.campaignmonitor.com/wp-content/themes/cm-theme/assets/brand/campaignmonitor.jpg",
+        "Redirect": "https://www.campaignmonitor.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.campaignmonitor.com/"
+    },
+    {
+        "link": "https://jmir.org",
+        "Heading": "Journal of Medical Internet Research",
+        "Abstract": "Journal of Medical Internet Research - International Scientific Journal for Medical Research, Information and Communication on the Internet",
+        "Official Site": "https://www.jmir.org",
+        "Icon": "https://support.jmir.org/hc/article_attachments/360036912231/jmir-logo-sticker.jpg",
+        "Redirect": "https://www.jmir.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.jmir.org"
+    },
+    {
+        "link": "https://fluidplayer.com",
+        "Heading": "Fluid Player",
+        "Abstract": "Fluid Player, the VAST ready open source HTML5 video player",
+        "Official Site": "https://www.fluidplayer.com/",
+        "Icon": "https://www.fluidplayer.com/images/fluid-player-meta.jpg",
+        "Redirect": "https://www.fluidplayer.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fluidplayer.com/"
+    },
+    {
+        "link": "https://treas.gov",
+        "Heading": "Front page | U.S. Department of the Treasury",
+        "Abstract": "U.S. Department of the Treasury",
+        "Official Site": "https://home.treasury.gov/front",
+        "Icon": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+        "Redirect": "https://home.treasury.gov/front",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://home.treasury.gov/front"
+    },
+    {
+        "link": "https://unotv.com",
+        "Heading": "\u00daltimas Noticias de hoy en M\u00e9xico y el mundo en vivo - UnoTV",
+        "Abstract": "Noticias de hoy y \u00faltima hora en M\u00e9xico y el mundo: temas nacionales, pol\u00edticos, espect\u00e1culos, cultura, finanzas y deportes. Inf\u00f3rmate en Uno TV.",
+        "Official Site": "https://www.unotv.com/",
+        "Icon": "https://cdn.amxinfra.com/unotv/images/2025/11/info-unotv-235824.jpg",
+        "Redirect": "https://www.unotv.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.unotv.com/"
+    },
+    {
+        "link": "https://polskieradio24.pl",
+        "Heading": "Polskie Radio 24",
+        "Abstract": "Najnowsze informacje z kraju i \u015bwiatu, publicystyka polityczna i spo\u0142eczna, tworzona przez anteny Polskiego Radia.",
+        "Official Site": "https://polskieradio24.pl",
+        "Icon": "https://static.prsa.pl/images/c624a42e-5aa9-43ff-99c0-f5447c0727cd.jpg",
+        "Redirect": "https://polskieradio24.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://polskieradio24.pl"
+    },
+    {
+        "link": "https://booksy.com",
+        "Heading": "Booksy - hair stylists, barbers, beauticians... book appointments online!",
+        "Abstract": "Booksy - book appointments online. Find &amp; book beauty services like hairdressing, manicure, spa or massage. Check prices &amp; reviews!",
+        "Official Site": "https://booksy.com/en-us/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://booksy.com/en-us/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://booksy.com/en-us/"
+    },
+    {
+        "link": "https://ts.net",
+        "Heading": "What is ts.net?",
+        "Abstract": null,
+        "Official Site": "https://ts.net",
+        "Icon": "N/A",
+        "Redirect": "https://ts.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ts.net"
+    },
+    {
+        "link": "https://atv.com.tr",
+        "Heading": "Dizi atv\u2019de izlenir | En iyi yerli diziler, programlar atv\u2019de!",
+        "Abstract": "atv yay\u0131n ak\u0131\u015f\u0131, atv canl\u0131 yay\u0131n izle, atv dizileri ve atv programlar\u0131 ile ilgili bilgiler, atv dizi fragmanlar\u0131, atv Haber b\u00f6l\u00fcmleri, foto\u011fraflar...",
+        "Official Site": "https://atv.com.tr",
+        "Icon": "https://iatv.tmgrup.com.tr/site/v2/i/favicon.ico",
+        "Redirect": "https://atv.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://atv.com.tr"
+    },
+    {
+        "link": "https://ufc.com",
+        "Heading": "The Official Home of Ultimate Fighting Championship | UFC.com",
+        "Abstract": "The official home of Ultimate Fighting Championship. Enjoy the latest breaking news, fights, behind-the-scenes access and more.",
+        "Official Site": "https://ufc.com",
+        "Icon": "/sites/default/files/ufc_logo.png",
+        "Redirect": "https://ufc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ufc.com"
+    },
+    {
+        "link": "https://statsigcdn.com",
+        "Heading": "Statsig CDN",
+        "Abstract": null,
+        "Official Site": "https://statsigcdn.com",
+        "Icon": "N/A",
+        "Redirect": "https://statsigcdn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://statsigcdn.com"
+    },
+    {
+        "link": "https://gameinformer.com",
+        "Heading": "Game Informer",
+        "Abstract": "Game Informer is your source for the latest in video game news, reviews, previews, podcasts, and features.",
+        "Official Site": "https://gameinformer.com/",
+        "Icon": "https://gameinformer.com//sites/default/files/imagefeed/social/gisocial.jpg",
+        "Redirect": "https://gameinformer.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gameinformer.com/"
+    },
+    {
+        "link": "https://directvgo.com",
+        "Heading": "DGO - TV en vivo, deportes y las mejores pel\u00edculas y series online - DGO",
+        "Abstract": "DGO es lo mejor de la TV y el streaming juntos. Canales de TV, deportes en vivo y miles de pel\u00edculas y series",
+        "Official Site": "https://www.directvgo.com/ar/home",
+        "Icon": "https://dtvgo-cms-prd.s3.amazonaws.com/DTVGO_DEVELOPMENT/dtvgologo.png",
+        "Redirect": "https://www.directvgo.com/ar/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.directvgo.com/ar/home"
+    },
+    {
+        "link": "https://calix.com",
+        "Heading": "Calix | Calix One Platform ",
+        "Abstract": "Calix is a leading provider of cloud and software platforms, systems, and services for communications service providers. Partner with Calix and grow your business. ",
+        "Official Site": "https://www.calix.com/",
+        "Icon": "https://www.calix.com/content/dam/calix-com/images/social-share/calix.jpg",
+        "Redirect": "https://www.calix.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.calix.com/"
+    },
+    {
+        "link": "https://tsite.jp",
+        "Heading": "V\u30dd\u30a4\u30f3\u30c8\u30b5\u30a4\u30c8",
+        "Abstract": "V\u30dd\u30a4\u30f3\u30c8\u306e\u7dcf\u5408\u30b5\u30a4\u30c8\u3067\u3059\u3002\u5168\u56fd\u306eV\u30dd\u30a4\u30f3\u30c8\u304c\u8caf\u307e\u308b\u30fb\u4f7f\u3048\u308b\u304a\u5e97\u306e\u30af\u30fc\u30dd\u30f3\u3084\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u306a\u3069\u306e\u304a\u5f97\u60c5\u5831\u304c\u6e80\u8f09\u3002\u30b2\u30fc\u30e0\u3084\u30d7\u30ec\u30bc\u30f3\u30c8\u3067\u30dd\u30a4\u30f3\u30c8\u304c\u8caf\u307e\u308a\u307e\u3059\u3002\u8caf\u307e\u3063\u305f\u30dd\u30a4\u30f3\u30c8\u3092\u69d8\u3005\u306a\u5546\u54c1\u306b\u4ea4\u63db\u3082\u3067\u304d\u307e\u3059\u3002",
+        "Official Site": "https://tsite.jp/",
+        "Icon": "https://img.tsite.jp/resources/common/meta/_r4vp_ogp.png",
+        "Redirect": "https://tsite.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tsite.jp/"
+    },
+    {
+        "link": "https://yuanshen.com",
+        "Heading": "\u300a\u539f\u795e\u300b\u5b98\u65b9\u7f51\u7ad9-\u7c73\u54c8\u6e38\u5f00\u653e\u4e16\u754c\u5192\u9669RPG",
+        "Abstract": null,
+        "Official Site": "https://yuanshen.com",
+        "Icon": "https://ys.mihoyo.com/main/favicon.ico",
+        "Redirect": "https://yuanshen.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yuanshen.com"
+    },
+    {
+        "link": "https://keepersecurity.com",
+        "Heading": "Keeper Security | Identity Security for Humans, Machines and AI Agents",
+        "Abstract": "Keeper is the unified control plane for privileged access, secrets, remote connections, endpoints and databases in a single zero-trust platform.",
+        "Official Site": "https://www.keepersecurity.com/",
+        "Icon": "https://www.keepersecurity.com",
+        "Redirect": "https://www.keepersecurity.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.keepersecurity.com/"
+    },
+    {
+        "link": "https://spectator.co.uk",
+        "Heading": "The Spectator",
+        "Abstract": "Weekly magazine featuring the best British journalists, authors, critics and cartoonists, since 1828",
+        "Official Site": "https://spectator.com/",
+        "Icon": "https://spectator.com/wp-content/uploads/2022/12/og-image.jpeg",
+        "Redirect": "https://spectator.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spectator.com/"
+    },
+    {
+        "link": "https://via.net",
+        "Heading": "Via Net Main Website",
+        "Abstract": "",
+        "Official Site": "https://via.net",
+        "Icon": "26387fa4f5b1e3f7b6217b27d79bf264.png",
+        "Redirect": "https://via.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://via.net"
+    },
+    {
+        "link": "https://ucd.ie",
+        "Heading": "University College Dublin",
+        "Abstract": "UCD is one of Europe's leading research-intensive universities; an environment where undergraduate education, masters and PhD training, research, innovation and community engagement form a dynamic spectrum of activity.",
+        "Official Site": "https://ucd.ie",
+        "Icon": "/t4media/favicon-32x32.png?v=0.0.1",
+        "Redirect": "https://ucd.ie",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ucd.ie"
+    },
+    {
+        "link": "https://5ch.io",
+        "Heading": "\uff15\u3061\u3083\u3093\u306d\u308b",
+        "Abstract": "",
+        "Official Site": "https://5ch.io",
+        "Icon": "favicon.ico",
+        "Redirect": "https://5ch.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://5ch.io"
+    },
+    {
+        "link": "https://uniroma1.it",
+        "Heading": "Home | Sapienza Universit\u00e0 di Roma",
+        "Abstract": null,
+        "Official Site": "https://uniroma1.it",
+        "Icon": "https://www.uniroma1.it/favicon.ico",
+        "Redirect": "https://uniroma1.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uniroma1.it"
+    },
+    {
+        "link": "https://indusappstore.com",
+        "Heading": "Indus Appstore",
+        "Abstract": "Discover apps and games that you'll love on the Indus Appstore. Browse in English or 12 local languages for a seamless experience.",
+        "Official Site": "https://www.indusappstore.com",
+        "Icon": "https://www.indusappstore.com/ogs/indus-og.png",
+        "Redirect": "https://www.indusappstore.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.indusappstore.com"
+    },
+    {
+        "link": "https://vishavideo.com",
+        "Heading": "visha",
+        "Abstract": null,
+        "Official Site": "https://vishavideo.com",
+        "Icon": "N/A",
+        "Redirect": "https://vishavideo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vishavideo.com"
+    },
+    {
+        "link": "https://netacad.com",
+        "Heading": "Cisco Networking Academy: Learn Cybersecurity, Python & More",
+        "Abstract": "Cisco Networking Academy is a skills-to-jobs program shaping the future workforce. Since 1997, we have impacted over 20 million learners in 190 countries.",
+        "Official Site": "https://www.netacad.com/",
+        "Icon": "https://netacad.com/sfa-assets/images/png/landingBannerImage.png",
+        "Redirect": "https://www.netacad.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.netacad.com/"
+    },
+    {
+        "link": "https://laut.fm",
+        "Heading": "laut.fm \ud83d\udcfb User Generated Radio",
+        "Abstract": "Besseres Radio. Nur im Web. Wir nennen es: User Generated Radio\u2122. Die gr\u00f6\u00dfte Radiovielfalt in Deutschland, von Hip-Hop bis Schlager, von Death-Metal bis Kinderlieder \u2026",
+        "Official Site": "https://laut.fm",
+        "Icon": "/assets/images/lautfm/lautfm-logo-share-image.png",
+        "Redirect": "https://laut.fm",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://laut.fm"
+    }
+]
