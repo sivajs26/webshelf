@@ -6,6 +6,7 @@ import random
 import asyncio
 import glob
 import os
+import sys
 
 os.makedirs("previews", exist_ok=True)
 
@@ -100,9 +101,11 @@ def get_link_preview(origin):
 # read file.csv and get the official site for each domain
 # write the output to output.json
 async def main():
-    print(f"Game begins")
-    # read csv files from sites folder
-    files = glob.glob("sites/*.csv")
+    # read csv files from command line or sites folder
+    if len(sys.argv) > 1:
+        files = sys.argv[1:]
+    else:
+        files = glob.glob("sites/*.csv")
     
     results = []
     for file in files:
@@ -111,14 +114,21 @@ async def main():
         with open(file, "r") as f:
             reader = list(csv.reader(f))
             for i in range(0, len(reader), 50):
+                batch_num = i // 50 + 1
+                json_output_name = f"previews/{filename.replace('.csv', f'_{batch_num:03d}.json')}"
+                
+                if os.path.exists(json_output_name):
+                    print(f"Skipping batch {batch_num} for {filename} as it already exists.")
+                    continue
+
                 batch = [row for row in reader[i:i+50] if len(row) > 1]
-                print(f"Processing batch {i//50 + 1} of {(len(reader) + 49) // 50}...")
+                print(f"Processing batch {batch_num} of {(len(reader) + 49) // 50}...")
         
                 tasks = [asyncio.to_thread(get_link_preview, row[1]) for row in batch]
                 batch_results = await asyncio.gather(*tasks)
                 results.extend([res for res in batch_results if res is not None])
                 await asyncio.sleep(2)
-                json_output_name = f"previews/{filename.replace('.csv', f'_{i//50 + 1:03d}.json')}"
+                
                 with open(json_output_name, "w") as f:
                     json.dump(results, f, indent=4)
                 results = []
