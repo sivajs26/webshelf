@@ -100,12 +100,14 @@ def get_link_preview(origin):
 # read file.csv and get the official site for each domain
 # write the output to output.json
 async def main():
+    print(f"Game begins")
     # read csv files from sites folder
     files = glob.glob("sites/*.csv")
     
     results = []
     for file in files:
         filename = file.split("/")[-1]
+        print(f"Reading {filename}")
         with open(file, "r") as f:
             reader = list(csv.reader(f))
             for i in range(0, len(reader), 50):
