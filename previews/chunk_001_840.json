@@ -1,0 +1,362 @@
+[
+    {
+        "link": "https://bookmap.com",
+        "Heading": "Bookmap : Online Futures Trading Platform | Live Stock Futures",
+        "Abstract": " ",
+        "Official Site": "https://bookmap.com",
+        "Icon": "/static/bookmap_seo.png",
+        "Redirect": "https://bookmap.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bookmap.com"
+    },
+    {
+        "link": "https://irf.se",
+        "Heading": "Institutet f\u00f6r rymdfysik",
+        "Abstract": "Institutet f\u00f6r rymdfysik (IRF) \u00e4r ett statligt forskningsinstitut under Utbildningsdepartementet. IRF bedriver grundforskning och forskarutbildning i rymdfysik, rymdteknik och atmosf\u00e4rfysik.\nIRF har mer \u00e4n 60 \u00e5rs erfarenhet av att utveckla m\u00e4tinstrument f\u00f6r rymdforskningsprojekt och deltar i flera stora internationella samarbetsprojekt d\u00e4r satelliter och markbaserad utrustning anv\u00e4nds.",
+        "Official Site": "https://www.irf.se/",
+        "Icon": "N/A",
+        "Redirect": "https://www.irf.se/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.irf.se/"
+    },
+    {
+        "link": "https://tipalti.com",
+        "Heading": "Tipalti | Finance Automation that puts you in charge",
+        "Abstract": "Tipalti helps drive business growth by automating and simplifying accounts payable, mass payments, procurement, and employee expenses in one connected suite.",
+        "Official Site": "https://tipalti.com/",
+        "Icon": "https://tipalti.com/wp-content/uploads/2025/08/og-image-082925.png",
+        "Redirect": "https://tipalti.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tipalti.com/"
+    },
+    {
+        "link": "https://danskespil.dk",
+        "Heading": "\n    Danske Spil - Hele Danmarks spilleselskab\n",
+        "Abstract": "Oddset, Lotto, Eurojackpot, Quick, Tips, Casino, Poker, Bingo, Dantoto, Zezam, Keno. Hvad har du lyst til at spille i dag?",
+        "Official Site": "https://danskespil.dk/",
+        "Icon": "https://ds-static.dk/-/media/36cc2f5e7140456ea6419c75adac00e7.png",
+        "Redirect": "https://danskespil.dk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://danskespil.dk/"
+    },
+    {
+        "link": "https://bpweb.net",
+        "Heading": "UK Reseller Hosting & Multiple Domain Hosting - BPWEB",
+        "Abstract": "web hosting that allows unlimited sites to be hosted on one account",
+        "Official Site": "https://bpweb.net",
+        "Icon": "N/A",
+        "Redirect": "https://bpweb.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bpweb.net"
+    },
+    {
+        "link": "https://netins.net",
+        "Heading": "\n",
+        "Abstract": "",
+        "Official Site": "https://www.netins.net/",
+        "Icon": "https://www.netins.net/images/default-pages-social.jpg",
+        "Redirect": "https://www.netins.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.netins.net/"
+    },
+    {
+        "link": "https://lifeofpix.com",
+        "Heading": "Free high resolution photography | Life of Pix",
+        "Abstract": "Free high resolution photography. Share and download images freely. Search for pictures by color or format. Photographers, get an account now !",
+        "Official Site": "{{ getenv('PRIMARY_SITE_URL') }}/",
+        "Icon": "https://cdn.lifeofpix.com/_1200x630_crop_center-center_82_none/lifeofpix-3367975.jpeg?mtime=1763226007",
+        "Redirect": "{{ getenv('PRIMARY_SITE_URL') }}/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "{{ getenv('PRIMARY_SITE_URL') }}/"
+    },
+    {
+        "link": "https://sirus.su",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sirus.su",
+        "Icon": "N/A",
+        "Redirect": "https://sirus.su",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sirus.su"
+    },
+    {
+        "link": "https://myrosmol.ru",
+        "Heading": "\u0424\u0413\u0410\u0418\u0421 \u00ab\u041c\u043e\u043b\u043e\u0434\u0451\u0436\u044c \u0420\u043e\u0441\u0441\u0438\u0438\u00bb",
+        "Abstract": "\u0412\u0441\u0435 \u043c\u0435\u0440\u043e\u043f\u0440\u0438\u044f\u0442\u0438\u044f, \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u0438 \u0433\u0440\u0430\u043d\u0442\u044b \u0434\u043b\u044f \u043c\u043e\u043b\u043e\u0434\u0435\u0436\u0438: \u0437\u0430\u043f\u0443\u0441\u043a\u0430\u0439 \u043f\u0440\u043e\u0435\u043a\u0442\u044b, \u043f\u043e\u043b\u0443\u0447\u0430\u0439 \u0433\u0440\u0430\u043d\u0442\u044b, \u0443\u0447\u0430\u0441\u0442\u0432\u0443\u0439 \u0432 \u0444\u043e\u0440\u0443\u043c\u0430\u0445, \u043f\u0440\u043e\u0445\u043e\u0434\u0438 \u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0438 \u0438 \u0432\u044b\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0439 \u0441\u0432\u043e\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u0443\u0442\u044c.",
+        "Official Site": "https://myrosmol.ru",
+        "Icon": "/og-image.jpg",
+        "Redirect": "https://myrosmol.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myrosmol.ru"
+    },
+    {
+        "link": "https://uprm.edu",
+        "Heading": "Portada - Recinto Universitario de Mayag\u00fcez de la Universidad de Puerto Rico",
+        "Abstract": "Universidad p\u00fablica en Mayag\u00fcez, Puerto Rico. Cuenta con cuatro unidades acad\u00e9micas: los Colegios de Ciencias Agr\u00edcolas, Ingenier\u00eda, Artes y Ciencias, y Administraci\u00f3n de Empresas. El Colegio de Ciencias Agr\u00edcolas incluye la Estaci\u00f3n Experimental Agr\u00edcola y el Servicio de Extensi\u00f3n Agr\u00edcola, que es una unidad de servicio a la comunidad. Adem\u00e1s cuenta con una Divisi\u00f3n de Educaci\u00f3n Continua y Estudios Profesionales.",
+        "Official Site": "https://www.uprm.edu/",
+        "Icon": "https://www.uprm.edu/portada/wp-content/uploads/sites/24/2018/06/huellaPerro-800x800.png",
+        "Redirect": "https://www.uprm.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uprm.edu/"
+    },
+    {
+        "link": "https://crocoblock.com",
+        "Heading": "JetPlugins for WordPress, Elementor, Bricks & Divi by Crocoblock",
+        "Abstract": "Top-notch add-ons for Bricks, Elementor, and WordPress website creators. Dynamic functionality, booking features, eCommerce must-haves, membership. Live Zoom support.",
+        "Official Site": "https://crocoblock.com/",
+        "Icon": "https://crocoblock.com/wp-content/uploads/2018/03/cropped-fav-1-32x32.png",
+        "Redirect": "https://crocoblock.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crocoblock.com/"
+    },
+    {
+        "link": "https://aarons.com",
+        "Heading": "Rent to Own Furniture, Electronics and Appliances | Aaron's",
+        "Abstract": "Aaron's has the best furniture, electronics, appliances, computers and more with affordable payments. Decorate your home with a new look.",
+        "Official Site": "https://aarons.com",
+        "Icon": "/on/demandware.static/Sites-Aarons-Site/-/default/dw91baf92e/images/favicon.ico",
+        "Redirect": "https://aarons.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aarons.com"
+    },
+    {
+        "link": "https://unj.ac.id",
+        "Heading": "UNJ \u2013 Intelligentia \u2013 Dignitas",
+        "Abstract": "Selamat Datang di Website Universitas Negeri Jakarta Klik di sini Pilihan Tepat Bangun Karier Impianmu dari Sini Pengumuman UNJ Umumkan Lapor Diri PPG Guru Tahun Akademik 2025/2026 \u201cBiasakan yang Benar\u201d di Universitas Negeri Jakarta! Mahasiswa UNJ, siap Kemdikdasmen Buka Seleksi PPG Calon Guru 2025 Berita Terba ...",
+        "Official Site": "https://unj.ac.id",
+        "Icon": "https://unj.ac.id/wp-content/uploads/2025/02/UNJ-LOGO-512-PX-1.png",
+        "Redirect": "https://unj.ac.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unj.ac.id"
+    },
+    {
+        "link": "https://novapost.com",
+        "Heading": "NovaPost",
+        "Abstract": "Easy delivery for life and business",
+        "Official Site": "https://novapost.com/",
+        "Icon": "https://novapost.com/og.webp",
+        "Redirect": "https://novapost.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://novapost.com/"
+    },
+    {
+        "link": "https://webasto.com",
+        "Heading": "Webasto \u2013 125 Years of Innovation Systems Partner for Mobility & Roofs",
+        "Abstract": "Discover Webasto - a global top-100 systems partner, 125 years of innovation in mobility, providing roof systems, battery systems, heating and electrification",
+        "Official Site": "https://www.webasto.com/en-int.html",
+        "Icon": "https://www.webasto.com/content/dam/webasto/en/home/1-1_Feel_the_Drive_1st_Frame.png",
+        "Redirect": "https://www.webasto.com/en-int.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.webasto.com/en-int.html"
+    },
+    {
+        "link": "https://upgrad.com",
+        "Heading": "upGrad\u00ae Online Courses - India\u2019s Top Upskilling Platform",
+        "Abstract": "upGrad\u00ae, Choose from top online programs in AI, Data Science, MBA, Marketing, Tech. \u2714 Trusted by 100+Academic & Industry Partners \u2714 Career support \u2714 Flexible learning.",
+        "Official Site": "https://www.upgrad.com/",
+        "Icon": "https://d2o2utebsixu4k.cloudfront.net/ug-share-image.png",
+        "Redirect": "https://www.upgrad.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.upgrad.com/"
+    },
+    {
+        "link": "https://interbrand.com",
+        "Heading": "Interbrand | Leading Global Brand Consultancy | Strategy & Design",
+        "Abstract": "Interbrand creates iconic work in Brand Strategy, Experience Design, and Brand Valuation for the leading global brands.",
+        "Official Site": "https://ibcomprod.wpenginepowered.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://ibcomprod.wpenginepowered.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ibcomprod.wpenginepowered.com/"
+    },
+    {
+        "link": "https://netuse.de",
+        "Heading": "Onsite, Cloud, Endpoints oder OT - NetUSE Kunden sind sicher! - NetUSE AG",
+        "Abstract": "IT-Sicherheit, Infrastruktur und Betrieb aus einer Hand: IT-Security Dienstleister NetUSE unterst\u00fctzt Unternehmen seit 1992. Lernen Sie Leistungen und Ansprechpartner kennen.",
+        "Official Site": "https://www.netuse.de/",
+        "Icon": "https://www.netuse.de/wp-content/uploads/2023/03/30YRS-Cover-Backround.png",
+        "Redirect": "https://www.netuse.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.netuse.de/"
+    },
+    {
+        "link": "https://w3s.link",
+        "Heading": "Storacha Network | Decentralized Hot Storage Layer on Filecoin | Storacha - Decentralized Hot Storage Layer on Filecoin",
+        "Abstract": "Open hot storage network that scales IPFS and Filecoin with verifiable, user-owned data.",
+        "Official Site": "https://storacha.network/",
+        "Icon": "https://storacha.network/img/storacha-og-card.png",
+        "Redirect": "https://storacha.network/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://storacha.network/"
+    },
+    {
+        "link": "https://pepejeans.com",
+        "Heading": "Pepe Jeans London - Official Website",
+        "Abstract": "Pepe Jeans London new collection. Discover the latest trends in fashion and accessories for women, men and kids.",
+        "Official Site": "https://pepejeans.com",
+        "Icon": "/on/demandware.static/Sites-PJG-Global-Site/-/default/dw7950b17f/images/favicon.ico",
+        "Redirect": "https://pepejeans.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pepejeans.com"
+    },
+    {
+        "link": "https://alpha-sense.com",
+        "Heading": "AlphaSense | Market Intelligence and Search Platform",
+        "Abstract": "Find company insights, market data and research across 500M+ documents instantly. Make faster, confident decisions with AlphaSense's AI-powered platform.",
+        "Official Site": "https://www.alpha-sense.com/",
+        "Icon": "https://cdn.sanity.io/images/ewv2vq7j/production/d032490807040a9143db481b37b983c677cc1ba1-2100x1400.png",
+        "Redirect": "https://www.alpha-sense.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.alpha-sense.com/"
+    },
+    {
+        "link": "https://equinor.com",
+        "Heading": "Equinor: energising the world, empowering people. - Equinor",
+        "Abstract": "We are an international energy company headquartered in Norway, around 25,000 employees and with offices in more than 20 countries worldwide.",
+        "Official Site": "https://www.equinor.com/",
+        "Icon": "https://cdn.equinor.com/images/h61q9gi9/global/bd4cda73cdf46d646327bafaf4fb4189214b3126-2500x1407.jpg?rect=146,0,2208,1159&w=1200&h=630",
+        "Redirect": "https://www.equinor.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.equinor.com/"
+    },
+    {
+        "link": "https://juvare.com",
+        "Heading": "Juvare | Unified Critical Operations Management Software",
+        "Abstract": "Critical workflow software (SaaS) for government agencies, healthcare providers, corporations, educational institutions, & nonprofit groups.",
+        "Official Site": "https://www.juvare.com/",
+        "Icon": "https://www.juvare.com/wp-content/uploads/2025/09/Juvare-Logo.png",
+        "Redirect": "https://www.juvare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.juvare.com/"
+    },
+    {
+        "link": "https://stuller.com",
+        "Heading": "\n\t\n    Fine Jewelry Manufacturer | Jewelry Supplies | Stuller\n\n",
+        "Abstract": "Stuller, Inc. is the #1 supplier of fine jewelry, findings, mountings, tools, packaging, diamonds and gemstones for today\u2019s retail jeweler.",
+        "Official Site": "https://www.stuller.com/",
+        "Icon": "https://meteor.stullercloud.com/das/61882824?size=1200,630&fmt=smart-alpha",
+        "Redirect": "https://www.stuller.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.stuller.com/"
+    },
+    {
+        "link": "https://lucky.net",
+        "Heading": "\u0406\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043d\u0430 \u041f\u043e\u0434\u043e\u043b\u0456. \u041f\u0456\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u0438 \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0434\u043b\u044f \u0434\u043e\u043c\u0443 \u0442\u0430 \u0431\u0456\u0437\u043d\u0435\u0441\u0443 Lucky.Net",
+        "Abstract": "\u041f\u0456\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u0438 \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043d\u0430 \u041f\u043e\u0434\u043e\u043b\u0456 \u0434\u043b\u044f \u0434\u043e\u043c\u0443 \u0442\u0430 \u0431\u0456\u0437\u043d\u0435\u0441\u0443 \u0437\u0430 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u044e \u0446\u0456\u043d\u043e\u044e. \u0413\u0456\u0433\u0430\u0431\u0456\u0442\u043d\u0438\u0439 \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0432\u0456\u0434 \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u0457 \u044f\u043a\u0456\u0439 \u043c\u043e\u0436\u043d\u0430 \u0434\u043e\u0432\u0456\u0440\u044f\u0442\u0438.",
+        "Official Site": "https://lucky.net/",
+        "Icon": "https://lucky.net/wp-content/uploads/2021/03/cropped-logo-1.jpg",
+        "Redirect": "https://lucky.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lucky.net/"
+    },
+    {
+        "link": "https://aurora.dev",
+        "Heading": "Aurora - The Network of Virtual Chains",
+        "Abstract": "Virtual Chains are fully customizable, EVM-compatible chains that run as smart contracts on NEAR. Virtual Chains offer developers the scalability and speed they need, without the high costs and complexity of setting up a traditional L2 infrastructure.",
+        "Official Site": "https://aurora.dev/",
+        "Icon": "https://www.datocms-assets.com/50156/1651839991-preview-main.png",
+        "Redirect": "https://aurora.dev/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aurora.dev/"
+    },
+    {
+        "link": "https://musoplayer.com",
+        "Heading": "Muso - Best Music Player App with Offline Playback, Lyrics & Equalizer",
+        "Abstract": "Experience music like never before with Muso. Play all audio formats offline, enjoy real-time synced lyrics, customizable equalizer, volume booster, ringtone maker, and live music visualizers. Download the ultimate music player app for an immersive listening experience.",
+        "Official Site": "https://musoplayer.com",
+        "Icon": "/public/img/logo-192-in.310fa554.png",
+        "Redirect": "https://musoplayer.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://musoplayer.com"
+    },
+    {
+        "link": "https://kwai-video.com",
+        "Heading": "Make Everyone Shine",
+        "Abstract": "Kwai is a social network for short videos and trends. Discover funny short videos. Contribute to the virtual community with recordings, videos of your life, playing daily challenges or likes the best memes and videos. Download the app to share your life with short videos and choose from dozens of magical effects and filters for them.",
+        "Official Site": "https://kwai-video.com",
+        "Icon": "https://g-static.ap4r.com/kos/s101/nlav11312/icon/kwai/2/favicon.ico",
+        "Redirect": "https://kwai-video.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kwai-video.com"
+    },
+    {
+        "link": "https://uvu.edu",
+        "Heading": "Utah Valley University | Utah Valley University",
+        "Abstract": "UVU\u2019s unique model focuses on student success. Through engaged learning, rigorous academic programs, and faculty-mentored research, UVU is transforming higher education by making it more affordable and accessible for all students.",
+        "Official Site": "https://uvu.edu",
+        "Icon": "N/A",
+        "Redirect": "https://uvu.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uvu.edu"
+    },
+    {
+        "link": "https://infowest.com",
+        "Heading": "The Internet People - InfoWest Internet Services",
+        "Abstract": "Experience the internet faster than ever before from a company with three decades of experience. No data caps, no bandwidth metering, and gigabit speeds from your local internet experts.",
+        "Official Site": "https://infowest.com/",
+        "Icon": "https://infowest.com/wp-content/uploads/favicon-2-100x100.png",
+        "Redirect": "https://infowest.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://infowest.com/"
+    },
+    {
+        "link": "https://anylist.com",
+        "Heading": "AnyList - The best way to create and share a grocery shopping list.",
+        "Abstract": "AnyList is the best way to create and share a grocery shopping list. Available now on the App Store and Google Play.",
+        "Official Site": "https://anylist.com",
+        "Icon": "/static/img/favicon@2x.png?v=28b21e1532332c9c4a7de995d1267c731f766e53ee2cec7a55b8a86aabf03b7537bbf95b51fca54318225944bb1af392b5ae355a34684d0aeac51e06235f6edd",
+        "Redirect": "https://anylist.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anylist.com"
+    },
+    {
+        "link": "https://tuonomeregistrar.net",
+        "Heading": "TUONOME REGISTRAR - Soluzioni DNS e Internet Adverting Network",
+        "Abstract": null,
+        "Official Site": "https://tuonomeregistrar.net",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://tuonomeregistrar.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tuonomeregistrar.net"
+    },
+    {
+        "link": "https://purpleads.io",
+        "Heading": "PurpleAds: Reach New Audiences, Monetize Your Website, Get Results.",
+        "Abstract": "Reach different audiences through an exclusive network of websites with simple and effective native placements that don\u2019t distract users.",
+        "Official Site": "https://purpleads.io/",
+        "Icon": "https://purpleads.io/wp-content/uploads/2020/09/social-share-image.png",
+        "Redirect": "https://purpleads.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://purpleads.io/"
+    },
+    {
+        "link": "https://online-translator.com",
+        "Heading": "Online Translator PROMT.One \u2014 Translate Texts and Use a Dictionary",
+        "Abstract": "PROMT.One online translator for translating texts, words, and phrases from English into Russian and other languages. Dictionary, transcription, examples, and conjugation.",
+        "Official Site": "https://www.online-translator.com/translation",
+        "Icon": "/img/favicon.svg",
+        "Redirect": "https://www.online-translator.com/translation",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.online-translator.com/translation"
+    },
+    {
+        "link": "https://getblockify.com",
+        "Heading": "Spotify Ad Blocker - Blockify",
+        "Abstract": "Blockify is an ad blocker that eliminates all types of ads, including audio ads and video ads. Install the free extension today.",
+        "Official Site": "https://getblockify.com/",
+        "Icon": "https://getblockify.com/images/social-preview.png",
+        "Redirect": "https://getblockify.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://getblockify.com/"
+    },
+    {
+        "link": "https://upt.ro",
+        "Heading": "UPT: Tradi\u021bie, ingeniozitate \u0219i impact prin oameni",
+        "Abstract": "O universitate cu peste un secol de evolu\u021bie \u0219i o misiune clar\u0103: transformarea educa\u021biei, cercet\u0103rii \u0219i inova\u021biei \u00een valoare pentru societate",
+        "Official Site": "https://www.upt.ro",
+        "Icon": "https://files.media-upt.ro/upt-generic-social-share-1200x630.webp",
+        "Redirect": "https://www.upt.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.upt.ro"
+    }
+]

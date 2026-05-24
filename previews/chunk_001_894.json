@@ -1,0 +1,312 @@
+[
+    {
+        "link": "https://megahost.kz",
+        "Heading": "\u0421\u0430\u0439\u0442 \u043f\u043e\u044f\u0432\u0438\u0442\u0441\u044f \u0432 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u0435 \u0432\u0440\u0435\u043c\u044f",
+        "Abstract": null,
+        "Official Site": "https://megahost.kz",
+        "Icon": "data:image/png;base64,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gAAQAHkVAfk0+QsAQAAIAAEgAHIQAfk2+QsAQAAIAAEgALr8+OG5efm6BQAgAASAABAABagAAASAABAAAkAACABAAAgAAdBxRt9xb9jre0fkxPemvG9i7kFfeuXVcMDhx+XEB3/7mG9hQACgkALguptuDyW7D8yJ7/5liom5B33muZdy9rMbe9+DvoUBAQABIAAEAAABAAEgAAQAAAEAASAABAAAASAABIAAEAAABIAAEAAmZgEAQAAIAAHAgguANWvWhOXLlpGJdOPGDQJAAAgAASAAuiMAZs2c4bnzTKyrVq0UAAJAAMR7a2vXhc8WLMqJSxablHvSJUuW5uxnV15eIQAoAAQACikAcsnKFStMzD1odKg9iQgACgABIAAEAAUAKQAEgAAQABQApAAQAAJAAFAAkAJAAAgAAUABQAoAASAABAAFACkABIAAEAAUAKQAEAACQABQAJACQAAIAAEgAAQAKQAEgAAQAAJAAJACQAAIAAEgAAQAKQAEgAAQAAKgW6msrAhrM9somURramoEgAAQAAJAAAAQAAJAAAgAAQBAAEAACAABAEAAQAAIAAEAQAAIAAEgAAQAAAEgAASAABAAAASAABAAFAAABIAAEAAUAAAEgAAQABQAAASAABAAFACAABAAAkAAUAAAAkAACAABQAEACAABIAAEAAUAIAAEgAAQAAIggcyZPSt88P5UMpGuXrVKAAgAASAABEB3MGvmDM+dZ2JdtWqlABAAAkAACAABQAEgAASAABAAAkAAUAAIAAgAASAABAAFgACAABAAAkAAUAAIAAEgAASAABAAFAACQAAIAAEgAAQABYAAEAACgALAREMBIAAEgACgACAFgAAQAAKAAoAUAAJAAAgACgBSAAgAASAAKABIASAABIAAYN4FwLx5c8P0T6aRiXRtAr8/BYAAEAD0OGCgABEAAkAAUAAAAkAACAABQAEACAABIAAEAAUAIAAEgAAQABQAgAAQAAJAAAgAAAJAAAgAASAAAAgAASAABIAAACAABIAAEAACAIAAEAACQAAIAAACAAJAAAgAAAIAAkAACAAAAgACQAAIAAACQAAIAAEgAPKW+il/CrUTH2KObFz8qY1KAAgAAUABkHw2/PSUUFFWwhxZ99oTNioBIAAEAAWAABAAEAACQABQAAgAAQABIAAEAAWAABAAEAACQABQAAgAASAABIAAEAAUAAJAAAgAASAABAAFgAAQAAJAAAgAAUABIAAEgAAQAAJAAAgACAABIAAEgAAQAAIAAkAACAABIAAEgACAABAAAkAACAABIAAgAASAABAAAkAACAABYOIWAAJAAAgAASAABAAFgACAABAAAkAAUAAIAAgAASAABAAFgACAABAAAkAAUAAIAAEgAASAABAAFAACQAAUcAAcMeSU8JU9v88e8uxzL/fNKQAEgAAQAAKg9zn4qBNDye4D2UOeNuxi35wCQAAIAAEgAASAAIAAEAACQAAIAAEgACAABIAAEAACQAAIAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAAUAAIAAgAASAABAAFgACAABAAAkAAUAAIAAiALbJ2XXlYuWoNe8jyikrfnF2gqao8NK1byRwZaqttVAJAABRqAAAABIAAEAAAAAEgAAQAAEAACAABAAAQAAJAAACAABAAAkAAAIAAEAACQAAAgAAQAAJAAACAABAAAgAAIAAEgAAAAAgAASAAAAACQAAIAACAABAAAgAAIAAEgAAAAAgACAAAgACAAAAACAABIAAAAAJAAAgAAIAAEAACAAAgAASAAAAACAABIAAAAAJAAAgAABAAAkAACAAAEAACQAAIAAAQAAJAAAgAABAAAkAAAAAEgAAQAAAAASAABAAAQAAIAAEAABAAAkAAAAAEgAAQAAAAAQABAAAQABAAAAABIAAEAABAAAgAAQAAEAACQAAAAASAAMi9q1etChs3biRJpsAN69cLAAFAkqQAEAAkSQoAAUCSpAAQACRJCgABQJKkABAAJEkKAAFAkqQAEAAkSQoAAUCSFAAQACRJAQABQJIUABAAJEkBIABIkhQAAoAkSQEgAEiSFAACgCRJASAASJIUAAKAJEkBIABIkhQAAoAkSQEgAEiSFAACgCRJASAASJIUAAKAJEkBIABIkhQAAoAkKQAgAEiSAgACgCQpACAASJICQACQJCkABABJkgIgxSxbvPiwTAQ8T5JkvpuJgGfN7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQYv4/4I8S+oh8xJoAAAAASUVORK5CYII=",
+        "Redirect": "https://megahost.kz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://megahost.kz"
+    },
+    {
+        "link": "https://tmb.cat",
+        "Heading": "TMB \u2013 metro bus Barcelona | Transports Metropolitans de Barcelona",
+        "Abstract": "Web oficial de Transports Metropolitans de Barcelona. Guia del transport p\u00fablic de Barcelona. Mapes, horaris, bitllets i abonaments de transport.",
+        "Official Site": "https://www.tmb.cat/ca/",
+        "Icon": "https://static-web.tmb.cat/o/tmb-theme/images/favicons/android-icon-192x192.png",
+        "Redirect": "https://www.tmb.cat/ca/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tmb.cat/ca/"
+    },
+    {
+        "link": "https://uen.net",
+        "Heading": "Utah Education Network",
+        "Abstract": null,
+        "Official Site": "https://uen.net",
+        "Icon": "N/A",
+        "Redirect": "https://uen.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uen.net"
+    },
+    {
+        "link": "https://matriksdata.com",
+        "Heading": "Matriks Data: Finansal Veri & Analiz",
+        "Abstract": "Matriks Data, finansal yat\u0131r\u0131mlar\u0131n\u0131z\u0131 daha verimli y\u00f6netebilmeniz i\u00e7in temel ve teknik analiz ara\u00e7lar\u0131 ve algoritmik al-sat yapman\u0131z\u0131 sa\u011flayan ara\u00e7lar sunar.",
+        "Official Site": "https://www.matriksdata.com/website/",
+        "Icon": "/website/assets/images/matriks-logo-1200-1200.png",
+        "Redirect": "https://www.matriksdata.com/website/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.matriksdata.com/website/"
+    },
+    {
+        "link": "https://omr.com",
+        "Heading": "OMR - Alles zu Digital Marketing",
+        "Abstract": "OMR ist die Plattform f\u00fcr Online-Marketing-Macher. Wir liefern Inspiration, Weiterbildung und Networking: mit Events, Seminaren, News, Reports und mehr.",
+        "Official Site": "https://omr.com/de",
+        "Icon": "https://omr.com/daily/img/omr_daily_social-share-image_v1.png",
+        "Redirect": "https://omr.com/de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://omr.com/de"
+    },
+    {
+        "link": "https://joi.com",
+        "Heading": "NSFW Character AI Chat \u2013 AI Girlfriend Chat Without Limits | JOI Spicy",
+        "Abstract": "Explore AI chat models on JOI AI with virtual characters and digital celebrities. Chat, interact, and customize AI companions for immersive experiences.",
+        "Official Site": "https://joi.com",
+        "Icon": "https://joi.com/_next/static/media/joi.0ieqik5orongf.jpg?dpl=2-121-0",
+        "Redirect": "https://joi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://joi.com"
+    },
+    {
+        "link": "https://tauron.pl",
+        "Heading": "TAURON Polska Energia - Dla domu | TAURON",
+        "Abstract": "TAURON Polska Energia to dostawca pr\u0105du dla dom\u00f3w i firm",
+        "Official Site": "https://www.tauron.pl/",
+        "Icon": "/assets/favicon.ico",
+        "Redirect": "https://www.tauron.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tauron.pl/"
+    },
+    {
+        "link": "https://aacsb.edu",
+        "Heading": "Global Business Education Network | AACSB",
+        "Abstract": "AACSB is transforming business education for educators, businesses, and learners. ",
+        "Official Site": "https://www.aacsb.edu/",
+        "Icon": "https://www.aacsb.edu/-/media/images-main/backgrounds-and-heroes/scrape/default_image_metaimage.jpg?rev=2dab537fd8724128bc54812b3e3f6af5",
+        "Redirect": "https://www.aacsb.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.aacsb.edu/"
+    },
+    {
+        "link": "https://crocweb.com",
+        "Heading": "CrocWeb Cloud Hosting - Secure, Fast & Scalable Web Solutions",
+        "Abstract": "Power your websites with CrocWeb\u2019s cloud hosting. Enjoy maximum uptime, high performance, automated server failover, and 24/7 expert support.",
+        "Official Site": "https://www.crocweb.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.crocweb.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.crocweb.com/"
+    },
+    {
+        "link": "https://cloudfare.com",
+        "Heading": "Cloudflare: Build for the agent era",
+        "Abstract": "Welcome to Cloudflare - Powering the next generation of applications",
+        "Official Site": "https://www.cloudflare.com/",
+        "Icon": "https://www.cloudflare.com/preview.png",
+        "Redirect": "https://www.cloudflare.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cloudflare.com/"
+    },
+    {
+        "link": "https://historyfacts.com",
+        "Heading": "Home - History Facts",
+        "Abstract": "History Facts brings the past to life by highlighting a lesser-known historical event every day. Subscribe to the History Facts newsletter to receive the facts in your inbox.",
+        "Official Site": "https://historyfacts.com/",
+        "Icon": "https://inbox-media-offload.historyfacts.com/wp-content/uploads/2023/06/favicon.png",
+        "Redirect": "https://historyfacts.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://historyfacts.com/"
+    },
+    {
+        "link": "https://rcog.org.uk",
+        "Heading": "Home | RCOG",
+        "Abstract": "Working to improve healthcare for women by setting standards, training and educating doctors, and advocating for women\u2019s health worldwide",
+        "Official Site": "https://www.rcog.org.uk/",
+        "Icon": "https://www.rcog.org.uk/media/5ljbmmtt/rcog-large-logo.jpg",
+        "Redirect": "https://www.rcog.org.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rcog.org.uk/"
+    },
+    {
+        "link": "https://deraktionaer.de",
+        "Heading": "DER AKTION\u00c4R - Deutschlands f\u00fchrendes B\u00f6rsenmagazin seit 1996",
+        "Abstract": "DER AKTION\u00c4R - Deutschlands f\u00fchrendes B\u00f6rsenmagazin seit 1996",
+        "Official Site": "https://www.deraktionaer.de/",
+        "Icon": "https://images.boersenmedien.com/images/75b70a2f-c7cf-4325-9e11-cd13bd47b644.jpg",
+        "Redirect": "https://www.deraktionaer.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.deraktionaer.de/"
+    },
+    {
+        "link": "https://freiheit.org",
+        "Heading": "Friedrich-Naumann-Stiftung f\u00fcr die Freiheit \u2013 FNF NEW | Friedrich Naumann Foundation",
+        "Abstract": "DEMOCRACIES Challenges and Opportunities in a Changing World International Conference International Conference",
+        "Official Site": "https://www.freiheit.org/node/46004",
+        "Icon": "https://www.freiheit.org/sites/default/files/styles/facebook_share/public/2025-01/freiheit_org_2.0-herobanner-u4d-typo_2560x400-2.jpg?itok=K9n8qEw8",
+        "Redirect": "https://www.freiheit.org/node/46004",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.freiheit.org/node/46004"
+    },
+    {
+        "link": "https://coinspot.com.au",
+        "Heading": "Australian Crypto & Bitcoin Exchange, Crypto Trading | CoinSpot",
+        "Abstract": "CoinSpot is Australia\u2019s trusted Bitcoin & cryptocurrency trading platform with instant delivery and easy verification.",
+        "Official Site": "https://coinspot.com.au",
+        "Icon": "https://www.coinspot.com.au/public/img/rocket-thumb.png",
+        "Redirect": "https://coinspot.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coinspot.com.au"
+    },
+    {
+        "link": "https://danielwellington.com",
+        "Heading": "Daniel Wellington - Watches & Jewelry Online Store | DW",
+        "Abstract": "Daniel Wellington - official online store. Buy silver & gold watches for men and women, jewelry and accessories with an elegant design.",
+        "Official Site": "https://www.danielwellington.com/",
+        "Icon": "http://www.danielwellington.com/cdn/shop/files/DW00100622_AW24_MODEL_1200x628px_SHOT_104.jpg?v=1730118739",
+        "Redirect": "https://www.danielwellington.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.danielwellington.com/"
+    },
+    {
+        "link": "https://agencyzoom.com",
+        "Heading": "AgencyZoom | Sales suite for the modern insurance agent",
+        "Abstract": "AgencyZoom is for the P&C insurance agent that's looking to increase sales, boost retention and analyze agency & producer performance. AgencyZoom is an easy to use, robust insurance sales and automation software to help insurance agents grow their book of business.",
+        "Official Site": "https://agencyzoom.com",
+        "Icon": "https://az-static.s3.amazonaws.com/marketing/AZcover.png",
+        "Redirect": "https://agencyzoom.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://agencyzoom.com"
+    },
+    {
+        "link": "https://pressebox.de",
+        "Heading": "PresseBox",
+        "Abstract": "Storys und PR-Publikationen verbreiten. Erfolgreiche PR-Arbeit mit Deutschlands f\u00fchrendem PR-Service f\u00fcr Technologie-Themen.",
+        "Official Site": "https://pressebox.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://pressebox.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pressebox.de"
+    },
+    {
+        "link": "https://digiex.net",
+        "Heading": "Digiex",
+        "Abstract": "Digiex publishes easy to follow tutorials for Xbox, PlayStation and Nintendo games consoles. Computer help and downloads are provided on our forums.",
+        "Official Site": "https://digiex.net/",
+        "Icon": "https://digiex.net/customimage/logos/digiexsociallogo.jpg",
+        "Redirect": "https://digiex.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://digiex.net/"
+    },
+    {
+        "link": "https://superzoo.cz",
+        "Heading": "Chovatelsk\u00e9 pot\u0159eby | Proto\u017ee zv\u00ed\u0159\u00e1tka milujeme | Super zoo",
+        "Abstract": "Kvalitn\u00ed chovatelsk\u00e9 pot\u0159eby pro v\u0161echny va\u0161e dom\u00e1c\u00ed mazl\u00ed\u010dky nakoup\u00edte ve v\u00edce ne\u017e 200 prodejn\u00e1ch nebo e-shopu Super zoo!",
+        "Official Site": "https://superzoo.cz",
+        "Icon": "https://cdn.superzoo.cz/detect/open-graph-superzoo/og-cz.png",
+        "Redirect": "https://superzoo.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://superzoo.cz"
+    },
+    {
+        "link": "https://emailfake.com",
+        "Heading": "Fake Email Generator - temp mail address",
+        "Abstract": "Fake email service that does not require registration and displays email instantly. Fake email generator works with any services and there is no limit.",
+        "Official Site": "https://emailfake.com",
+        "Icon": "https://emailfake.com/mintext.jpg",
+        "Redirect": "https://emailfake.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://emailfake.com"
+    },
+    {
+        "link": "https://lapoliticaonline.com",
+        "Heading": "La Pol\u00edtica Online",
+        "Abstract": "LPO el sitio de informaci\u00f3n pol\u00edtica y econ\u00f3mica l\u00edder de la Argentina. Primicias, an\u00e1lisis y la m\u00e1s completa cobertura de la regi\u00f3n.",
+        "Official Site": "https://www.lapoliticaonline.com",
+        "Icon": "/files/image/225/225889/66460b7797c8f-favicon_32_32!.png?s=c7791341fd25467b3ce1e5b2e0a0607a&d=1751043054",
+        "Redirect": "https://www.lapoliticaonline.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lapoliticaonline.com"
+    },
+    {
+        "link": "https://vispero.com",
+        "Heading": "Vispero\u202f| Global Leader in Assistive Technology & Accessibility",
+        "Abstract": "Discover Vispero\u2019s portfolio of inclusive digital solutions, from JAWS and ZoomText to enterprise accessibility services, designed to empower users with vision impairment and drive innovation.",
+        "Official Site": "https://vispero.com/",
+        "Icon": "https://vispero.com/wp-content/uploads/2026/02/Vispero_background.webp",
+        "Redirect": "https://vispero.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vispero.com/"
+    },
+    {
+        "link": "https://winndixie.com",
+        "Heading": "Winn-Dixie | Fresh Groceries, Weekly Deals & Rewards",
+        "Abstract": "The Winn-Dixie supermarket near you is home to your grocery, and liquor store needs. Browse our weekly ad and shop online with delivery and pickup options for big savings. ",
+        "Official Site": "https://winndixie.com/",
+        "Icon": "https://winndixie.com/-/media/media/metaimages/wd-meta.png",
+        "Redirect": "https://winndixie.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://winndixie.com/"
+    },
+    {
+        "link": "https://eltngl.com",
+        "Heading": "National Geographic Learning | English Learning Programs and Resources",
+        "Abstract": "Discover English language teaching resources and programs for young learners, teens, and adults. NGL ELT brings the world to the classroom, and the classroom to life.",
+        "Official Site": "https://eltngl.com",
+        "Icon": "https://assets-cdn.nationalgeographic.com/natgeo/static/icons/favicon.ico",
+        "Redirect": "https://eltngl.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eltngl.com"
+    },
+    {
+        "link": "https://gamersdream.shop",
+        "Heading": "\n  Gamer's Dream, create custom bundle of board, miniature and card games\n  ",
+        "Abstract": "Gamer\u2019s Dream offers possibility to create your own bundles of board games, miniature games, card games and to get special discounts.",
+        "Official Site": "https://gamersdream.shop/",
+        "Icon": "http://gamersdream.shop/cdn/shop/files/Logo_Mollie_1200x1200.png?v=1614305657",
+        "Redirect": "https://gamersdream.shop/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gamersdream.shop/"
+    },
+    {
+        "link": "https://portaldatransparencia.gov.br",
+        "Heading": "Portal da Transpar\u00eancia do Governo Federal",
+        "Abstract": "Acesse o Portal da Transpar\u00eancia para obter informa\u00e7\u00f5es p\u00fablicas sobre gastos governamentais, contratos e muito mais. Promovendo a transpar\u00eancia e o controle social.",
+        "Official Site": "https://portaldatransparencia.gov.br",
+        "Icon": "https://www.gov.br/cgu/++theme++padrao_govbr/favicons/favicon-32x32.png",
+        "Redirect": "https://portaldatransparencia.gov.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://portaldatransparencia.gov.br"
+    },
+    {
+        "link": "https://alcon.com",
+        "Heading": "Alcon: Developing Innovative Eye Care Treatments",
+        "Abstract": "Our mission is to provide innovative vision products that enhance quality of life by helping people see better. From vision research to eye health, learn more at Alcon.com.",
+        "Official Site": "https://alcon.com",
+        "Icon": "/sites/g/files/rbvwei4411/files/favicon.ico",
+        "Redirect": "https://alcon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alcon.com"
+    },
+    {
+        "link": "https://snb.it",
+        "Heading": "Home - SNB",
+        "Abstract": "Sviluppiamo software web personalizzato per il cliente analizzando le necessit\u00e1 ed integrandolo con i sistemi informatici presenti in azienda.",
+        "Official Site": "https://snb.it",
+        "Icon": "/cli_snb/tpl/assets/img/favicon.png",
+        "Redirect": "https://snb.it",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://snb.it"
+    },
+    {
+        "link": "https://puzzel.com",
+        "Heading": "AI-Powered CX Ecosystem | Deliver Faster Human Service | Puzzel",
+        "Abstract": "Puzzel is the AI-native Customer Experience (CX) ecosystem designed for you, helping agents deliver faster and more human service at scale. All with less effort and more impact. ",
+        "Official Site": "https://www.puzzel.com",
+        "Icon": "https://www.puzzel.com/hubfs/Puzzel%20favicon.svg",
+        "Redirect": "https://www.puzzel.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.puzzel.com"
+    },
+    {
+        "link": "https://traffer.net",
+        "Heading": null,
+        "Abstract": "",
+        "Official Site": "https://traffer.net",
+        "Icon": "N/A",
+        "Redirect": "https://traffer.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://traffer.net"
+    }
+]

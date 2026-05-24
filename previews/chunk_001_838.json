@@ -1,0 +1,332 @@
+[
+    {
+        "link": "https://caravan.ru",
+        "Heading": "Caravan - \u041c\u043d\u043e\u0433\u043e\u043f\u0440\u043e\u0444\u0438\u043b\u044c\u043d\u044b\u0439 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440",
+        "Abstract": null,
+        "Official Site": "https://caravan.ru",
+        "Icon": "favicon.png",
+        "Redirect": "https://caravan.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caravan.ru"
+    },
+    {
+        "link": "https://zaius.com",
+        "Heading": "Optimizely Data Platform (ODP) - Optimizely",
+        "Abstract": "The customer data platform (CDP) that helps you scale data across every channel at record breaking speed.",
+        "Official Site": "https://www.optimizely.com/products/data-platform/",
+        "Icon": "https://www.optimizely.com/contentassets/d50046dfb56a48e3a8d3252cc1cdea4a/prod-og_odp.png",
+        "Redirect": "https://www.optimizely.com/products/data-platform/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.optimizely.com/products/data-platform/"
+    },
+    {
+        "link": "https://wpbf.com",
+        "Heading": "West Palm Beach News and Weather - Florida News - WPBF Channel 25",
+        "Abstract": "Get the latest West Palm Beach news. WPBF gives you online, anytime access to the biggest Florida news and West Palm Beach weather of the day.",
+        "Official Site": "https://www.wpbf.com",
+        "Icon": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/htv_default_image/wpbf/top_image.png?resize=1200:*",
+        "Redirect": "https://www.wpbf.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wpbf.com"
+    },
+    {
+        "link": "https://edmonton.ca",
+        "Heading": "Home | City of Edmonton",
+        "Abstract": "Official site of the City of Edmonton in Alberta, Canada. Learn about City services, programs, attractions, events and City projects.",
+        "Official Site": "https://edmonton.ca",
+        "Icon": "/themes/coe_edmontonca/favicon.ico",
+        "Redirect": "https://edmonton.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edmonton.ca"
+    },
+    {
+        "link": "https://andelemandele.lv",
+        "Heading": "Andele Mandele",
+        "Abstract": "Andele Mandele - ofici\u0101lais P\u0113r\u013cu med\u012bbu port\u0101ls Latvij\u0101",
+        "Official Site": "https://www.andelemandele.lv/",
+        "Icon": "https://www.andelemandele.lv/assets/logo/andele_mandele_logo.jpg",
+        "Redirect": "https://www.andelemandele.lv/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.andelemandele.lv/"
+    },
+    {
+        "link": "https://nodered.org",
+        "Heading": "Low-code programming for event-driven applications : Node-RED",
+        "Abstract": null,
+        "Official Site": "https://nodered.org",
+        "Icon": "N/A",
+        "Redirect": "https://nodered.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nodered.org"
+    },
+    {
+        "link": "https://dnshome.de",
+        "Heading": "DynDNS Dienst dnsHome.de",
+        "Abstract": "Kostenloser DynDNS Dienst. Jederzeit von \u00fcberall auf deinen PC/VPN zugreifen. Einfache Einbindung im DSL Router oder auch einfach per CronJob als URL per SSL und auch abgesichert mit DNSSEC.",
+        "Official Site": "https://dnshome.de",
+        "Icon": "N/A",
+        "Redirect": "https://dnshome.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dnshome.de"
+    },
+    {
+        "link": "https://sykescottages.co.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://sykescottages.co.uk",
+        "Icon": "N/A",
+        "Redirect": "https://sykescottages.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sykescottages.co.uk"
+    },
+    {
+        "link": "https://iste.org",
+        "Heading": "ISTE | Home",
+        "Abstract": "The International Society for Technology in Education (ISTE) is a nonprofit organization that helps educators use technology to revolutionize learning.",
+        "Official Site": "https://iste.org/",
+        "Icon": "https://cms-live-media.iste.org/logos/iste-ascd-logo/_1200x630_crop_center-center_82_none/iste-ascd_meta.png?mtime=1755707439",
+        "Redirect": "https://iste.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iste.org/"
+    },
+    {
+        "link": "https://acquiredeceasedundress.com",
+        "Heading": "Operated by Clickadu Advertisement Network",
+        "Abstract": null,
+        "Official Site": "https://acquiredeceasedundress.com",
+        "Icon": "https://clickadu.com/favicon.ico",
+        "Redirect": "https://acquiredeceasedundress.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://acquiredeceasedundress.com"
+    },
+    {
+        "link": "https://5ddd.com",
+        "Heading": "FN Connect \u8fdc\u7a0b\u8bbf\u95ee - \u98de\u725b fnOS",
+        "Abstract": "FN Connect \u98de\u725b\u8fdc\u7a0b\u8bbf\u95ee\u670d\u52a1\u4e3a\u60a8\u63d0\u4f9b\u5b89\u5168\u3001\u9ad8\u6548\u7684\u8fdc\u7a0b\u8bbf\u95ee\u5230fnOS\u7684\u670d\u52a1\uff0c\u53ea\u9700\u8981 FN ID \u5373\u53ef\u5b89\u5168\u8fdc\u7a0b\u5230\u60a8\u7684NAS\u3002",
+        "Official Site": "https://5ddd.com",
+        "Icon": "https://static2.fnnas.com/connect/favicon.ico",
+        "Redirect": "https://5ddd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://5ddd.com"
+    },
+    {
+        "link": "https://americorps.gov",
+        "Heading": "Home | AmeriCorps",
+        "Abstract": "As long as we have faith in each other and trust in God, then there is no goal, at all, beyond our reach. There is no dream too big, no task too big. \u2013 President Donald J. Trump",
+        "Official Site": "https://americorps.gov",
+        "Icon": "/themes/custom/americorps/favicons/favicon.ico",
+        "Redirect": "https://americorps.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://americorps.gov"
+    },
+    {
+        "link": "https://doublenix.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://doublenix.com",
+        "Icon": "N/A",
+        "Redirect": "https://doublenix.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://doublenix.com"
+    },
+    {
+        "link": "https://idealsvdr.com",
+        "Heading": "Ideals Virtual Data Rooms | Secure Data Room Provider",
+        "Abstract": "Ideals VDR offers unrivaled customer support, flexible pricing, and the most innovative data room software to support dealmakers",
+        "Official Site": "https://www.idealsvdr.com/",
+        "Icon": "https://www.idealsvdr.com/wp-content/uploads/2024/11/Desktop_Opengraph_1200x630_V1.jpg",
+        "Redirect": "https://www.idealsvdr.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.idealsvdr.com/"
+    },
+    {
+        "link": "https://thejoint.com",
+        "Heading": "The Joint Chiropractic | Walk-In Chiropractic Care Near You",
+        "Abstract": "Get back to life with convenient chiropractic care. Walk in, no appointments or insurance needed, at The Joint Chiropractic clinics nationwide.",
+        "Official Site": "https://thejoint.com",
+        "Icon": "https://joint-19e68.kxcdn.com/assets/images/og_image.jpeg",
+        "Redirect": "https://thejoint.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thejoint.com"
+    },
+    {
+        "link": "https://itech.ru",
+        "Heading": "IT-INTERNET.RU",
+        "Abstract": null,
+        "Official Site": "https://itech.ru",
+        "Icon": "N/A",
+        "Redirect": "https://itech.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://itech.ru"
+    },
+    {
+        "link": "https://ilsmart.com",
+        "Heading": "The World's Most Dynamic Aerospace Parts Marketplace | ILSMart",
+        "Abstract": "ILSMart is the world's most dynamic aerospace parts marketplace. Register to find out why our next-gen technology & tools are ideal for buyers and sellers.",
+        "Official Site": "https://www.ilsmart.com",
+        "Icon": "https://www.ilsmart.com/hubfs/android-chrome-512x512.png",
+        "Redirect": "https://www.ilsmart.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ilsmart.com"
+    },
+    {
+        "link": "https://norma24.de",
+        "Heading": "Norma24 - Der Onlineshop von Norma \u00b7 Norma24",
+        "Abstract": "Norma Online Shop \u2713 gute Qualit\u00e4t \u2713 Riesenauswahl \u2713 Schnelle Lieferung \u2713 G\u00fcnstige Preise \u2713 Jetzt Norma Produkte online kaufen bei norma24",
+        "Official Site": "https://norma24.de",
+        "Icon": "N/A",
+        "Redirect": "https://norma24.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://norma24.de"
+    },
+    {
+        "link": "https://iaudienc.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://iaudienc.com",
+        "Icon": "N/A",
+        "Redirect": "https://iaudienc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iaudienc.com"
+    },
+    {
+        "link": "https://homair.com",
+        "Heading": "Homair | Camping & Location de Mobil-Home +400 destinations en France et en Europe",
+        "Abstract": "D\u00e9couvrez plus de 400 campings 3 \u00e0 5 \u00e9toiles en France et en Europe : mobil-homes tout-\u00e9quip\u00e9s, piscines, parcs aquatiques et offres sp\u00e9ciales. R\u00e9servation rapide et s\u00e9curis\u00e9e",
+        "Official Site": "https://www.homair.com",
+        "Icon": "https://cdn-2.homair.com/hopal_v2/hv/images/2026-05/2-heures-hero-hp-mobile_0.png",
+        "Redirect": "https://www.homair.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.homair.com"
+    },
+    {
+        "link": "https://bloginder.com",
+        "Heading": "Free website builder | Create a free website easily",
+        "Abstract": "We make it very easy to create a high-quality blog, Over 20,000 people use our free blog platform to bring their ideas to life.",
+        "Official Site": "https://bloginder.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://bloginder.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bloginder.com"
+    },
+    {
+        "link": "https://autohebdo.net",
+        "Heading": "V\u00e9hicules neufs/d\u2019occasion \u00e0 vendre | AutoHebdo.net",
+        "Abstract": "Visitez la meilleure place d'affaires en ligne pour la vente de v\u00e9hicules neufs et d\u2019occasion au Canada. Achetez/vendez sans frais, comparez les prix, voyez l'avis des pros, les derni\u00e8res nouvelles et des photos.",
+        "Official Site": "https://autohebdo.net",
+        "Icon": "/assets/acquisition-fragments/metatags/images/trader/favicon.svg",
+        "Redirect": "https://autohebdo.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://autohebdo.net"
+    },
+    {
+        "link": "https://swansonvitamins.com",
+        "Heading": "\n  Vitamins, Supplements & Natural Health Products - Swanson Vitamins\n",
+        "Abstract": "Shop science-backed supplements and wellness essentials that support health from every angle. High-quality formulas designed to fit real life",
+        "Official Site": "https://www.swansonvitamins.com/",
+        "Icon": "http://www.swansonvitamins.com/cdn/shop/files/SwansonVitamins-share-2026-05-20.webp?v=1779379384",
+        "Redirect": "https://www.swansonvitamins.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.swansonvitamins.com/"
+    },
+    {
+        "link": "https://adpost4u.com",
+        "Heading": "AdPost4u | Free Ad Posting Classifieds Website Without Registration Multi Country",
+        "Abstract": "Post your Free classifieds and advertisements without registration on Adpost4u.com. Buy and sell products and services on Adpost4u in Minutes. Browse through the listed classifieds or post free ads now. Post Classifieds in India, USA, Australia, Canada and UK Countries. \n",
+        "Official Site": "https://adpost4u.com",
+        "Icon": "N/A",
+        "Redirect": "https://adpost4u.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adpost4u.com"
+    },
+    {
+        "link": "https://ghostscript.com",
+        "Heading": "Ghostscript",
+        "Abstract": "Ghostscript is the #1 PDL conversion, compression and interpreter tool available, offering native rendering of PDF, PostScript, PCL, XPS, raster and vector files, as well as ASCII text.",
+        "Official Site": "https://ghostscript.com",
+        "Icon": "images/favicon.svg",
+        "Redirect": "https://ghostscript.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ghostscript.com"
+    },
+    {
+        "link": "https://ivd.ru",
+        "Heading": "\u0416\u0443\u0440\u043d\u0430\u043b \u043e \u0434\u0438\u0437\u0430\u0439\u043d\u0435 \u0438\u043d\u0442\u0435\u0440\u044c\u0435\u0440\u043e\u0432 \u0438 \u0440\u0435\u043c\u043e\u043d\u0442\u0435 \u0418\u0434\u0435\u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u0434\u043e\u043c\u0430 \u2014 IVD.ru",
+        "Abstract": "\u0414\u0438\u0437\u0430\u0439\u043d-\u043f\u0440\u043e\u0435\u043a\u0442\u044b \u0438\u043d\u0442\u0435\u0440\u044c\u0435\u0440\u043e\u0432 \u043a\u0432\u0430\u0440\u0442\u0438\u0440 \u0438 \u0434\u043e\u043c\u043e\u0432, \u0441\u043e\u0432\u0435\u0442\u044b \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u043d\u0430 IVD.RU",
+        "Official Site": "https://ivd.ru",
+        "Icon": "https://ivd.ru/img/sharing_1200x630.png",
+        "Redirect": "https://ivd.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ivd.ru"
+    },
+    {
+        "link": "https://lepetitjournal.com",
+        "Heading": "M\u00e9dia des expatri\u00e9s et Fran\u00e7ais \u00e0 l'\u00e9tranger | lepetitjournal.com",
+        "Abstract": "Tout savoir sur l'expatriation et la vie \u00e0 l'\u00e9tranger en suivant l'actualit\u00e9 locale et internationale \u00e0 travers plus de 72 \u00e9ditions dans le monde",
+        "Official Site": "https://lepetitjournal.com",
+        "Icon": "https://backoffice.lepetitjournal.com/sites/default/files/2018-02/lepetitjournal.com_.png",
+        "Redirect": "https://lepetitjournal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lepetitjournal.com"
+    },
+    {
+        "link": "https://powerhost.cl",
+        "Heading": "Datacenter Powerhost | Conectividad 300Gbps & Uptime 99.99% ",
+        "Abstract": "Datacenter en Chile: Hosting Premium, VPS SSD, Cloud VPS, Servidores Dedicados & Housing. Datacenter 100% redundante",
+        "Official Site": "https://www.powerhost.cl/",
+        "Icon": "https://www.powerhost.cl/images/logo-og.jpg",
+        "Redirect": "https://www.powerhost.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.powerhost.cl/"
+    },
+    {
+        "link": "https://thechapblog.com",
+        "Heading": "Free website builder | Create a free website easily",
+        "Abstract": "We make it very easy to create a high-quality blog, Over 20,000 people use our free blog platform to bring their ideas to life.",
+        "Official Site": "https://thechapblog.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://thechapblog.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thechapblog.com"
+    },
+    {
+        "link": "https://papertrailapp.com",
+        "Heading": "Papertrail - cloud-hosted log management, live in seconds",
+        "Abstract": "Frustration-free log management. Seamlessly manage logs from apps, servers, and cloud services.",
+        "Official Site": "https://www.papertrail.com/",
+        "Icon": "https://www.papertrail.com/wp-content/uploads/2024/01/cropped-SW_Logo_Stacked_Web_Orange-32x32.png",
+        "Redirect": "https://www.papertrail.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.papertrail.com/"
+    },
+    {
+        "link": "https://cinestar.de",
+        "Heading": "Cinestar: So macht Kino Spa\u00df!",
+        "Abstract": "CineStar Kinos Deutschland: Kinofilme \u2714 Tickets \u2714 Trailer \u2714 3D Kino \u2714 das aktuelle Kinoprogramm, sowie Infos zu Events & Stars finden Sie hier!",
+        "Official Site": "https://www.cinestar.de/",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://www.cinestar.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cinestar.de/"
+    },
+    {
+        "link": "https://paperblog.com",
+        "Heading": "Paperblog",
+        "Abstract": "Paperblog",
+        "Official Site": "https://paperblog.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://paperblog.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://paperblog.com"
+    },
+    {
+        "link": "https://rvision.pro",
+        "Heading": "R-Vision \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 | \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043a\u0438\u0431\u0435\u0440\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u0438 \u0418\u0422",
+        "Abstract": "R-Vision \u2014 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043d\u0430\u0434\u0451\u0436\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0446\u0438\u0444\u0440\u043e\u0432\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043a\u0438\u0431\u0435\u0440\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438.",
+        "Official Site": "https://rvision.ru/",
+        "Icon": "https://rvision.ru/themes/rvnstark/pictures/products-platform/cube-18.webp",
+        "Redirect": "https://rvision.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rvision.ru/"
+    }
+]

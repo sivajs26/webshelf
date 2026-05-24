@@ -1,0 +1,242 @@
+[
+    {
+        "link": "https://fierce-network.com",
+        "Heading": "Fierce Network Homepage | Fierce Network",
+        "Abstract": "Fierce Network is a mega portal tracking wireless, broadband and cloud industry news and analysis. Designed to meet the needs of today\u2019s decision makers, we help readers analyze the day's news and understand the industry\u2019s trends and services.",
+        "Official Site": "https://fierce-network.com",
+        "Icon": "https://qtxasset.com/quartz/qcloud4/fierceFavicon.ico",
+        "Redirect": "https://fierce-network.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fierce-network.com"
+    },
+    {
+        "link": "https://deviceatlas.com",
+        "Heading": "DeviceAtlas - Device Intelligence",
+        "Abstract": "DeviceAtlas identifies and verifies connected devices in real time for rich, actionable device intelligence across every customer touchpoint.",
+        "Official Site": "https://deviceatlas.com/",
+        "Icon": "https://deviceatlas.com/sites/default/files/2025-09/da-logo-light-white-bg.png",
+        "Redirect": "https://deviceatlas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deviceatlas.com/"
+    },
+    {
+        "link": "https://nationalgridus.com",
+        "Heading": "Natural Gas & Electricity | National Grid",
+        "Abstract": "Welcome to National Grid, providing New York and Massachusetts with natural gas and electricity for homes and businesses.",
+        "Official Site": "https://nationalgridus.com",
+        "Icon": "/assets/images/favicons/favicon-32x32.png?v=OmJ605EadX",
+        "Redirect": "https://nationalgridus.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nationalgridus.com"
+    },
+    {
+        "link": "https://pdf-xchange.com",
+        "Heading": "PDF-XChange Co Ltd :: PDF Creation Software, Free PDF Editor, FREE OCR, Voted Best PDF Reader!",
+        "Abstract": "PDF-XChange develops fast, light PDF software for viewing, converting, and editing PDF documents, with unparalleled support and service, including the Best PDF Reader  - as voted by Life Hacker Readers.",
+        "Official Site": "https://pdf-xchange.com",
+        "Icon": "https://cdn.pdf-xchange.com/static/common/images/favicon.ico",
+        "Redirect": "https://pdf-xchange.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pdf-xchange.com"
+    },
+    {
+        "link": "https://zin.ru",
+        "Heading": "\u0417\u043e\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043d\u0430\u0443\u043a - \u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430",
+        "Abstract": "\u0417\u043e\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043d\u0430\u0443\u043a \u0441 \u0417\u043e\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043c\u0443\u0437\u0435\u0435\u043c",
+        "Official Site": "https://zin.ru",
+        "Icon": "N/A",
+        "Redirect": "https://zin.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zin.ru"
+    },
+    {
+        "link": "https://notalwaysright.com",
+        "Heading": "Trending - Funny & True Stories | NotAlwaysRight.com ",
+        "Abstract": "The most recent stories that are gaining traction!",
+        "Official Site": "https://notalwaysright.com/",
+        "Icon": "https://notalwaysright.com/wp-content/uploads/2019/08/nar-social-media-logo.jpg",
+        "Redirect": "https://notalwaysright.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://notalwaysright.com/"
+    },
+    {
+        "link": "https://sportyfied.com",
+        "Heading": "Forside Sportyfied | Denmarks new supplier of sporting goods for clubs and businesses",
+        "Abstract": "{{ collection | id:456 | title:Selected | orderby:popularity\u00a0| show_variants:one | limit:100 | soft_limit:12 }}{{ collection | title:Popular products | orderby:popularity | show_variants:one | limit:40 | soft_limit:6 }}{{ collection | title:Maybe for you? | orderby:random | show_variants:one | limit:20 | soft_limit:6 }}{{ category | id:39,15 | title:Set offer\u00a0 | orderby:random | limit:20 | soft_limit:6 }}{{ collection | title:Handball | type_id:217 | orderby:random | limit:20 | soft_li",
+        "Official Site": "https://www.sportyfied.com/us",
+        "Icon": "https://static.sportyfied.com/img/logos/sportyfied_share.png?v=3.0.191",
+        "Redirect": "https://www.sportyfied.com/us",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sportyfied.com/us"
+    },
+    {
+        "link": "https://futbolemotion.com",
+        "Heading": "Tienda de f\u00fatbol. F\u00fatbol Emotion.",
+        "Abstract": "Tienda online de f\u00fatbol donde encontrar colecciones exclusivas de botas de f\u00fatbol, guantes de portero, espinilleras e informarse sobre la actualidad sobre material de f\u00fatbol.",
+        "Official Site": "https://www.futbolemotion.com/",
+        "Icon": "https://www.futbolemotion.com/imagesEstructura/logos/facebook-logo.png",
+        "Redirect": "https://www.futbolemotion.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.futbolemotion.com/"
+    },
+    {
+        "link": "https://lillemetropole.fr",
+        "Heading": "\n              M\u00e9tropole europ\u00e9enne de Lille - Bienvenue sur le site de la MEL\n          ",
+        "Abstract": "La M\u00e9tropole Europ\u00e9enne de Lille (MEL) est un \u00e9tablissement public de coop\u00e9ration intercommunale. Compos\u00e9e de 95 communes, elle compte 1,2 million d\u2019habitants. Son territoire s\u2019\u00e9tend jusqu\u2019\u00e0 la fronti\u00e8re belge, constituant une \u00ab Eurom\u00e9tropole \u00bb de 2,2 millions de personnes. La MEL intervient aujourd\u2019hui dans des domaines essentiels : Am\u00e9nagement du territoire, Culture, D\u00e9chets m\u00e9nagers, D\u00e9veloppement durable, Eau et assainissement, \u00c9conomie et emploi, Espace public et voirie, Europe et international, Habitat et logement, Politique de la ville, Nature et cadre de vie, Sport, Tourisme, Transports et mobilit\u00e9, Accessibilit\u00e9 handicap, Cr\u00e9matorium.",
+        "Official Site": "https://lillemetropole.fr",
+        "Icon": "/sites/default/files/Favicon-MEL.jpg",
+        "Redirect": "https://lillemetropole.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lillemetropole.fr"
+    },
+    {
+        "link": "https://zaaztelecom.com.br",
+        "Heading": "Zaaz - Internet Fibra e Planos de Celular com Melhor Cobertura e Pre\u00e7o",
+        "Abstract": "Conhe\u00e7a a Zaaz, sua operadora de internet fibra e planos de telefonia m\u00f3vel com a melhor rela\u00e7\u00e3o custo-benef\u00edcio. Velocidade, estabilidade e atendimento premium para sua casa ou empresa.",
+        "Official Site": "https://www.zaaztelecom.com.br/",
+        "Icon": "https://www.zaaztelecom.com.br/img/comp.jpg",
+        "Redirect": "https://www.zaaztelecom.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.zaaztelecom.com.br/"
+    },
+    {
+        "link": "https://binomo.com",
+        "Heading": "Binomo",
+        "Abstract": "Binomo is a modern trading platform for beginners and professionals. $10,000 in a demo account for training, and the minimum trade amount is only $1. Practice conveniently and invest wisely!",
+        "Official Site": "https://binomo.com",
+        "Icon": "/h-assets/shared/assets/images/favicon-2074c26016b9bbb4.ico",
+        "Redirect": "https://binomo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://binomo.com"
+    },
+    {
+        "link": "https://utherverse.com",
+        "Heading": "Utherverse Free Social Network",
+        "Abstract": null,
+        "Official Site": "https://utherverse.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://utherverse.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://utherverse.com"
+    },
+    {
+        "link": "https://rtbiq.com",
+        "Heading": "RTBiQ",
+        "Abstract": "",
+        "Official Site": "https://www.rtbiq.com",
+        "Icon": "http://static1.squarespace.com/static/60f5b47d47773f22ca724be5/t/60f5b6ecbc4fd94d2883d08e/1626715884778/RTBiQ+Logo.png?format=1500w",
+        "Redirect": "https://www.rtbiq.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rtbiq.com"
+    },
+    {
+        "link": "https://caju.com.br",
+        "Heading": "Caju \u2022 Facilite o seu dia a dia e transforme a experi\u00eancia dos seus colaboradores",
+        "Abstract": "Da admiss\u00e3o \u00e0 reten\u00e7\u00e3o, centralize benef\u00edcios, despesas e gest\u00e3o de pessoas em uma \u00fanica plataforma e com taxa zero",
+        "Official Site": "https://caju.com.br",
+        "Icon": "https://cdn.prod.website-files.com/68b6fa277e5c017395008330/68f2d28f77d91ee5e701395f_opengraph-01.png",
+        "Redirect": "https://caju.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caju.com.br"
+    },
+    {
+        "link": "https://wellsky.com",
+        "Heading": "Welcome to WellSky\u00ae Creating smarter solutions for whole person care",
+        "Abstract": "Creating smarter solutions for whole person care.",
+        "Official Site": "https://wellsky.com/",
+        "Icon": "https://wellsky.com/wp-content/uploads/2022/08/WellSky.jpg",
+        "Redirect": "https://wellsky.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wellsky.com/"
+    },
+    {
+        "link": "https://ichgcp.net",
+        "Heading": "ICH GCP - ICH E6 (R3) Guideline on good clinical practice (GCP)",
+        "Abstract": "...",
+        "Official Site": "https://ichgcp.net/ich-harmonised-guideline-ich-e6-r3-guideline-on-good-clinical-practice-gcp-main",
+        "Icon": "https://ichgcp.net/img/favicon/favicon-32x32.png",
+        "Redirect": "https://ichgcp.net/ich-harmonised-guideline-ich-e6-r3-guideline-on-good-clinical-practice-gcp-main",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ichgcp.net/ich-harmonised-guideline-ich-e6-r3-guideline-on-good-clinical-practice-gcp-main"
+    },
+    {
+        "link": "https://n-cdn77.top",
+        "Heading": "n-cdn77.top\u00a0-\u00a0n cdn77 Resources and Information.",
+        "Abstract": "n-cdn77.top is your first and best source for information about n cdn77. Here you will also find topics relating to issues of general interest. We hope you find what you are looking for!",
+        "Official Site": "https://n-cdn77.top",
+        "Icon": "//img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Redirect": "https://n-cdn77.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://n-cdn77.top"
+    },
+    {
+        "link": "https://rch.org.au",
+        "Heading": "\n\tThe Royal Children's Hospital : The Royal Children's Hospital\n",
+        "Abstract": "At The Royal Children\u2019s Hospital (RCH), we envision a world where all kids thrive. We are committed to ensuring every child and young person has the opportunity to realize their full potential",
+        "Official Site": "https://rch.org.au",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://rch.org.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rch.org.au"
+    },
+    {
+        "link": "https://proctoru.com",
+        "Heading": "The ProctorU Proctoring Platform - Advanced Exam Technology Backed by Human Validation",
+        "Abstract": "Get quick access to your ProctorU Platform account or technical support. As of Feb 28, 2022, all other content has been migrated to www.meazurelearning.com as a part of our rebrand to Meazure Learning.",
+        "Official Site": "https://www.proctoru.com/",
+        "Icon": "https://www.proctoru.com/wp-content/uploads/2019/12/proctoru-fb-01-1.png",
+        "Redirect": "https://www.proctoru.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.proctoru.com/"
+    },
+    {
+        "link": "https://pantagraph.com",
+        "Heading": "The Pantagraph | Breaking News | | Read Bloomington, IL and Illinois breaking news. Get latest news, events and information on Illinois sports, weather, entertainment and lifestyles.",
+        "Abstract": "Read breaking news from Bloomington, IL and Illinois. Get the latest on events, weather, sports, entertainment, and more.",
+        "Official Site": "https://pantagraph.com/",
+        "Icon": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/custom/image/b32c1a3a-f6a7-11e5-b75e-6b57a5d92d3d.png?resize=600%2C315",
+        "Redirect": "https://pantagraph.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pantagraph.com/"
+    },
+    {
+        "link": "https://cmsnl.com",
+        "Heading": "Honda Motorcycle Parts, Kawasaki, Suzuki and Yamaha Motorcycle Parts - ATV, Classic Bike, Dirt Bike Parts",
+        "Abstract": "CMSNL specializes in Honda Motorcycle Parts, Kawasaki Motorcycle Parts, Yamaha and Suzuki OEM and Aftermarket Motorcycle Parts for Classic Bikes, Dirt Bikes, ATV's, Snowmobiles and more",
+        "Official Site": "https://www.cmsnl.com",
+        "Icon": "https://www.cmsnl.com/CMSNL_Icon_Slogan.png",
+        "Redirect": "https://www.cmsnl.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cmsnl.com"
+    },
+    {
+        "link": "https://piasd.org",
+        "Heading": "Home - PIASD",
+        "Abstract": "Join PIA San Diego for top print industry resources: training, management services, Print University webinars, networking & group discounts. Connect. Engage. Succeed. Printing association San\u202fDiego",
+        "Official Site": "https://piasd.org/",
+        "Icon": "https://piasd.org/wp-content/uploads/2020/12/Executive-Toolbox-fin_logo-300x72.png",
+        "Redirect": "https://piasd.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://piasd.org/"
+    },
+    {
+        "link": "https://arajet.com",
+        "Heading": "Arajet | Fly for less Across the Americas | Book Flights, Pay Less",
+        "Abstract": "Fly Arajet\u2019s Boeing 737 MAX 8 fleet with affordable fares and simple bundles. Book flights across the Americas with trusted Dominican service.",
+        "Official Site": "https://www.arajet.com/en-us/home",
+        "Icon": "https://dev-www.arajet.com/_cdn/1muw654c7cfz/224GOR8k4Bj0AvsncFGHB/95a19e0e35e965578d7f8f035e7278d3/2b3889fa-453f-4352-a98a-ba2563424788.avif",
+        "Redirect": "https://www.arajet.com/en-us/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.arajet.com/en-us/home"
+    },
+    {
+        "link": "https://epider.me",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://epider.me",
+        "Icon": "N/A",
+        "Redirect": "https://epider.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://epider.me"
+    }
+]

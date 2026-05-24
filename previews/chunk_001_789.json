@@ -1,0 +1,382 @@
+[
+    {
+        "link": "https://megaplan.ru",
+        "Heading": "\u041c\u0435\u0433\u0430\u043f\u043b\u0430\u043d \u2014 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u043e\u043c",
+        "Abstract": "\u041c\u0435\u0433\u0430\u043f\u043b\u0430\u043d \u2014 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u043e\u043c \u0434\u043b\u044f \u043a\u043e\u043c\u0430\u043d\u0434 \u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439. \u041f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430, \u043e\u043f\u0442\u043e\u0432\u044b\u0445 \u043f\u0440\u043e\u0434\u0430\u0436, \u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0438 \u0441\u0444\u0435\u0440\u044b \u0443\u0441\u043b\u0443\u0433. \u041f\u0440\u043e\u0441\u0442\u043e\u0439 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441, \u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u0430\u044f \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430 \u0431\u0435\u0437 \u0441\u043a\u0440\u044b\u0442\u044b\u0445 \u043f\u043b\u0430\u0442\u0435\u0436\u0435\u0439 \u0438 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435 \u043e\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u043e\u0432. \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u0434\u043e\u0441\u0442\u0443\u043f \u043d\u0430 14 \u0434\u043d\u0435\u0439.",
+        "Official Site": "https://megaplan.ru/",
+        "Icon": "https://megaplan.ru/share.png",
+        "Redirect": "https://megaplan.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://megaplan.ru/"
+    },
+    {
+        "link": "https://linuxcontainers.org",
+        "Heading": "Linux Containers",
+        "Abstract": "The umbrella project behind Incus, LXC, LXCFS, Distrobuilder and more.",
+        "Official Site": "https://linuxcontainers.org/",
+        "Icon": "https://linuxcontainers.org/static/img/containers.png",
+        "Redirect": "https://linuxcontainers.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://linuxcontainers.org/"
+    },
+    {
+        "link": "https://myecalendar.com",
+        "Heading": "eCalendar",
+        "Abstract": "eCalendar - A simple, easy-to-use, focused and efficient calendar application",
+        "Official Site": "https://myecalendar.com",
+        "Icon": "https://ecalendar.s3.amazonaws.com/admin/icon/seo.png",
+        "Redirect": "https://myecalendar.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myecalendar.com"
+    },
+    {
+        "link": "https://markup.io",
+        "Heading": "Markup.io: Easiest Way to Leave Feedback on Digital Content - Markup.io",
+        "Abstract": null,
+        "Official Site": "https://www.markup.io/",
+        "Icon": "https://assets.markup.io/app/uploads/2022/11/markup-interface-users-commenting.webp",
+        "Redirect": "https://www.markup.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.markup.io/"
+    },
+    {
+        "link": "https://gtaforums.com",
+        "Heading": "Forums - GTAForums",
+        "Abstract": null,
+        "Official Site": "https://gtaforums.com",
+        "Icon": "https://gtaforums.com/uploads/monthly_2024_05/android-chrome-36x36.png?v=1715513838",
+        "Redirect": "https://gtaforums.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gtaforums.com"
+    },
+    {
+        "link": "https://homedit.com",
+        "Heading": "Homedit - Home Design Ideas For Modern Living",
+        "Abstract": "Homedit is a home decor inspiration resource showcasing architecture, landscaping, furniture design, interior styles, and DIY home improvement methods.",
+        "Official Site": "https://www.homedit.com/",
+        "Icon": "https://cdn.homedit.com/wp-content/uploads/2021/11/cropped-favicon-96x96.png",
+        "Redirect": "https://www.homedit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.homedit.com/"
+    },
+    {
+        "link": "https://cloudx2.com",
+        "Heading": "X2Cloud",
+        "Abstract": null,
+        "Official Site": "https://cloudx2.com",
+        "Icon": "N/A",
+        "Redirect": "https://cloudx2.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cloudx2.com"
+    },
+    {
+        "link": "https://atlasearth.com",
+        "Heading": "ATLAS:EARTH",
+        "Abstract": "Buy real world land, one parcel at a time.",
+        "Official Site": "https://atlasearth.com",
+        "Icon": "/assets/favicon.Dp8evwMk.ico",
+        "Redirect": "https://atlasearth.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://atlasearth.com"
+    },
+    {
+        "link": "https://parcoursup.fr",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://parcoursup.fr",
+        "Icon": "N/A",
+        "Redirect": "https://parcoursup.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://parcoursup.fr"
+    },
+    {
+        "link": "https://pjstar.com",
+        "Heading": "Journal Star: Local News, Politics & Sports in Peoria, IL",
+        "Abstract": "Get the latest breaking news, sports, entertainment and obituaries in Peoria, IL from Peoria Journal Star.",
+        "Official Site": "https://www.pjstar.com/",
+        "Icon": "https://www.pjstar.com/tangstatic/sites/njos/og-image-q1a2z31e077d3f.png",
+        "Redirect": "https://www.pjstar.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pjstar.com/"
+    },
+    {
+        "link": "https://stock3.com",
+        "Heading": "stock3: DIE Homebase f\u00fcr Deinen B\u00f6rsenalltag | stock3",
+        "Abstract": "\u2713Realtime-Kurse \u2713B\u00f6rsennews \u2713Analyse-Tools \u2713Charts \u2713Trading-Funktionen. In Echtzeit alle M\u00e4rkte im Blick - via Web und App!",
+        "Official Site": "https://stock3.com",
+        "Icon": "https://stock3.com/img/sharing/stock3-default-fb.jpg",
+        "Redirect": "https://stock3.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stock3.com"
+    },
+    {
+        "link": "https://ausbildung.de",
+        "Heading": "Einfach eine Ausbildung oder ein duales Studium finden",
+        "Abstract": "Bis zu 150.000+ Ausbildungspl\u00e4tze. Entdecke Berufe, Geh\u00e4lter und Azubi-Bewertungen und finde mit dem Berufscheck deine Ausbildung.",
+        "Official Site": "https://ausbildung.de",
+        "Icon": "N/A",
+        "Redirect": "https://ausbildung.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ausbildung.de"
+    },
+    {
+        "link": "https://elar.ru",
+        "Heading": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0439 \u0430\u0440\u0445\u0438\u0432: \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0430\u0440\u0445\u0438\u0432\u0430 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438. C\u043e\u0437\u0434\u0430\u043d\u0438\u0435, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0433\u043e \u0430\u0440\u0445\u0438\u0432\u0430 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u044f - \u042d\u041b\u0410\u0420",
+        "Abstract": "\u041a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \u042d\u041b\u0410\u0420 \u2014 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0435\u0435 \u0432 \u0415\u0432\u0440\u043e\u043f\u0435 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0435 \u043f\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044e, \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u043e\u043c\u0443 \u043e\u0441\u043d\u0430\u0449\u0435\u043d\u0438\u044e \u0438 \u043d\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044e \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0445 \u0430\u0440\u0445\u0438\u0432\u043e\u0432, \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u044e \u043f\u0435\u0440\u0435\u0434\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438, \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u0438 \u0440\u0435\u0448\u0435\u043d\u0438\u0439.",
+        "Official Site": "https://elar.ru",
+        "Icon": "/local/templates/elar.ru/favicon.ico",
+        "Redirect": "https://elar.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://elar.ru"
+    },
+    {
+        "link": "https://umea.se",
+        "Heading": "Ume\u00e5 kommun - Ume\u00e5 kommun",
+        "Abstract": "V\u00e4lkommen till Ume\u00e5 kommuns webbplats",
+        "Official Site": "https://umea.se",
+        "Icon": "https://www.umea.se/images/18.523923fe19e3a7f29758e/1779099568929/38505_960x640.jpg",
+        "Redirect": "https://umea.se",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://umea.se"
+    },
+    {
+        "link": "https://football-italia.net",
+        "Heading": "Football Italia | Italian football news, analysis, fixtures and results for the latest from Serie A, Serie B and the Azzurri. - Football Italia",
+        "Abstract": null,
+        "Official Site": "https://football-italia.net/",
+        "Icon": "https://icdn.football-italia.net/wp-content/uploads/2021/03/fifavicon.png",
+        "Redirect": "https://football-italia.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://football-italia.net/"
+    },
+    {
+        "link": "https://truth-out.org",
+        "Heading": "Truthout | Fearless Independent Journalism",
+        "Abstract": "Explore progressive perspectives and stay informed on social justice, activism, and politics at Truthout.org. Uncover truth, spark change.",
+        "Official Site": "https://truthout.org/",
+        "Icon": "https://truthout.org/app/uploads/2018/03/Truthout-Default-Image.png",
+        "Redirect": "https://truthout.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://truthout.org/"
+    },
+    {
+        "link": "https://powermag.com",
+        "Heading": "POWER Magazine :: Power generation news and jobs in coal, gas, nuclear, renewables",
+        "Abstract": "The power industry's trusted source for generation technology, O&M, and legal & regulatory news for coal, gas, nuclear, hydro, wind & solar power plants; power jobs",
+        "Official Site": "https://www.powermag.com/",
+        "Icon": "https://www.powermag.com/wp-content/uploads/2024/02/powermag-opengraph-logo.png",
+        "Redirect": "https://www.powermag.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.powermag.com/"
+    },
+    {
+        "link": "https://simplenote.com",
+        "Heading": "Simplenote",
+        "Abstract": "The simplest way to keep notes. Light, clean, and free. Simplenote is now available for iOS, Android, Mac, and the web.",
+        "Official Site": "https://simplenote.com/",
+        "Icon": "https://i0.wp.com/simplenote.com/wp-content/uploads/2020/07/simplenote_hero.png?fit=1200%2C583&ssl=1",
+        "Redirect": "https://simplenote.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simplenote.com/"
+    },
+    {
+        "link": "https://the-race.com",
+        "Heading": "The Race \u2013 Independent Formula 1, MotoGP, Formula E & Motorsport Business News",
+        "Abstract": "Stay ahead with The Race \u2013 the world\u2019s largest independent motorsport channel. Get the latest news, expert analysis, videos and podcasts across F1, MotoGP, Formula\u00a0E and more.",
+        "Official Site": "https://www.the-race.com/",
+        "Icon": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2022/07/the-race-default-1.jpeg",
+        "Redirect": "https://www.the-race.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.the-race.com/"
+    },
+    {
+        "link": "https://radford.edu",
+        "Heading": "Radford University | Find Your Place. Here.",
+        "Abstract": "Radford University is the 2025 Top Adventure College in the Southeast and Mid-Atlantic! We offer affordable, hands-on learning, vibrant campus life and renowned programs in Virginia\u2019s scenic Blue Ridge Mountains.",
+        "Official Site": "https://www.radford.edu/index.html",
+        "Icon": "https://www.radford.edu/_resources/images/radford-university-find-your-place-here-homepage.jpg",
+        "Redirect": "https://www.radford.edu/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.radford.edu/index.html"
+    },
+    {
+        "link": "https://metadialog.com",
+        "Heading": "Metadialog \u2014 conversational interface for your business | MetaDialog",
+        "Abstract": "Your Business.  Your Data.  Get your own Large Language Models and Conversational AI based on your data.  Even on-premise.",
+        "Official Site": "https://www.metadialog.com/",
+        "Icon": "https://www.metadialog.com/wp-content/uploads/2023/09/preview-image.webp",
+        "Redirect": "https://www.metadialog.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.metadialog.com/"
+    },
+    {
+        "link": "https://ufjf.br",
+        "Heading": "UFJF - Universidade Federal de Juiz de Fora",
+        "Abstract": "Universidade Federal de Juiz de Fora",
+        "Official Site": "https://www2.ufjf.br/ufjf/",
+        "Icon": "https://www.ufjf.br/ufjf/wp-content/themes/hydra-portal/images/favicon.png",
+        "Redirect": "https://www2.ufjf.br/ufjf/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www2.ufjf.br/ufjf/"
+    },
+    {
+        "link": "https://moonlight-stream.org",
+        "Heading": "Moonlight Game Streaming: Play Your PC Games Remotely",
+        "Abstract": "Moonlight allows you to play your PC games remotely on almost any device.",
+        "Official Site": "https://moonlight-stream.org",
+        "Icon": "/images/moonlight.svg",
+        "Redirect": "https://moonlight-stream.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://moonlight-stream.org"
+    },
+    {
+        "link": "https://vikingrivercruises.com",
+        "Heading": "River Cruises - European, Asian, Mississippi & Nile Cruises | Viking\u00ae",
+        "Abstract": "Explore the world's most scenic rivers with Viking\u2019s river cruises. Discover award-winning itineraries, elegant small ships and immersive experiences. Book your unforgettable river cruise today!",
+        "Official Site": "https://vikingrivercruises.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://vikingrivercruises.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vikingrivercruises.com"
+    },
+    {
+        "link": "https://ogilvy.com",
+        "Heading": "Ogilvy",
+        "Abstract": "At Ogilvy, we design the brand; we turn the brand into an experience; and we communicate the brand\u2019s story. We make brands matter. Learn more about Ogilvy's capabilities at Ogilvy.com.",
+        "Official Site": "https://www.ogilvy.com/",
+        "Icon": "/favicon-16x16.png",
+        "Redirect": "https://www.ogilvy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ogilvy.com/"
+    },
+    {
+        "link": "https://iplocate.io",
+        "Heading": "Free IP Geolocation and Privacy Detection API for Developers - IPLocate.io",
+        "Abstract": "Real-time geolocation and privacy detection API for developers and enterprises. Free up to 1,000 requests per day. Detect user location, proxy and VPN usage, and more. Trusted by 100k businesses worldwide. More than 15 billion requests served every month.",
+        "Official Site": "https://www.iplocate.io/",
+        "Icon": "//static.iplocate.io/assets/og/og-homepage-c7c4a668b10c83554e8df85971983a0d295c39d39a3578d5a63f85cc67cc2da0.jpg",
+        "Redirect": "https://www.iplocate.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.iplocate.io/"
+    },
+    {
+        "link": "https://drf.com",
+        "Heading": "Daily Racing Form | Horse Racing - Bets, Entries, Results & PPs",
+        "Abstract": "Find all the latest horse racing coverage at Daily Racing Form, including bets, entries, results, and Past Performances (PPs). Visit DRF for expert insights!",
+        "Official Site": "https://drf.com",
+        "Icon": "https://static.drf.com/sstf/images/DRFShareLogo.jpg",
+        "Redirect": "https://drf.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://drf.com"
+    },
+    {
+        "link": "https://aintitcool.com",
+        "Heading": "Ain't It Cool News: The best in movie, TV, DVD, and comic book news.",
+        "Abstract": null,
+        "Official Site": "http://www.aintitcool.com/",
+        "Icon": "https://media.aintitcool.com/static/social/facebook-wide-dannie.png",
+        "Redirect": "http://www.aintitcool.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.aintitcool.com/"
+    },
+    {
+        "link": "https://acomics.ru",
+        "Heading": "\u0410\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u041a\u043e\u043c\u0438\u043a\u0441: \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u044f \u043a\u043e\u043c\u0438\u043a\u0441\u043e\u0432 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c, \u0447\u0438\u0442\u0430\u0442\u044c \u043a\u043e\u043c\u0438\u043a\u0441\u044b \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e",
+        "Abstract": "\u041f\u043e\u0440\u0442\u0430\u043b \u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438 \u043a\u043e\u043c\u0438\u043a\u0441\u043e\u0432 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435, \u043c\u0438\u0441\u0441\u0438\u0435\u0439 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0447\u0442\u0435\u043d\u0438\u044f \u0438 \u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0438 \u043a\u043e\u043c\u0438\u043a\u0441\u043e\u0432. \u041d\u0430 \u0441\u0430\u0439\u0442\u0435 \u0410\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u041a\u043e\u043c\u0438\u043a\u0441 \u043c\u043e\u0436\u043d\u043e \u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u0442\u044c \u0438 \u0447\u0438\u0442\u0430\u0442\u044c \u043a\u043e\u043c\u0438\u043a\u0441\u044b \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \u043e\u043d\u043b\u0430\u0439\u043d.",
+        "Official Site": "https://acomics.ru",
+        "Icon": "https://acomics.ru/favicon.ico?18-07-2014v2",
+        "Redirect": "https://acomics.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://acomics.ru"
+    },
+    {
+        "link": "https://looperman.com",
+        "Heading": "Download Free Loops, Samples, Acapellas & Software | Looperman",
+        "Abstract": "Join our community of music producers: download free loops, samples, beats, acapellas, and sounds. Upload tracks for feedback. New uploads daily. Explore o",
+        "Official Site": "https://www.looperman.com/",
+        "Icon": "https://www.looperman.com/assets-v3/img/looperman_fb_logo.jpg",
+        "Redirect": "https://www.looperman.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.looperman.com/"
+    },
+    {
+        "link": "https://weeek.net",
+        "Heading": "Weeek \u2014 \u0442\u0430\u0441\u043a-\u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440 \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u043c\u0438",
+        "Abstract": "Weeek \u2014 \u043c\u0443\u043b\u044c\u0442\u0438\u0441\u0435\u0440\u0432\u0438\u0441\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u0443 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0438\u0432\u043d\u0435\u0435",
+        "Official Site": "https://weeek.net/ru",
+        "Icon": "https://weeek.net/static/og/og-image-ru.png",
+        "Redirect": "https://weeek.net/ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://weeek.net/ru"
+    },
+    {
+        "link": "https://webuy.com",
+        "Heading": "CeX",
+        "Abstract": null,
+        "Official Site": "https://webuy.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://webuy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webuy.com"
+    },
+    {
+        "link": "https://terracycle.com",
+        "Heading": "TerraCycle",
+        "Abstract": "TerraCycle is an innovative recycling company that has become a global leader in recycling hard-to-recycle materials. They offer a range of free programs, as well as recycling solutions available for purchase for almost every form of waste. Eliminating the Idea of Waste",
+        "Official Site": "https://www.terracycle.com/en-US",
+        "Icon": "//dva1blx501zrw.cloudfront.net/assets/production/assets/application/facebook-og-image-dd833cf918057ce3e9800e8d264e9f92d7082c6bab5074057726f90b8c9a4728.jpg",
+        "Redirect": "https://www.terracycle.com/en-US",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.terracycle.com/en-US"
+    },
+    {
+        "link": "https://freechargebiz.in",
+        "Heading": "UPI|Recharge and Bill Payments|Wallet - Freechargebiz",
+        "Abstract": "Freecharge - The Simplest & Fastest way to do a Online Recharge for Prepaid Mobile, Postpaid,\n    DTH,Electricity Bill Payments,Metro,Gas bills & Landline bill payments. Get exclusive\n    rewards on Freecharge.",
+        "Official Site": "https://www.freechargebiz.in",
+        "Icon": "https://pwa-cdn.freechargebiz.in/pwa-static/pwa/images/icons/fc-og-image.png",
+        "Redirect": "https://www.freechargebiz.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.freechargebiz.in"
+    },
+    {
+        "link": "https://playtomic.io",
+        "Heading": "Join the community and book courts online in one app | Playtomic",
+        "Abstract": "Find courts, meet players, and join matches with the Playtomic app. Join the largest padel & tennis community and start playing today!",
+        "Official Site": "https://playtomic.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://playtomic.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://playtomic.com/"
+    },
+    {
+        "link": "https://mubasher.info",
+        "Heading": "\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0645\u0628\u0627\u0634\u0631",
+        "Abstract": "\u0645\u0628\u0627\u0634\u0631 \u0645\u0648\u0642\u0639 \u064a\u064f\u063a\u0637\u064a \u0633\u0648\u0642 \u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0648\u0627\u0644\u0623\u0633\u0647\u0645\u060c \u0648\u064a\u0648\u0641\u0631 \u0623\u062d\u062f\u062b \u0623\u0631\u0642\u0627\u0645 \u0633\u0648\u0642 \u0627\u0644\u0645\u0627\u0644\u060c \u0648\u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0628\u0648\u0631\u0635\u0629 \u0627\u0644\u0645\u062d\u0644\u064a\u0629 \u0648\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u060c \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0623\u062e\u0628\u0627\u0631 \u0627\u0643\u062a\u062a\u0627\u0628 \u0627\u0644\u0634\u0631\u0643\u0627\u062a.",
+        "Official Site": "https://mubasher.info",
+        "Icon": "/favicon-32x32.svg",
+        "Redirect": "https://mubasher.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mubasher.info"
+    },
+    {
+        "link": "https://logix.in",
+        "Heading": "Logix InfoSecurity | Workplace Security, Productivity & Resilience Experts",
+        "Abstract": "Home Logix - Workplace SecurityProductivityResilience Securing, Empowering, and Future-Proofing Workplaces for 25+ Years Trusted Digital Transformation Partner Securing & Empowering New-Age Workplaces At Logix, we secure and modernize digital workplaces for SMBs, mid-market and enterprise businesses in India \u2014 with cybersecurity, productivity, and 24X7 managed support. Workplace Security Stop breaches, identity theft, and\u2026",
+        "Official Site": "https://logix.in/",
+        "Icon": "https://cdn.logix.in/wp-content/uploads/2025/09/Logix-Logo-Site-Identity-100x100.png",
+        "Redirect": "https://logix.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://logix.in/"
+    },
+    {
+        "link": "https://appplay.org",
+        "Heading": "Game Center",
+        "Abstract": null,
+        "Official Site": "https://appplay.org",
+        "Icon": "/vite.svg",
+        "Redirect": "https://appplay.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://appplay.org"
+    }
+]
