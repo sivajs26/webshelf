@@ -1,0 +1,322 @@
+[
+    {
+        "link": "https://ilga.gov",
+        "Heading": "Illinois General Assembly - Home Page",
+        "Abstract": "Welcome to the Official government website of the Illinois General Assembly",
+        "Official Site": "https://ilga.gov",
+        "Icon": "https://cdn.ilga.gov/assets/img/site/open_graph.png",
+        "Redirect": "https://ilga.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ilga.gov"
+    },
+    {
+        "link": "https://wgbh.org",
+        "Heading": "Home Page | GBH",
+        "Abstract": "GBH Boston is America's preeminent public broadcaster, producing such award-winning PBS series as Masterpiece, Antiques Roadshow, Frontline, Nova, American Experience, Arthur, Curious George, and more than a dozen other prime-time, lifestyle, and children's series. GBH productions focusing on the region's diverse community include Greater Boston, Basic Black and High School Quiz Show.",
+        "Official Site": "https://www.wgbh.org/",
+        "Icon": "https://cdn.grove.wgbh.org/dims4/default/fb577c0/2147483647/strip/true/crop/1000x525+0+1/resize/1200x630!/quality/70/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2F0c%2Fe7%2Fb5a470bf681661835ee134cc206c%2Fgbh-logo-purple-rgb.png",
+        "Redirect": "https://www.wgbh.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wgbh.org/"
+    },
+    {
+        "link": "https://novonordisk.com",
+        "Heading": "Novo Nordisk ",
+        "Abstract": "Novo Nordisk is a leading global healthcare company, founded in 1923 and headquartered in Denmark. Our purpose is to drive change to defeat diabetes and other serious chronic diseases.",
+        "Official Site": "https://www.novonordisk.com/content/nncorp/global/en.html",
+        "Icon": "https://www.novonordisk.com/content/dam/nncorp/global/en/annual-report/images/2025/novo-nordisk-annual-report-2025-hero-image.png",
+        "Redirect": "https://www.novonordisk.com/content/nncorp/global/en.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.novonordisk.com/content/nncorp/global/en.html"
+    },
+    {
+        "link": "https://duke-energy.com",
+        "Heading": "Duke Energy - Home",
+        "Abstract": "Everything you need to know about energy savings and information regarding energy service for your home from Duke Energy.",
+        "Official Site": "https://www.duke-energy.com/home",
+        "Icon": "/-/media/images/share/de-logo-share.png",
+        "Redirect": "https://www.duke-energy.com/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.duke-energy.com/home"
+    },
+    {
+        "link": "https://dailymaverick.co.za",
+        "Heading": "Daily Maverick",
+        "Abstract": "Daily Maverick",
+        "Official Site": "https://www.dailymaverick.co.za/?dm_medium=link&dm_campaign=keep",
+        "Icon": "/images/logos/dailymaverick/fb_logo.png",
+        "Redirect": "https://www.dailymaverick.co.za/?dm_medium=link&dm_campaign=keep",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dailymaverick.co.za/?dm_medium=link&dm_campaign=keep"
+    },
+    {
+        "link": "https://cpj.org",
+        "Heading": "Committee to Protect Journalists \u2013 Defending Journalists Worldwide. - Committee to Protect Journalists",
+        "Abstract": "Latest press freedom news from around the globe.",
+        "Official Site": "https://cpj.org/",
+        "Icon": "https://cpj.org/wp-content/uploads/2020/05/cpj-logo-1.png",
+        "Redirect": "https://cpj.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cpj.org/"
+    },
+    {
+        "link": "https://crossfit.com",
+        "Heading": "CrossFit | CrossFit: The Path to Better Health | CrossFit",
+        "Abstract": "CrossFit offers a results-based, community-driven approach that helps you build fitness and improve your health. Learn more about CrossFit here!",
+        "Official Site": "https://www.crossfit.com/",
+        "Icon": "https://www.crossfit.com/wp-content/uploads/2023/11/13115027/crossfit-community-driven-culture-rower.jpg",
+        "Redirect": "https://www.crossfit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.crossfit.com/"
+    },
+    {
+        "link": "https://matrixcare.com",
+        "Heading": "EHR software solutions for home- and long-term care providers",
+        "Abstract": "MatrixCare optimizes every aspect of your business, so home-based and long-term care professionals can spend more time focusing on patients and residents.",
+        "Official Site": "https://matrixcare.com",
+        "Icon": "https://www.matrixcare.com/wp-content/uploads/2023/04/MatrixCare-Clinical-Advanced-Insights.png",
+        "Redirect": "https://matrixcare.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://matrixcare.com"
+    },
+    {
+        "link": "https://depositfiles.com",
+        "Heading": "DepositFiles",
+        "Abstract": "DepositFiles provides you with a legitimate technical solution, which  enables you to upload, store, access and download text, software,  scripts, images, sounds, videos, animations and any other materials in form of one or several electronic files.",
+        "Official Site": "https://depositfiles.com",
+        "Icon": "https://static.depositfiles.com/images/speed_small_gold.gif",
+        "Redirect": "https://depositfiles.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://depositfiles.com"
+    },
+    {
+        "link": "https://shanghai.gov.cn",
+        "Heading": "\u4e0a\u6d77\u5e02\u4eba\u6c11\u653f\u5e9c",
+        "Abstract": "\u4e2d\u56fd\u4e0a\u6d77",
+        "Official Site": "https://shanghai.gov.cn",
+        "Icon": "/newshanghai/2018project/ywtb/assets/img/ico/favicon.png",
+        "Redirect": "https://shanghai.gov.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shanghai.gov.cn"
+    },
+    {
+        "link": "https://nirsoft.net",
+        "Heading": "NirSoft - freeware utilities: password recovery, system utilities, desktop utilities",
+        "Abstract": "Unique collection of freeware desktop utilities, system utilities, password recovery tools, and more",
+        "Official Site": "https://www.nirsoft.net/",
+        "Icon": "https://www.nirsoft.net/nirsoft2.gif",
+        "Redirect": "https://www.nirsoft.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nirsoft.net/"
+    },
+    {
+        "link": "https://korea.ac.kr",
+        "Heading": "site move",
+        "Abstract": "\uace0\ub824\ub300\ud559\uad50 Korea University",
+        "Official Site": "https://www.korea.ac.kr",
+        "Icon": "https://www.korea.ac.kr/Web-home/_UI/images/Global_Symbol.jpg",
+        "Redirect": "https://www.korea.ac.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.korea.ac.kr"
+    },
+    {
+        "link": "https://mapion.co.jp",
+        "Heading": "\u5730\u56f3\u30de\u30d4\u30aa\u30f3\uff08Mapion\uff09\uff5c\u5730\u56f3\u691c\u7d22/\u30eb\u30fc\u30c8\u691c\u7d22/\u5929\u6c17\u4e88\u5831",
+        "Abstract": "\u65e5\u672c\u306e\u5730\u56f3\u691c\u7d22\u306a\u3089\u5730\u56f3\u30de\u30d4\u30aa\u30f3\uff08Mapion\uff09\u3002\u5730\u56f3\u306f \u4f4f\u6240 \u90fd\u9053\u5e9c\u770c\u30a4\u30e9\u30b9\u30c8\u5730\u56f3 \u5730\u540d \u65bd\u8a2d\u540d \u99c5 \u8def\u7dda \u90f5\u4fbf\u756a\u53f7\u304b\u3089\u691c\u7d22\u3067\u304d\u3001\u76ee\u7684\u5730\u3078\u306e\u4e57\u63db\u6848\u5185\u30fb\u30eb\u30fc\u30c8\u691c\u7d22\u3082\u7c21\u5358\u3002\u4fbf\u5229\u306a\u30de\u30c3\u30d7\u30b3\u30fc\u30c9\u691c\u7d22\u3001\u6a19\u9ad8(\u6d77\u629c)\u8868\u793a\u3001\u30ad\u30e7\u30ea\u6e2c\u3001\u5929\u6c17\u4e88\u5831\u3082\u5145\u5b9f\u3002",
+        "Official Site": "https://www.mapion.co.jp/",
+        "Icon": "https://www.mapion.co.jp/f/img/ogp.png",
+        "Redirect": "https://www.mapion.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mapion.co.jp/"
+    },
+    {
+        "link": "https://bsh-group.com",
+        "Heading": "Home | BSH Hausger\u00e4te GmbH",
+        "Abstract": null,
+        "Official Site": "https://www.bsh-group.com/",
+        "Icon": "https://www.bsh-group.com/media3/Images/20760489_BSH_mcw_EN.jpg?fit=crop&w=1200&h=630&auto=compress,enhance,format&cs=tinysrgb&crop=",
+        "Redirect": "https://www.bsh-group.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bsh-group.com/"
+    },
+    {
+        "link": "https://challenges.fr",
+        "Heading": "Challenges, l\u2019actualit\u00e9 de l\u2019\u00e9conomie",
+        "Abstract": "Toute l'actualit\u00e9 de l'\u00e9conomie, de la finance, de l'entreprise et de l'immobilier sur Challenges.fr",
+        "Official Site": "https://www.challenges.fr",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.challenges.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.challenges.fr"
+    },
+    {
+        "link": "https://soti.net",
+        "Heading": "SOTI | Enterprise Mobility Solutions",
+        "Abstract": "SOTI goes beyond traditional MDM/EMM/UEM by providing enterprise software solutions that allow companies to manage and optimize all their mobile hardware. ",
+        "Official Site": "https://soti.net/",
+        "Icon": "https://soti.net/media/blqlfd4r/meta-image-emm-mdm.png",
+        "Redirect": "https://soti.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soti.net/"
+    },
+    {
+        "link": "https://envisacor.com",
+        "Heading": "Connect2Go | Home",
+        "Abstract": "Connect2Go",
+        "Official Site": "https://envisacor.com",
+        "Icon": "assets/img/root/favicon.png",
+        "Redirect": "https://envisacor.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://envisacor.com"
+    },
+    {
+        "link": "https://writable.com",
+        "Heading": "Home - Writable",
+        "Abstract": "Writable scaffolds student learning and builds lifelong writing and reading skills for students in grades 3-12, while saving teachers time on daily instruction and feedback.",
+        "Official Site": "https://www.writable.com/",
+        "Icon": "https://www.writable.com/wp-content/uploads/2023/06/Home.png",
+        "Redirect": "https://www.writable.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.writable.com/"
+    },
+    {
+        "link": "https://ioe.vn",
+        "Heading": "IOE: H\u1ea5p d\u1eabn - m\u00ea say - th\u1ea5y ngay k\u1ebft qu\u1ea3 - Trang ch\u1ee7 ",
+        "Abstract": "Olympic ti\u1ebfng Anh, thi ti\u1ebfng Anh tr\u1ef1c tuy\u1ebfn, ki\u1ec3m tra ki\u1ebfn th\u1ee9c ti\u1ebfng Anh theo ch\u01b0\u01a1ng tr\u00ecnh c\u1ee7a B\u1ed9 gi\u00e1o d\u1ee5c v\u00e0 \u0110\u00e0o t\u1ea1o, b\u00e0i gi\u1ea3ng ti\u1ebfng Anh tr\u1ef1c tuy\u1ebfn, h\u1ecdc ti\u1ebfng Anh tr\u1ef1c tuy\u1ebfn, tr\u1eafc nghi\u1ec7m online IELTS, TOEIC\u2026",
+        "Official Site": "https://ioe.vn",
+        "Icon": "https://ioe.vn/Themes/v1/images/ioe-logo.png",
+        "Redirect": "https://ioe.vn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ioe.vn"
+    },
+    {
+        "link": "https://aleteia.org",
+        "Heading": "Aleteia \u2014 Catholic Spirituality, Lifestyle, World News, and Culture",
+        "Abstract": "null",
+        "Official Site": "https://aleteia.org/",
+        "Icon": "N/A",
+        "Redirect": "https://aleteia.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aleteia.org/"
+    },
+    {
+        "link": "https://freifunk-stuttgart.de",
+        "Heading": "Freifunk Stuttgart",
+        "Abstract": null,
+        "Official Site": "https://freifunk-stuttgart.de",
+        "Icon": "https://freifunk-stuttgart.de/wp-content/uploads/2021/01/cropped-favicon-1-32x32.png",
+        "Redirect": "https://freifunk-stuttgart.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://freifunk-stuttgart.de"
+    },
+    {
+        "link": "https://adxcorp.kr",
+        "Heading": "AD(X)",
+        "Abstract": null,
+        "Official Site": "https://adxcorp.kr",
+        "Icon": "https://dx6sd8rl35cx.cloudfront.net/assets/images/og.png",
+        "Redirect": "https://adxcorp.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adxcorp.kr"
+    },
+    {
+        "link": "https://wnd.com",
+        "Heading": "WorldNetDaily",
+        "Abstract": "A Free Press For A Free People Since 1997",
+        "Official Site": "https://www.wnd.com/",
+        "Icon": "https://www.wnd.com/wp-content/uploads/2024/07/logo-facebook.png",
+        "Redirect": "https://www.wnd.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wnd.com/"
+    },
+    {
+        "link": "https://catholicnewsagency.com",
+        "Heading": "EWTN News",
+        "Abstract": "Trusted global Catholic news, analysis, and multimedia coverage of the Church, Pope Leo XIV, the Vatican, and issues impacting Catholics worldwide.",
+        "Official Site": "https://www.ewtnnews.com",
+        "Icon": "https://www.ewtnnews.com/EWTNNewsLogo.png",
+        "Redirect": "https://www.ewtnnews.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ewtnnews.com"
+    },
+    {
+        "link": "https://reddock.ru",
+        "Heading": "\n    \u041a\u043b\u0438\u0435\u043d\u0442\u0430\u043c Reddock\n        |\n        \u0420\u0435\u0433.\u0440\u0443\n    \n",
+        "Abstract": "\u041a\u043b\u0438\u0435\u043d\u0442\u0430\u043c Reddock | \u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u0430 \u0438 \u0441\u0442\u0430\u0442\u044c\u0438",
+        "Official Site": "https://help.reg.ru/support/partneram/kliyentam-reddock/",
+        "Icon": "https://img.reg.ru/news/og-regru.png?fit=cover&width=1200&height=630",
+        "Redirect": "https://help.reg.ru/support/partneram/kliyentam-reddock/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://help.reg.ru/support/partneram/kliyentam-reddock/"
+    },
+    {
+        "link": "https://yota.ru",
+        "Heading": "Yota \u2013 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430 | \u041a\u0443\u043f\u0438\u0442\u044c \u0441\u0438\u043c-\u043a\u0430\u0440\u0442\u0443 \u0434\u043b\u044f \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u0430, \u043f\u043b\u0430\u043d\u0448\u0435\u0442\u0430, \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430, \u0431\u0438\u0437\u043d\u0435\u0441\u0430",
+        "Abstract": "\u0417\u0430\u043a\u0430\u0436\u0438\u0442\u0435 \u0441\u0438\u043c-\u043a\u0430\u0440\u0442\u0443 \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u043e\u0439. \u0412\u044b\u0431\u0440\u0430\u0442\u044c \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0439 \u0442\u0430\u0440\u0438\u0444 \u043c\u043e\u0436\u043d\u043e \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 Yota, \u043f\u043e\u0434\u043e\u0431\u0440\u0430\u0442\u044c \u043d\u0443\u0436\u043d\u044b\u0439 \u0433\u0430\u0434\u0436\u0435\u0442 \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435. \u041f\u043e\u043b\u0435\u0437\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u044b, \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u0435 \u0442\u0430\u0440\u0438\u0444\u044b, \u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0435 \u043d\u043e\u043c\u0435\u0440\u0430.",
+        "Official Site": "https://yota.ru",
+        "Icon": "https://static.yota.ru/upload/public/site/og_image.png",
+        "Redirect": "https://yota.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yota.ru"
+    },
+    {
+        "link": "https://flashget.com",
+        "Heading": "FlashGet - Making Work and Life Faster and More Convenient",
+        "Abstract": "FlashGet is a trusted and well-loved brand that has been providing convenient and efficient software solutions for over two decades. Trust the FlashGet brand to make your online life faster, more convenient, and more secure.",
+        "Official Site": "https://flashget.com",
+        "Icon": "/flashget-public/flashget.ico",
+        "Redirect": "https://flashget.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flashget.com"
+    },
+    {
+        "link": "https://edpuzzle.com",
+        "Heading": "Edpuzzle",
+        "Abstract": "Easily create beautiful interactive video lessons for your students you can integrate right into your LMS. Track students' progress with hassle-free analytics as you flip your classroom!",
+        "Official Site": "https://edpuzzle.com/",
+        "Icon": "https://image.edpuzzle.com/edpuzzle-logos/vertical-logo.png",
+        "Redirect": "https://edpuzzle.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edpuzzle.com/"
+    },
+    {
+        "link": "https://athoc.com",
+        "Heading": "BlackBerry AtHoc | Critical Event Management",
+        "Abstract": "Coordinate secure, two\u2011way communication with targeting and real\u2011time awareness during crises. See how AtHoc strengthens response. Request a demo.",
+        "Official Site": "https://www.blackberry.com/secure-communications/athoc",
+        "Icon": "https://www.blackberry.com/images/og-image.webp",
+        "Redirect": "https://www.blackberry.com/secure-communications/athoc",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.blackberry.com/secure-communications/athoc"
+    },
+    {
+        "link": "https://entergy.com",
+        "Heading": "Entergy - We power life.",
+        "Abstract": "An integrated U.S. energy company that provides electricity to more than 3 million utility customers in Arkansas, Louisiana, Mississippi and Texas.",
+        "Official Site": "https://www.entergy.com/",
+        "Icon": "https://www.entergy.com/wp-content/uploads/EntergyLogo-white.png",
+        "Redirect": "https://www.entergy.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.entergy.com/"
+    },
+    {
+        "link": "https://ncsecu.org",
+        "Heading": "Welcome to SECU | State Employees' Credit Union",
+        "Abstract": "As the second largest credit union in the United States, we provide financial tools, services, and community support to more than 2.8 million members.",
+        "Official Site": "/.html",
+        "Icon": "/etc.clientlibs/ncsecu/clientlibs/clientlib-site/resources/images/favicons/favicon.ico",
+        "Redirect": "/.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/.html"
+    },
+    {
+        "link": "https://roadandtrack.com",
+        "Heading": "Road & Track: Car Reviews, News and Car Culture",
+        "Abstract": "Road & Track brings together car enthusiasts and immerses them in authentic automotive experiences. Find the latest performance car and motorsport news here.",
+        "Official Site": "https://roadandtrack.com",
+        "Icon": "/_assets/design-tokens/roadandtrack/static/images/favicon.c159313.ico",
+        "Redirect": "https://roadandtrack.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://roadandtrack.com"
+    }
+]

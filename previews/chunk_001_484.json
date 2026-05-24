@@ -1,0 +1,302 @@
+[
+    {
+        "link": "https://bicycling.com",
+        "Heading": "Bicycling",
+        "Abstract": "The latest bike reviews, news, and tips to be a better rider.",
+        "Official Site": "https://bicycling.com",
+        "Icon": "/_assets/design-tokens/bicycling/static/images/favicon.94f0fb3.ico",
+        "Redirect": "https://bicycling.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bicycling.com"
+    },
+    {
+        "link": "https://ie.edu",
+        "Heading": "IE \u2013 Fostering Positive Change Through Education, Research & Innovation",
+        "Abstract": "As one of the world's leading higher education institutions, IE shapes leaders with a global vision, humanistic approach, and entrepreneurial spirit.",
+        "Official Site": "https://www.ie.edu/",
+        "Icon": "https://images.thesaurus.ie.edu/f/jpg/w/1280/h/768/ie-university-logo_1",
+        "Redirect": "https://www.ie.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ie.edu/"
+    },
+    {
+        "link": "https://readme.io",
+        "Heading": "ReadMe \u00b7 Developer-friendly API documentation",
+        "Abstract": "ReadMe helps you create beautiful, interactive API documentation that developers love.",
+        "Official Site": "https://readme.io",
+        "Icon": "https://readme-lue.vercel.app/og/home",
+        "Redirect": "https://readme.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://readme.io"
+    },
+    {
+        "link": "https://screendaily.com",
+        "Heading": "Screen Daily | Film News, Film Reviews, Film Festivals and Awards",
+        "Abstract": "The online home of Screen International, posting breaking film news, the latest film reviews and reports from film festivals and film awards around the world.",
+        "Official Site": "https://www.screendaily.com",
+        "Icon": "https://www.screendaily.com/Magazine/dest/graphics/social/logo.png?v=1",
+        "Redirect": "https://www.screendaily.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.screendaily.com"
+    },
+    {
+        "link": "https://malegislature.gov",
+        "Heading": "The 194th General Court of the Commonwealth of Massachusetts",
+        "Abstract": "",
+        "Official Site": "https://malegislature.gov",
+        "Icon": "/Icons/favicon-32x32.png",
+        "Redirect": "https://malegislature.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://malegislature.gov"
+    },
+    {
+        "link": "https://cybersecurityventures.com",
+        "Heading": "Cybercrime Magazine - Page One For The Cybersecurity Industry",
+        "Abstract": "Cybersecurity Research, Lists, M&A, Investments & IPOs",
+        "Official Site": "https://cybersecurityventures.com/",
+        "Icon": "https://cybersecurityventures.com/wp-content/uploads/2021/10/cybersecurity-ventures.jpg",
+        "Redirect": "https://cybersecurityventures.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cybersecurityventures.com/"
+    },
+    {
+        "link": "https://coollabs.io",
+        "Heading": "coolLabs",
+        "Abstract": "coolLabs: Software without compromise. Free, open source, and built for you.",
+        "Official Site": "https://coollabs.io",
+        "Icon": "/og-image.png",
+        "Redirect": "https://coollabs.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://coollabs.io"
+    },
+    {
+        "link": "https://unilad.com",
+        "Heading": "Latest News, Entertainment Stories And Viral Videos - UNILAD",
+        "Abstract": "UNILAD brings you the latest news, funniest videos & viral stories from around the world. Sit back, relax & let us entertain you.",
+        "Official Site": "https://www.unilad.com",
+        "Icon": "https://www.unilad.com/_next/static/media/unilad.6436c893.webp",
+        "Redirect": "https://www.unilad.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.unilad.com"
+    },
+    {
+        "link": "https://arborday.org",
+        "Heading": "Arbor Day Foundation | Tree Planting Non-Profit",
+        "Abstract": "Plant trees to help communities recover from natural disasters, restore habitat, or fight food insecurity. Choose which project you'll support today.",
+        "Official Site": "https://arborday.org",
+        "Icon": "https://www.arborday.org/sites/arborday.org/files/styles/og_teaser/public/media/2026-05/homepage-takeover_summer-featured-projects-v1_hero.jpg?h=c158a08f",
+        "Redirect": "https://arborday.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arborday.org"
+    },
+    {
+        "link": "https://canadapost.ca",
+        "Heading": "Mailing and shipping for Personal and Business | Canada Post",
+        "Abstract": "Mail letters, ship parcels, market your business and sell online with Canada Post. We offer services for individuals and services for businesses of all sizes.",
+        "Official Site": "https://canadapost.ca",
+        "Icon": "/cpc/assets/cpc/img/logos/favicon.ico",
+        "Redirect": "https://canadapost.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://canadapost.ca"
+    },
+    {
+        "link": "https://eyecon-app.com",
+        "Heading": "Eyecon | Use the no.1 app for a true caller ID to identify calls & see photos & names of unknown calls & contacts in your phone book by only clicking on our icon.",
+        "Abstract": null,
+        "Official Site": "https://eyecon-app.com",
+        "Icon": "https://www.eyecon-app.com/wp-content/uploads/2023/01/logo_icon.svg",
+        "Redirect": "https://eyecon-app.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eyecon-app.com"
+    },
+    {
+        "link": "https://didna.io",
+        "Heading": "diDNA | Ad Tech for Publishers, SSPs/DSPs, and Brands",
+        "Abstract": "diDNA offers industry-leading advertising solutions for businesses operating in the publisher ecosystem. Solutions for publishers, ad agencies, and partners.",
+        "Official Site": "https://didna.io/",
+        "Icon": "https://didna.io/wp-content/uploads/2021/06/Capterra.svg",
+        "Redirect": "https://didna.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://didna.io/"
+    },
+    {
+        "link": "https://tradera.com",
+        "Heading": "Tradera | K\u00f6p & s\u00e4lj begagnat & second hand",
+        "Abstract": "Sveriges st\u00f6rsta cirkul\u00e4ra marknad.\u00a0K\u00f6p & s\u00e4lj begagnat & second hand, enkelt & h\u00e5llbart. Mode, Inredning, Elektronik, Motor, Samlarobjekt & mer | Tradera.",
+        "Official Site": "https://www.tradera.com/",
+        "Icon": "http://static.tradera.net/nextweb/_next/static/media/open-graph-tradera-default.04us9go3jjt81.png",
+        "Redirect": "https://www.tradera.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tradera.com/"
+    },
+    {
+        "link": "https://canberra.edu.au",
+        "Heading": "\n\nUniversity of Canberra",
+        "Abstract": "The University of Canberra is all about you. Discover courses and study options to suit you at UC Canberra.",
+        "Official Site": "https://www.canberra.edu.au/home-2021 ",
+        "Icon": "https://www.canberra.edu.au/__data/assets/image/0019/2174005/UCDIG0295_uc-homepage-thumbnail.png",
+        "Redirect": "https://www.canberra.edu.au/home-2021 ",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.canberra.edu.au/home-2021 "
+    },
+    {
+        "link": "https://truworths.co.za",
+        "Heading": "Truworths Online Shopping | Buy Fashion, Shoes & Accessories",
+        "Abstract": "Women's, men's, kids, home ware & beauty. Shop Truworths fashion like dresses, d\u00e9cor, sneakers & cosmetics. Pay & open an account online. Free Collection from store.",
+        "Official Site": "https://www.truworths.co.za/home",
+        "Icon": "/file/general/Favicon_Truworths.svg",
+        "Redirect": "https://www.truworths.co.za/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.truworths.co.za/home"
+    },
+    {
+        "link": "https://citysearch.com",
+        "Heading": "CitySearch - Your local city guide",
+        "Abstract": "The Citysearch\u00ae Guide. Restaurants, bars, night clubs, hotels, shops, spas, events, attractions, yellow page listings and more. Find reviews, recommendations, directions and information on all the latest venues and businesses in your area.",
+        "Official Site": "https://citysearch.com",
+        "Icon": "//s3.amazonaws.com/assets.elocal.com/sem/assets/images/favicons/citygrid.ico",
+        "Redirect": "https://citysearch.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://citysearch.com"
+    },
+    {
+        "link": "https://expatica.com",
+        "Heading": "Expatica: The largest online resource for expats",
+        "Abstract": "We offer the information and resources you need for living abroad.",
+        "Official Site": "https://www.expatica.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.expatica.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.expatica.com"
+    },
+    {
+        "link": "https://rohde-schwarz.com",
+        "Heading": "Industry-leading technology company | Rohde & Schwarz",
+        "Abstract": "Rohde & Schwarz is ensuring a safer and connected world with its Test & Measurement, Technology Systems and Networks & Cybersecurity Divisions.",
+        "Official Site": "https://www.rohde-schwarz.com/us/home_48230.html",
+        "Icon": "https://cdn.rohde-schwarz.com/pws/_tech/images/img_static/Rohde_Schwarz_SocialShare.jpg",
+        "Redirect": "https://www.rohde-schwarz.com/us/home_48230.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rohde-schwarz.com/us/home_48230.html"
+    },
+    {
+        "link": "https://downtoearth.org.in",
+        "Heading": "Down To Earth | Latest news, opinion, analysis on environment & science issues | India, South Asia",
+        "Abstract": "Down To Earth brings to you latest news, opinion and blogs on environment and science from India and south Asia. Follow us for information on water, waste, climate change and energy among other topics",
+        "Official Site": "https://www.downtoearth.org.in",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.downtoearth.org.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.downtoearth.org.in"
+    },
+    {
+        "link": "https://napopravku.ru",
+        "Heading": "\u041d\u0430\u041f\u043e\u043f\u0440\u0430\u0432\u043a\u0443 - \u0437\u0430\u043f\u0438\u0441\u044c \u043a \u0432\u0440\u0430\u0447\u0443, \u043e\u0442\u0437\u044b\u0432\u044b \u0438 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u0438",
+        "Abstract": "\u0412\u044b\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u0432\u0440\u0430\u0447\u0435\u0439 \u043f\u043e \u043e\u0442\u0437\u044b\u0432\u0430\u043c, \u0441\u0440\u0430\u0432\u043d\u0438\u0432\u0430\u0439\u0442\u0435 \u0446\u0435\u043d\u044b \u0432 \u043a\u043b\u0438\u043d\u0438\u043a\u0430\u0445 \u0432\u0430\u0448\u0435\u0433\u043e \u0433\u043e\u0440\u043e\u0434\u0430 \u0438 \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0439\u0442\u0435\u0441\u044c \u043d\u0430 \u043f\u0440\u0438\u0451\u043c \u043e\u043d\u043b\u0430\u0439\u043d. \u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0431\u0435\u0437\u043b\u0438\u043c\u0438\u0442\u043d\u044b\u043c \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u044f\u043c \u0441 \u0432\u0440\u0430\u0447\u0430\u043c\u0438 \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u041d\u0430\u041f\u043e\u043f\u0440\u0430\u0432\u043a\u0443 \u041f\u043b\u044e\u0441.",
+        "Official Site": "https://napopravku.ru",
+        "Icon": "https://assets-1.napopravku.ru/public/repost2.png",
+        "Redirect": "https://napopravku.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://napopravku.ru"
+    },
+    {
+        "link": "https://pissedconsumer.com",
+        "Heading": "Online Reviews and Complaints Platform - PissedConsumer",
+        "Abstract": "We are a consumer advocacy website. Our review platform gives people a chance to share their stories, experiences, and opinions about companies, products and services. Read, write and share reviews or complaints on PissedConsumer.com now.",
+        "Official Site": "https://www.pissedconsumer.com",
+        "Icon": "https://www.pissedconsumer.com/themes/foundation/images/sharing-logo.png",
+        "Redirect": "https://www.pissedconsumer.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pissedconsumer.com"
+    },
+    {
+        "link": "https://munhwa.com",
+        "Heading": "\ubb38\ud654\uc77c\ubcf4",
+        "Abstract": "",
+        "Official Site": "https://www.munhwa.com/",
+        "Icon": "https://static.munhwa.com/img/ogImage.jpg",
+        "Redirect": "https://www.munhwa.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.munhwa.com/"
+    },
+    {
+        "link": "https://silktide.com",
+        "Heading": "Silktide - The complete solution for better websites",
+        "Abstract": "Silktide is the powerful web governance platform that helps large organizations improve accessibility, content quality, and user experience.",
+        "Official Site": "https://silktide.com/",
+        "Icon": "https://silktide.com/app/uploads/2024/01/Homepage-2024-OG.png",
+        "Redirect": "https://silktide.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://silktide.com/"
+    },
+    {
+        "link": "https://mmafighting.com",
+        "Heading": "MMA Fighting",
+        "Abstract": "MMA News &amp; results for the Ultimate Fighting Championship (UFC), Strikeforce &amp; more Mixed Martial Arts fights",
+        "Official Site": "https://www.mmafighting.com",
+        "Icon": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/07/logo-mmafighting_c19f26.png?quality=90&strip=all&crop=0.021666666666668,0,99.956666666667,100",
+        "Redirect": "https://www.mmafighting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mmafighting.com"
+    },
+    {
+        "link": "https://mangomob.net",
+        "Heading": "Mangomob | Monetization",
+        "Abstract": "Our mission is to generate maximum advertising revenues for our app publishers and developers, while offering premium service and tech support.",
+        "Official Site": "http://mangomob.net /index.html",
+        "Icon": "http://mangomob.net/sites/default/files/meta/meta_video_18_0.jpg",
+        "Redirect": "http://mangomob.net /index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://mangomob.net /index.html"
+    },
+    {
+        "link": "https://sir90hl.com",
+        "Heading": "Surfshark VPN & all-in-one cybersecurity suites - Official Site",
+        "Abstract": "Surfshark VPN \u2013 secure your data \u25cf Unlimited devices \u25cf 24/7 support \u25cf 4500+ servers in 100+ countries \u25cf No-logs policy \u25cf RAM-only servers, & more.",
+        "Official Site": "https://sir90hl.com",
+        "Icon": "https://sir90hl.com/website/_next/public/home/images/og/og-en.png",
+        "Redirect": "https://sir90hl.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sir90hl.com"
+    },
+    {
+        "link": "https://uccs.edu",
+        "Heading": "Home | UCCS",
+        "Abstract": "At UCCS, we know how vital finding the right college fit is to your academic success and personal growth. UCCS is proud to provide students with a quality education in growing fields within a vibrant atmosphere in the heart of Colorado. Visit our campus, virtually or in person, to discover what UCCS offers.",
+        "Official Site": "https://uccs.edu",
+        "Icon": "/themes/custom/uccsbase_k18/favicon.png",
+        "Redirect": "https://uccs.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uccs.edu"
+    },
+    {
+        "link": "https://x-bar.com.au",
+        "Heading": "X-Bar. Recovery Rated. Built Tough for Off Road Action",
+        "Abstract": "A rugged, go-anywhere towbar engineered for off-road. The X-Bar provides an increased departure angle and 3 rated recovery points to get you out of any situation",
+        "Official Site": "https://x-bar.com.au/",
+        "Icon": "https://x-bar.com.au/wp-content/uploads/2024/11/Get-a-Quote-Ranger-2.jpg",
+        "Redirect": "https://x-bar.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://x-bar.com.au/"
+    },
+    {
+        "link": "https://modelcontextprotocol.io",
+        "Heading": "What is the Model Context Protocol (MCP)? - Model Context Protocol",
+        "Abstract": null,
+        "Official Site": "https://modelcontextprotocol.io/docs/getting-started/intro",
+        "Icon": "https://raw.githubusercontent.com/modelcontextprotocol/docs/2eb6171ddbfeefde349dc3b8d5e2b87414c26250/images/og-image.png",
+        "Redirect": "https://modelcontextprotocol.io/docs/getting-started/intro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://modelcontextprotocol.io/docs/getting-started/intro"
+    },
+    {
+        "link": "https://howtoforge.com",
+        "Heading": "Howtoforge Linux Tutorials.",
+        "Abstract": "HowtoForge - Linux Howtos and Tutorials.",
+        "Official Site": "https://howtoforge.com",
+        "Icon": "N/A",
+        "Redirect": "https://howtoforge.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://howtoforge.com"
+    }
+]

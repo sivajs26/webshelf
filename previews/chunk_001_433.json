@@ -1,0 +1,312 @@
+[
+    {
+        "link": "https://gymmasteronline.com",
+        "Heading": "Login - \n\tGymMaster Online\n",
+        "Abstract": null,
+        "Official Site": "https://gymmasteronline.com",
+        "Icon": "https://www.gymmasteronline.com/static/treshna.png?v=1777523288.8837664",
+        "Redirect": "https://gymmasteronline.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gymmasteronline.com"
+    },
+    {
+        "link": "https://voxmedia.com",
+        "Heading": "Vox Media",
+        "Abstract": "Vox Media is where influence sparks action. Vox Media, the leader in modern media, is home to top talent, engaging editorial brands, and premium podcasts\u2026",
+        "Official Site": "https://www.voxmedia.com/",
+        "Icon": "https://www.voxmedia.com/wp-content/uploads/2026/01/vm_social.png",
+        "Redirect": "https://www.voxmedia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.voxmedia.com/"
+    },
+    {
+        "link": "https://phila.gov",
+        "Heading": "City of Philadelphia",
+        "Abstract": "Official website of the City of Philadelphia, includes information on municipal services, permits, licenses, and records for citizens and businesses.",
+        "Official Site": "https://www.phila.gov/",
+        "Icon": "https://www.phila.gov/media/20160715133810/phila-gov.jpg",
+        "Redirect": "https://www.phila.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.phila.gov/"
+    },
+    {
+        "link": "https://stuttgarter-nachrichten.de",
+        "Heading": "StN.de - Nachrichten aus Stuttgart und der Region",
+        "Abstract": "Aktuelle Nachrichten aus Stuttgart, Baden-W\u00fcrttemberg und der Welt auf stuttgarter-nachrichten.de.",
+        "Official Site": "https://www.stuttgarter-nachrichten.de/",
+        "Icon": "https://www.stuttgarter-nachrichten.de/www/stuttgarter_nachrichten/images/logo_social.jpg",
+        "Redirect": "https://www.stuttgarter-nachrichten.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.stuttgarter-nachrichten.de/"
+    },
+    {
+        "link": "https://solidwall.ru",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Abstract": null,
+        "Official Site": "https://solidwall.ru",
+        "Icon": "/templates/yoo_glass/favicon.ico",
+        "Redirect": "https://solidwall.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://solidwall.ru"
+    },
+    {
+        "link": "https://wisestamp.com",
+        "Heading": "The Email Signature Management Platform - WiseStamp",
+        "Abstract": "Email signature management platform for growing companies and enterprises. Give marketing control, remove IT bottlenecks, ensure brand consistency.",
+        "Official Site": "https://www.wisestamp.com/",
+        "Icon": "https://www.wisestamp.com/wp-content/uploads/2025/11/WiseStamp-page-thumbnail-1.webp",
+        "Redirect": "https://www.wisestamp.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wisestamp.com/"
+    },
+    {
+        "link": "https://seeedstudio.com",
+        "Heading": "Seeed Studio Bazaar, The IoT Hardware enabler.",
+        "Abstract": "Electronics products and services for Makers to Engineers. Fusion PCB manufacture, PCB Assembly, CNC milling services and more. Affordable and reliable. Realise your ideas with Seeed Studio.",
+        "Official Site": "https://www.seeedstudio.com/",
+        "Icon": "https://static-cdn.seeedstudio.com/static/version1779352613/frontend/bs_complex/bs_complex5/en_US/images/logo.svg",
+        "Redirect": "https://www.seeedstudio.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.seeedstudio.com/"
+    },
+    {
+        "link": "https://startpagina.nl",
+        "Heading": "Startpagina.nl | Jouw startpagina voor weer, verkeer en meer    ",
+        "Abstract": "Startpagina geeft je al meer dan 25 jaar een overzicht van handmatig geselecteerde links van relevante en betrouwbare Nederlandse websites.",
+        "Official Site": "https://startpagina.nl",
+        "Icon": "/static/app-shell/images/icons/favicon-57.47a0d1932b3c.png",
+        "Redirect": "https://startpagina.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://startpagina.nl"
+    },
+    {
+        "link": "https://21-school.ru",
+        "Heading": "\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u0441 \u043d\u0443\u043b\u044f \u0432 \u0428\u043a\u043e\u043b\u0435 21 - \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 IT \u043a\u0443\u0440\u0441\u044b \u0441 \u0442\u0440\u0443\u0434\u043e\u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e\u043c \u043e\u0442 \u0421\u0431\u0435\u0440\u0430",
+        "Abstract": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441 \u043d\u0443\u043b\u044f \u0432 \u00ab\u0428\u043a\u043e\u043b\u0435 21\u00bb  \u043e\u0442 \u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a\u0430 \u0441 \u0442\u0440\u0443\u0434\u043e\u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e\u043c. \u0420\u0430\u0441\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u043c, \u043a\u0430\u043a \u043d\u0430\u0447\u0430\u0442\u044c \u0443\u0447\u0438\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u0432 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u0448\u043a\u043e\u043b\u0435 \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u0445 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439.",
+        "Official Site": "https://21-school.ru",
+        "Icon": "/favicon/favicon.ico",
+        "Redirect": "https://21-school.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://21-school.ru"
+    },
+    {
+        "link": "https://solta.io",
+        "Heading": "Solta",
+        "Abstract": null,
+        "Official Site": "https://solta.io",
+        "Icon": "N/A",
+        "Redirect": "https://solta.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://solta.io"
+    },
+    {
+        "link": "https://brynmawr.edu",
+        "Heading": "Welcome to Bryn Mawr College",
+        "Abstract": null,
+        "Official Site": "https://www.brynmawr.edu/node/761",
+        "Icon": "https://www.brynmawr.edu/sites/default/files/styles/og_image_large/public/2026-05/imresizer-%2726%20Feature.png",
+        "Redirect": "https://www.brynmawr.edu/node/761",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.brynmawr.edu/node/761"
+    },
+    {
+        "link": "https://welcometothejungle.com",
+        "Heading": "Welcome to the Jungle \u2014 Work with the company you belong to",
+        "Abstract": "Welcome to the Jungle is the guide that walks you through your job-search: find out what it's like to work for today's top companies and find the best content to thrive in your career",
+        "Official Site": "https://welcometothejungle.com",
+        "Icon": "https://www.welcometothejungle.com/-/opengraph-image.png?opengraph-image.0k778vq8t9i1~.png",
+        "Redirect": "https://welcometothejungle.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://welcometothejungle.com"
+    },
+    {
+        "link": "https://pplusstatic.com",
+        "Heading": "Streaming | Paramount",
+        "Abstract": "Paramount is one of the world\u2019s leading producers of premium entertainment content that connects billions of people in nearly every country in the world.",
+        "Official Site": "https://www.paramount.com/about/businesses/streaming",
+        "Icon": "https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Metadata%20logo/metadata-image.png",
+        "Redirect": "https://www.paramount.com/about/businesses/streaming",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.paramount.com/about/businesses/streaming"
+    },
+    {
+        "link": "https://mobon.net",
+        "Heading": "Mobon",
+        "Abstract": "\ucd5c\uc801\uc758 \ud0c0\uac9f\ud305 \uad11\uace0 \ubaa8\ube44\uc628! \uc131\uacf5\uc801\uc778 \ube44\uc988\ub2c8\uc2a4\ub97c \uc704\ud55c \ubaa8\ube44\uc628\uc758 \ub2e4\uc591\ud55c \uad11\uace0 \uc11c\ube44\uc2a4\ub97c \uacbd\ud5d8\ud574\ubcf4\uc138\uc694.",
+        "Official Site": "https://mobon.net",
+        "Icon": "//img.mobon.net/main/images/mobon_logo.png",
+        "Redirect": "https://mobon.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mobon.net"
+    },
+    {
+        "link": "https://webhostinghub.com",
+        "Heading": "Best Website Hosting Services | Web Hosting Hub",
+        "Abstract": "Web Hosting Hub is a leading provider of web hosting. Discover why over 40000 happy customers trust us for their reliable, secure and affordable hosting needs.\n",
+        "Official Site": "https://webhostinghub.com",
+        "Icon": "N/A",
+        "Redirect": "https://webhostinghub.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://webhostinghub.com"
+    },
+    {
+        "link": "https://shapeways.com",
+        "Heading": "Shapeways - Industrial 3D Printing & Additive Manufacturing",
+        "Abstract": "Shapeways provides industrial-scale on-demand 3D printing and additive manufacturing services for plastics and metals. From prototype to production \u2013 scale from 1 to 10,000+ parts with trusted quality and global shipping.",
+        "Official Site": "https://www.shapeways.com/",
+        "Icon": "http://www.shapeways.com/wp-content/uploads/2021/03/SW-Thumbnail-Horizontal-1.jpg",
+        "Redirect": "https://www.shapeways.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.shapeways.com/"
+    },
+    {
+        "link": "https://mypepsico.com",
+        "Heading": "MyPepsico Login - MyPepsiCo",
+        "Abstract": null,
+        "Official Site": "https://mypepsico.com",
+        "Icon": "Rebranded mypepsico logo.png",
+        "Redirect": "https://mypepsico.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mypepsico.com"
+    },
+    {
+        "link": "https://mindful.org",
+        "Heading": "Mindful - healthy mind, healthy life",
+        "Abstract": "Mindful celebrates mindfulness, awareness, and compassion in all aspects of life\u2014through Mindful.org, events, and collaborations.",
+        "Official Site": "https://www.mindful.org/",
+        "Icon": "https://www.mindful.org/content/uploads/mindful-newsletter.png",
+        "Redirect": "https://www.mindful.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mindful.org/"
+    },
+    {
+        "link": "https://connectcdk.com",
+        "Heading": "Common Login - CDK",
+        "Abstract": null,
+        "Official Site": "https://connectcdk.com",
+        "Icon": "/login/favicon.ico",
+        "Redirect": "https://connectcdk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://connectcdk.com"
+    },
+    {
+        "link": "https://my-ip.io",
+        "Heading": "MyIP",
+        "Abstract": "What's my IP? MyIP provides a blisteringly simple HTTP based API you can call.",
+        "Official Site": "https://my-ip.io",
+        "Icon": "N/A",
+        "Redirect": "https://my-ip.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://my-ip.io"
+    },
+    {
+        "link": "https://neurosciencenews.com",
+        "Heading": "Neuroscience News Science Magazine - Research Articles - Psychology Neurology Brains AI",
+        "Abstract": "Neuroscience News research articles cover neurology, psychology, AI, brain science, mental health, robotics and cognitive sciences in a free, open access magazine.",
+        "Official Site": "https://neurosciencenews.com/",
+        "Icon": "https://neurosciencenews.com/files/2020/08/Neuroscience-News-Site-Icon-512-comp.jpg",
+        "Redirect": "https://neurosciencenews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://neurosciencenews.com/"
+    },
+    {
+        "link": "https://edinos.ru",
+        "Heading": "\u0415\u0434\u0438\u043d\u044b\u0439 \u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u0421\u0432\u044f\u0437\u0438",
+        "Abstract": null,
+        "Official Site": "https://edinos.ru",
+        "Icon": "N/A",
+        "Redirect": "https://edinos.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edinos.ru"
+    },
+    {
+        "link": "https://monotype.com",
+        "Heading": "Font Management, Licensing & Typography Platform | Monotype",
+        "Abstract": "Search 250,000+ fonts, manage licensing, and deploy typography globally. Monotype brings font tools, services, and workflows together.",
+        "Official Site": "https://monotype.com",
+        "Icon": "/sites/default/files/favicon.png",
+        "Redirect": "https://monotype.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://monotype.com"
+    },
+    {
+        "link": "https://tpu.ru",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+        "Abstract": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0438\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u044b\u0439 \u0432\u0443\u0437 \u0437\u0430 \u0423\u0440\u0430\u043b\u043e\u043c. \u041d\u043e\u043c\u0435\u0440 \u043e\u0434\u0438\u043d \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432 \u043d\u0435\u0444\u0442\u0435\u0433\u0430\u0437\u043e\u0432\u043e\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0438. \u0422\u043e\u043f-10 \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u0430 Forbes. \u041e\u043f\u043e\u0440\u043d\u044b\u0439 \u0432\u0443\u0437 \u0413\u0430\u0437\u043f\u0440\u043e\u043c\u0430, \u0420\u043e\u0441\u0430\u0442\u043e\u043c\u0430, \u0420\u043e\u0441\u043d\u0435\u0444\u0442\u0438.",
+        "Official Site": "https://tpu.ru",
+        "Icon": "/i/c/tpu_fb_share_ru.png",
+        "Redirect": "https://tpu.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tpu.ru"
+    },
+    {
+        "link": "https://proxy-sdk.com",
+        "Heading": "proxy-sdk",
+        "Abstract": null,
+        "Official Site": "https://proxy-sdk.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://proxy-sdk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://proxy-sdk.com"
+    },
+    {
+        "link": "https://oxilion.nl",
+        "Heading": "Oxilion | Gespecialiseerd in hosting en domeinnamen",
+        "Abstract": "Oxilion, hosting van hoge kwaliteit bij een professionele organisatie die gek is op persoonlijke en eerlijke communicatie.",
+        "Official Site": "https://www.oxilion.nl/",
+        "Icon": "https://www.oxilion.nl/wp-content/uploads/Header-afbeelding-Oxilion.webp",
+        "Redirect": "https://www.oxilion.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.oxilion.nl/"
+    },
+    {
+        "link": "https://satu.kz",
+        "Heading": "Satu.kz \u2014 \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d\u043d\u044b\u04a3 \u043c\u0430\u0440\u043a\u0435\u0442\u043f\u043b\u0435\u0439\u0441\u0456",
+        "Abstract": "Satu \u2014 \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d\u043d\u044b\u04a3 \u0456\u0440\u0456 \u0441\u0430\u0443\u0434\u0430 \u0430\u043b\u0430\u04a3\u044b. \u0422\u04b1\u0442\u044b\u043d\u0443, \u04e9\u043d\u0435\u0440\u043a\u04d9\u0441\u0456\u043f\u0442\u0456\u043a \u0436\u04d9\u043d\u0435 \u043a\u04e9\u0442\u0435\u0440\u043c\u0435 \u0442\u0430\u0443\u0430\u0440\u043b\u0430\u0440. \u0411\u0430\u0440\u043b\u044b\u0493\u044b \u0421\u0456\u0437\u0434\u0456\u04a3 \u0431\u0438\u0437\u043d\u0435\u0441\u0456\u04a3\u0456\u0437, \u04e9\u043c\u0456\u0440\u0456\u04a3\u0456\u0437 \u0436\u04d9\u043d\u0435 \u0434\u0435\u043c\u0430\u043b\u044b\u0441\u044b\u04a3\u044b\u0437 \u04af\u0448\u0456\u043d!",
+        "Official Site": "https://satu.kz",
+        "Icon": "/cloud-cgi/static/catalog-ui/js/build/portal-portable/base_satu-60a6b993.jpg",
+        "Redirect": "https://satu.kz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://satu.kz"
+    },
+    {
+        "link": "https://solnet.ch",
+        "Heading": "SolNet Internet & Solution Provider - Willkommen",
+        "Abstract": "Internet & Solution Provider mit L\u00f6sungen f\u00fcr Privat- und Gesch\u00e4ftskunden. Zu unseren Produkten geh\u00f6ren Internet Anbindungen, Server und Telefonie-L\u00f6sungen.",
+        "Official Site": "https://solnet.ch",
+        "Icon": "/ico/favicon.ico",
+        "Redirect": "https://solnet.ch",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://solnet.ch"
+    },
+    {
+        "link": "https://thepetitionsite.com",
+        "Heading": "Petition Site: Start free online petitions",
+        "Abstract": "The easiest do-it-yourself tools for creating and promoting an online petition. For free!",
+        "Official Site": "https://www.thepetitionsite.com",
+        "Icon": "https://dingo.care2.com/assets/img/petitionsite/care2_logo.png",
+        "Redirect": "https://www.thepetitionsite.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thepetitionsite.com"
+    },
+    {
+        "link": "https://openfoodfacts.org",
+        "Heading": null,
+        "Abstract": "A collaborative, free and open database of ingredients, nutrition facts and information on food products from around the world",
+        "Official Site": "https://world.openfoodfacts.org",
+        "Icon": "https://static.openfoodfacts.org/images/logos/off-logo-vertical-white-social-media-preview.png",
+        "Redirect": "https://world.openfoodfacts.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://world.openfoodfacts.org"
+    },
+    {
+        "link": "https://tallahassee.com",
+        "Heading": "Tallahassee Democrat | News, sports, entertainment, classifieds.",
+        "Abstract": "Breaking news, sports, business, entertainment, State Capitol and Florida State University coverage from the Tallahassee (Florida) Democrat newspaper.",
+        "Official Site": "https://www.tallahassee.com/",
+        "Icon": "https://www.tallahassee.com/tangstatic/sites/ptal/og-image-q1a2z39599fb6f.png",
+        "Redirect": "https://www.tallahassee.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tallahassee.com/"
+    }
+]

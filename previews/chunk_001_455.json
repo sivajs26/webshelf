@@ -1,0 +1,322 @@
+[
+    {
+        "link": "https://eetapps.com",
+        "Heading": "EET Apps",
+        "Abstract": null,
+        "Official Site": "https://eetapps.com",
+        "Icon": "N/A",
+        "Redirect": "https://eetapps.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eetapps.com"
+    },
+    {
+        "link": "https://nethost.cz",
+        "Heading": "Nethost - Spolehliv\u00fd hosting, cloud a Kubernetes s podporou 24/7",
+        "Abstract": "Firemn\u00ed hosting a cloudov\u00e1 \u0159e\u0161en\u00ed na m\u00edru. \u0160pi\u010dkov\u00fd aplika\u010dn\u00ed a serverov\u00fd provoz, vysok\u00e1 dostupnost, bezpe\u010dnost a podpora pro r\u016fst va\u0161eho byznysu.",
+        "Official Site": "https://www.nethost.cz/",
+        "Icon": "https://www.nethost.cz/app/uploads/2024/09/favicon.png",
+        "Redirect": "https://www.nethost.cz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nethost.cz/"
+    },
+    {
+        "link": "https://zcu.cz",
+        "Heading": "Z\u00e1pado\u010desk\u00e1 univerzita v Plzni",
+        "Abstract": "Z\u00e1pado\u010desk\u00e1 univerzita v Plzni m\u00e1 v\u00edce ne\u017e 300 studijn\u00edch program\u016f na dev\u00edti fakult\u00e1ch. Spojte \u017eivot s jednou z nich a rozhodn\u011bte se pro studium v Plzni.",
+        "Official Site": "https://zcu.cz",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://zcu.cz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zcu.cz"
+    },
+    {
+        "link": "https://rechtspraak.nl",
+        "Heading": "De Rechtspraak",
+        "Abstract": "De website van rechtbanken, gerechtshoven en de bijzondere colleges. Met informatie over de procedures bij rechtszaken, uitspraken en de organisatie van de rechtspraak.",
+        "Official Site": "https://rechtspraak.nl",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://rechtspraak.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rechtspraak.nl"
+    },
+    {
+        "link": "https://tripit.com",
+        "Heading": "TripIt: Highest-Rated Travel Itinerary App + Trip Planner",
+        "Abstract": "TripIt is a travel itinerary app and trip planner that organizes your vacation plans automatically. TripIt helps keep your business, personal, and road trips organized.",
+        "Official Site": "https://tripit.com",
+        "Icon": "/themes/custom/tripit_theme/favicon.ico",
+        "Redirect": "https://tripit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tripit.com"
+    },
+    {
+        "link": "https://transifex.com",
+        "Heading": "Home Page - Transifex",
+        "Abstract": "Home Page - Transifex",
+        "Official Site": "https://www.transifex.com",
+        "Icon": "https://www.transifex.com/hubfs/Colour%20Transifex.svg",
+        "Redirect": "https://www.transifex.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.transifex.com"
+    },
+    {
+        "link": "https://polkachu.com",
+        "Heading": "Trusted Blockchain Validator | Polkachu",
+        "Abstract": "Polkachu is the trusted validator that offers secure staking with competitive commission, high uptime and advanced monitoring on blockchain projects",
+        "Official Site": "https://polkachu.com//",
+        "Icon": "https://polkachu.com/images/polkachu_default_og.png",
+        "Redirect": "https://polkachu.com//",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://polkachu.com//"
+    },
+    {
+        "link": "https://catholic.org",
+        "Heading": "Catholic Online - World's Catholic Library",
+        "Abstract": "World's Catholic Library. Find saints, prayers, bible, daily readings, catholic news and everything Catholic.",
+        "Official Site": "https://www.catholic.org/",
+        "Icon": "https://www.catholic.org/assets/img/logo-sm.png",
+        "Redirect": "https://www.catholic.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.catholic.org/"
+    },
+    {
+        "link": "https://thinglink.com",
+        "Heading": "ThingLink | Immersive Learning for Real World Environments",
+        "Abstract": "The leading platform for creating and deploying immersive learning. AI-powered, no-code tools for XR, AR & 360\u00b0 training on any device.",
+        "Official Site": "https://www.thinglink.com",
+        "Icon": "https://cdn.thinglink.me/gfx/opengraph.png",
+        "Redirect": "https://www.thinglink.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thinglink.com"
+    },
+    {
+        "link": "https://stir.ac.uk",
+        "Heading": "Study in Scotland, UK |  Home  | University of Stirling",
+        "Abstract": "The University of Stirling is a world-class institution with one of the best student experiences in the UK. Are you Stirling? Secure your place.",
+        "Official Site": "https://www.stir.ac.uk/",
+        "Icon": "https://www.stir.ac.uk/media/stirling/global-assets/landscape/og-airthrey-loch-1200x630.jpg",
+        "Redirect": "https://www.stir.ac.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.stir.ac.uk/"
+    },
+    {
+        "link": "https://wellcomecollection.org",
+        "Heading": "Wellcome Collection | A free museum and library exploring health and human experience",
+        "Abstract": "Visit our free museum and library in central London connecting science, medicine, life and art. Explore our exhibitions, live events, gallery tours and caf\u00e9. Fully accessible.",
+        "Official Site": "https://wellcomecollection.org/",
+        "Icon": "https://images.prismic.io/wellcomecollection/fc1e68b0528abbab8429d95afb5cfa4c74d40d52_tf_180516_2060224.jpg?auto=compress%2Cformat&rect=&w=800&h=",
+        "Redirect": "https://wellcomecollection.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wellcomecollection.org/"
+    },
+    {
+        "link": "https://cryptoslate.com",
+        "Heading": "Crypto News, Coin Prices & Market Trends | CryptoSlate",
+        "Abstract": "Independent crypto news, live prices, and market analysis since 2017. Follow Bitcoin, Ethereum, daily headlines, research, and market data.",
+        "Official Site": "https://cryptoslate.com/",
+        "Icon": "https://cryptoslate.com/wp-content/uploads/2025/11/cryptoslate-cover.jpg",
+        "Redirect": "https://cryptoslate.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cryptoslate.com/"
+    },
+    {
+        "link": "https://the-star.co.ke",
+        "Heading": "The Star",
+        "Abstract": "The Star brings you breaking news, developing stories, politics, entertainment, lifestyle, sports and much more from Kenya and around the world, throughout the day.",
+        "Official Site": "https://www.the-star.co.ke",
+        "Icon": "https://www.the-star.co.ke/assets/img/logo.webp",
+        "Redirect": "https://www.the-star.co.ke",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.the-star.co.ke"
+    },
+    {
+        "link": "https://cloudx.io",
+        "Heading": "Ad Infrastructure for the Intelligence Era | CloudX",
+        "Abstract": "CloudX is a supply side platform for mobile and AI publishers. Boost revenue with AI workflows and a liquid marketplace.",
+        "Official Site": "https://www.cloudx.ai",
+        "Icon": "https://www.cloudx.ai/images/og.jpg",
+        "Redirect": "https://www.cloudx.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cloudx.ai"
+    },
+    {
+        "link": "https://animatetimes.com",
+        "Heading": "\u30a2\u30cb\u30e1\u30a4\u30c8\u30bf\u30a4\u30e0\u30ba | \u30a2\u30cb\u30e1\u30cb\u30e5\u30fc\u30b9\u3084\u58f0\u512a\u306e\u65ec\u306a\u60c5\u5831\u3092\u6bce\u65e5\u66f4\u65b0",
+        "Abstract": "\u3010\u30a2\u30cb\u30e1\u30a4\u30c8\u30bf\u30a4\u30e0\u30ba\u3011\u30a2\u30cb\u30e1\u306e\u4e8b\u306a\u3089\u30a2\u30cb\u30e1\u30a4\u30c8\u30bf\u30a4\u30e0\u30ba\uff01\u58f0\u512a/\u30a2\u30cb\u30e1\u30cb\u30e5\u30fc\u30b9\u30fb\u30a2\u30cb\u30e1\u52d5\u753b\u30fb\u58f0\u512a\u30e9\u30b8\u30aa\u30fbPV\u914d\u4fe1\u306a\u3069\u30a2\u30cb\u30e1\u306b\u95a2\u3059\u308b\u60c5\u5831\u304c\u6e80\u8f09\u3067\u3059\uff01\u30a2\u30cb\u30e1\u60c5\u5831\u3092\u3069\u3053\u3088\u308a\u3082\u8c4a\u5bcc\u306b\u65e9\u304f\u304a\u5c4a\u3051\u3057\u3066\u3044\u307e\u3059\u3002",
+        "Official Site": "https://www.animatetimes.com/",
+        "Icon": "https://www.animatetimes.com/img/ogimage.png",
+        "Redirect": "https://www.animatetimes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.animatetimes.com/"
+    },
+    {
+        "link": "https://hollywoodlife.com",
+        "Heading": "Hollywood Life \u2013 Latest Hollywood Celebrity & Entertainment News",
+        "Abstract": "Latest Hollywood Celebrity & Entertainment News",
+        "Official Site": "https://hollywoodlife.com/",
+        "Icon": "https://hollywoodlife.com/wp-content/uploads/2024/06/cropped-hlicon_COLOR.png?fit=512%2C512",
+        "Redirect": "https://hollywoodlife.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hollywoodlife.com/"
+    },
+    {
+        "link": "https://optifine.net",
+        "Heading": "OptiFine",
+        "Abstract": "OptiFine - Minecraft performance tuning and advanced graphics",
+        "Official Site": "https://optifine.net",
+        "Icon": "images/of16r.png",
+        "Redirect": "https://optifine.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://optifine.net"
+    },
+    {
+        "link": "https://tickets.com",
+        "Heading": "Tickets.com | Genuine sports, concerts, and theater tickets | Trusted and guaranteed",
+        "Abstract": "Guaranteed Tickets for the Best Live Events. Join the crowd and buy from the trusted site | Tickets.com Millions of tickets sold.",
+        "Official Site": "https://www.tickets.com",
+        "Icon": "https://a.www.tickets.com/1192/logo/900x425-logo.jpg",
+        "Redirect": "https://www.tickets.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tickets.com"
+    },
+    {
+        "link": "https://wisprflow.ai",
+        "Heading": "Wispr Flow | Effortless Voice Dictation",
+        "Abstract": "Flow makes writing quick and clear with seamless voice dictation. It is the fastest, smartest way to type with your voice.",
+        "Official Site": "https://wisprflow.ai",
+        "Icon": "https://cdn.prod.website-files.com/682f84b3838c89f8ff7667db/683c611aba65ade013982bcd_wispr-og-min.jpg",
+        "Redirect": "https://wisprflow.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wisprflow.ai"
+    },
+    {
+        "link": "https://playdayy.com",
+        "Heading": "Playdayy",
+        "Abstract": "PLAYNEXX is devoted to creating captivating mobile puzzle games",
+        "Official Site": "https://playdayy.com",
+        "Icon": "/x2.png",
+        "Redirect": "https://playdayy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://playdayy.com"
+    },
+    {
+        "link": "https://theworlds50best.com",
+        "Heading": "The World's 50 Best Restaurants | The best restaurants in the world",
+        "Abstract": "Annually ranking the top 50 best restaurants and bars around the world. The World's 50 Best Restaurants, is owned and run by William Reed Business Media, the same organisation behind The World's 50 Best Bars.",
+        "Official Site": "https://www.theworlds50best.com/index.html",
+        "Icon": "https://www.theworlds50best.com/filestore/jpg/50B-Restaurants-GLOBAL-Facebook-image-1200x630.jpg",
+        "Redirect": "https://www.theworlds50best.com/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.theworlds50best.com/index.html"
+    },
+    {
+        "link": "https://opnsense.org",
+        "Heading": "OPNsense\u00ae is an open source, feature rich firewall and routing platform, offering cutting-edge network protection. - OPNsense",
+        "Abstract": "We\u2019ve made digital security accessible to everyone. With our free OPNsense\u00ae platform, you get all the features of expensive commercial firewalls and more. Enjoy open and verifiable sources in a product developed with and for a large user community.",
+        "Official Site": "https://opnsense.org/",
+        "Icon": "https://opnsense.org/wp-content/themes/template/assets/images/favicon/favicon.ico",
+        "Redirect": "https://opnsense.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://opnsense.org/"
+    },
+    {
+        "link": "https://nerdist.com",
+        "Heading": "Home - Nerdist",
+        "Abstract": "Nerdist is your home for the latest entertainment news and pop culture analysis covering the Marvel Cinematic Universe, Star Wars, and everything in between.",
+        "Official Site": "https://nerdist.com/",
+        "Icon": "https://nerdist.com/wp-content/themes/nerdist_2021/img/favicon.ico",
+        "Redirect": "https://nerdist.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nerdist.com/"
+    },
+    {
+        "link": "https://workupload.com",
+        "Heading": "workupload - Are you a human?",
+        "Abstract": null,
+        "Official Site": "https://workupload.com",
+        "Icon": "N/A",
+        "Redirect": "https://workupload.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://workupload.com"
+    },
+    {
+        "link": "https://chordie.com",
+        "Heading": "Free Guitar Chords, Tabs, Tablature, Song Library",
+        "Abstract": "Free Guitar Chords, Tabs, Tablature, Song Library",
+        "Official Site": "https://chordie.com",
+        "Icon": "/images/chordielogo.ico",
+        "Redirect": "https://chordie.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chordie.com"
+    },
+    {
+        "link": "https://golfgenius.com",
+        "Heading": "Home | GolfGenius",
+        "Abstract": "Golf Genius is the golf industry\u2019s leading provider of cloud solutions for golfers, golf professionals, facilities, academies, tours and associations. ",
+        "Official Site": "https://golfgenius.com",
+        "Icon": "https://golfgenius.com/hubfs/favicon.ico",
+        "Redirect": "https://golfgenius.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://golfgenius.com"
+    },
+    {
+        "link": "https://springsource.org",
+        "Heading": "Spring | Home",
+        "Abstract": "Level up your Java code and explore what Spring can do for you.",
+        "Official Site": "https://spring.io/",
+        "Icon": "https://spring.io/img/og-spring.png",
+        "Redirect": "https://spring.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spring.io/"
+    },
+    {
+        "link": "https://moodmedia.com",
+        "Heading": "Mood Media - Country Selection",
+        "Abstract": "Welcome to the official Mood Media website. Please choose your country.",
+        "Official Site": "https://moodmedia.com/",
+        "Icon": "https://moodmedia.com/wp-content/uploads/2024/10/cropped-2024-Favicon-32x32.png",
+        "Redirect": "https://moodmedia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://moodmedia.com/"
+    },
+    {
+        "link": "https://posti.fi",
+        "Heading": "Posti | Posti",
+        "Abstract": "Toimitamme vastuullisesti sen mill\u00e4 on merkityst\u00e4. V\u00e4lit\u00e4mme pienet ja suuret paketit sek\u00e4 kirjeet posteihin, pakettiautomaatteihin ja suoraan kotiovelle.",
+        "Official Site": "https://posti.fi",
+        "Icon": "https://images.ctfassets.net/dvxpcmq06s7e/74DWTW8IXD0OOqXRXgcg7j/da91f8b6ec148ec11cfb22e262cab2d2/posti-default.png",
+        "Redirect": "https://posti.fi",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://posti.fi"
+    },
+    {
+        "link": "https://pointhq.com",
+        "Heading": "PointDNS - easy-to-use, reliable, powerful & affordable DNS hosting",
+        "Abstract": "",
+        "Official Site": "https://pointhq.com",
+        "Icon": "/assets/img/favicon.ico",
+        "Redirect": "https://pointhq.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pointhq.com"
+    },
+    {
+        "link": "https://topspeed.com",
+        "Heading": "Car News, Reviews, And Latest Industry Information On Cars, Electric Cars And Trucks | Top Speed",
+        "Abstract": "Top Speed offers daily industry news and reviews on cars, trucks, and electric cars.",
+        "Official Site": "https://www.topspeed.com/",
+        "Icon": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/social/tps-og-img.png?w=1200&h=675&fit=crop",
+        "Redirect": "https://www.topspeed.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.topspeed.com/"
+    },
+    {
+        "link": "https://visma.com",
+        "Heading": "Visma | Champions of business software",
+        "Abstract": "Visma delivers software that simplifies the work lives of entrepreneurs, businesses, and societies. Get to know Visma and see what we have to offer!",
+        "Official Site": "https://visma.com",
+        "Icon": "https://cdn.prod.website-files.com/6305e092bc95bebe63ae6578/639981fb13f505465c007db2_2437_16-9.jpg",
+        "Redirect": "https://visma.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://visma.com"
+    }
+]
