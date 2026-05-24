@@ -1,0 +1,302 @@
+[
+    {
+        "link": "https://evergreen.edu",
+        "Heading": "Home | The Evergreen State College",
+        "Abstract": null,
+        "Official Site": "https://www.evergreen.edu/home",
+        "Icon": "/themes/custom/goldfinch/icons/favicons/favicon.ico",
+        "Redirect": "https://www.evergreen.edu/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.evergreen.edu/home"
+    },
+    {
+        "link": "https://societe-des-avis-garantis.fr",
+        "Heading": "Soci\u00e9t\u00e9 des Avis Garantis | Solution d\u2019avis clients authentiques",
+        "Abstract": "R\u00e9coltez et mettez en avant les avis de vos clients afin d'augmenter votre taux de conversion. Plus de 3000 marchands nous font confiance.",
+        "Official Site": "https://societe-des-avis-garantis.fr",
+        "Icon": "/wp-content/uploads/fr/icons/favicon-1.ico",
+        "Redirect": "https://societe-des-avis-garantis.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://societe-des-avis-garantis.fr"
+    },
+    {
+        "link": "https://ofgem.gov.uk",
+        "Heading": "Welcome to Ofgem | Ofgem",
+        "Abstract": "The government regulator for gas and electricity markets in Great Britain.",
+        "Official Site": "https://www.ofgem.gov.uk/home",
+        "Icon": "https://www.ofgem.gov.uk/sites/default/files/styles/uncropped_large/public/2021-06/ofgem-logo.jpg?itok=1v1e0-xE",
+        "Redirect": "https://www.ofgem.gov.uk/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ofgem.gov.uk/home"
+    },
+    {
+        "link": "https://computerwoche.de",
+        "Heading": "Computerwoche \u2013  Ihr Wegweiser f\u00fcr die digitale Transformation",
+        "Abstract": "Von Digitalisierung \u00fcber Cloud Computing bis hin zum Internet der Dinge - computerwoche.de informiert \u00fcber die aktuellen Trends der Unternehmens-IT.",
+        "Official Site": "https://www.computerwoche.de/",
+        "Icon": "https://www.computerwoche.de/wp-content/uploads/2024/08/computerwoche-featured-image.jpg?quality=50&strip=all&w=1024",
+        "Redirect": "https://www.computerwoche.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.computerwoche.de/"
+    },
+    {
+        "link": "https://ukwebsolutionsdirect.com",
+        "Heading": "UK Web Hosting Service Provider Since 2001 - Fast Website Host",
+        "Abstract": "Providing fast UK Web Hosting since 2001. Feature packed including FREE web applictions, cPanel control panel and daily backups.",
+        "Official Site": "https://ukwebsolutionsdirect.com",
+        "Icon": "/img/favicon.ico",
+        "Redirect": "https://ukwebsolutionsdirect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ukwebsolutionsdirect.com"
+    },
+    {
+        "link": "https://astonishlandmassnervy.com",
+        "Heading": "Operated by Clickadu Advertisement Network",
+        "Abstract": null,
+        "Official Site": "https://astonishlandmassnervy.com",
+        "Icon": "https://clickadu.com/favicon.ico",
+        "Redirect": "https://astonishlandmassnervy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://astonishlandmassnervy.com"
+    },
+    {
+        "link": "https://wongcw.com",
+        "Heading": "WONGCW Official Site",
+        "Abstract": "WONGCW Official Site",
+        "Official Site": "https://www.wongcw.com",
+        "Icon": "https://www.wongcw.com/upload/logo.png",
+        "Redirect": "https://www.wongcw.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wongcw.com"
+    },
+    {
+        "link": "https://snippet.host",
+        "Heading": "snippet.host - minimal text and code snippet hosting",
+        "Abstract": "Minimal text and code snippet hosting. Ultra-fast, free, easy to use, with syntax highlighting and private snippets. Registration not required. Try it now.",
+        "Official Site": "https://snippet.host",
+        "Icon": "/logo-1200-630.png",
+        "Redirect": "https://snippet.host",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://snippet.host"
+    },
+    {
+        "link": "https://amainhobbies.com",
+        "Heading": "AMain Hobbies - Shop a huge selection of Toy RC Cars, Planes, Helicopters and more!",
+        "Abstract": "When you want to lay down some serious speed or tear through the sky with cool tricks, shop with us for a great selectio",
+        "Official Site": "https://www.amainhobbies.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.amainhobbies.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.amainhobbies.com"
+    },
+    {
+        "link": "https://peakaccount.com",
+        "Heading": "PEAK \u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e15\u0e31\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SMEs",
+        "Abstract": null,
+        "Official Site": "https://www.peakaccount.com",
+        "Icon": "N/A",
+        "Redirect": "https://www.peakaccount.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.peakaccount.com"
+    },
+    {
+        "link": "https://pixelfed.social",
+        "Heading": "pixelfed",
+        "Abstract": "The original Pixelfed instance, operated by the main developer @dansup",
+        "Official Site": "https://pixelfed.social",
+        "Icon": "https://pixelfed.social/storage/headers/Hb2Qs2gfWofB4kEmSRArGqfr0h3DeBgrjLcwZ23r.jpg",
+        "Redirect": "https://pixelfed.social",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pixelfed.social"
+    },
+    {
+        "link": "https://madfinger.games",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://madfinger.games",
+        "Icon": "N/A",
+        "Redirect": "https://madfinger.games",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://madfinger.games"
+    },
+    {
+        "link": "https://ht.hr",
+        "Heading": "Naslovnica",
+        "Abstract": "Prva i vode\u0107a telekom kompanija u Hrvatskoj",
+        "Official Site": "https://ht.hr",
+        "Icon": "N/A",
+        "Redirect": "https://ht.hr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ht.hr"
+    },
+    {
+        "link": "https://cint.com",
+        "Heading": "The World\u2019s Largest Global Research Marketplace | Cint\u2122",
+        "Abstract": "Discover the power of Cint Exchange, the largest online marketplace. Join Cint to revolutionize your market research experience.",
+        "Official Site": "https://www.cint.com/",
+        "Icon": "https://www.cint.com/wp-content/uploads/2020/02/cint-logo-accelerating-insights-scaled-1.jpg",
+        "Redirect": "https://www.cint.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cint.com/"
+    },
+    {
+        "link": "https://registerguard.com",
+        "Heading": "The Register Guard: Local News, Politics & Sports in Eugene, OR",
+        "Abstract": "Get the latest breaking news, sports, entertainment and obituaries in Eugene, OR from The Register Guard.",
+        "Official Site": "https://www.registerguard.com/",
+        "Icon": "https://www.registerguard.com/tangstatic/sites/nreg/og-image-q1a2z38f5a8b25.png",
+        "Redirect": "https://www.registerguard.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.registerguard.com/"
+    },
+    {
+        "link": "https://cnycentral.com",
+        "Heading": "Syracuse News, Weather, Sports, Breaking News",
+        "Abstract": "WSTM WKOF WTVH provide up to the minute news, sports, weather and community notices to Syracuse and surrounding communities, including North Syracuse, East Syracuse, Liverpool, Baldwinsville, Jordan, Weedsport, Auburn, Melrose Park, Skaneateles, Marietta, Lafayette, Pompey, Fayetteville Sherrill and Utica, New York.",
+        "Official Site": "https://cnycentral.com",
+        "Icon": "https://cnycentral.com/resources/assets/wstm/images/brand-icons/WSTM-16x9.jpg",
+        "Redirect": "https://cnycentral.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cnycentral.com"
+    },
+    {
+        "link": "https://pkgbuild.com",
+        "Heading": "pkgbuild.com",
+        "Abstract": null,
+        "Official Site": "https://pkgbuild.com",
+        "Icon": "/static/favicon.ico",
+        "Redirect": "https://pkgbuild.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pkgbuild.com"
+    },
+    {
+        "link": "https://mddservices.com",
+        "Heading": "MDDHosting \u2014 Hosting That Works. Support That Helps.",
+        "Abstract": "Hosting that takes support seriously. We answer in minutes, migrate your site for free, and back every plan with a 30-day guarantee. No contracts. Since 2007.",
+        "Official Site": "https://www.mddhosting.com",
+        "Icon": "https://www.mddhosting.com/imgs/mdd200.png",
+        "Redirect": "https://www.mddhosting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mddhosting.com"
+    },
+    {
+        "link": "https://seahawks.com",
+        "Heading": "Seahawks Home | Seattle Seahawks \u2013 seahawks.com",
+        "Abstract": "Seattle Seahawks Home: The official source of the latest Seahawks headlines, news, videos, photos, tickets, rosters, stats, schedule, and gameday information",
+        "Official Site": "https://www.seahawks.com/",
+        "Icon": "https://static.clubs.nfl.com/seahawks/zadj3ehrnxwhvl6swapk",
+        "Redirect": "https://www.seahawks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.seahawks.com/"
+    },
+    {
+        "link": "https://startquestion.com",
+        "Heading": "Startquestion - create online survey and forms",
+        "Abstract": null,
+        "Official Site": "https://www.startquestion.com/",
+        "Icon": "https://www.startquestion.com/wp-content/uploads/2022/10/OG-Image_PL.png",
+        "Redirect": "https://www.startquestion.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.startquestion.com/"
+    },
+    {
+        "link": "https://repetitors.info",
+        "Heading": "\u00ab\u0412\u0430\u0448 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u00bb \u0432 \u041c\u043e\u0441\u043a\u0432\u0435. | \u041f\u043e\u0434\u0431\u043e\u0440 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u0430: 300 000 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u0435\u0439.",
+        "Abstract": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0431\u0430\u0437\u0430 \u043e\u043f\u044b\u0442\u043d\u044b\u0445 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u043e\u0432 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435. \u0426\u0435\u043d\u044b, \u043e\u0442\u0437\u044b\u0432\u044b, \u0440\u0435\u0439\u0442\u0438\u043d\u0433. \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0439 \u043f\u043e\u0434\u0431\u043e\u0440. \u041f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u0438 \u0412\u0423\u0417\u043e\u0432 \u041c\u043e\u0441\u043a\u0432\u044b. \u00ab\u0412\u0430\u0448 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u00bb - \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0447\u0430\u0441\u0442\u043d\u044b\u0445 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u043e\u0432, \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u044f\u044e\u0449\u0435\u0435 \u0431\u043e\u043b\u0435\u0435 200 \u0442\u044b\u0441\u044f\u0447 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u043f\u043e \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0430\u043c: \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430, \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a, \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430, \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u044f\u0437\u044b\u043a\u0438, \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0430, \u0444\u0438\u0437\u0438\u043a\u0430, \u0445\u0438\u043c\u0438\u044f, \u0433\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u044b.",
+        "Official Site": "https://repetitors.info",
+        "Icon": "/local/templates/Repetitors/favicon.ico",
+        "Redirect": "https://repetitors.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://repetitors.info"
+    },
+    {
+        "link": "https://cmnd.io",
+        "Heading": "Home CMND.io",
+        "Abstract": null,
+        "Official Site": "https://cmnd.io",
+        "Icon": "/static/cms/img/favicon.ico",
+        "Redirect": "https://cmnd.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cmnd.io"
+    },
+    {
+        "link": "https://retagro.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://retagro.com",
+        "Icon": "N/A",
+        "Redirect": "https://retagro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://retagro.com"
+    },
+    {
+        "link": "https://host4africa.com",
+        "Heading": "Host4Africa.com GET MORE FOR LESS!, main page, low cost Web Hosting for South Africa and the world.",
+        "Abstract": "Host4Africa.com low cost web hosting and domain registration for South Africa and the world. GET MORE FOR LESS!",
+        "Official Site": "https://host4africa.com",
+        "Icon": "N/A",
+        "Redirect": "https://host4africa.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://host4africa.com"
+    },
+    {
+        "link": "https://thuisarts.nl",
+        "Heading": "Thuisarts | De eerste plek waar je het checkt.",
+        "Abstract": "Thuisarts geeft betrouwbare informatie over gezondheid en ziekte, gemaakt door (huis)artsen.",
+        "Official Site": "https://www.thuisarts.nl/home",
+        "Icon": "https://www.thuisarts.nl/themes/custom/thuisarts_theme/images/social-image.png?v=2",
+        "Redirect": "https://www.thuisarts.nl/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thuisarts.nl/home"
+    },
+    {
+        "link": "https://bandori.party",
+        "Heading": "BanG Dream! Girls Band Party | Bandori Party",
+        "Abstract": "The BanG Dream! Girls Band Party Database & Community",
+        "Official Site": "https://bandori.party",
+        "Icon": "http://i.bandori.party/static/img/share/bandori_party_english.png?39",
+        "Redirect": "https://bandori.party",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bandori.party"
+    },
+    {
+        "link": "https://broward.org",
+        "Heading": "\n\t\nWelcome to Broward County\n\n\n\n\n\n",
+        "Abstract": null,
+        "Official Site": "https://broward.org",
+        "Icon": "https://broward.org/Style%20Library/V7/img/share.jpg",
+        "Redirect": "https://broward.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://broward.org"
+    },
+    {
+        "link": "https://coza.net.za",
+        "Heading": "Home - ZARC",
+        "Abstract": "ZA Registry Consortium (ZARC) is the contracted Registry Operator for South Africa\u2019s second-level domains (SLDs): CO.ZA, ORG.ZA, NET.ZA, and WEB.ZA.",
+        "Official Site": "https://zarc.web.za/",
+        "Icon": "https://zarc.web.za/wp-content/uploads/2025/08/zarc-logo-1.png",
+        "Redirect": "https://zarc.web.za/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://zarc.web.za/"
+    },
+    {
+        "link": "https://chub.ai",
+        "Heading": "Chub AI",
+        "Abstract": null,
+        "Official Site": "https://chub.ai",
+        "Icon": "https://avatars.charhub.io/favicon.ico",
+        "Redirect": "https://chub.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chub.ai"
+    },
+    {
+        "link": "https://justapinch.com",
+        "Heading": "Real Recipes from Real Home Cooks | Just A Pinch",
+        "Abstract": "Check out our collection of proven recipes from today's home cooks and discover why Just A Pinch is the go-to recipe site for millions of cooks worldwide!",
+        "Official Site": "https://www.justapinch.com",
+        "Icon": "https://www.justapinch.com/images/logo_fb_canvas.png",
+        "Redirect": "https://www.justapinch.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.justapinch.com"
+    }
+]

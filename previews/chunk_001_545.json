@@ -1,0 +1,272 @@
+[
+    {
+        "link": "https://top500.org",
+        "Heading": "Home -  | TOP500",
+        "Abstract": null,
+        "Official Site": "https://top500.org",
+        "Icon": "/static/images/Top.png",
+        "Redirect": "https://top500.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://top500.org"
+    },
+    {
+        "link": "https://vetrf.ru",
+        "Heading": "\u0420\u043e\u0441\u0441\u0435\u043b\u044c\u0445\u043e\u0437\u043d\u0430\u0434\u0437\u043e\u0440 / \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0432\u0435\u0442\u0435\u0440\u0438\u043d\u0430\u0440\u0438\u0438",
+        "Abstract": null,
+        "Official Site": "https://vetrf.ru",
+        "Icon": "/vetrf-docs/style/favicon.ico",
+        "Redirect": "https://vetrf.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vetrf.ru"
+    },
+    {
+        "link": "https://hdzog.tube",
+        "Heading": null,
+        "Abstract": "",
+        "Official Site": "https://hdzog.tube",
+        "Icon": "/static/images/favicons/android-icon-192x192.png",
+        "Redirect": "https://hdzog.tube",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hdzog.tube"
+    },
+    {
+        "link": "https://link-host.net",
+        "Heading": "Link-Host.net - \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c",
+        "Abstract": "\u041d\u0435\u0434\u043e\u0440\u043e\u0433\u043e\u0439 \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u043d\u0430 SSD \u0434\u0438\u0441\u043a\u0430\u0445 \u0441 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u043c\u0438 SSL \u0441\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u0430\u043c\u0438. . \u0414\u043e\u043c\u0435\u043d \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a.",
+        "Official Site": "https://link-host.net/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://link-host.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://link-host.net/"
+    },
+    {
+        "link": "https://stickermule.com",
+        "Heading": "Sticker Mule | Custom printing that kicks ass",
+        "Abstract": "Thousands of people trust us to make kick ass stickers, labels, packaging & more. Free proofs, free worldwide shipping, fast turnaround & 24/7 customer support.",
+        "Official Site": "https://www.stickermule.com/",
+        "Icon": "https://cdn.stickermule.com/content/home/assets/homepage-share-image-en.png",
+        "Redirect": "https://www.stickermule.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.stickermule.com/"
+    },
+    {
+        "link": "https://fukurama.org",
+        "Heading": "Globe",
+        "Abstract": "Everything's better with friends!",
+        "Official Site": "https://fukurama.org",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://fukurama.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fukurama.org"
+    },
+    {
+        "link": "https://nfz.gov.pl",
+        "Heading": "Narodowy Fundusz Zdrowia (NFZ) \u2013 finansujemy zdrowie Polak\u00f3w",
+        "Abstract": "Sprawd\u017a, jak korzysta\u0107 z bezp\u0142atnej opieki medycznej NFZ. Znajd\u017a termin bada\u0144, zam\u00f3w kart\u0119 EKUZ online i zadbaj o profilaktyk\u0119. Wszystko w jednym miejscu!",
+        "Official Site": "http://www.nfz.gov.pl/",
+        "Icon": "http://www.nfz.gov.pl/szablony/nfz/images/logo.png",
+        "Redirect": "http://www.nfz.gov.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.nfz.gov.pl/"
+    },
+    {
+        "link": "https://wtnet.de",
+        "Heading": "wilhelm.tel - Glasfasernetz f\u00fcr die Region",
+        "Abstract": "Wir bieten Festnetz, Internet & HD-TV in attraktiven Kombipaketen. Alles von nur einem Kommunikationsanbieter. \u2713 Mehr entdecken auf | wilhelm-tel.de",
+        "Official Site": "https://wtnet.de",
+        "Icon": "https://www.wilhelm-tel.de/fileadmin/_processed_/4/4/csm_pexels-vlada-karpovich-4050303_c6fcaa3f76.jpeg",
+        "Redirect": "https://wtnet.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wtnet.de"
+    },
+    {
+        "link": "https://23viptaka.com",
+        "Heading": "VIPTAKA",
+        "Abstract": null,
+        "Official Site": "https://23viptaka.com",
+        "Icon": "/favicon.png?v=16606",
+        "Redirect": "https://23viptaka.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://23viptaka.com"
+    },
+    {
+        "link": "https://amnt-16d09m20y.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://amnt-16d09m20y.com",
+        "Icon": "N/A",
+        "Redirect": "https://amnt-16d09m20y.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amnt-16d09m20y.com"
+    },
+    {
+        "link": "https://classcard.net",
+        "Heading": "\ud074\ub798\uc2a4\uce74\ub4dc | \uc601\uc5b4\uc324 1/3\uc774 \uc120\ud0dd\ud55c \uc2a4\ub9c8\ud2b8 \ub2e8\uc5b4\uc7a5!",
+        "Abstract": null,
+        "Official Site": "https://classcard.net",
+        "Icon": "/android-icon-192x192.png",
+        "Redirect": "https://classcard.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://classcard.net"
+    },
+    {
+        "link": "https://xn--12cu1a5c.net",
+        "Heading": "xxx porn \u0e2b\u0e35 \u0e14\u0e39\u0e2b\u0e19\u0e31\u0e07\u0e42\u0e1b\u0e4a\u0e1f\u0e23\u0e35 \u0e04\u0e25\u0e34\u0e1b\u0e2b\u0e25\u0e38\u0e14 \u0e40\u0e22\u0e47\u0e14\u0e01\u0e31\u0e19 \u0e41\u0e2d\u0e1a\u0e16\u0e48\u0e32\u0e22",
+        "Abstract": "\u0e40\u0e27\u0e47\u0e1a\u0e14\u0e39\u0e2b\u0e19\u0e31\u0e07\u0e42\u0e1b\u0e4a\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e1f\u0e23\u0e35 10,000 \u0e01\u0e27\u0e48\u0e32\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e40\u0e15\u0e47\u0e21\u0e2d\u0e34\u0e48\u0e21\u0e14\u0e49\u0e27\u0e22\u0e04\u0e25\u0e34\u0e1b\u0e2b\u0e25\u0e38\u0e14\u0e2b\u0e19\u0e31\u0e07x\u0e41\u0e25\u0e30\u0e2b\u0e19\u0e31\u0e07av\u0e21\u0e32\u0e01\u0e21\u0e32\u0e22\u0e2b\u0e25\u0e32\u0e22\u0e2b\u0e25\u0e32\u0e22\u0e23\u0e28\u0e0a\u0e32\u0e15\u0e34",
+        "Official Site": "https://www.xn--12cu1a5c.online/",
+        "Icon": "https://www.xn--12cu1a5c.online/wp-content/uploads/2025/07/cropped-\u0e22\u0e01\u0e0b\u0e14-32x32.webp",
+        "Redirect": "https://www.xn--12cu1a5c.online/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.xn--12cu1a5c.online/"
+    },
+    {
+        "link": "https://ju.edu.jo",
+        "Heading": "\n\t The University of Jordan ::  \n",
+        "Abstract": "A leading university in scientific, technological, economic, social, and cultural transformation, outstanding in performing its role in the development and modernization of the Jordanian state, and a pioneer in serving the local and global community.",
+        "Official Site": "https://ju.edu.jo",
+        "Icon": "/WebSiteTemp/Temp/img/UJimages/JUlogo.png",
+        "Redirect": "https://ju.edu.jo",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ju.edu.jo"
+    },
+    {
+        "link": "https://unav.edu",
+        "Heading": "Portada. Universidad de Navarra",
+        "Abstract": "Universidad no estatal con campus en Pamplona, San Sebasti\u00e1n, Madrid y Barcelona. Obra corporativa del Opus Dei fundada por san Josemar\u00eda Escriv\u00e1 de Balaguer",
+        "Official Site": "https://www.unav.edu",
+        "Icon": "https://www.unav.edu/o/unav-principal-theme/images/favicon.ico",
+        "Redirect": "https://www.unav.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.unav.edu"
+    },
+    {
+        "link": "https://hipertextual.com",
+        "Heading": "Hipertextual | Tecnolog\u00eda, ciencia y cultura digital | Vivimos en 2077",
+        "Abstract": "Hipertextual es el medio de comunicaci\u00f3n l\u00edder en tecnolog\u00eda, ciencia y cultura digital. Vivimos en el futuro.",
+        "Official Site": "https://hipertextual.com/",
+        "Icon": "https://imgs.hipertextual.com/wp-content/uploads/2022/09/hptx-portada-2022-scaled.jpg",
+        "Redirect": "https://hipertextual.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hipertextual.com/"
+    },
+    {
+        "link": "https://miele.com",
+        "Heading": "Home",
+        "Abstract": "",
+        "Official Site": "https://miele.com",
+        "Icon": "/media/common/img/fav/favicon.ico",
+        "Redirect": "https://miele.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://miele.com"
+    },
+    {
+        "link": "https://resellerratings.com",
+        "Heading": "Store Ratings & Reviews | ResellerRatings.com | Find Trusted Stores",
+        "Abstract": "Compare prices and read store reviews by real customers, compare products.",
+        "Official Site": "https://resellerratings.com",
+        "Icon": "https://cdn1.resellerratings.com/CDN-20260519195813/rr_favicon.svg",
+        "Redirect": "https://resellerratings.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://resellerratings.com"
+    },
+    {
+        "link": "https://red.cl",
+        "Heading": "Inicio - Red Movilidad",
+        "Abstract": "Te acercamos a tu destino con un transporte moderno, seguro y sustentable. Nos movemos contigo.",
+        "Official Site": "https://www.red.cl/",
+        "Icon": "https://www.red.cl/wp-content/themes/red/favicon/android-icon-192x192.png",
+        "Redirect": "https://www.red.cl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.red.cl/"
+    },
+    {
+        "link": "https://flexclip.com",
+        "Heading": "AI Video Maker & Editor - Create with Templates & AI | FlexClip",
+        "Abstract": "FlexClip is an AI-powered online video maker and editor. It helps anyone create videos faster with editable templates, powerful editing tools and AI. No steep learning curve. Try it free today.",
+        "Official Site": "https://flexclip.com",
+        "Icon": "https://resource.flexclip.com/share/current.webp",
+        "Redirect": "https://flexclip.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flexclip.com"
+    },
+    {
+        "link": "https://newamerica.org",
+        "Heading": "New America - Big Ideas and Bold Solutions",
+        "Abstract": "New America develops bold ideas and innovative solutions to strengthen democracy, education and work, technology, and family well-being in the U.S.",
+        "Official Site": "https://www.newamerica.org/",
+        "Icon": "https://www.newamerica.org/wp-content/uploads/2026/03/Logo-on-Medium-Teal_1200x675.jpg",
+        "Redirect": "https://www.newamerica.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.newamerica.org/"
+    },
+    {
+        "link": "https://home-connect.com",
+        "Heading": "Connect your household | Home Connect ",
+        "Abstract": "On the go? Get your Home Connect app and keep track of all your smart home appliances no matter which brand.",
+        "Official Site": "https://home-connect.com",
+        "Icon": "/store/medias/sys_master/root/hcf/h4b/10025757933598/HC-FavIcon-32x32.png",
+        "Redirect": "https://home-connect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://home-connect.com"
+    },
+    {
+        "link": "https://callupcontact.com",
+        "Heading": "Callupcontact - Business Listing and Local Marketing Service",
+        "Abstract": null,
+        "Official Site": "https://callupcontact.com",
+        "Icon": "https://www.callupcontact.com/template/resources/images/android-icon-192x192.png",
+        "Redirect": "https://callupcontact.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://callupcontact.com"
+    },
+    {
+        "link": "https://montagehub.xyz",
+        "Heading": "MontageHub - Premium Software Development Studio",
+        "Abstract": null,
+        "Official Site": "https://montagehub.xyz",
+        "Icon": "N/A",
+        "Redirect": "https://montagehub.xyz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://montagehub.xyz"
+    },
+    {
+        "link": "https://ejalshakti.gov.in",
+        "Heading": "\n\tJal Jeevan Mission\n",
+        "Abstract": null,
+        "Official Site": "https://ejalshakti.gov.in",
+        "Icon": "/JJM/JJM/Content/Images/favicon.ico",
+        "Redirect": "https://ejalshakti.gov.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ejalshakti.gov.in"
+    },
+    {
+        "link": "https://piedmont.org",
+        "Heading": "Piedmont Healthcare | Real Change Lives Here",
+        "Abstract": "Piedmont is empowering Georgians by transforming health care. We continue to fuel Georgia\u2019s growth through safe, high-quality care close to home.",
+        "Official Site": "https://piedmont.org",
+        "Icon": "https://www.piedmont.org/public/favicon.ico",
+        "Redirect": "https://piedmont.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://piedmont.org"
+    },
+    {
+        "link": "https://timesfreepress.com",
+        "Heading": "Homepage | Chattanooga Times Free Press",
+        "Abstract": "Chattanooga's only daily newspaper. Complete coverage of breaking news in Chattanooga, Other local, regional and national news. Classifieds and online marketplace.",
+        "Official Site": "https://www.timesfreepress.com/",
+        "Icon": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.timesfreepress.com_default.jpg",
+        "Redirect": "https://www.timesfreepress.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.timesfreepress.com/"
+    },
+    {
+        "link": "https://wlos.com",
+        "Heading": "Asheville News, Weather, Sports, Breaking News",
+        "Abstract": "WLOS News 13 provides local news, weather forecasts, traffic updates, notices of events and items of interest in the community, sports and entertainment programming for Asheville, NC and nearby towns and communities in Western North Carolina and the Upstate of South Carolina, including the counties of Buncombe, Henderson, Rutherford, Haywood, Polk, Transylvania, McDowell, Mitchell, Madison, Yancey, Jackson, Swain, Macon, Graham, Spartanburg, Greenville, Anderson, Union, Pickens, Oconee, Laurens, Greenwood, Abbeville and also Biltmore Forest, Woodfin, Leicester, Black Mountain, Montreat, Arden, Weaverville, Hendersonville, Etowah, Flat Rock, Mills River, Waynesville, Maggie Valley, Canton, Clyde, Franklin, Cullowhee, Sylva, Cherokee, Marion, Old Fort, Forest City, Lake Lure, Bat Cave, Spindale, Spruce Pine, Bakersville, Burnsville, Tryon, Columbus, Marshall, Mars Hill, Brevard, Bryson City, Cashiers, Greer, Landrum, Clemson, Gaffney, and Easley.",
+        "Official Site": "https://wlos.com",
+        "Icon": "https://wlos.com/resources/assets/wlos/images/brand-icons/WLOS-16x9.jpg",
+        "Redirect": "https://wlos.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wlos.com"
+    }
+]

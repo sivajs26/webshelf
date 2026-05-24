@@ -1,0 +1,252 @@
+[
+    {
+        "link": "https://bbiq.jp",
+        "Heading": "BBIQ(\u30d3\u30d3\u30c3\u30af)\u516c\u5f0f\uff5c\u4e5d\u5dde\u306e\u5149\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u56de\u7dda\uff06\u30d7\u30ed\u30d0\u30a4\u30c0\u30fc",
+        "Abstract": "\u4e5d\u5dde\u306e\u5149\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u56de\u7dda\uff06\u30d7\u30ed\u30d0\u30a4\u30c0\u30fcBBIQ(\u30d3\u30d3\u30c3\u30af)\u516c\u5f0f\u30b5\u30a4\u30c8\u3002\u5149\u56de\u7dda\u3068\u30d7\u30ed\u30d0\u30a4\u30c0\u30fc\u6599\u91d1\u8fbc\u307f\u306e\u6708\u984d\u6599\u91d1\u304c\u305a\u3063\u3068\u304a\u30c8\u30af\uff01\u6599\u91d1\u3084\u30b5\u30dd\u30fc\u30c8\u3001\u56de\u7dda\u54c1\u8cea\u306b\u304a\u3044\u3066\u591a\u304f\u306e\u304a\u5ba2\u3055\u307e\u306b\u3054\u6e80\u8db3\u3044\u305f\u3060\u3044\u3066\u3044\u307e\u3059\u3002",
+        "Official Site": "https://www.bbiq.jp/",
+        "Icon": "/common/img/og.jpg",
+        "Redirect": "https://www.bbiq.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bbiq.jp/"
+    },
+    {
+        "link": "https://redboxads.com",
+        "Heading": "RedBoxAds",
+        "Abstract": "",
+        "Official Site": "https://redboxads.com",
+        "Icon": "assets/images/logo-128x157-1.png",
+        "Redirect": "https://redboxads.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://redboxads.com"
+    },
+    {
+        "link": "https://clickiocmp.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://clickiocmp.com",
+        "Icon": "N/A",
+        "Redirect": "https://clickiocmp.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://clickiocmp.com"
+    },
+    {
+        "link": "https://estrategia.com",
+        "Heading": "Estrategia - Sua aprova\u00e7\u00e3o \u00e9 nossa estrat\u00e9gia",
+        "Abstract": "Estrat\u00e9gia Concursos \u00e9 refer\u00eancia na prepara\u00e7\u00e3o de alunos para Concursos P\u00fablicos. Estude com nossos Cursos Online para Concursos, 100% focados no Edital e Tire d\u00favidas com os melhores professores do Brasil. Milhares de Aprovados!",
+        "Official Site": "https://estrategia.com",
+        "Icon": "https://misc-sharing-files.s3.amazonaws.com/imagem+de+compartilhamento.png",
+        "Redirect": "https://estrategia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://estrategia.com"
+    },
+    {
+        "link": "https://iac.es",
+        "Heading": "Home | Instituto de Astrof\u00edsica de Canarias \u2022 IAC",
+        "Abstract": null,
+        "Official Site": "https://iac.es",
+        "Icon": "/themes/custom/iac_venus/favicon.ico",
+        "Redirect": "https://iac.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iac.es"
+    },
+    {
+        "link": "https://gs1.org",
+        "Heading": "GS1 | The Global Language of Business",
+        "Abstract": "The Global Language of Business",
+        "Official Site": "https://gs1.org",
+        "Icon": "/themes/custom/gsone_revamp/favicon.ico",
+        "Redirect": "https://gs1.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gs1.org"
+    },
+    {
+        "link": "https://mu.se",
+        "Heading": "Music Software & Content Ecosystem for Creators | Muse Group",
+        "Abstract": "Empowering creators with innovative music software, audio tools, and content \u2014 from MuseScore and Audacity to Ultimate Guitar and StaffPad",
+        "Official Site": "https://mu.se",
+        "Icon": "https://cdn.prod.website-files.com/686d99d5f31181235980e23b/69610205ace9c88019b84fa6_daa4b59cfb7673074a755fe1cc0d9701_Mu.se_Main_Opengraph.jpg",
+        "Redirect": "https://mu.se",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mu.se"
+    },
+    {
+        "link": "https://plantnet.org",
+        "Heading": "Accueil - Pl@ntNet",
+        "Abstract": "Avec l'application Pl@ntNet, identifiez une plante \u00e0 partir d'une photo, et rejoignez un projet de sciences participatives sur la biodiversit\u00e9 v\u00e9g\u00e9tale",
+        "Official Site": "https://plantnet.org/",
+        "Icon": "https://plantnet.org/wp-content/uploads/2017/06/cropped-plantnet_favicon-01-32x32.png",
+        "Redirect": "https://plantnet.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://plantnet.org/"
+    },
+    {
+        "link": "https://sooma.com",
+        "Heading": "Sooma",
+        "Abstract": "Cloud based email solution on a highly customizable webmail platform",
+        "Official Site": "https://sooma.com/pt-pt/",
+        "Icon": "https://sooma.com/files/2022/06/cropped-icon-sooma-512-1-32x32.png",
+        "Redirect": "https://sooma.com/pt-pt/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sooma.com/pt-pt/"
+    },
+    {
+        "link": "https://ktv.jp",
+        "Heading": "\u95a2\u897f\u30c6\u30ec\u30d3\u653e\u9001 \u30ab\u30f3\u30c6\u30ec",
+        "Abstract": "KTV\u95a2\u897f\u30c6\u30ec\u30d3\u653e\u9001\u3002\u756a\u7d44\u60c5\u5831\u3084\u30cb\u30e5\u30fc\u30b9\u3001\u30a4\u30d9\u30f3\u30c8\u3001\u8a66\u5199\u4f1a\u3001\u30a2\u30ca\u30a6\u30f3\u30b5\u30fc\u3001\u5e83\u5831\u60c5\u5831\u306a\u3069\u3092\u968f\u6642\u304a\u77e5\u3089\u305b\u3057\u307e\u3059\u3002",
+        "Official Site": "https://www.ktv.jp/",
+        "Icon": "https://www.ktv.jp/common/img/global/ogp/ico_sns.jpg",
+        "Redirect": "https://www.ktv.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ktv.jp/"
+    },
+    {
+        "link": "https://archaeology.org",
+        "Heading": "Archaeology Magazine",
+        "Abstract": "Daily online archaeological news, in-depth reports on the latest discoveries, and full-length features from current and recent issues",
+        "Official Site": "https://archaeology.org/",
+        "Icon": "https://archaeology.org/wp-content/uploads/2023/09/ArchaeologyDefaultImage@2x.jpg",
+        "Redirect": "https://archaeology.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://archaeology.org/"
+    },
+    {
+        "link": "https://eversource.com",
+        "Heading": "\n\tResidential Energy Provider | Eversource \n",
+        "Abstract": "Eversource is an energy provider serving customers in Connecticut, Massachusetts and New Hampshire. Access  your residential account, report outages, and more. ",
+        "Official Site": "https://www.eversource.com/residential",
+        "Icon": "/assets/frontend/images/favicon.ico",
+        "Redirect": "https://www.eversource.com/residential",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.eversource.com/residential"
+    },
+    {
+        "link": "https://sgu.ru",
+        "Heading": "\u0421\u0413\u0423",
+        "Abstract": null,
+        "Official Site": "https://sgu.ru",
+        "Icon": "/themes/custom/ssu/favicon.ico",
+        "Redirect": "https://sgu.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sgu.ru"
+    },
+    {
+        "link": "https://aoc.gov",
+        "Heading": "Architect of the Capitol | Serve, Preserve, Inspire",
+        "Abstract": "Serving Congress and the Supreme Court, the Architect of the Capitol (AOC) is the builder and steward of the landmark buildings and grounds of Capitol Hill. Our staff preserves and maintains the historic buildings, monuments, art and inspirational gardens on the Capitol campus.",
+        "Official Site": "https://aoc.gov",
+        "Icon": "/themes/custom/aoc/favicon.ico",
+        "Redirect": "https://aoc.gov",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aoc.gov"
+    },
+    {
+        "link": "https://apolloprogram.io",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://apolloprogram.io",
+        "Icon": "N/A",
+        "Redirect": "https://apolloprogram.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://apolloprogram.io"
+    },
+    {
+        "link": "https://hss.edu",
+        "Heading": "HSS | Hospital for Special Surgery | #1 for Orthopedics",
+        "Abstract": "HSS is the #1 hospital in the U.S. for orthopedics, ranked #3 in the U.S. for rheumatology, and is the best pediatric orthopedic hospital in NY, CT and NJ. HSS has locations in NY, NJ, CT, and FL.",
+        "Official Site": "https://www.hss.edu/",
+        "Icon": "https://www.hss.edu/globalassets/images/logos/hss-social-icon.png",
+        "Redirect": "https://www.hss.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hss.edu/"
+    },
+    {
+        "link": "https://blogrenanda.com",
+        "Heading": "Free website builder | Create a free website easily",
+        "Abstract": "We make it very easy to create a high-quality blog, Over 20,000 people use our free blog platform to bring their ideas to life.",
+        "Official Site": "https://blogrenanda.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://blogrenanda.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://blogrenanda.com"
+    },
+    {
+        "link": "https://subscribepage.io",
+        "Heading": "Page Not Found",
+        "Abstract": null,
+        "Official Site": "https://subscribepage.io",
+        "Icon": "N/A",
+        "Redirect": "https://subscribepage.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://subscribepage.io"
+    },
+    {
+        "link": "https://theupsstore.com",
+        "Heading": "Pack and Ship, Print, Mailboxes and more - The UPS Store",
+        "Abstract": "Every ing you need for small business, all in one place.",
+        "Official Site": "https://www.theupsstore.com/",
+        "Icon": "https://www.theupsstore.com/Image Library/theupsstore/the-ups-store-fb.jpg",
+        "Redirect": "https://www.theupsstore.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.theupsstore.com/"
+    },
+    {
+        "link": "https://sletat.ru",
+        "Heading": "\u041f\u043e\u0438\u0441\u043a \u0438 \u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0443\u0440\u043e\u0432 \u043f\u043e \u0432\u0441\u0435\u043c \u0442\u0443\u0440\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430\u043c  | \u041f\u043e\u0438\u0441\u043a, \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435, \u0438 \u043f\u043e\u043a\u0443\u043f\u043a\u0430 \u0442\u0443\u0440\u043e\u0432 \u0421\u043b\u0435\u0442\u0430\u0442\u044c.\u0440\u0443",
+        "Abstract": "\u0423\u0434\u043e\u0431\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a \u0438 \u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0442\u0443\u0440\u043e\u0432 \u043f\u043e \u0432\u0441\u0435\u043c \u0442\u0443\u0440\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430\u043c, \u0442\u043e\u043b\u044c\u043a\u043e \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043f\u043e \u0432\u044b\u0433\u043e\u0434\u043d\u043e\u0439 \u0446\u0435\u043d\u0435 | \u041f\u043e\u0438\u0441\u043a, \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435, \u0438 \u043f\u043e\u043a\u0443\u043f\u043a\u0430 \u0442\u0443\u0440\u043e\u0432 \u0421\u043b\u0435\u0442\u0430\u0442\u044c.\u0440\u0443",
+        "Official Site": "https://sletat.ru",
+        "Icon": "N/A",
+        "Redirect": "https://sletat.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sletat.ru"
+    },
+    {
+        "link": "https://vertafore.com",
+        "Heading": "Insurance Software Solutions - Carriers, Agencies, MGAs, Independent Agents",
+        "Abstract": "Vertafore delivers AI-powered insurance software solutions that help agencies, MGAs, and carriers streamline workflows and achieve Distribution Velocity",
+        "Official Site": "https://www.vertafore.com/node/1",
+        "Icon": "/themes/custom/vertafore/images/favicons/favicon.ico",
+        "Redirect": "https://www.vertafore.com/node/1",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.vertafore.com/node/1"
+    },
+    {
+        "link": "https://infomir.com",
+        "Heading": "   \n                            INFOMIR \u2013 IPTV Set Top Box manufacturer - Infomir\n                    ",
+        "Abstract": "Make your business work with Infomir products. We'll be glad to welcome your company as a partner.",
+        "Official Site": "https://infomir.com/",
+        "Icon": "https://infomir.com/wp-content/uploads/2021/11/02_map_Desktop-1.png",
+        "Redirect": "https://infomir.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://infomir.com/"
+    },
+    {
+        "link": "https://starwalk.space",
+        "Heading": "Easily Identify Stars At Night | Mobile Stargazing | Essential Guide To Astronomy",
+        "Abstract": "Explore the night sky tonight from your location. Try this exquisite stargazing tool. Take an effortless journey through thousands of stars, planets and constellations.",
+        "Official Site": "https://starwalk.space/en",
+        "Icon": "/assets/opengraph_card.jpg",
+        "Redirect": "https://starwalk.space/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://starwalk.space/en"
+    },
+    {
+        "link": "https://robokassa.ru",
+        "Heading": "\u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0439 \u0441\u0435\u0440\u0432\u0438\u0441 Robokassa: \u043f\u0440\u0438\u0435\u043c \u043e\u043d\u043b\u0430\u0439\u043d \u043f\u043b\u0430\u0442\u0435\u0436\u0435\u0439 \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442\u0435 \u0434\u043b\u044f \u0418\u041f, \u041e\u041e\u041e \u0438 \u0441\u0430\u043c\u043e\u0437\u0430\u043d\u044f\u0442\u044b\u0445",
+        "Abstract": "\u041f\u0440\u0438\u0435\u043c \u043e\u043d\u043b\u0430\u0439\u043d-\u043f\u043b\u0430\u0442\u0435\u0436\u0435\u0439 \u0441 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u043e\u0439 \u0432\u0441\u0435\u0445 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432. \u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0441\u0435\u0440\u0432\u0438\u0441 \u043e\u043d\u043b\u0430\u0439\u043d-\u043e\u043f\u043b\u0430\u0442\u044b \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430. 130+ \u0433\u043e\u0442\u043e\u0432\u044b\u0445 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0439 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 24/7.",
+        "Official Site": "https://robokassa.com/",
+        "Icon": "https://robokassa.com/local/templates/robokassa/images/logo.svg",
+        "Redirect": "https://robokassa.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://robokassa.com/"
+    },
+    {
+        "link": "https://balad.ir",
+        "Heading": "\u0646\u0642\u0634\u0647 \u0648 \u0645\u0633\u06cc\u0631\u06cc\u0627\u0628 \u0628\u0644\u062f",
+        "Abstract": "\u0646\u0642\u0634\u0647 \u0648 \u0645\u0633\u06cc\u0631\u06cc\u0627\u0628 \u0633\u062e\u0646\u06af\u0648\u06cc \u0641\u0627\u0631\u0633\u06cc \u0628\u0644\u062f\u060c \u0646\u0642\u0634\u0647 \u0634\u0647\u0631\u0647\u0627 \u0645\u062b\u0644 \u062a\u0647\u0631\u0627\u0646\u060c \u0645\u0634\u0647\u062f\u060c \u0627\u0635\u0641\u0647\u0627\u0646 \u0648 \u0634\u06cc\u0631\u0627\u0632 \u0631\u0648 \u062f\u0627\u0631\u0647 \u0648 \u0631\u0633\u062a\u0648\u0631\u0627\u0646\u060c \u0628\u06cc\u0645\u0627\u0631\u0633\u062a\u0627\u0646\u060c \u062f\u0627\u0631\u0648\u062e\u0627\u0646\u0647\u060c \u062a\u0639\u0648\u06cc\u0636 \u067e\u0644\u0627\u06a9\u060c \u062f\u0641\u0627\u062a\u0631 \u067e\u06cc\u0634\u062e\u0648\u0627\u0646 \u0648 \u0637\u0631\u062d \u062a\u0631\u0627\u0641\u06cc\u06a9 \u0631\u0648 \u0628\u0644\u062f\u0647.",
+        "Official Site": "https://balad.ir",
+        "Icon": "https://cdn.balad.ir/public/_next/static/media/balad.5cb3184921efa5fc201eee128bef55bc.svg",
+        "Redirect": "https://balad.ir",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://balad.ir"
+    }
+]
