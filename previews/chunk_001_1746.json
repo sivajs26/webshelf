@@ -1,0 +1,222 @@
+[
+    {
+        "link": "https://opnxng.com",
+        "Heading": "OpnXNG",
+        "Abstract": "SearXNG \u2014 a privacy-respecting, open metasearch engine",
+        "Official Site": "https://opnxng.com",
+        "Icon": "/static/themes/simple/img/favicon.png",
+        "Redirect": "https://opnxng.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://opnxng.com"
+    },
+    {
+        "link": "https://kfdm.com",
+        "Heading": "Beaumont News, Weather, Sports, Breaking News",
+        "Abstract": " KFDM",
+        "Official Site": "https://kfdm.com",
+        "Icon": "https://kfdm.com/resources/assets/kfdm/images/brand-icons/KFDM-16x9.jpg",
+        "Redirect": "https://kfdm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kfdm.com"
+    },
+    {
+        "link": "https://badvin.com",
+        "Heading": "BADVIN - VIN reports for everybody. Salvaged, damaged, used cars. Auction lots history.",
+        "Abstract": "Best place to get your VIN report with photos. Data about salvaged, damaged, repairable and used cars and motorcycles. Information from auctions and classifieds.",
+        "Official Site": "https://badvin.com",
+        "Icon": "/etc/badvin-logo-square-100.png",
+        "Redirect": "https://badvin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://badvin.com"
+    },
+    {
+        "link": "https://3deye.me",
+        "Heading": "Cloud Video Surveillance: AI-Powered CCTV Online Streaming, Storage & Proactive Security | 3dEYE",
+        "Abstract": "Affordable cloud video surveillance solution for business. 3dEYE cloud camera system is infinitely scalable & flexible, ideal for multiple locations.",
+        "Official Site": "https://www.3deye.ai",
+        "Icon": "https://www.3deye.ai/wp-content/uploads/2025/11/preview-3deye.png",
+        "Redirect": "https://www.3deye.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.3deye.ai"
+    },
+    {
+        "link": "https://cbdfx.com",
+        "Heading": "CBDfx\u00ae - CBD Gummies, CBD Vapes & Mushroom Products",
+        "Abstract": "CBDfx is a market leader in the CBD industry with thousands of positive customer reviews. Our products are organic, highest quality & Lab Tested.",
+        "Official Site": "https://cbdfx.com/",
+        "Icon": "http://cbdfx.com/cdn/shop/files/CBDfx-400x400px_a984aabf-fdf6-4b27-977b-48565f0c5b2d.jpg?v=1762275423",
+        "Redirect": "https://cbdfx.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cbdfx.com/"
+    },
+    {
+        "link": "https://seafile.com",
+        "Heading": "Seafile - Open Source File Sync and Share Software",
+        "Abstract": "Seafile is an open source, self-hosted file sync and share solution with high performance and reliability. Sync, access, and collaborate on files on your own server or private cloud.",
+        "Official Site": "https://seafile.com",
+        "Icon": "/media/img/favicon.png?t=3",
+        "Redirect": "https://seafile.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seafile.com"
+    },
+    {
+        "link": "https://shopinsync.com",
+        "Heading": "InSync AI \u2014 The Agentic Platform",
+        "Abstract": null,
+        "Official Site": "https://shopinsync.com",
+        "Icon": "https://d2c0xhqyhmtkod.cloudfront.net/insyncai-website-v4/images/favicon.png",
+        "Redirect": "https://shopinsync.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shopinsync.com"
+    },
+    {
+        "link": "https://setlistfm.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://setlistfm.com",
+        "Icon": "N/A",
+        "Redirect": "https://setlistfm.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://setlistfm.com"
+    },
+    {
+        "link": "https://tikona.in",
+        "Heading": "Tikona: Connectivity for Business & Home",
+        "Abstract": "Tikona is a trusted telecom service provider of high-performance connectivity and cutting-edge cloud solutions, catering to enterprises, businesses, and homes across India. Our solutions include broadband, internet lease line, MPLS, VPN, secured office Wi-Fi, and cloud solutions designed specifically for offices, business and enterprises.",
+        "Official Site": "https://www.tikona.in/aboutus",
+        "Icon": "https://assets.tikona.in/tikona/tikonalogo/logo188x48.png",
+        "Redirect": "https://www.tikona.in/aboutus",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tikona.in/aboutus"
+    },
+    {
+        "link": "https://justcolor.net",
+        "Heading": "Coloring Pages for Adults to print or download | Just Color",
+        "Abstract": "Just Color : Coloring Pages for Adults - Download in PDF or print intricate anti-stress designs, mandalas, and themed coloring pages to relax and develop your creativity.",
+        "Official Site": "https://www.justcolor.net/",
+        "Icon": "N/A",
+        "Redirect": "https://www.justcolor.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.justcolor.net/"
+    },
+    {
+        "link": "https://listenbrainz.org",
+        "Heading": "ListenBrainz",
+        "Abstract": "Track, explore, visualise and share the music you listen to. Follow your favourites and discover great new music.",
+        "Official Site": "https://listenbrainz.org",
+        "Icon": "https://listenbrainz.org/static/img/share-header.png",
+        "Redirect": "https://listenbrainz.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://listenbrainz.org"
+    },
+    {
+        "link": "https://terminland.de",
+        "Heading": "\nTerminland | Einfach Termine online buchen",
+        "Abstract": "F\u00fchrende Online-Terminbuchung f\u00fcr alle Branchen. \u00dcber Terminland k\u00f6nnen Kunden rund um die Uhr online einen Termine buchen, auch abends und am Wochenende.",
+        "Official Site": "https://terminland.de",
+        "Icon": "https://www.terminland.de/images/terminlandx1200.jpg",
+        "Redirect": "https://terminland.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://terminland.de"
+    },
+    {
+        "link": "https://clockwisemd.com",
+        "Heading": "The #1 Urgent Care Software & EMR| Experity\u00ae",
+        "Abstract": "Simplify the delivery and management of on-demand care with the best end-to-end, integrated urgent care software from Experity. Request a demo today.",
+        "Official Site": "https://www.experityhealth.com/",
+        "Icon": "https://www.experityhealth.com/wp-content/uploads/2026/02/experity-software-interface.webp",
+        "Redirect": "https://www.experityhealth.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.experityhealth.com/"
+    },
+    {
+        "link": "https://bangladeshembassy.ru",
+        "Heading": "\u0422\u043e\u043f \u043a\u0430\u0437\u0438\u043d\u043e \u043e\u043d\u043b\u0430\u0439\u043d | \u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u043b\u0443\u0447\u0448\u0438\u0445 10 \u043a\u0430\u0437\u0438\u043d\u043e \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438",
+        "Abstract": "\u0420\u0435\u0439\u0442\u0438\u043d\u0433 \u043b\u0443\u0447\u0448\u0438\u0445 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0437\u0438\u043d\u043e - \u0441\u0430\u043c\u044b\u0439 \u043f\u0440\u043e\u0441\u0442\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431 \u043f\u043e\u0434\u043e\u0431\u0440\u0430\u0442\u044c \u0437\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0441\u0442\u0430\u0432\u043e\u043a. \u041e\u0431\u0437\u043e\u0440 \u0438 \u0422\u041e\u041f 10 \u043a\u0430\u0437\u0438\u043d\u043e \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u043d\u0430\u0439\u0442\u0438 \u043c\u0435\u0441\u0442\u043e, \u0433\u0434\u0435 \u0438\u0433\u0440\u0430\u0442\u044c \u043d\u0430 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438 \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0441\u0435\u0433\u043e\u0434\u043d\u044f.",
+        "Official Site": "https://bangladeshembassy.ru/",
+        "Icon": "/storage/logotype/MY0uRqac4rVvBTEzRYB11EFdlTWF8UVLTXa3xwWo.webp",
+        "Redirect": "https://bangladeshembassy.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bangladeshembassy.ru/"
+    },
+    {
+        "link": "https://dimensional.com",
+        "Heading": "Dimensional Fund Advisors | Dimensional",
+        "Abstract": "Experience Dimensional Investing. Learn how we put financial science to work for clients around the world.",
+        "Official Site": "https://www.dimensional.com",
+        "Icon": "https://www.dimensional.com/chmedia/357551/1800/dimensional-logo.webp",
+        "Redirect": "https://www.dimensional.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dimensional.com"
+    },
+    {
+        "link": "https://nakagawa-masashichi.jp",
+        "Heading": "\u4e2d\u5ddd\u653f\u4e03\u5546\u5e97\u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d7\uff5c\u65e5\u672c\u306e\u5de5\u82b8\u3092\u5143\u6c17\u306b\u3059\u308b\uff01",
+        "Abstract": "\u4e2d\u5ddd\u653f\u4e03\u5546\u5e97\uff08\u306a\u304b\u304c\u308f\u307e\u3055\u3057\u3061\u3057\u3087\u3046\u3066\u3093\uff09\u306e\u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d7\u3002\u4eab\u4fdd\u5143\u5e74\uff081716\uff09\u306b\u5948\u826f\u306e\u5730\u306b\u3066\u5275\u696d\u3057\u3001\u624b\u7e3e\u307f\u624b\u7e54\u308a\u306e\u9ebb\u7e54\u7269\u3092\u4e2d\u5fc3\u306b\u3001\u65e5\u672c\u5168\u56fd\u306e\u5de5\u82b8\u6280\u8853\u3092\u6d3b\u304b\u3057\u305f\u3082\u306e\u3065\u304f\u308a\u3092\u3057\u3066\u304a\u308a\u307e\u3059\u3002",
+        "Official Site": "https://nakagawa-masashichi.jp",
+        "Icon": "N/A",
+        "Redirect": "https://nakagawa-masashichi.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nakagawa-masashichi.jp"
+    },
+    {
+        "link": "https://inholland.nl",
+        "Heading": "Hbo-opleidingen | Hogeschool Inholland",
+        "Abstract": "Maak kennis met Hogeschool Inholland en ontdek welke hbo-opleiding (in deeltijd) bij jou past!",
+        "Official Site": "https://inholland.nl",
+        "Icon": "https://www.inholland.nl/assets/img/hogeschool-inholland.png",
+        "Redirect": "https://inholland.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://inholland.nl"
+    },
+    {
+        "link": "https://kyliecosmetics.com",
+        "Heading": "Kylie Cosmetics by Kylie Jenner | Kylie Jenner Fragrances | Kylie Skin",
+        "Abstract": "Shop Kylie Cosmetics by Kylie Jenner, Kylie Jenner Fragrances and Kylie Skin featuring award-winning makeup, fragrance, and skincare that's clean, vegan, cruelty-free, and dermatologist-tested.",
+        "Official Site": "https://kyliecosmetics.com/",
+        "Icon": "http://kyliecosmetics.com/cdn/shop/files/kylie-cosmetics-by-kylie-jenner-logo_07a782a4-7a90-4d46-b7a0-31bbafd38552.png?crop=center&height=1024&v=1677023111&width=1024",
+        "Redirect": "https://kyliecosmetics.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kyliecosmetics.com/"
+    },
+    {
+        "link": "https://fraps.com",
+        "Heading": "FRAPS show fps, record video game movies, screen capture software",
+        "Abstract": null,
+        "Official Site": "https://fraps.com",
+        "Icon": "N/A",
+        "Redirect": "https://fraps.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fraps.com"
+    },
+    {
+        "link": "https://ppns.ac.id",
+        "Heading": "PPNS-SHIPS | Politeknik Perkapalan Negeri Surabaya | Shipbuilding Institute of Polytechnic Surabaya | Surabaya, Indonesia \u2013 Official Site | Situs Resmi",
+        "Abstract": null,
+        "Official Site": "https://ppns.ac.id",
+        "Icon": "https://ppns.ac.id/wp-content/uploads/2023/08/favicon.ico",
+        "Redirect": "https://ppns.ac.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ppns.ac.id"
+    },
+    {
+        "link": "https://pditechnologies.com",
+        "Heading": "PDI Technologies | Fuel Wholesale & Convenience Retail Solutions",
+        "Abstract": "PDI Technologies helps fuel wholesalers and convenience retailers increase business productivity, profitability, loyalty, and security by Connecting Convenience.",
+        "Official Site": "https://pditechnologies.com/",
+        "Icon": "https://pditechnologies.com/wp-content/uploads/2022/08/PDI-case-studies-logo-2.png",
+        "Redirect": "https://pditechnologies.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pditechnologies.com/"
+    },
+    {
+        "link": "https://planetnatural.com",
+        "Heading": "Home | Planet Natural",
+        "Abstract": "The Original Your Natural Gardening Superstore Shop Now Since 1991, PlanetNatural has served local customers with the best in natural and organic products...",
+        "Official Site": "https://www.planetnatural.com/",
+        "Icon": "https://www.planetnatural.com/wp-content/uploads/2024/10/Ellipse-7-2.png",
+        "Redirect": "https://www.planetnatural.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.planetnatural.com/"
+    }
+]

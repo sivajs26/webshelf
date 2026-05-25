@@ -1,0 +1,322 @@
+[
+    {
+        "link": "https://giscus.app",
+        "Heading": "giscus",
+        "Abstract": "A comments widget built on GitHub Discussions.",
+        "Official Site": "https://giscus.app",
+        "Icon": "https://opengraph.githubassets.com/4f866d5b634e7cd5422af77f8dbfb6d48dd288b7c5c18326544c1973210320ed/giscus/giscus",
+        "Redirect": "https://giscus.app",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://giscus.app"
+    },
+    {
+        "link": "https://dictu.nl",
+        "Heading": "Home | Dictu.nl",
+        "Abstract": null,
+        "Official Site": "https://dictu.nl",
+        "Icon": "/core/misc/favicon.ico",
+        "Redirect": "https://dictu.nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dictu.nl"
+    },
+    {
+        "link": "https://rolldown.rs",
+        "Heading": "Rolldown",
+        "Abstract": "Fast Rust-based bundler for JavaScript with Rollup-compatible API",
+        "Official Site": "https://rolldown.rs/",
+        "Icon": "https://rolldown.rs/og.jpg",
+        "Redirect": "https://rolldown.rs/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rolldown.rs/"
+    },
+    {
+        "link": "https://homeswapper.co.uk",
+        "Heading": "HomeSwapper",
+        "Abstract": "HomeSwapper is the UK\u2019s leading mutual exchange service with over 500,000 tenants, looking to swap Council and Housing Association homes.",
+        "Official Site": "https://homeswapper.co.uk",
+        "Icon": "https://www.homeswapper.co.uk/Content/Images/homepage/apple-touch-icon-114x114.png",
+        "Redirect": "https://homeswapper.co.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://homeswapper.co.uk"
+    },
+    {
+        "link": "https://mriyaresort.com",
+        "Heading": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043a\u0443\u0440\u043e\u0440\u0442\u0430 \u041c\u0440\u0438\u044f \u0432 \u041a\u0440\u044b\u043c\u0443",
+        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0438\u0306 \u0441\u0430\u0438\u0306\u0442 \u043a\u0443\u0440\u043e\u0440\u0442\u0430 \u041c\u0440\u0438\u044f. \u0423\u0441\u043b\u043e\u0432\u0438\u044f \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u0438\u044f, \u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043e\u043d\u043b\u0430\u0439\u043d, \u0442\u0440\u0430\u043d\u0441\u0444\u0435\u0440, \u043e\u0437\u0434\u043e\u0440\u043e\u0432\u043b\u0435\u043d\u0438\u0435, \u043f\u0430\u0440\u043a\u0438, \u044d\u043a\u0441\u043a\u0443\u0440\u0441\u0438\u0438, \u0441\u043f\u043e\u0440\u0442 \u0438 \u0444\u0438\u0442\u043d\u0435\u0441, \u043c\u043e\u0440\u0441\u043a\u0438\u0435 \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438, \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0432\u044b\u0431\u043e\u0440 \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u0432 \u0438 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u043d\u0435\u0437\u0430\u0431\u044b\u0432\u0430\u0435\u043c\u043e\u0433\u043e \u043e\u0442\u0434\u044b\u0445\u0430 \u0443 \u043c\u043e\u0440\u044f \u0432 \u043e\u0442\u0435\u043b\u0435 \u041c\u0440\u0438\u044f \u0432 \u041a\u0440\u044b\u043c\u0443.",
+        "Official Site": "https://mriyaresort.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://mriyaresort.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mriyaresort.com"
+    },
+    {
+        "link": "https://goldencorral.com",
+        "Heading": "Golden Corral | Endless Buffet | America's #1 Buffet Restaurant",
+        "Abstract": "America's #1 All You Can Eat Buffet. With over 150 choices, there's something for everyone at Golden Corral. Find a Golden Corral near you today!",
+        "Official Site": "https://www.goldencorral.com/",
+        "Icon": "https://www.goldencorral.com/wp-content/uploads/2023/05/gc-gift-card-everyone.webp",
+        "Redirect": "https://www.goldencorral.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.goldencorral.com/"
+    },
+    {
+        "link": "https://finanzen-zero.net",
+        "Heading": "finanzen.net ZERO: Aktien & ETFs ohne Geb\u00fchren (zzgl. Spreads)",
+        "Abstract": "Bei finanzen.net zero kannst Du mehr als 8.500 Aktien, \u00fcber 2.000 ETFs/ETCs und mehr als 900.000 Zertifikate geb\u00fchrenfrei (zzgl. Spreads) und einfach handeln.",
+        "Official Site": "/zero/",
+        "Icon": "/zero/wp-content/uploads/2022/03/favicon.png",
+        "Redirect": "/zero/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/zero/"
+    },
+    {
+        "link": "https://planetb.fr",
+        "Heading": "PLANET Bourgogne - H\u00e9bergement et Infog\u00e9rance - D\u00e9veloppement web et logiciel - PLANET Bourgogne",
+        "Abstract": null,
+        "Official Site": "https://www.planetb.fr/",
+        "Icon": "https://www.planetb.fr/wp-content/uploads/2022/07/PLANET_logo-slogan.png",
+        "Redirect": "https://www.planetb.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.planetb.fr/"
+    },
+    {
+        "link": "https://rideapart.com",
+        "Heading": "Motorcycle News, Reviews and How-Tos for Enthusiasts | RideApart",
+        "Abstract": "News, bike and gear reviews, expert advice, how-to guides, history, and great lists.  Be informed, be inspired, keep that right hand cranked.",
+        "Official Site": "https://www.rideapart.com/",
+        "Icon": "https://cdn.motor1.com/custom/share/rideapart_loadimage.png",
+        "Redirect": "https://www.rideapart.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rideapart.com/"
+    },
+    {
+        "link": "https://bandhanlife.com",
+        "Heading": "Bandhan Life Insurance | Life Insurance plans in India 2026",
+        "Abstract": "Explore Bandhan Life insurance plans with a 99.73% claim settlement rate & simple online process. Protect your family's future with reliable financial coverage.",
+        "Official Site": "https://www.bandhanlife.com",
+        "Icon": "/themes/custom/bandhan_life/favicon.ico",
+        "Redirect": "https://www.bandhanlife.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bandhanlife.com"
+    },
+    {
+        "link": "https://exelaonline.com",
+        "Heading": "HGM Limited | Technology-Driven AI & Healthcare Solutions",
+        "Abstract": "HGM Limited delivers AI-driven tech and healthcare solutions. Discover scalable services and drive growth. Get started with us today.",
+        "Official Site": "https://exelaonline.com",
+        "Icon": "https://hgmlimited.com/cdn/1755856816818.ico?v=1779732070451",
+        "Redirect": "https://exelaonline.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://exelaonline.com"
+    },
+    {
+        "link": "https://goolink.org",
+        "Heading": "goolink",
+        "Abstract": "Bootstrap HTML template and UI kit by Erilisdesign",
+        "Official Site": "https://goolink.org",
+        "Icon": "N/A",
+        "Redirect": "https://goolink.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://goolink.org"
+    },
+    {
+        "link": "https://kindred.co",
+        "Heading": "Kindred \u2014 Commerce Infrastructure for AI",
+        "Abstract": "Kindred connects AI platforms, browsers and apps to 75,000+ merchants worldwide \u2014 turning conversations into commerce with four enterprise APIs.",
+        "Official Site": "https://kindred.co/",
+        "Icon": "https://kindred.co/og-image.png",
+        "Redirect": "https://kindred.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kindred.co/"
+    },
+    {
+        "link": "https://workiva.com",
+        "Heading": "Workiva | AI-Powered Platform for Finance, Risk & Sustainability",
+        "Abstract": "Unify finance, risk, and sustainability teams in one platform with governed data, grounded AI, and the assurance your stakeholders demand.",
+        "Official Site": "https://workiva.com",
+        "Icon": "/sites/workiva/files/favicons/favicon-32x32.png",
+        "Redirect": "https://workiva.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://workiva.com"
+    },
+    {
+        "link": "https://dental-tribune.com",
+        "Heading": "Dental Tribune US - Latest dental news, webinars and events ",
+        "Abstract": "Stay up to date with daily dental news, webinars as well as market and product information. Dental Tribune US is your go-to source for insights into the latest developments in dentistry.",
+        "Official Site": "https://us.dental-tribune.com/",
+        "Icon": "https://cdn.dental-tribune.com/dti//0001/b6565be0/cmVzaXplLWNyb3Aodz0xMjAwO2g9NjI3O2FuY2hvcj1jZW50ZXIpOnNoYXJwZW4obGV2ZWw9MCk6b3V0cHV0KGZvcm1hdD1wbmcp/wp-content/themes/dt/images/DT-default-share.png",
+        "Redirect": "https://us.dental-tribune.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://us.dental-tribune.com/"
+    },
+    {
+        "link": "https://ranchworldads.com",
+        "Heading": "Horses for Sale | Ranch Classifieds | Ranch Horses for Sale",
+        "Abstract": "Ranch classifieds, Horses for Sale, Horse classifieds, Ranch Horses for sale, Cattle for Sale, Cattle Classifieds, Cattle Ranches for sale, Ranch jobs. Browse classifieds or place classifieds with 5 free photos.",
+        "Official Site": "https://ranchworldads.com",
+        "Icon": "N/A",
+        "Redirect": "https://ranchworldads.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ranchworldads.com"
+    },
+    {
+        "link": "https://capresebags.com",
+        "Heading": "\n          Shop Stylish Bags for Women Online and Elevate Your Everyday Look\n",
+        "Abstract": "Discover branded bags for women at Caprese. Shop stylish, trendy, and elegant ladies bags online designed to complement every outfit and elevate your look.",
+        "Official Site": "https://www.capresebags.com/",
+        "Icon": "http://www.capresebags.com/cdn/shop/files/logo_2.png?v=1715260502",
+        "Redirect": "https://www.capresebags.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.capresebags.com/"
+    },
+    {
+        "link": "https://onlineupdatestm.in",
+        "Heading": "Online Update STM - Latest Update, Jobs, Sarkari Yojana",
+        "Abstract": "Online Update STM - Latest Update \u00b7 Latest Jobs \u00b7 Sarkari Yojana \u00b7 Admit Card \u00b7 Results \u00b7 Admission \u00b7 Scholarship \u00b7 University Update.",
+        "Official Site": "https://onlineupdatestm.in/",
+        "Icon": "https://onlineupdatestm.in/wp-content/uploads/2022/11/cropped-cropped-logo-2-32x32.png",
+        "Redirect": "https://onlineupdatestm.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onlineupdatestm.in/"
+    },
+    {
+        "link": "https://golpermohol.com",
+        "Heading": "\u0997\u09b2\u09cd\u09aa\u09c7\u09b0 \u09ae\u09b9\u09b2 \u09a1\u099f \u0995\u09ae | \u098f\u0995\u099f\u09bf \u09ac\u09be\u0982\u09b2\u09be \u09b8\u09be\u09b9\u09bf\u09a4\u09cd\u09af \u099a\u09b0\u09cd\u099a\u09be\u09b0 \u0986\u09b8\u09b0\u0964",
+        "Abstract": null,
+        "Official Site": "https://golpermohol.com",
+        "Icon": "https://bunny-wp-pullzone-hpjp331h6q.b-cdn.net/wp-content/uploads/2020/09/cropped-20200901_141230-32x32.jpg",
+        "Redirect": "https://golpermohol.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://golpermohol.com"
+    },
+    {
+        "link": "https://sozialministerium.at",
+        "Heading": "Bundesministerium f\u00fcr Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz",
+        "Abstract": "Hier find Sie Informationen des Bundesministeriums f\u00fcr Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz",
+        "Official Site": "https://www.sozialministerium.gv.at/public.html",
+        "Icon": "https://www.sozialministerium.gv.at/dam/jcr:591e9e97-9f79-4a7a-9960-4276012b08e8/BMASGPK_Logo_1200x630px.jpg",
+        "Redirect": "https://www.sozialministerium.gv.at/public.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sozialministerium.gv.at/public.html"
+    },
+    {
+        "link": "https://nandico.in",
+        "Heading": "Nandico Pacs",
+        "Abstract": null,
+        "Official Site": "https://nandico.in",
+        "Icon": "/nandico/assets/favicon",
+        "Redirect": "https://nandico.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nandico.in"
+    },
+    {
+        "link": "https://qase.io",
+        "Heading": "Qase \u2014 Shipping velocity meets release quality",
+        "Abstract": "Qase is a test management platform that brings CI results, automated test runs, and manual testing into one view \u2014 so engineering teams can ship every release with confidence, not anxiety.",
+        "Official Site": "https://www.qase.io/",
+        "Icon": "https://www.qase.io/og-qase.png",
+        "Redirect": "https://www.qase.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.qase.io/"
+    },
+    {
+        "link": "https://h2.nexus",
+        "Heading": "h2.nexus - VPS/VDS hosting on AMD Ryzen servers",
+        "Abstract": null,
+        "Official Site": "https://h2.nexus",
+        "Icon": "/source/favicon/favicon-32x32.png",
+        "Redirect": "https://h2.nexus",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://h2.nexus"
+    },
+    {
+        "link": "https://ladylike.gr",
+        "Heading": "H \u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 | Ladylike.gr",
+        "Abstract": "\u03a4\u03bf LadyLike \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03bd\u03ad\u03bf\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03bf\u03c2 \u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03c4\u03b7\u03c2 \u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b1\u03c2 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1. Opinions, \u03bc\u03cc\u03b4\u03b1, \u03bf\u03bc\u03bf\u03c1\u03c6\u03b9\u03ac, wellness, \u03c3\u03c7\u03ad\u03c3\u03b5\u03b9\u03c2, \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7, \u03b6\u03ce\u03b4\u03b9\u03b1, \u03c4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7, celebrity \u03bd\u03ad\u03b1.",
+        "Official Site": "https://www.ladylike.gr/",
+        "Icon": "https://media.ladylike.gr/ldl-images/LADYLIKE_ogimage.png",
+        "Redirect": "https://www.ladylike.gr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ladylike.gr/"
+    },
+    {
+        "link": "https://0kkbd.com",
+        "Heading": "KKBD",
+        "Abstract": null,
+        "Official Site": "https://0kkbd.com",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+        "Redirect": "https://0kkbd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://0kkbd.com"
+    },
+    {
+        "link": "https://portaljob-madagascar.com",
+        "Heading": "PortalJob",
+        "Abstract": null,
+        "Official Site": "https://portaljob-madagascar.com",
+        "Icon": "/ico-pjm.ico",
+        "Redirect": "https://portaljob-madagascar.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://portaljob-madagascar.com"
+    },
+    {
+        "link": "https://xn--72c9ahqu7b4bxb3hpd.net",
+        "Heading": "\u0e2b\u0e19\u0e31\u0e07\u0e42\u0e1b\u0e4a\u0e1f\u0e23\u0e35 \u0e04\u0e25\u0e34\u0e1b\u0e42\u0e1b\u0e4a\u0e1f\u0e23\u0e35 \u0e2b\u0e19\u0e31\u0e07x\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e14\u0e39\u0e2b\u0e19\u0e31\u0e07\u0e42\u0e1b\u0e4a \u0e2b\u0e19\u0e31\u0e07\u0e42\u0e1b\u0e4a\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19 \u0e2b\u0e35 \u0e40\u0e22\u0e47\u0e14 \u0e04\u0e27\u0e22 XXX 18+",
+        "Abstract": "\u0e2b\u0e19\u0e31\u0e07\u0e42\u0e1b\u0e4a\u0e14\u0e39\u0e1f\u0e23\u0e35 \u0e2b\u0e19\u0e31\u0e07\u0e40\u0e2d\u0e47\u0e01\u0e1f\u0e23\u0e35 \u0e2b\u0e19\u0e31\u0e07\u0e2d\u0e32\u0e23\u0e4c\u0e1f\u0e23\u0e35 \u0e2b\u0e19\u0e31\u0e07AV\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19\u0e1f\u0e23\u0e35 \u0e04\u0e25\u0e34\u0e1b\u0e42\u0e1b\u0e4a\u0e1f\u0e23\u0e35 \u0e04\u0e25\u0e34\u0e1b\u0e2b\u0e25\u0e38\u0e14\u0e01\u0e25\u0e38\u0e48\u0e21\u0e25\u0e31\u0e1a \u0e01\u0e25\u0e38\u0e48\u0e21VIP XXX \u0e04\u0e25\u0e34\u0e1b\u0e25\u0e31\u0e1a \u0e04\u0e25\u0e34\u0e1b\u0e40\u0e14\u0e47\u0e14\u0e17\u0e35\u0e48\u0e23\u0e27\u0e1a\u0e23\u0e27\u0e21\u0e21\u0e32\u0e14\u0e39\u0e41\u0e1a\u0e1a\u0e1f\u0e23\u0e35\u0e46 \u0e2d\u0e34\u0e48\u0e21\u0e2b\u0e19\u0e33\u0e2a\u0e33\u0e23\u0e32\u0e0d\u0e43\u0e08",
+        "Official Site": "https://www.xn--72c9ahqu7b4bxb3hpd.net",
+        "Icon": "https://www.xn--72c9ahqu7b4bxb3hpd.net/wp-content/uploads/2018/01/nungpofeefav.png",
+        "Redirect": "https://www.xn--72c9ahqu7b4bxb3hpd.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.xn--72c9ahqu7b4bxb3hpd.net"
+    },
+    {
+        "link": "https://unze.com.pk",
+        "Heading": "\n    Women Shoes | Men Shoes | Online Shopping in Pakistan | Unze London\n    \n    \n    \n  ",
+        "Abstract": "Buy Unze London Women's Shoes online at Unze.Com.Pk. Large selection of Women's Shoes by Unze London. Order now. Buy Online Women Shoes in Pakistan. Shop Now.",
+        "Official Site": "https://unze.com.pk/",
+        "Icon": "http://unze.com.pk/cdn/shop/files/Unze-London-Logo_21b5f1f2-4740-4b42-b544-798c54b1661b_1200x1200.png?v=1681381879",
+        "Redirect": "https://unze.com.pk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unze.com.pk/"
+    },
+    {
+        "link": "https://poprostupycha.com.pl",
+        "Heading": "Po Prostu Pycha - Sprawdzone przepisy kulinarne - Blog kulinarny",
+        "Abstract": "Blog kulinarny poprostupycha.com.pl to pyszne i sprawdzone przepisy kulinarne. Przepisy na ciasta, przepisy na obiad, przepisy na sa\u0142atki, przepisy na zupy.",
+        "Official Site": "https://poprostupycha.com.pl/",
+        "Icon": "https://poprostupycha.com.pl/wp-content/uploads/2022/06/cropped-favicon-poprostupycha-32x32.jpg",
+        "Redirect": "https://poprostupycha.com.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://poprostupycha.com.pl/"
+    },
+    {
+        "link": "https://stadt-muenster.de",
+        "Heading": "Startseite | Stadt M\u00fcnster",
+        "Abstract": null,
+        "Official Site": "https://stadt-muenster.de",
+        "Icon": "N/A",
+        "Redirect": "https://stadt-muenster.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stadt-muenster.de"
+    },
+    {
+        "link": "https://smoobu.com",
+        "Heading": "The All-In-One Software for Vacation Rental Management",
+        "Abstract": "Simplify your short-term rental business with our Channel Manager, Property Management System (PMS), Guest Communication, and more!",
+        "Official Site": "https://www.smoobu.com/en/",
+        "Icon": "https://www.smoobu.com/wp-content/uploads/2024/07/smoobu_featured_image_001.png",
+        "Redirect": "https://www.smoobu.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.smoobu.com/en/"
+    },
+    {
+        "link": "https://fxmconnect.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://fxmconnect.com",
+        "Icon": "N/A",
+        "Redirect": "https://fxmconnect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fxmconnect.com"
+    }
+]

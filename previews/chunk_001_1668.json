@@ -1,0 +1,342 @@
+[
+    {
+        "link": "https://vip-site1.ru",
+        "Heading": "VIP-\u0445\u043e\u0441\u0442\u0438\u043d\u0433 \u0434\u043b\u044f \u0412\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430",
+        "Abstract": null,
+        "Official Site": "https://vip-site1.ru",
+        "Icon": "N/A",
+        "Redirect": "https://vip-site1.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vip-site1.ru"
+    },
+    {
+        "link": "https://bmswiki.com",
+        "Heading": "Free encyclopedia, created and edited by volunteers around the world",
+        "Abstract": "",
+        "Official Site": "https://bmswiki.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://bmswiki.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bmswiki.com"
+    },
+    {
+        "link": "https://wxs.nl",
+        "Heading": "Welkom bij KPN: het netwerk van Nederland | KPN",
+        "Abstract": "Met KPN Combivoordeel stel je al jouw thuis en mobiele abonnementen zelf samen. Internet, mobiel, TV, entertainment en meer. Via het netwerk van Nederland.",
+        "Official Site": "https://www.kpn.com/",
+        "Icon": "/_nuxt_public/assets/images/favicons/favicon.ico",
+        "Redirect": "https://www.kpn.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.kpn.com/"
+    },
+    {
+        "link": "https://elidealgallego.com",
+        "Heading": "El Ideal Gallego. Noticias y \u00faltima hora en A Coru\u00f1a y comarca, Galicia y Espa\u00f1a",
+        "Abstract": "Tu peri\u00f3dico local. Te contamos todo lo que sucede en A Coru\u00f1a, \u00e1rea metropolitana y Galicia.",
+        "Official Site": "https://www.elidealgallego.com/",
+        "Icon": "https://imagenes.elidealgallego.com/files/og_thumbnail/uploads/2025/09/16/xgh3geifrmfmir2jz.png",
+        "Redirect": "https://www.elidealgallego.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.elidealgallego.com/"
+    },
+    {
+        "link": "https://norway.no",
+        "Heading": "The Norway Portal - Norwegian Ministry of Foreign Affairs",
+        "Abstract": "Welcome to the pages for the embassies and permanent missions of the Norwegian foreign service.\u00a0This page contains all Norwegian diplomatic missions and the countries that Norway has diplomatic relations with.\u00a0",
+        "Official Site": "https://www.norway.no/en/",
+        "Icon": "https://www.norway.no//globalassets/love.png",
+        "Redirect": "https://www.norway.no/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.norway.no/en/"
+    },
+    {
+        "link": "https://getfeedback.com",
+        "Heading": "GetFeedback: Customer Experience Platform",
+        "Abstract": "The GetFeedback customer experience (CX) platform helps you understand why, so you can take action when it matters most.",
+        "Official Site": "https://www.surveymonkey.com/product/getfeedback/",
+        "Icon": "https://prod.smassets.net/assets/content/sm/featured-social-teaser-getfeedback-by-surveymonkey.webp",
+        "Redirect": "https://www.surveymonkey.com/product/getfeedback/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.surveymonkey.com/product/getfeedback/"
+    },
+    {
+        "link": "https://diply.com",
+        "Heading": "Diply \u2013 Get Lost Somewhere Good\u2026",
+        "Abstract": "edit post \u2018What Is The Purpose Of This Part Of A Towel?\u2019 \u2013 Online User Sparks Debate Over Confusing Detail",
+        "Official Site": "https://diply.com",
+        "Icon": "https://ondemand.bannerbear.com/signedurl/dG9OgQy8LMdyAkpMwJ/image/title/text/<?php echo urlencode(get_the_title()); ?>/image_container/image_url/<?php echo get_the_post_thumbnail_url(); ?>/logo_container/image_url/<?php echo get_site_icon_url(); ?>",
+        "Redirect": "https://diply.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://diply.com"
+    },
+    {
+        "link": "https://bikerumor.com",
+        "Heading": "Home Main - Bikerumor",
+        "Abstract": "All the best cycling news, tech, rumors and reviews for road bikes, mountain bikes, gravel bikes, cyclocross, enduro, trail, eMTB and e-bikes!",
+        "Official Site": "https://bikerumor.com/",
+        "Icon": "https://bikerumor.com/wp-content/uploads/2017/08/bikerumor-favicon-144-1-120x120.png",
+        "Redirect": "https://bikerumor.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bikerumor.com/"
+    },
+    {
+        "link": "https://szlcsc.com",
+        "Heading": "\u7acb\u521b\u5546\u57ce_\u4e00\u7ad9\u5f0f\u7535\u5b50\u5143\u5668\u4ef6\u548cMRO\u5de5\u4e1a\u54c1\u91c7\u8d2d\u5546\u57ce_\u5609\u7acb\u521b\u7535\u5b50\u5546\u57ce",
+        "Abstract": "\u7acb\u521b\u5546\u57ce-\u5609\u7acb\u521b\u65d7\u4e0b\u7535\u5b50\u5143\u5668\u4ef6\u548cMRO\u5de5\u4e1a\u54c1\u4e00\u7ad9\u5f0f\u91c7\u8d2d\u5e73\u53f0\uff0c76\u4e07\u79cd\u73b0\u8d27SKU\uff0c\u6db5\u76d6\u96c6\u6210\u7535\u8defIC\u3001\u5206\u7acb\u5668\u4ef6\u3001\u65e0\u6e90\u5668\u4ef6\u3001\u8fde\u63a5\u5668\u7b49\u6838\u5fc3\u54c1\u7c7b\u3002\u5e73\u53f0\u63d0\u4f9b\u6b63\u54c1\u4fdd\u969c\u3001BOM\u914d\u5355\u3001\u66ff\u4ee3\u67e5\u8be2\u3001\u5168\u7403\u8ba2\u8d27\u53ca\u6700\u5feb4\u5c0f\u65f6\u53d1\u8d27\u670d\u52a1\uff0c\u81f4\u529b\u4e3a\u5de5\u7a0b\u5e08\u548c\u91c7\u8d2d\u63d0\u4f9b\u9ad8\u6548\u7684\u7ebf\u4e0a\u91c7\u8d2d\u4f53\u9a8c\u3002",
+        "Official Site": "https://www.szlcsc.com/",
+        "Icon": "https://static.szlcsc.com/ecp/assets/newWeb/www/home/og-logo.png",
+        "Redirect": "https://www.szlcsc.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.szlcsc.com/"
+    },
+    {
+        "link": "https://artphotolimited.com",
+        "Heading": "ArtPhotoLimited - Photo d'art - Achat / Vente de photographies d'art en \u00e9dition limit\u00e9e",
+        "Abstract": "D\u00e9couvrez notre s\u00e9lection de photos d'art s\u00e9lectionn\u00e9es aupr\u00e8s de plus de 500 artistes. Toutes nos photographies d'art sont vendues en \u00e9dition vraiment limit\u00e9e avec un certificat d'authenticit\u00e9. Chaque photo d'art est disponible en plusieurs formats et finitions.",
+        "Official Site": "https://www.artphotolimited.com/",
+        "Icon": "https://www.artphotolimited.com/assets-prod/logo_100x100_transparent_white-5639b1dcfd480f4bc0e232591f1803984b84e1b7030a9a96ad265f33d934576c.png",
+        "Redirect": "https://www.artphotolimited.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.artphotolimited.com/"
+    },
+    {
+        "link": "https://cenovus.com",
+        "Heading": "Cenovus Energy",
+        "Abstract": "We\u2019re a Canadian-based integrated energy company headquartered in Calgary. We energize the world to make people\u2019s lives better.",
+        "Official Site": "https://www.cenovus.com/",
+        "Icon": "/-/media/Project/WWW/Images/Brand/wwwfavicon/www-favicon/www-favicon-16.png?rev=39cd1631474a4c3ab7c988b1c29bc09f&sc_lang=en",
+        "Redirect": "https://www.cenovus.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cenovus.com/"
+    },
+    {
+        "link": "https://openedu.ru",
+        "Heading": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435 - \u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430",
+        "Abstract": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0443\u0440\u0441\u044b \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0432\u0443\u0437\u043e\u0432 \u0420\u043e\u0441\u0441\u0438\u0438",
+        "Official Site": "https://openedu.ru",
+        "Icon": "https://cdn.openedu.ru/front/_next/static/media/favicon-16x16.001exzjdt3c58.png",
+        "Redirect": "https://openedu.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://openedu.ru"
+    },
+    {
+        "link": "https://80000hours.org",
+        "Heading": "80,000 Hours: How to make a difference with your career",
+        "Abstract": "This makes it your best opportunity to have a positive impact on the world. If you\u2019re fortunate enough to be able to use your career for good, but aren\u2019t sure how, we can help",
+        "Official Site": "https://80000hours.org/",
+        "Icon": "https://80000hours.org/wp-content/uploads/2015/12/og-image1.jpg",
+        "Redirect": "https://80000hours.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://80000hours.org/"
+    },
+    {
+        "link": "https://wisetechglobal.com",
+        "Heading": "\n    Changing the world of logistics and trade: WiseTech Global\n",
+        "Abstract": "WiseTech Global is changing the world of logistics and trade through world-leading software solutions. Find out how you can make an impact by joining our team.",
+        "Official Site": "https://www.wisetechglobal.com/",
+        "Icon": "https://wisetechglobal.com/media/ztandd1b/home-page-banner.jpg?width=1200&height=630&v=1d952b3f9dcefd0",
+        "Redirect": "https://www.wisetechglobal.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wisetechglobal.com/"
+    },
+    {
+        "link": "https://szhxws.com",
+        "Heading": "Shenzhen Hongxin NetVision Digital Technology Co., Ltd., ",
+        "Abstract": null,
+        "Official Site": "https://szhxws.com",
+        "Icon": "N/A",
+        "Redirect": "https://szhxws.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://szhxws.com"
+    },
+    {
+        "link": "https://healthhub.sg",
+        "Heading": "Home",
+        "Abstract": null,
+        "Official Site": "https://www.healthhub.sg/",
+        "Icon": "/-/media/project/synapxe/healthhub/favicon/hh-favicon.ico?rev=f48a10a49a9346318988727316a3a198",
+        "Redirect": "https://www.healthhub.sg/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.healthhub.sg/"
+    },
+    {
+        "link": "https://tiget.net",
+        "Heading": "TIGET | \u30e9\u30a4\u30d6\u30a4\u30d9\u30f3\u30c8\u306e\u30c1\u30b1\u30c3\u30c8\u8ca9\u58f2\u30fb\u8cfc\u5165\u30fb\u4e88\u7d04",
+        "Abstract": "TIGET\uff08\u30c1\u30b2\u30c3\u30c8\uff09\u306f\u3001\u30e9\u30a4\u30d6\u30a4\u30d9\u30f3\u30c8\u306e\u30c1\u30b1\u30c3\u30c8\u8ca9\u58f2\u30fb\u4e88\u7d04\u30fb\u7ba1\u7406\u3092\u7121\u6599\u3067\u304b\u3093\u305f\u3093\u306b\u3067\u304d\u308b\u30c1\u30b1\u30c3\u30c8\u8ca9\u58f2\u30b5\u30fc\u30d3\u30b9\u3067\u3059\u3002300,000\u4ef6\u4ee5\u4e0a\u306e\u97f3\u697d\u30e9\u30a4\u30d6\u306a\u3069\u306e\u30a4\u30d9\u30f3\u30c8\u3067\u4f7f\u308f\u308c\u3066\u3044\u307e\u3059\u3002\u30a4\u30d9\u30f3\u30c8\u3078\u306e\u4e8b\u524d\u6c7a\u6e08\u306e\u5c0e\u5165\u3082\u304b\u3093\u305f\u3093\u3002",
+        "Official Site": "https://tiget.net/",
+        "Icon": "//d13rtcers002cb.cloudfront.net/assets/ogimage-c03cee87f99ca04a23e60fd22bb28b7781405f778c7e6e646e02e6d3c63acb24.png",
+        "Redirect": "https://tiget.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tiget.net/"
+    },
+    {
+        "link": "https://ekt.gr",
+        "Heading": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a4\u03b5\u03ba\u03bc\u03b7\u03c1\u03af\u03c9\u03c3\u03b7\u03c2 | \u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03a4\u03b5\u03ba\u03bc\u03b7\u03c1\u03af\u03c9\u03c3\u03b7\u03c2 - \u0395\u039a\u03a4",
+        "Abstract": null,
+        "Official Site": "https://ekt.gr",
+        "Icon": "/sites/ekt-site/themes/ekt/images/ekt.ico",
+        "Redirect": "https://ekt.gr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ekt.gr"
+    },
+    {
+        "link": "https://lansecurity.ru",
+        "Heading": "LanSecurity - \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 it \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0439, \u0430\u0443\u0442\u0441\u043e\u0440\u0441\u0438\u043d\u0433",
+        "Abstract": "LanSecurity \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u044b\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f IT-\u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 - \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0443 \u0441\u0438\u0441\u0442\u0435\u043c, \u0430\u0440\u0435\u043d\u0434\u0443 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432 \u0438 IT-\u043a\u043e\u043d\u0441\u0430\u043b\u0442\u0438\u043d\u0433. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u0435 \u0446\u0435\u043d\u044b, \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u044f \u0438 \u043d\u0430\u0434\u0435\u0436\u043d\u043e\u0441\u0442\u044c!",
+        "Official Site": "https://www.lansecurity.ru",
+        "Icon": "https://thb.tildacdn.com/tild3063-6239-4166-b436-316632646561/-/resize/504x/tilda_back.jpg",
+        "Redirect": "https://www.lansecurity.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lansecurity.ru"
+    },
+    {
+        "link": "https://dismail.de",
+        "Heading": "dismail.de - secure private messaging",
+        "Abstract": "dismail.de - secure private services located in Germany",
+        "Official Site": "https://dismail.de",
+        "Icon": "N/A",
+        "Redirect": "https://dismail.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dismail.de"
+    },
+    {
+        "link": "https://buhgalteria.ru",
+        "Heading": "\u0411\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0438\u044f.\u0440\u0443\n                    ",
+        "Abstract": "C\u0430\u0439\u0442 \u0434\u043b\u044f \u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u043e\u0432, \u0430\u0443\u0434\u0438\u0442\u043e\u0440\u043e\u0432, \u043d\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0445 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442\u043e\u0432. \u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u0431\u0443\u0445\u0443\u0447\u0435\u0442\u0435 \u0438 \u043d\u0430\u043b\u043e\u0433\u043e\u043e\u0431\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u043e \u0438 \u0444\u043e\u0440\u0443\u043c \u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u043e\u0432. \u0411\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0438\u044f. \u0424\u043e\u0440\u043c\u044b \u043e\u0442\u0447\u0435\u0442\u043d\u043e\u0441\u0442\u0438. \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0437\u0430\u043a\u043e\u043d\u043e\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430, \u0431\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0441\u043a\u0438\u0439 \u0438 \u043d\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0439 \u0443\u0447\u0435\u0442, \u0415\u041d\u0412\u0414 \u0438 \u0423\u0421\u041d, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043e\u0442\u0447\u0435\u0442\u043d\u043e\u0441\u0442\u0438, \u043e\u0442\u0432\u0435\u0442\u044b \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435\u043b\u0435\u0439",
+        "Official Site": "https://www.buhgalteria.ru",
+        "Icon": "https://www.buhgalteria.ru/images/headers/66/11/66110fe5006e8c8f3420fb1934729ada.png",
+        "Redirect": "https://www.buhgalteria.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.buhgalteria.ru"
+    },
+    {
+        "link": "https://houstonisd.org",
+        "Heading": "Home - Houston Independent School District",
+        "Abstract": "Home - Houston Independent School District",
+        "Official Site": "https://www.houstonisd.org/",
+        "Icon": "https://resources.finalsite.net/images/f_auto,q_auto/v1746356455/houstonisdorg/mpkvvnn6vwm3mzrgm43u/AndersonElfavicon.png",
+        "Redirect": "https://www.houstonisd.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.houstonisd.org/"
+    },
+    {
+        "link": "https://polsub.ac.id",
+        "Heading": "Beranda - POLSUB",
+        "Abstract": "Politeknik Negeri Subang adalah perguruan tinggi negeri pertama di Kabupaten Subang. Pendidikan Politeknik Negeri Subang merupakan Pendidikan Tinggi Vokasi Program Diploma III yaitu program pendidikan yang bertujuan menyiapkan tenaga ahli, terampil, siap kerja, dan mampu bersaing di bidangnya yang ditempuh dalam kurun waktu 3 tahun atau 6 semester.",
+        "Official Site": "https://polsub.ac.id/",
+        "Icon": "https://polsub.ac.id/wp-content/uploads/2018/05/logoPOLSUB2-1.png",
+        "Redirect": "https://polsub.ac.id/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://polsub.ac.id/"
+    },
+    {
+        "link": "https://marylandtaxes.gov",
+        "Heading": "Home",
+        "Abstract": "Office of the Comptroller of Maryland, led by Comptroller Brooke E. Lierman. Working towards a more equitable, more resilient, and more prosperous Maryland. ",
+        "Official Site": "https://www.marylandcomptroller.gov/",
+        "Icon": "https://www.marylandcomptroller.gov/_jcr_content/_cq_featuredimage.coreimg.jpeg/1743189349071/about-01.jpeg",
+        "Redirect": "https://www.marylandcomptroller.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.marylandcomptroller.gov/"
+    },
+    {
+        "link": "https://endomondo.com",
+        "Heading": "Endomondo - Fitness & Nutrition Guide | Endomondo",
+        "Abstract": "Expert fitness guidance and wellness tools to help you reach your health goals. Endomondo.com supports every step of your fitness journey.",
+        "Official Site": "https://www.endomondo.com/",
+        "Icon": "https://www.endomondo.com/wp-content/uploads/2026/04/cropped-Dark-32x32.png",
+        "Redirect": "https://www.endomondo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.endomondo.com/"
+    },
+    {
+        "link": "https://lifewave.com",
+        "Heading": "Homepage - LifeWave",
+        "Abstract": null,
+        "Official Site": "https://lifewave.com",
+        "Icon": "N/A",
+        "Redirect": "https://lifewave.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lifewave.com"
+    },
+    {
+        "link": "https://wordmint.com",
+        "Heading": "Word Search, Bingo Card, Crossword Puzzle Maker - WordMint",
+        "Abstract": "Create your own word searches, crosswords, bingo cards, and bubble tests. Choose images and fonts. Start with over 400,000 pre-made puzzles.",
+        "Official Site": "https://wordmint.com/",
+        "Icon": "N/A",
+        "Redirect": "https://wordmint.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wordmint.com/"
+    },
+    {
+        "link": "https://thedailyrecord.com",
+        "Heading": "Maryland Daily Record",
+        "Abstract": "The Daily Record has been the only daily brand dedicated to covering business, legal and legislative news across the state of Maryland.",
+        "Official Site": "https://thedailyrecord.com/",
+        "Icon": "https://thedailyrecord.com/files/2026/03/IMG_7493-400x305.jpg",
+        "Redirect": "https://thedailyrecord.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thedailyrecord.com/"
+    },
+    {
+        "link": "https://organicthemes.com",
+        "Heading": "WordPress Block Themes and Plugins \u2013 Organic Themes \u2013 Premium WordPress block themes and plugins for the full-site editor.",
+        "Abstract": null,
+        "Official Site": "https://organicthemes.com",
+        "Icon": "https://i0.wp.com/organicthemes.com/wp-content/uploads/2016/09/cropped-organic-favicon-2.png?fit=32%2C32&ssl=1",
+        "Redirect": "https://organicthemes.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://organicthemes.com"
+    },
+    {
+        "link": "https://liquid-iv.com",
+        "Heading": "Liquid I.V. ",
+        "Abstract": "Liquid I.V. is an electrolyte drink mix powered by 3x electrolytes of leading sports drinks to hydrate faster and more efficiently. Made for refreshing,...",
+        "Official Site": "https://www.liquid-iv.com",
+        "Icon": "https://storefront-direct-upload.s3.amazonaws.com/658b69ad-86e3-42c2-ac71-ec4df3b0529c/favicon.png",
+        "Redirect": "https://www.liquid-iv.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.liquid-iv.com"
+    },
+    {
+        "link": "https://nuvei.com",
+        "Heading": "Nuvei | The infrastructure for every payment, everywhere",
+        "Abstract": "Unify pay-ins, payouts, and data on one intelligent platform. Accept every payment method, optimize performance locally, and scale globally with Nuvei.",
+        "Official Site": "https://nuvei.com",
+        "Icon": "https://cdn.prod.website-files.com/69bbe852f53519cb6c89312c/69e6815b9bf945343178b129_OG-image.jpg",
+        "Redirect": "https://nuvei.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nuvei.com"
+    },
+    {
+        "link": "https://achgut.com",
+        "Heading": "Startseite \u2013 DIE ACHSE DES GUTEN. ACHGUT.COM",
+        "Abstract": "Die Achse des Guten: Wir leisten uns was. Eine eigene Meinung.",
+        "Official Site": "https://www.achgut.com/",
+        "Icon": "https://www.achgut.com/assets2/achgut_com_icon_1080.png",
+        "Redirect": "https://www.achgut.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.achgut.com/"
+    },
+    {
+        "link": "https://man-es.com",
+        "Heading": "Everllence Home",
+        "Abstract": "Everllence (formerly: MAN Energy Solutions) is a leading provider of propulsion, decarbonization and efficiency solutions for shipping, the energy economy and industry. ",
+        "Official Site": "https://man-es.com",
+        "Icon": "/favicon/favicon-96x96.png",
+        "Redirect": "https://man-es.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://man-es.com"
+    },
+    {
+        "link": "https://valdemarne.fr",
+        "Heading": "Accueil | valdemarne.fr",
+        "Abstract": "Site officiel du Conseil d\u00e9partemental du Val-de-Marne : retrouvez les services, les actions et les actualit\u00e9s du D\u00e9partement.",
+        "Official Site": "https://valdemarne.fr",
+        "Icon": "/sites/default/files/favicon-valdemarne.ico",
+        "Redirect": "https://valdemarne.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://valdemarne.fr"
+    }
+]
