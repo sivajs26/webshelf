@@ -1,0 +1,282 @@
+[
+    {
+        "link": "https://pitergsm.ru",
+        "Heading": "PiterGSM - \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0438 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438 | \u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u0432 \u0438 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0433\u0430\u0434\u0436\u0435\u0442\u043e\u0432 \u043f\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0439 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u0438 \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435",
+        "Abstract": "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0430\u0441\u0441\u043e\u0440\u0442\u0438\u043c\u0435\u043d\u0442 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u0438, \u0446\u0438\u0444\u0440\u043e\u0432\u043e\u0439 \u0438 \u0431\u044b\u0442\u043e\u0432\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438, \u0430 \u0442\u0430\u043a \u0436\u0435 \u0442\u043e\u0432\u0430\u0440\u043e\u0432 \u0434\u043b\u044f \u0434\u043e\u043c\u0430, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u0431\u0440\u0435\u043d\u0434\u043e\u0432 \u0432 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d\u0435 PiterGSM \u043f\u043e \u043e\u0442\u043b\u0438\u0447\u043d\u044b\u043c \u0446\u0435\u043d\u0430\u043c \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435",
+        "Official Site": "https://pitergsm.ru",
+        "Icon": "https://pitergsm.ru/local/templates/main/assets/favicon/apple-touch-icon.jpg",
+        "Redirect": "https://pitergsm.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pitergsm.ru"
+    },
+    {
+        "link": "https://lostarmour.info",
+        "Heading": null,
+        "Abstract": "",
+        "Official Site": "https://lostarmour.info",
+        "Icon": "/static/assets/favicon/favicon-32x32.png",
+        "Redirect": "https://lostarmour.info",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lostarmour.info"
+    },
+    {
+        "link": "https://santillanaconnect.com",
+        "Heading": "Identity Provider",
+        "Abstract": null,
+        "Official Site": "https://santillanaconnect.com",
+        "Icon": "",
+        "Redirect": "https://santillanaconnect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://santillanaconnect.com"
+    },
+    {
+        "link": "https://unionbankofindia.bank.in",
+        "Heading": "Union Bank of India - Personal, Corporate & NRI Banking Online",
+        "Abstract": "Union Bank of India provides a wide range of banking solutions such as Net Banking, Personal Accounts, Loans, Insurance, and more to cater to all your financial requirements",
+        "Official Site": "https://unionbankofindia.bank.in",
+        "Icon": "../img/logo.ico",
+        "Redirect": "https://unionbankofindia.bank.in",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unionbankofindia.bank.in"
+    },
+    {
+        "link": "https://univ-paris-diderot.fr",
+        "Heading": "Universit\u00e9 Paris Cit\u00e9 | Bienvenue \u00e0 Universit\u00e9 Paris Cit\u00e9",
+        "Abstract": null,
+        "Official Site": "https://univ-paris-diderot.fr",
+        "Icon": "https://u-paris.fr/wp-content/uploads/2021/09/UniversiteParis_monogramme_couleur_RVB.png",
+        "Redirect": "https://univ-paris-diderot.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://univ-paris-diderot.fr"
+    },
+    {
+        "link": "https://checkpeople.com",
+        "Heading": "Radware Captcha Page",
+        "Abstract": null,
+        "Official Site": "https://checkpeople.com",
+        "Icon": "N/A",
+        "Redirect": "https://checkpeople.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://checkpeople.com"
+    },
+    {
+        "link": "https://viamedica.pl",
+        "Heading": "Via Medica",
+        "Abstract": "Oficjalna strona Wydawnictwa Medycznego VIA MEDICA",
+        "Official Site": "https://viamedica.pl",
+        "Icon": "/sites/default/files/favicon.ico",
+        "Redirect": "https://viamedica.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://viamedica.pl"
+    },
+    {
+        "link": "https://socialsolutions.com",
+        "Heading": "Bonterra: Social Good Technology",
+        "Abstract": "Social good software for nonprofits, corporations, public agencies, and more. Experience best-in-class technology that makes creating impact easier than ever.",
+        "Official Site": "https://www.bonterratech.com/",
+        "Icon": "https://www.bonterratech.com/wp-content/uploads/2024/11/bonterra-social-share.png",
+        "Redirect": "https://www.bonterratech.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.bonterratech.com/"
+    },
+    {
+        "link": "https://corren.se",
+        "Heading": "Corren, \u00d6stg\u00f6ta Correspondenten - lokala nyheter just nu",
+        "Abstract": "Kom n\u00e4rmare h\u00e4ndelserna i Link\u00f6ping.",
+        "Official Site": "https://www.corren.se:8080/",
+        "Icon": "https://corren.se/assets/og-images/OG_CORREN.png",
+        "Redirect": "https://www.corren.se:8080/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.corren.se:8080/"
+    },
+    {
+        "link": "https://tulsaconnect.com",
+        "Heading": "Tulsa Data Center",
+        "Abstract": "TulsaConnect is Tulsa's oldest and largest provider of Data Center and Managed IT Services",
+        "Official Site": "https://tulsaconnect.com",
+        "Icon": "N/A",
+        "Redirect": "https://tulsaconnect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tulsaconnect.com"
+    },
+    {
+        "link": "https://topographic-map.com",
+        "Heading": "Free topographic maps, elevation, terrain",
+        "Abstract": "Visualization and sharing of free topographic maps.",
+        "Official Site": "https://en-us.topographic-map.com/",
+        "Icon": "https://en-us.topographic-map.com/bin/icon-234.png",
+        "Redirect": "https://en-us.topographic-map.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://en-us.topographic-map.com/"
+    },
+    {
+        "link": "https://hoteldaweb.com.br",
+        "Heading": "Hospedagem de Sites com SSL e 5 dias Gr\u00e1tis",
+        "Abstract": "Hospedagem de Sites com SSL Gr\u00e1tis e 5 dias para testar, sem compromisso! Pague apenas se gostar! Comprove a qualidade do nosso Hosting. Temos tamb\u00e9m Revenda de Hospedagem Cloud Computing!",
+        "Official Site": "https://www.hoteldaweb.com.br/",
+        "Icon": "https://www.hoteldaweb.com.br/images/og-img-hospedagem-de-sites.jpg",
+        "Redirect": "https://www.hoteldaweb.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hoteldaweb.com.br/"
+    },
+    {
+        "link": "https://medibank.com.au",
+        "Heading": "Medibank Private Health Insurance  | Medibank",
+        "Abstract": "Get Award Winning cover. Voted Outstanding Value Health Insurance for 18 Consecutive Years. Choose from flexible cover options & join online today.",
+        "Official Site": "https://www.medibank.com.au/",
+        "Icon": "https://www.medibank.com.au/content/dam/medibank/custom-campaigns/Digital/medibank_logo_red.jpg",
+        "Redirect": "https://www.medibank.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.medibank.com.au/"
+    },
+    {
+        "link": "https://editorandpublisher.com",
+        "Heading": "Home | Editor and Publisher",
+        "Abstract": "",
+        "Official Site": "https://www.editorandpublisher.com/",
+        "Icon": "https://cdn1.creativecirclemedia.com/editorandpublisher/original/20200831-133324-eandPfavicon.png.jpg",
+        "Redirect": "https://www.editorandpublisher.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.editorandpublisher.com/"
+    },
+    {
+        "link": "https://skeptic.com",
+        "Heading": "Skeptic",
+        "Abstract": "Popular Science. Nonpartisan. Reality-Based.",
+        "Official Site": "https://www.skeptic.com/",
+        "Icon": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2025/02/background-2.png",
+        "Redirect": "https://www.skeptic.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.skeptic.com/"
+    },
+    {
+        "link": "https://posfie.com",
+        "Heading": "posfie - \u307f\u3093\u306a\u3067\u3064\u304f\u308bX\u30dd\u30b9\u30c8\u307e\u3068\u3081",
+        "Abstract": "posfie\uff08\u30dd\u30b9\u30d5\u30a3\u30fc\uff09\u306f\u3001X\u306e\u30dd\u30b9\u30c8\u3092\u307e\u3068\u3081\u3066\u3001\u307f\u3093\u306a\u306b\u5171\u6709\u3059\u308b\u30b5\u30fc\u30d3\u30b9\u3067\u3059\u3002X\u306eEnterprise API\u3092\u5229\u7528\u3057\u3066\u3001\u8ab0\u3067\u3082\u5b89\u5fc3\u3057\u3066\u307e\u3068\u3081\u3092\u4f5c\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+        "Official Site": "https://posfie.com/",
+        "Icon": "https://s.tgstc.com/static/web/img/posfie/ogp_default.png",
+        "Redirect": "https://posfie.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://posfie.com/"
+    },
+    {
+        "link": "https://hostkey.com",
+        "Heading": "HOSTKEY Dedicated Servers - Fast, Secure and Reliable",
+        "Abstract": "Deploy custom dedicated servers  and an instant dedicated server for any project. Enterprise-grade hardware, DDoS protection, and fast provisioning in global data centers.",
+        "Official Site": "https://hostkey.com/",
+        "Icon": "https://hostkey.com/storage/hostkey-dedicated-servers-1200x630_4a8ba3bb.jpg",
+        "Redirect": "https://hostkey.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hostkey.com/"
+    },
+    {
+        "link": "https://gsmk.de",
+        "Heading": "GSMK",
+        "Abstract": null,
+        "Official Site": "https://gsmk.de",
+        "Icon": "N/A",
+        "Redirect": "https://gsmk.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gsmk.de"
+    },
+    {
+        "link": "https://rentecdirect.com",
+        "Heading": "Rentec Direct\u00ae Official Site | Property Management & Payment Solutions",
+        "Abstract": "Rentec Direct property management software has the highest customer service rating, free online tenant payments, and discounted tenant screening.",
+        "Official Site": "https://www.rentecdirect.com/",
+        "Icon": "https://www.rentecdirect.com/assets/images/rentec-og-image.png",
+        "Redirect": "https://www.rentecdirect.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rentecdirect.com/"
+    },
+    {
+        "link": "https://artprice.com",
+        "Heading": "\n      artprice.com, the world leader in Art market information\n    ",
+        "Abstract": null,
+        "Official Site": "https://artprice.com",
+        "Icon": "N/A",
+        "Redirect": "https://artprice.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://artprice.com"
+    },
+    {
+        "link": "https://payment-international.com",
+        "Heading": "payment-international.com",
+        "Abstract": null,
+        "Official Site": "https://payment-international.com",
+        "Icon": "N/A",
+        "Redirect": "https://payment-international.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://payment-international.com"
+    },
+    {
+        "link": "https://rijkswaterstaat.nl",
+        "Heading": "Home Rijkswaterstaat",
+        "Abstract": "Rijkswaterstaat.nl is d\u00e9 website van Rijkswaterstaat. Hier vindt u onder andere ons laatste nieuws en informatie over onze organisatie en lopende projecten.",
+        "Official Site": "https://www.rijkswaterstaat.nl/",
+        "Icon": "https://www.rijkswaterstaat.nl/static/img/open-graph-image.png",
+        "Redirect": "https://www.rijkswaterstaat.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rijkswaterstaat.nl/"
+    },
+    {
+        "link": "https://digitalinformationworld.com",
+        "Heading": "Digital Information World",
+        "Abstract": "We curate the best marketing, technology and social media related insights, tips and guides in the world. Bookmark us for latest news and trends.",
+        "Official Site": "https://www.digitalinformationworld.com/",
+        "Icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx2khxf_37Vfb17nuuc8icMxtQyfTG75n4ELbKKmCmeCH4_AY18u-k1WA25-776J6w5Yk5E5wJ0X8AgUmBWIZNSc4PjLIkSQQJx3L423FVofWO4aGr6HXeNcX9S1SL9a0LCROdKO6ZsSgSoElMqhH0XQNJ7k-JSyA4dfprelrH6exyvDIYQvwXwXuD-izh/w1600/b6.png",
+        "Redirect": "https://www.digitalinformationworld.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.digitalinformationworld.com/"
+    },
+    {
+        "link": "https://contorion.de",
+        "Heading": "\n                    Alle Werkzeuge und Verbrauchsmaterialien f\u00fcr Handwerker | Contorion                ",
+        "Abstract": "Die gesamte Beschaffung unkompliziert und schnell erledigen. Pers\u00f6nlicher Kundenservice, ein umfassendes Sortiment und kompetente Beratung.",
+        "Official Site": "https://www.contorion.de",
+        "Icon": "//static.contorion.de/images/opengraph/default_de-1a3218f54a.jpg",
+        "Redirect": "https://www.contorion.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.contorion.de"
+    },
+    {
+        "link": "https://nookal.com",
+        "Heading": "Nookal - Practice Management Software for Allied Health Clinics",
+        "Abstract": "Practice management software to help practitioners manage appointments and bookings in their diary, patient clinical data and measure business performance.",
+        "Official Site": "https://nookal.com",
+        "Icon": "https://www.nookal.com/wp-content/uploads/favicon-1-150x150.png",
+        "Redirect": "https://nookal.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nookal.com"
+    },
+    {
+        "link": "https://medvi.org",
+        "Heading": "MEDVi - Personalized Telehealth Care",
+        "Abstract": "Personalized telehealth care from MEDVi. Clinician-guided solutions for weight loss, skincare, hair loss, men\u2019s health, and more\u2014designed to fit your life and deliver real results. Take the quiz to get started.",
+        "Official Site": "https://home.medvi.org/",
+        "Icon": "https://framerusercontent.com/assets/u2Ljgu8m4C9DCVQ3T4mC1WOGNc.png",
+        "Redirect": "https://home.medvi.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://home.medvi.org/"
+    },
+    {
+        "link": "https://rexx-systems.com",
+        "Heading": "Innovative Software, die Mittelstand & Konzerne begeistert",
+        "Abstract": "3.000 Kunden\u2714\ufe0f Mittelstand & Konzerne\u2714\ufe0f Cloud & on premise\u2714\ufe0f International\u2714\ufe0f Modular\u2714\ufe0f. Seit 25 Jahren: HR Software, Recruiting, Talentmanagement und KI.",
+        "Official Site": "https://www.rexx-systems.com/",
+        "Icon": "https://cdn.rexx-systems.com/wp-content/uploads/2026/02/2026_home-header-home.webp",
+        "Redirect": "https://www.rexx-systems.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rexx-systems.com/"
+    },
+    {
+        "link": "https://sitew.com",
+        "Heading": "Cr\u00e9er un site internet :  gratuit, fran\u00e7ais, site web pro | SiteW",
+        "Abstract": "Note : 4,8/5 - 932 avis.\n               Cr\u00e9er un site web avec SiteW : Site gratuit, Domaine et email, 100% personnalisable, Rendu pro, Rapide et facile, Le mieux not\u00e9!",
+        "Official Site": "https://www.sitew.com/",
+        "Icon": "https://ssl.sitew.org/images/blog/sitew_og.png",
+        "Redirect": "https://www.sitew.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sitew.com/"
+    }
+]

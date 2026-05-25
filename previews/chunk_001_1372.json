@@ -1,0 +1,322 @@
+[
+    {
+        "link": "https://nickelodeon.fr",
+        "Heading": "Nickelodeon | Homepage",
+        "Abstract": "Splat your way through the wild world of Nick with all your favorite shows, including SpongeBob SquarePants, Dora, The Loud House, Monster High, Teenage Mutant Ninja Turtles and more!",
+        "Official Site": "https://www.nick.com",
+        "Icon": "https://assets.nick.com/uri/mgid:arc:imageassetref:ws.kids.com:0f29c66f-9a25-476c-a23e-f0c4754896ea?quality=0.7&gen=ntrn&format=jpg&width=1200&height=630&crop=true",
+        "Redirect": "https://www.nick.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nick.com"
+    },
+    {
+        "link": "https://gabitos.com",
+        "Heading": "Gabitos",
+        "Abstract": null,
+        "Official Site": "https://gabitos.com",
+        "Icon": "https://www.gabitos.com/favicon.ico",
+        "Redirect": "https://gabitos.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gabitos.com"
+    },
+    {
+        "link": "https://easyanticheat.net",
+        "Heading": "Easy Anti-Cheat",
+        "Abstract": "Easy Anti-Cheat is the industry-leading anti-cheat service, countering hacking and cheating in multiplayer PC games through the use of hybrid anti-cheat mechanisms.",
+        "Official Site": "https://easyanticheat.net",
+        "Icon": "N/A",
+        "Redirect": "https://easyanticheat.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://easyanticheat.net"
+    },
+    {
+        "link": "https://baseballchannel.jp",
+        "Heading": "\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb\u30c1\u30e3\u30f3\u30cd\u30eb",
+        "Abstract": "",
+        "Official Site": "https://baseballchannel.jp",
+        "Icon": "N/A",
+        "Redirect": "https://baseballchannel.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://baseballchannel.jp"
+    },
+    {
+        "link": "https://cineplanet.com.pe",
+        "Heading": "Cineplanet Per\u00fa I Lo mejor del cine y entretenimiento",
+        "Abstract": "Cine peruano donde disfrutar\u00e1s las mejores pel\u00edculas, cartelera, estrenos, eventos, promociones, entradas y contenido exclusivo del cine cerca de ti.",
+        "Official Site": "https://www.cineplanet.com.pe",
+        "Icon": "https://blog.apis.cineplanet.com.pe/uploads/cineplanet_peru_d0f6ff83b2.png",
+        "Redirect": "https://www.cineplanet.com.pe",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cineplanet.com.pe"
+    },
+    {
+        "link": "https://appagg.com",
+        "Heading": "Just a moment...",
+        "Abstract": null,
+        "Official Site": "https://appagg.com",
+        "Icon": "N/A",
+        "Redirect": "https://appagg.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://appagg.com"
+    },
+    {
+        "link": "https://tetoru.net",
+        "Heading": "\u30ed\u30b0\u30a4\u30f3 | tetoru",
+        "Abstract": null,
+        "Official Site": "https://tetoru.net",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://tetoru.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tetoru.net"
+    },
+    {
+        "link": "https://metabrainz.org",
+        "Heading": "MetaBrainz Foundation",
+        "Abstract": null,
+        "Official Site": "https://metabrainz.org",
+        "Icon": "/static/img/favicon-16.png",
+        "Redirect": "https://metabrainz.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://metabrainz.org"
+    },
+    {
+        "link": "https://sobors.hu",
+        "Heading": "S\u00f3bors - egy csipet \u00f6r\u00f6m",
+        "Abstract": "Esz\u00fcnk. Iszunk. J\u00f3l vagyunk. Gyere te is, \u00f6r\u00fcl\u00fcnk neked!",
+        "Official Site": "https://sobors.hu/",
+        "Icon": "https://kep.index.hu/1/0/5658/56580/565809/56580927_2d8328cf2900e0cf5c8c70d6a32b5f67_wm.png",
+        "Redirect": "https://sobors.hu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sobors.hu/"
+    },
+    {
+        "link": "https://barenecessities.com",
+        "Heading": "Bras, Swimwear & Lingerie for Women | Bare Necessities",
+        "Abstract": "Bare Necessities is your one-stop shop for Online Shopping of Bras, Lingerie, Swimwear, Panties, Lounge, Sleepwear and much more! Fast + FREE Shipping!",
+        "Official Site": "https://www.barenecessities.com/",
+        "Icon": "//www.barenecessities.com/cdn/shop/files/bn_fav_icon_32x32_stone.png?crop=center&height=32&v=1726675876&width=32",
+        "Redirect": "https://www.barenecessities.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.barenecessities.com/"
+    },
+    {
+        "link": "https://i22.de",
+        "Heading": "i22 Digitalagentur",
+        "Abstract": "Mastering digital business \u2013 every day.",
+        "Official Site": "https://i22.de",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://i22.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://i22.de"
+    },
+    {
+        "link": "https://net-work.net",
+        "Heading": "Net-Work Internet | Managed Internet Communication, Data, Voice & Customer Support Services",
+        "Abstract": "Managed Internet Communication, Data, Voice & Customer Support Services",
+        "Official Site": "https://net-work.net/",
+        "Icon": "https://net-work.net/wp-content/uploads/2016/04/cropped-network_hand.png",
+        "Redirect": "https://net-work.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://net-work.net/"
+    },
+    {
+        "link": "https://manhwabtt.cc",
+        "Heading": "Read Manga Raw Online \u2013 The Biggest Manga Library | MangaBTT",
+        "Abstract": "The Biggest Online manga, manhua, manhwa Read Website \u2714\ufe0f A huge manga library of all types \u2714\ufe0f Quick loading, no ads \u2714\ufe0f Welcome to MangaBTT",
+        "Official Site": "https://manhwabtt.cc/",
+        "Icon": "https://manhwabtt.cc/Content/Images/share-image.jpg",
+        "Redirect": "https://manhwabtt.cc/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://manhwabtt.cc/"
+    },
+    {
+        "link": "https://memora.es",
+        "Heading": "M\u00e9mora | Servicios funerarios. Funeraria l\u00edder en Espa\u00f1a.",
+        "Abstract": "M\u00e9mora, funeraria l\u00edder en Espa\u00f1a. Especialista en servicios funerarios, entierros, funerales y pompas f\u00fanebres. Te acompa\u00f1amos en el proceso de despedida",
+        "Official Site": "https://memora.es",
+        "Icon": "/sites/default/files/favicon_memora.ico",
+        "Redirect": "https://memora.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://memora.es"
+    },
+    {
+        "link": "https://securitysweeppro.com",
+        "Heading": "SecuritySweep ",
+        "Abstract": null,
+        "Official Site": "https://securitysweeppro.com",
+        "Icon": "N/A",
+        "Redirect": "https://securitysweeppro.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://securitysweeppro.com"
+    },
+    {
+        "link": "https://hoowla.com",
+        "Heading": "Case Management Software That Saves Time | Hoowla",
+        "Abstract": "Reduce admin, automate workflows, and keep every case moving with Hoowla\u2019s case management software. Built for modern law firms that want to scale without sacrificing client service.",
+        "Official Site": "https://www.hoowla.com/",
+        "Icon": "https://www.hoowla.com/wp-content/uploads/2018/02/home-image.png",
+        "Redirect": "https://www.hoowla.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hoowla.com/"
+    },
+    {
+        "link": "https://garmentory.com",
+        "Heading": "Garmentory: Contemporary fashion & emerging brands from indie boutiques",
+        "Abstract": "Shop the world's top indie boutiques. Clothing from emerging designers such as Rachel Comey, Ace & Jig, Black Crane and more. Free shipping and returns.",
+        "Official Site": "https://garmentory.com",
+        "Icon": "https://www.garmentory.com/assets/garmentory_share_1-6cdc141ec2b36d5a9333eb0cbc540bc9.jpg",
+        "Redirect": "https://garmentory.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://garmentory.com"
+    },
+    {
+        "link": "https://rirki.com",
+        "Heading": "Ads Community LLC - Domain Information",
+        "Abstract": null,
+        "Official Site": "https://rirki.com",
+        "Icon": "N/A",
+        "Redirect": "https://rirki.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rirki.com"
+    },
+    {
+        "link": "https://friendquiz.me",
+        "Heading": "\u30d5\u30ec\u30f3\u30c9\u30af\u30a4\u30ba",
+        "Abstract": "\u30d5\u30ec\u30f3\u30c9\u30af\u30a4\u30ba\u3067\u3042\u306a\u305f\u3060\u3051\u306e\u30af\u30a4\u30ba\u3092\u4f5c\u6210\u3057\u3066\u53cb\u9054\u306b\u7b54\u3048\u3066\u3082\u3089\u3044\u307e\u3057\u3087\u3046",
+        "Official Site": "https://friendquiz.me",
+        "Icon": "https://friendquiz.me/images/ogp.png?v=8",
+        "Redirect": "https://friendquiz.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://friendquiz.me"
+    },
+    {
+        "link": "https://poliisi.fi",
+        "Heading": "Poliisi - kaikkien turvana kaikissa oloissa - Poliisi",
+        "Abstract": "Poliisi on mukana jokaisen arjessa. Vastaamme monista lupa-asioista, kuten passin hausta, ja pid\u00e4mme yll\u00e4 yleist\u00e4 j\u00e4rjestyst\u00e4 ja turvallisuutta sek\u00e4 erityisesti est\u00e4mme ennalta rikoksia.",
+        "Official Site": "https://poliisi.fi/etusivu",
+        "Icon": "https://poliisi.fi/documents/25235045/25235655/Poliisipartio-Toppilansamessa-Oulussa-kevaalla-2026-pt.jpg/0a61ffc9-dcdd-6148-af64-046524e63ea5?t=1776246833911",
+        "Redirect": "https://poliisi.fi/etusivu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://poliisi.fi/etusivu"
+    },
+    {
+        "link": "https://rokaricomics.com",
+        "Heading": "rokari comics \u2013 Immerse Yourself in Comics, Manga, Manhua, and Manhwa \u2014 Rokari: Where Stories Come to Life.",
+        "Abstract": "Immerse Yourself in Comics, Manga, Manhua, and Manhwa \u2014 Rokari: Where Stories Come to Life.",
+        "Official Site": "https://rokaricomics.com/",
+        "Icon": "https://rokaricomics.com/wp-content/uploads/2025/06/image.png",
+        "Redirect": "https://rokaricomics.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rokaricomics.com/"
+    },
+    {
+        "link": "https://intelcom.ca",
+        "Heading": "Service de livraison rapide et efficace au Canada | Intelcom",
+        "Abstract": "D\u00e9couvrez les services de livraison rapide et efficace d'Intelcom. Livraison de colis \u00e0 domicile pour les entreprises.",
+        "Official Site": "https://intelcom.ca/fr/",
+        "Icon": "https://intelcom.ca/uploads/2_Illustrations/tracking/desktop/06_OnTheWay_16x9_Intelcom_2024.png",
+        "Redirect": "https://intelcom.ca/fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://intelcom.ca/fr/"
+    },
+    {
+        "link": "https://fantasykhiladi.com",
+        "Heading": "Fantasy Khiladi - Dream11, Toss Insights, Match Predictions & Latest Sports News",
+        "Abstract": "Get the best Dream11 team predictions, toss insights, match analysis, pitch reports, H2H stats, and the latest sports news at Fantasy Khiladi. Your go-to platform for winning fantasy cricket strategies and updates.",
+        "Official Site": "https://fantasykhiladi.com/",
+        "Icon": "https://fantasykhiladi.com/wp-content/uploads/2025/03/cropped-favicon-32x32.webp",
+        "Redirect": "https://fantasykhiladi.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fantasykhiladi.com/"
+    },
+    {
+        "link": "https://fibbl.com",
+        "Heading": "3D Product Visualization for Ecommerce | Fibbl",
+        "Abstract": "Enhance your e-commerce store with high-quality 3D product visualization for footwear. Scale 3D, AR, and virtual try-on experiences to boost engagement and conversions.",
+        "Official Site": "https://fibbl.com/",
+        "Icon": "https://fibbl.com/wp-content/uploads/2024/04/fibbl-favico.svg",
+        "Redirect": "https://fibbl.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fibbl.com/"
+    },
+    {
+        "link": "https://romanews.eu",
+        "Heading": "Romanews.eu - Notizie AS Roma",
+        "Abstract": "Tutte le ultime notizie e gli aggiornamenti sulla Roma. News e trattative di calciomercato, dirette live, interviste, video e tanto altro.",
+        "Official Site": "https://www.romanews.eu/",
+        "Icon": "https://www.romanews.eu/wp-content/uploads/2024/03/cropped-logo-romanews-1.jpg",
+        "Redirect": "https://www.romanews.eu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.romanews.eu/"
+    },
+    {
+        "link": "https://gshapiro.net",
+        "Heading": "Gregory Shapiro",
+        "Abstract": null,
+        "Official Site": "https://gshapiro.net",
+        "Icon": "N/A",
+        "Redirect": "https://gshapiro.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gshapiro.net"
+    },
+    {
+        "link": "https://showheroes.com",
+        "Heading": "Every screen is a stage - ShowHeroes",
+        "Abstract": "ShowHeroes is a global leader in CTV and digital video advertising solutions, offering premium publisher partnerships, advanced contextual targeting technology, and innovative creative formats.",
+        "Official Site": "https://showheroes.com/",
+        "Icon": "/app/uploads/2023/09/cropped-ShowHeroes-logo-icon-green-32x32.png",
+        "Redirect": "https://showheroes.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://showheroes.com/"
+    },
+    {
+        "link": "https://deadbydaylight.com",
+        "Heading": "Dead by Daylight | A Multiplayer Action Survival Horror game | Dead by Daylight",
+        "Abstract": "Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.",
+        "Official Site": "https://deadbydaylight.com/",
+        "Icon": "https://assets.deadbydaylight.com/DBD_Website_Keyart_d3b7a9628d.jpg",
+        "Redirect": "https://deadbydaylight.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://deadbydaylight.com/"
+    },
+    {
+        "link": "https://hochu.tv",
+        "Heading": "\u0422\u0412 \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445 \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u2014 \u0425\u043e\u0447\u0443.\u0422\u0412",
+        "Abstract": "\u0425\u043e\u0447\u0443.\u0422\u0412 \u2014 \u0441\u0430\u0439\u0442 \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430 \u0422\u0412 \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445 \u043e\u043d\u043b\u0430\u0439\u043d \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u043e \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u0438 \u0431\u0435\u0437 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438. \u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u0437\u0440\u043e\u0441\u043b\u043e\u0435 \u0422\u0412 \u043c\u043e\u0436\u043d\u043e \u043a\u0430\u043a \u043d\u0430 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0435, \u0442\u0430\u043a \u0438 \u043d\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0435.",
+        "Official Site": "https://hochu.tv",
+        "Icon": "/templates/teleprogramma/favicon.ico",
+        "Redirect": "https://hochu.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hochu.tv"
+    },
+    {
+        "link": "https://anisuge.se",
+        "Heading": "\n    Animesuge \u2013 Watch Anime Online Free, Dub & Sub Anime in HD",
+        "Abstract": "Animesuge is the go-to place to watch anime online for FREE. Stream HD anime in Dub or Sub, lightning-fast servers, and NO ADS! PLAY NOW!!!",
+        "Official Site": "https://anisuge.se",
+        "Icon": "https://anisuge.se/assets/images/preview.jpg",
+        "Redirect": "https://anisuge.se",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://anisuge.se"
+    },
+    {
+        "link": "https://splash247.com",
+        "Heading": "Global maritime, shipping and offshore news - Splash 24/7",
+        "Abstract": "Splash 24/7 provides the latest incisive, exclusive maritime news, plus interviews and in-depth analysis on global maritime, shipping and offshore.",
+        "Official Site": "https://splash247.com/",
+        "Icon": "https://splash247.com/wp-content/uploads/2020/05/cropped-Splash-Logos_Blue-high-favicon-32x32.png",
+        "Redirect": "https://splash247.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://splash247.com/"
+    },
+    {
+        "link": "https://pirlotvonline.blog",
+        "Heading": "PIRLO TV | Roja directa | Futbol En Vivo",
+        "Abstract": "Pirlo TV, Roja directa, Futbol En Vivo, UEFA Champions League, Premier League, La Liga, Serie A, UFC, Formula 1, Liga MX, UFC...",
+        "Official Site": "https://pirlotvonline.blog",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://pirlotvonline.blog",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pirlotvonline.blog"
+    }
+]

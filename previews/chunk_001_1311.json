@@ -1,0 +1,332 @@
+[
+    {
+        "link": "https://sigecloud.com.br",
+        "Heading": "O Sistema de Gest\u00e3o mais Completo do Brasil - SIGE Cloud",
+        "Abstract": "Simples. Completo. F\u00e1cil. O sistema de gest\u00e3o online mais completo do Brasil para facilitar a gest\u00e3o de todos os seus processos em um \u00fanico ERP!",
+        "Official Site": "https://www.sigecloud.com.br/",
+        "Icon": "https://www.sigecloud.com.br/images/OGImage.jpg",
+        "Redirect": "https://www.sigecloud.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sigecloud.com.br/"
+    },
+    {
+        "link": "https://slowverve.net",
+        "Heading": "greenBite",
+        "Abstract": "",
+        "Official Site": "https://slowverve.net",
+        "Icon": "./resources/logo.png",
+        "Redirect": "https://slowverve.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://slowverve.net"
+    },
+    {
+        "link": "https://leforem.be",
+        "Heading": "Citoyens | Le Forem",
+        "Abstract": "Espace citoyens du Forem : acc\u00e9dez aux offres d'emploi, de formations et les services du Forem. Toutes les infos essentielles pour les citoyens, les jeunes sortant de l'\u00e9cole, les chercheurs d'emploi et les travailleurs.",
+        "Official Site": "https://www.leforem.be/index.html",
+        "Icon": "https://www.leforem.be/etc.clientlibs/leforem/clientlibs/clientlib-site/resources/images/LogoForem_RS_noir.jpg",
+        "Redirect": "https://www.leforem.be/index.html",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.leforem.be/index.html"
+    },
+    {
+        "link": "https://cyberpinoy.net",
+        "Heading": "Social Media For Pinoys",
+        "Abstract": "CyberPinoy Network is a Social Networking Platform for Pinoys Around the Globe. ",
+        "Official Site": "https://www.cyberpinoy.net",
+        "Icon": "https://www.cyberpinoy.net/themes/elavenn/img/og.jpg",
+        "Redirect": "https://www.cyberpinoy.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cyberpinoy.net"
+    },
+    {
+        "link": "https://thesleepcompany.in",
+        "Heading": "\n      Buy The Sleep Company Mattress Online | Top Mattress Brand in India\n",
+        "Abstract": "Buy mattresses online from the best mattress brand in India. The Sleep Company offers products with patented Japanese SmartGRID\u00ae Technology, including mattresses, pillows, and more. \u2714 100-Night Free Trial \u2714 No-Cost EMI.",
+        "Official Site": "https://thesleepcompany.in/",
+        "Icon": "http://thesleepcompany.in/cdn/shop/files/MicrosoftTeams-image_82.jpg?v=1682078838",
+        "Redirect": "https://thesleepcompany.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://thesleepcompany.in/"
+    },
+    {
+        "link": "https://forksoverknives.com",
+        "Heading": "\n      The Leader in Plant-Based Living\n \u2013 Forks Over Knives",
+        "Abstract": "Forks Over Knives empowers people to live healthier lives by changing the way the world understands nutrition. Find out more here.",
+        "Official Site": "https://shop.forksoverknives.com/",
+        "Icon": "//shop.forksoverknives.com/cdn/shop/files/Screenshot_2025-04-08_at_1.21.22_PM.png?crop=center&height=32&v=1744143710&width=32",
+        "Redirect": "https://shop.forksoverknives.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shop.forksoverknives.com/"
+    },
+    {
+        "link": "https://targus.com",
+        "Heading": "Targus | Backpacks, Docking Stations & Computer Accessories",
+        "Abstract": "Embrace the opportunity to work from anywhere & discover the top computer accessories, laptop bags, docking stations, & more from Targus. Learn more.",
+        "Official Site": "https://us.targus.com/",
+        "Icon": "http://us.targus.com/cdn/shop/files/targus_social_media_thumb_204ef7d5-93d3-47fe-8521-210500caf346.png?v=1603750787",
+        "Redirect": "https://us.targus.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://us.targus.com/"
+    },
+    {
+        "link": "https://hanze.nl",
+        "Heading": "share your talent. move the world | Hanze",
+        "Abstract": null,
+        "Official Site": "https://www.hanze.nl/nl",
+        "Icon": "https://www.hanze.nl/webfiles/1776158427991/static/default/svg/logo.svg",
+        "Redirect": "https://www.hanze.nl/nl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hanze.nl/nl"
+    },
+    {
+        "link": "https://antispameurope.com",
+        "Heading": "Hornetsecurity \u2013 Next-Gen Microsoft 365 Security",
+        "Abstract": "Hornetsecurity offers fully managed cloud security solutions including Cyber Security, Backup, Compliance & Risk Governance",
+        "Official Site": "https://www.hornetsecurity.com/en/",
+        "Icon": "https://www.hornetsecurity.com/app/uploads/2026/02/hornetsecurity_by_proofpoint.webp",
+        "Redirect": "https://www.hornetsecurity.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hornetsecurity.com/en/"
+    },
+    {
+        "link": "https://esdiario.com",
+        "Heading": "ESdiario | Informaci\u00f3n para decidir",
+        "Abstract": "Toda la actualidad y el an\u00e1lisis de Espa\u00f1a y el mundo. \u00daltima hora en pol\u00edtica nacional, investigaci\u00f3n, tribunales, econom\u00eda, coraz\u00f3n, moda, televisi\u00f3n...",
+        "Official Site": "https://www.esdiario.com",
+        "Icon": "https://www.esdiario.com/static/img/logo-esdiario-poster.png",
+        "Redirect": "https://www.esdiario.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.esdiario.com"
+    },
+    {
+        "link": "https://libreriamo.it",
+        "Heading": "Libreriamo \u00e8 il media della Human Culture per chi ama la cultura",
+        "Abstract": "Libreriamo \u00e8 una piattaforma editoriale digitale italiana dedicata alla cultura e alla Human Culture, nata con l\u2019obiettivo di aiutare le persone a comprendere la vita, trovare significato e migliorare il proprio benessere attraverso i contenuti culturali.",
+        "Official Site": "https://libreriamo.it/",
+        "Icon": "https://libreriamo.it/wp-content/uploads/2025/12/libreriamo-logo-social.jpg",
+        "Redirect": "https://libreriamo.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://libreriamo.it/"
+    },
+    {
+        "link": "https://bixiange.me",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://bixiange.me",
+        "Icon": "N/A",
+        "Redirect": "https://bixiange.me",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bixiange.me"
+    },
+    {
+        "link": "https://houwei-tech.com",
+        "Heading": null,
+        "Abstract": "\u5e7f\u5dde\u540e\u4e3a\u79d1\u6280\u6709\u9650\u516c\u53f8\u662f\u4e00\u5bb6\u4ee5\u97f3\u89c6\u9891\u6280\u672f\u4e3a\u57fa\u7840\uff0c\u96c6\u8f6f\u786c\u4ef6\u4e8e\u4e00\u4f53\u7684\u9ad8\u65b0\u6280\u672f\u516c\u53f8\uff0c\u9762\u5411\u5168\u7403\u63d0\u4f9b\u5b89\u9632\u89c6\u9891\u76d1\u63a7\u4ea7\u54c1\u3001\u670d\u52a1\u53ca\u89e3\u51b3\u65b9\u6848\u3002\u516c\u53f8\u51ed\u501f\u81ea\u8eab\u8fc7\u786c\u7684\u6280\u672f\u3001\u7cbe\u51c6\u8fd0\u8425\u80fd\u529b\uff0c\u81f4\u529b\u4e8e\u5c06\u4f18\u8d28\u4ea7\u54c1\u5e26\u7ed9\u6d88\u8d39\u8005\uff0c\u77ed\u77ed3\u5e74\u591a\u7684\u65f6\u95f4\uff0c\u4ea7\u54c1\u6db5\u76d6\u6d88\u8d39\u5b89\u9632\u5404\u4e2a\u65b9\u9762\uff0c\u8986\u76d6\u5168\u7403 150 \u591a\u4e2a\u56fd\u5bb6\u548c\u5730\u533a\uff0c\u5e7f\u6cdb\u5e94\u7528\u4e8e\u5bb6\u5ead\u3001\u529e\u516c\u3001\u4ea4\u901a\u7b49\u5173\u952e\u9886\u57df\uff0c\u4ee5\u79d1\u6280\u542b\u91cf\u9ad8\u3001\u54c1\u8d28\u4f18\u826f\u7684\u4ea7\u54c1\uff0c\u6df1\u53d7\u56fd\u5185\u5916\u5ba2\u6237\u4fe1\u8d56\u3002",
+        "Official Site": "https://houwei-tech.com",
+        "Icon": "N/A",
+        "Redirect": "https://houwei-tech.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://houwei-tech.com"
+    },
+    {
+        "link": "https://monidentifiant.sncf",
+        "Heading": "Mon Identifiant SNCF",
+        "Abstract": null,
+        "Official Site": "https://monidentifiant.sncf",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://monidentifiant.sncf",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://monidentifiant.sncf"
+    },
+    {
+        "link": "https://powercrm.com.br",
+        "Heading": "Power CRM - O CRM #1 para associa\u00e7\u00f5es de prote\u00e7\u00e3o veicular | O CRM #1 para associa\u00e7\u00f5es de prote\u00e7\u00e3o veicular",
+        "Abstract": null,
+        "Official Site": "https://powercrm.com.br",
+        "Icon": "https://site.powercrm.com.br/wp-content/uploads/2021/03/favicon-150x150.png",
+        "Redirect": "https://powercrm.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://powercrm.com.br"
+    },
+    {
+        "link": "https://getwarmly.com",
+        "Heading": "Warmly \u2014 Autonomous Revenue Agents for B2B GTM",
+        "Abstract": "Identify anonymous website visitors, prioritize by buying intent, and engage them automatically across chat, email, and LinkedIn.",
+        "Official Site": "https://getwarmly.com",
+        "Icon": "https://cdn.prod.website-files.com/6502f0ce742f93ec6c94944f/698c4e4cec402dfe9e8d8084_Splash%20screen%20-%20Open%20Graph%20Image.jpg",
+        "Redirect": "https://getwarmly.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://getwarmly.com"
+    },
+    {
+        "link": "https://speedgov.com.br",
+        "Heading": "Intersol",
+        "Abstract": null,
+        "Official Site": "https://speedgov.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://speedgov.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://speedgov.com.br"
+    },
+    {
+        "link": "https://givex.com",
+        "Heading": "Shift4 | Integrate Payments and Commerce Technology",
+        "Abstract": "Shift4 provides the restaurant, retail, and QSR industries with cutting-edge POS (ePOS) solutions, management systems, gift cards, loyalty programs and more.",
+        "Official Site": "https://web.givex.com/",
+        "Icon": "/wp-content/themes/givex/favicon/favicon-16x16.png",
+        "Redirect": "https://web.givex.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://web.givex.com/"
+    },
+    {
+        "link": "https://eurecom.fr",
+        "Heading": "Accueil | EURECOM",
+        "Abstract": null,
+        "Official Site": "https://eurecom.fr",
+        "Icon": "/themes/custom/eurecom/favicon.ico",
+        "Redirect": "https://eurecom.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eurecom.fr"
+    },
+    {
+        "link": "https://ualg.pt",
+        "Heading": "Estudar onde \u00e9 bom viver | Universidade do Algarve",
+        "Abstract": "Bem-vindo \u00e0 p\u00e1gina oficial da UAlg!",
+        "Official Site": "https://www.ualg.pt/home",
+        "Icon": "https://www.ualg.pt/sites/default/files/styles/redes_sociais_landscape/public/nodes/images/2020-12/mockupportal2.jpg?itok=9ax22AO6",
+        "Redirect": "https://www.ualg.pt/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ualg.pt/home"
+    },
+    {
+        "link": "https://blackstarburgerkz.kz",
+        "Heading": "\u041f\u0438\u043d \u0410\u043f \u041a\u0430\u0437\u0438\u043d\u043e \u0432 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0435: \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 Pin Up",
+        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u041f\u0438\u043d \u0410\u043f \u041a\u0430\u0437\u0438\u043d\u043e \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0432\u0435\u0440\u0438 \u0432 \u043c\u0438\u0440 \u0430\u0437\u0430\u0440\u0442\u0430! 6000 \u0441\u043b\u043e\u0442\u043e\u0432, \u0449\u0435\u0434\u0440\u044b\u0435 \u0431\u043e\u043d\u0443\u0441\u044b \u0434\u043e 2 500 000\u20b8, \u043c\u043e\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b \u0438 \u0441\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0441\u043f\u043e\u0440\u0442. \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0439\u0441\u044f \u043d\u0430 Pin Up \u043f\u0440\u044f\u043c\u043e \u0441\u0435\u0439\u0447\u0430\u0441 \u0438 \u043f\u043e\u043b\u0443\u0447\u0438 \u0441\u0432\u043e\u0439 \u0431\u043e\u043d\u0443\u0441 \u0438 \u043f\u0440\u043e\u043c\u043e\u043a\u043e\u0434!",
+        "Official Site": "https://blackstarburgerkz.kz/",
+        "Icon": "https://blackstarburgerkz.kz/storage/favicon/qaJ5WLc73S4uk3VnM9OKfcWICeuRLLfN3GDl87LK.png",
+        "Redirect": "https://blackstarburgerkz.kz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://blackstarburgerkz.kz/"
+    },
+    {
+        "link": "https://esos.gr",
+        "Heading": "esos.gr | \u039a\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae \u0397\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ae \u0395\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03a0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1",
+        "Abstract": "\u0388\u03b3\u03ba\u03b1\u03b9\u03c1\u03b7 \u03ba\u03b1\u03b9 \u0388\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1. \u0391\u03bd \u03b4\u03b5\u03bd \u03c4\u03bf \u03b4\u03b5\u03af\u03c4\u03b5 \u03b5\u03b4\u03ce \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03af\u03b4\u03b7\u03c3\u03b7 | esos.gr",
+        "Official Site": "https://www.esos.gr/frontpage",
+        "Icon": "https://www.esos.gr/themes/esos/images/esos-og-image.png",
+        "Redirect": "https://www.esos.gr/frontpage",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.esos.gr/frontpage"
+    },
+    {
+        "link": "https://gocuotas.com",
+        "Heading": "GOcuotas",
+        "Abstract": "Compra en CUOTAS SIN INTER\u00c9S con tu tarjeta de DEBITO!",
+        "Official Site": "https://gocuotas.com",
+        "Icon": "https://s3.us-east-005.backblazeb2.com/gocuotas-assets/assets/small_logo-dae054ee4349e1fc4b331e7ec9ba8b7b7e3338ca818e0261ff2c80ce2c72cd55.png",
+        "Redirect": "https://gocuotas.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gocuotas.com"
+    },
+    {
+        "link": "https://mometrix.com",
+        "Heading": "Mometrix Test Preparation - Learn Faster. Score Higher.",
+        "Abstract": "We think differently about test prep. We believe you can perform better by implementing a few critical test taking strategies and focusing your study time.",
+        "Official Site": "https://www.mometrix.com/",
+        "Icon": "https://www.mometrix.com/images/og-image.png",
+        "Redirect": "https://www.mometrix.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mometrix.com/"
+    },
+    {
+        "link": "https://prestigeonline.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://prestigeonline.com",
+        "Icon": "N/A",
+        "Redirect": "https://prestigeonline.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://prestigeonline.com"
+    },
+    {
+        "link": "https://trimet.org",
+        "Heading": "Plan and track your trip on TriMet",
+        "Abstract": "Get arrival times, plan trips, see route maps and check service alerts, all in one place.",
+        "Official Site": "https://trimet.org/home/",
+        "Icon": "https://trimet.org/global/home/general.jpg",
+        "Redirect": "https://trimet.org/home/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trimet.org/home/"
+    },
+    {
+        "link": "https://radiokielce.pl",
+        "Heading": "Radio Kielce - radiokielce.pl",
+        "Abstract": "Najnowsze wiadomo\u015bci z Kielc i wojew\u00f3dztwa \u015bwi\u0119tokrzyskiego oraz z Polski i \u015bwiata. Sport, kultura, zdrowie. Zobacz galerie zdj\u0119\u0107 i wideo.",
+        "Official Site": "https://radiokielce.pl",
+        "Icon": "https://radiokielce.pl/wp-content/uploads/2021/03/k201482-164203.jpg",
+        "Redirect": "https://radiokielce.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://radiokielce.pl"
+    },
+    {
+        "link": "https://vprognoze.ru",
+        "Heading": "\u041f\u0440\u043e\u0433\u043d\u043e\u0437\u044b \u043d\u0430 \u0441\u043f\u043e\u0440\u0442 \u043d\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0438 \u0437\u0430\u0432\u0442\u0440\u0430, \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0438 \u0441\u0442\u0430\u0432\u043a\u0438 | \u0412\u043f\u0440\u043e\u0433\u043d\u043e\u0437\u0435",
+        "Abstract": "\u041f\u0440\u043e\u0433\u043d\u043e\u0437\u044b \u043d\u0430 \u0441\u043f\u043e\u0440\u0442 \u0441 \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u043e\u0439, \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u043e\u0439 \u0438 \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442\u0430\u043c\u0438. \u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u044b \u043d\u0430 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u0438 \u0437\u0430\u0432\u0442\u0440\u0430 \u043f\u043e \u0444\u0443\u0442\u0431\u043e\u043b\u0443, \u0445\u043e\u043a\u043a\u0435\u044e, \u0442\u0435\u043d\u043d\u0438\u0441\u0443 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c \u0432\u0438\u0434\u0430\u043c \u0441\u043f\u043e\u0440\u0442\u0430 - \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u044b\u0439 \u0440\u0430\u0437\u0431\u043e\u0440 \u043c\u0430\u0442\u0447\u0435\u0439 \u0434\u043b\u044f \u0441\u0442\u0430\u0432\u043e\u043a \u043e\u0442 \u044d\u043a\u0441\u043f\u0435\u0440\u0442\u043e\u0432.",
+        "Official Site": "https://vprognoze.ru",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://vprognoze.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vprognoze.ru"
+    },
+    {
+        "link": "https://ugaoo.com",
+        "Heading": "\n      Ugaoo: India's No.1 Online Plant Store| Buy Seeds & gardening products\n",
+        "Abstract": "Looking for the best online plant store in India? Your search ends here! Explore a wide range of \u2714 indoor plants, \u2714seeds, \u2714pots, and \u2714plant care products with safe home delivery!",
+        "Official Site": "https://www.ugaoo.com/",
+        "Icon": "http://www.ugaoo.com/cdn/shop/files/Website_Link_Thumbnail_Final_1200px_X_628px_1.png?v=1738563438",
+        "Redirect": "https://www.ugaoo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ugaoo.com/"
+    },
+    {
+        "link": "https://ordinalblockingprobable.com",
+        "Heading": "Google",
+        "Abstract": null,
+        "Official Site": "https://ordinalblockingprobable.com",
+        "Icon": "/images/branding/product/1x/gsa_android_144dp.png",
+        "Redirect": "https://ordinalblockingprobable.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ordinalblockingprobable.com"
+    },
+    {
+        "link": "https://neartonet.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://neartonet.com",
+        "Icon": "N/A",
+        "Redirect": "https://neartonet.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://neartonet.com"
+    },
+    {
+        "link": "https://entensys.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://entensys.com",
+        "Icon": "/f/dist/media/favicons/favicon-96x96.png",
+        "Redirect": "https://entensys.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://entensys.com"
+    },
+    {
+        "link": "https://allydvm.com",
+        "Heading": "AllyDVM | The most powerful and customizable client engagement and retention platform in the veterinary industry",
+        "Abstract": "AllyDVM is the most powerful and customizable client engagement platform in the veterinary industry, built to help solve the most important challenges faced by practices today \u2014 client retention and client compliance.",
+        "Official Site": "https://www.allydvm.com/",
+        "Icon": "https://www.allydvm.com/-/media/cencora-preview.png",
+        "Redirect": "https://www.allydvm.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.allydvm.com/"
+    }
+]

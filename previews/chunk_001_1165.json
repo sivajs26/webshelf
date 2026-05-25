@@ -1,0 +1,322 @@
+[
+    {
+        "link": "https://staticfile.org",
+        "Heading": "Staticfile CDN",
+        "Abstract": "\u6211\u4eec\u7684\u76ee\u6807\u662f\u63d0\u4f9b\u8fd9\u6837\u4e00\u4e2a\u4ed3\u5e93\uff0c\u8ba9\u5b83\u5c3d\u53ef\u80fd\u9762\u6536\u5f55\u5c24\u79c0\u7684\u5f00\u6e90\u5e93\uff0c\u5e76\u514d\u8d39\u4e3a\u4e4b\u63d0\u4f9bCDN \u52a0\u901f\u670d\u52a1\uff0c\u65f6\u4e4b\u6709\u66f4\u597d\u7684\u8bbf\u901f\u5ea6\u548c\u7a33\u5b9a\u7684\u73af\u5883\u3002\u540c\u65f6\uff0c\u6211\u4eec\u4e5f\u63d0\u4f9b\u5f00\u6e90\u5e93\u6e90\u63a5\u5165\u7684\u5165\u53e3\uff0c\u8ba9\u6240\u6709\u4eba\u90fd\u53ef\u4ee5\u63d0\u4ea4\u5f00\u6e90\u5e93\uff0c\u5305\u62ecJavaScript\u3001Css\u3001\u56fe\u7247\u548cswt\u7b49\u9759\u6001\u6587\u4ef6\u3002",
+        "Official Site": "https://www.staticfile.net/",
+        "Icon": "https://www.staticfile.netimages/meta-img.png",
+        "Redirect": "https://www.staticfile.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.staticfile.net/"
+    },
+    {
+        "link": "https://24petconnect.com",
+        "Heading": "24Petconnect: Lost, Found, and Adoptable Animals",
+        "Abstract": "24Petconnect.com provides lost, found, and adoptable postings for animal welfare organizations nationwide.",
+        "Official Site": "https://24petconnect.com",
+        "Icon": "/Content/Images/favicon.svg",
+        "Redirect": "https://24petconnect.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://24petconnect.com"
+    },
+    {
+        "link": "https://bluehamham.com",
+        "Heading": "\u30d6\u30eb\u30fc\u30cf\u30e0\u30cf\u30e0 | BLUE HAMHAM Official",
+        "Abstract": "\u97f3\u697d\u3092\u98df\u3079\u308b\u5b87\u5b99\u30cf\u30e0\u30b9\u30bf\u30fc\u306e\uff14\u5144\u5f1f\u3001\u30d6\u30eb\u30fc\u30cf\u30e0\u30cf\u30e0\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b5\u30a4\u30c8\u3067\u3059\u3002 This is the official website for BLUE HAMHAM, the four music-eating Space Hamster brothers.",
+        "Official Site": "https://bluehamham.com/",
+        "Icon": "https://bluehamham.com/wp-content/themes/thebulehamham/assets/images/ogp.png?id=f71b8c15998c7541003c",
+        "Redirect": "https://bluehamham.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bluehamham.com/"
+    },
+    {
+        "link": "https://vodafoneidea.com",
+        "Heading": "Vi (Vodafone Idea Limited) | An Aditya Birla Group & Vodafone partnership",
+        "Abstract": "Get the latest news & updates of Vi (Vodafone Idea Limited). Investors shareholders, customers & media can find information on the merger of Vodafone & Idea here.",
+        "Official Site": "https://www.myvi.in/vodafone-idea",
+        "Icon": "https://www.myvi.in/content/dam/vodafoneideadigital/homespyder/Vi-logo.svg",
+        "Redirect": "https://www.myvi.in/vodafone-idea",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.myvi.in/vodafone-idea"
+    },
+    {
+        "link": "https://telushealth.com",
+        "Heading": "Corporate Health & Employee Wellness Solutions | TELUS Health",
+        "Abstract": "Support your team with TELUS Health's total wellbeing solutions. We offer EAP, benefits administration, and mental health support to build a healthier workforce.",
+        "Official Site": "https://telushealth.com",
+        "Icon": "https://www.telushealth.com/_next/static/media/th_logo_en.2fd458fb.svg",
+        "Redirect": "https://telushealth.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://telushealth.com"
+    },
+    {
+        "link": "https://necsws.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://necsws.com",
+        "Icon": "N/A",
+        "Redirect": "https://necsws.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://necsws.com"
+    },
+    {
+        "link": "https://vatsim.net",
+        "Heading": "VATSIM | The International Online Flying Network | VATSIM",
+        "Abstract": "VATSIM is the Virtual Air Traffic Simulation network, connecting people from around the world flying online or acting as virtual Air Traffic Controllers.",
+        "Official Site": "https://vatsim.net/",
+        "Icon": "N/A",
+        "Redirect": "https://vatsim.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vatsim.net/"
+    },
+    {
+        "link": "https://hostingmadeeasy.com",
+        "Heading": "Powered by Nexus Technologies",
+        "Abstract": null,
+        "Official Site": "https://hostingmadeeasy.com",
+        "Icon": "N/A",
+        "Redirect": "https://hostingmadeeasy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hostingmadeeasy.com"
+    },
+    {
+        "link": "https://syslinux.org",
+        "Heading": "Syslinux Wiki",
+        "Abstract": null,
+        "Official Site": "https://syslinux.org",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://syslinux.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://syslinux.org"
+    },
+    {
+        "link": "https://millenniumarts.net",
+        "Heading": "MILLENNIUM ARTS ISP - Domains, Hosting & SSL aus Deutschland & \ufffdsterreich",
+        "Abstract": "Unabh\ufffdngiger ISP aus DE & AT: Domains, Hosting, SSL. Zuverl\ufffdssig f\ufffdr Firmen & Privat. Jetzt Angebot sichern!",
+        "Official Site": "https://millenniumarts.net",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://millenniumarts.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://millenniumarts.net"
+    },
+    {
+        "link": "https://erieinsurance.com",
+        "Heading": "Home | Erie Insurance",
+        "Abstract": "ERIE offers great rates for life, home, business, auto insurance, and more. Connect with an insurance agent near you or start an online quote, today!",
+        "Official Site": "https://erieinsurance.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://erieinsurance.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://erieinsurance.com"
+    },
+    {
+        "link": "https://consorcio.cl",
+        "Heading": " Seguros, Previsi\u00f3n, Ahorro, Banco, Inversiones | Consorcio ",
+        "Abstract": "Descubre los mejores seguros y productos financieros de Banco adaptados a tus necesidades en Consorcio. \u00a1Cotiza de forma r\u00e1pida, simple y 100% online!",
+        "Official Site": "https://sitio.consorcio.cl/home/",
+        "Icon": "https://consorcio.cdn.modyo.com/uploads/8002b975-ff39-48dd-b78b-73b690448849/C32x32/favicon-32x32.ico",
+        "Redirect": "https://sitio.consorcio.cl/home/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sitio.consorcio.cl/home/"
+    },
+    {
+        "link": "https://rapidmail.de",
+        "Heading": "Die einfach gute Newsletter-Software: rapidmail",
+        "Abstract": "Das DSGVO-konforme Newsletter-Tool aus Deutschland: Ganz einfach Newsletter \u2713 gestalten \u2713 versenden \u2713 auswerten \u25ba Jetzt kostenlos testen!",
+        "Official Site": "https://www.rapidmail.de/",
+        "Icon": "https://www.rapidmail.de/images/assets/positive_rapidmail_1200x630.png",
+        "Redirect": "https://www.rapidmail.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.rapidmail.de/"
+    },
+    {
+        "link": "https://mrgay.tube",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://mrgay.tube",
+        "Icon": "/static/images/favicons/favicon-32x32.png",
+        "Redirect": "https://mrgay.tube",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mrgay.tube"
+    },
+    {
+        "link": "https://rosecrab.com",
+        "Heading": "Rosecrab",
+        "Abstract": "\ud83c\udf1fWarning: Super addictive! This is a new and stylish free matching game entertaining for all ages!",
+        "Official Site": "https://rosecrab.com",
+        "Icon": "N/A",
+        "Redirect": "https://rosecrab.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rosecrab.com"
+    },
+    {
+        "link": "https://salcobrand.cl",
+        "Heading": "Farmacias Salcobrand \u00ae | Conoce nuestras Ofertas Online",
+        "Abstract": "En Farmacias Salcobrand tenemos ofertas en m\u00faltiples categor\u00edas y marcas. Descubre los beneficios que tenemos para ti \u00a1Ingresa a nuestra tienda online!",
+        "Official Site": "https://salcobrand.cl",
+        "Icon": "https://static.salcobrandonline.cl/assets/favicon-56ff5e764c9d39a74bcfc55d7e226b4c6507d54defe7124eefdae04b2f7b3b02.ico",
+        "Redirect": "https://salcobrand.cl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://salcobrand.cl"
+    },
+    {
+        "link": "https://flagman.bg",
+        "Heading": "\u0424\u043b\u0430\u0433\u043c\u0430\u043d.\u0411\u0433 - \u043d\u043e\u0432\u0438\u043d\u0438 \u0437\u0430 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430, \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d \u0438 \u0438\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438 \u0436\u0438\u0432\u043e\u0442, \u043d\u043e\u0432\u0438\u043d\u0438 \u0431\u0433",
+        "Abstract": "\u0424\u043b\u0430\u0433\u043c\u0430\u043d.\u0411\u0433 - \u041e\u043d\u043b\u0430\u0439\u043d \u043c\u0435\u0434\u0438\u044f \u0441 \u043d\u043e\u0432\u0438\u043d\u0438 \u0437\u0430 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430, \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0438 \u0438\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430. \u0414\u043d\u0435\u0432\u0435\u043d \u0445\u043e\u0440\u043e\u0441\u043a\u043e\u043f \u0438 \u043f\u0440\u043e\u0433\u043d\u043e\u0437\u0430 \u0437\u0430 \u0432\u0440\u0435\u043c\u0435\u0442\u043e. \u041d\u043e\u0432\u0438\u043d\u0438 \u043e\u0442 \u0411\u0443\u0440\u0433\u0430\u0441, \u0421\u043b\u0438\u0432\u0435\u043d \u0438 \u042f\u043c\u0431\u043e\u043b, \u041f\u043b\u043e\u0432\u0434\u0438\u0432 \u0438 \u0412\u0430\u0440\u043d\u0430, \u0434\u0440\u0443\u0433\u0438 \u0440\u0435\u0433\u0438\u043e\u043d\u0438",
+        "Official Site": "https://flagman.bg",
+        "Icon": "https://www.flagman.bg/images/logo-facebook.png",
+        "Redirect": "https://flagman.bg",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://flagman.bg"
+    },
+    {
+        "link": "https://seleniumhq.org",
+        "Heading": "Redirecting\u2026",
+        "Abstract": null,
+        "Official Site": "https://seleniumhq.org",
+        "Icon": "N/A",
+        "Redirect": "https://seleniumhq.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://seleniumhq.org"
+    },
+    {
+        "link": "https://kazanexpress.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://kazanexpress.ru",
+        "Icon": "N/A",
+        "Redirect": "https://kazanexpress.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kazanexpress.ru"
+    },
+    {
+        "link": "https://dosb.de",
+        "Heading": "DOSB: Wir bewegen den Sport. Weil Sport alle(s) bewegen kann.",
+        "Abstract": "Wir sind die Stimme des Sports. Wir engagieren uns f\u00fcr Vereinssport und f\u00fcr alle, die unsere Liebe zum Sport teilen. Wir stehen f\u00fcr die Olympische Idee.",
+        "Official Site": "https://dosb.de",
+        "Icon": "/_assets/f81406596b3c0617dd4f2a153fe2a8f3/Frontend/Images/favicon.ico",
+        "Redirect": "https://dosb.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dosb.de"
+    },
+    {
+        "link": "https://roadrunnersports.com",
+        "Heading": "The Best Running Shoes and Gear | Road Runner Sports",
+        "Abstract": "Shop running shoes online at Road Runner Sports, a trusted running store since 1983. Earn rewards cash, 90-day returns, and free shipping with our VIP program.",
+        "Official Site": "https://roadrunnersports.com",
+        "Icon": "https://images.ctfassets.net/xanbi6q061ft/4pmTJ0DbNXrb6ufPoXmGSG/0ff819d234f43a3b92f55a2b72ec2edc/favicon.png",
+        "Redirect": "https://roadrunnersports.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://roadrunnersports.com"
+    },
+    {
+        "link": "https://stardewvalley.net",
+        "Heading": "Stardew Valley",
+        "Abstract": null,
+        "Official Site": "https://stardewvalley.net",
+        "Icon": "https://www.stardewvalley.net/wp-content/uploads/2017/12/cropped-chickenfavicon-32x32.png",
+        "Redirect": "https://stardewvalley.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://stardewvalley.net"
+    },
+    {
+        "link": "https://swoca.net",
+        "Heading": "SWOCA | Complex IT solutions, simplified.",
+        "Abstract": "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that...",
+        "Official Site": "https://www.swoca.net/",
+        "Icon": "https://www.swoca.net/wp-content/uploads/2016/09/cropped-swoca-ball.png",
+        "Redirect": "https://www.swoca.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.swoca.net/"
+    },
+    {
+        "link": "https://lbcexpress.com",
+        "Heading": "Express Delivery, Shipping, and Courier Services | LBC Express",
+        "Abstract": "Enjoy fast and reliable delivery of your package nationwide with LBC's express shipping and courier services. Visit our site to learn more about our services.",
+        "Official Site": "https://www.lbcexpress.com/",
+        "Icon": "/assets/revamp/icons/icon.png",
+        "Redirect": "https://www.lbcexpress.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lbcexpress.com/"
+    },
+    {
+        "link": "https://consul.com.br",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://consul.com.br",
+        "Icon": "//consul.vteximg.com.br/arquivos/consul-favicon.ico?v=v6.86.99",
+        "Redirect": "https://consul.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://consul.com.br"
+    },
+    {
+        "link": "https://spaces-games.com",
+        "Heading": "Spaces \u2014 \u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0435\u0442\u044c (\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442)",
+        "Abstract": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0421\u043f\u0430\u043a\u0435\u0441 (Spaces). \u042d\u0442\u043e \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0435\u0442\u044c \u0442\u0430\u043a\u0436\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430\u044f \u043a\u0430\u043a: \u0441\u043f\u0435\u0439\u0441\u0438\u0441, \u0441\u043f\u0435\u0439\u0441, \u0441\u043f\u0430\u0439\u0441\u0435\u0441. \u041d\u0430 \u043d\u0430\u0448\u0435\u043c \u0441\u0430\u0439\u0442\u0435 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043d\u0430\u0439\u0442\u0438: \u0437\u043e\u043d\u0443 \u043e\u0431\u043c\u0435\u043d\u0430, \u043c\u0443\u0437\u044b\u043a\u0443, \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430, \u0431\u043b\u043e\u0433\u0438, \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u0430, \u0447\u0430\u0442\u044b \u0438 \u0444\u043e\u0440\u0443\u043c\u044b, \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u044f, \u043e\u043d\u043b\u0430\u0439\u043d-\u0438\u0433\u0440\u044b \u0438 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0444\u043e\u0442\u043e.",
+        "Official Site": "https://spaces-games.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://spaces-games.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://spaces-games.com"
+    },
+    {
+        "link": "https://wi2.ne.jp",
+        "Heading": "Redirect",
+        "Abstract": "\u516c\u8846\u7121\u7ddaLAN\u30b5\u30fc\u30d3\u30b9Wi2 300\u306f\u7a7a\u6e2f\u3001\u99c5\u3001\u4e38\u306e\u5185\u3001\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u306a\u3069\u5168\u56fd6,000\u30f6\u6240\u4ee5\u4e0a\u306e\u7121\u7ddaLAN\u30b9\u30dd\u30c3\u30c8\u3067\u9ad8\u901f\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3092\u5229\u7528\u3067\u304d\u308b\u30b5\u30fc\u30d3\u30b9\u3067\u3059\u3002",
+        "Official Site": "https://wi2.ne.jp",
+        "Icon": "N/A",
+        "Redirect": "https://wi2.ne.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wi2.ne.jp"
+    },
+    {
+        "link": "https://weverseshop.io",
+        "Heading": "Weverse Shop - All Things for Fans!",
+        "Abstract": "Official merch store for all fans around the world! Check out your favorite artist's official fanclub membership and official merch items including Weverse Shop-exclusive merch and special gifts.",
+        "Official Site": "https://shop.weverse.io/home",
+        "Icon": "https://shop.weverse.io/weverseshop-og.png",
+        "Redirect": "https://shop.weverse.io/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shop.weverse.io/home"
+    },
+    {
+        "link": "https://oneill.com",
+        "Heading": "\nO'Neill - The Original California Surf Brand \u2013 O'Neill\n",
+        "Abstract": "O\u2019Neill, First Name In The Water. \u2713 Best prices \u2713 Quick delivery \u2713 Free returns within 30 days",
+        "Official Site": "https://eu.oneill.com/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0489/9962/8949/files/STACKED_ONEILL_LOGO_BLACK.png?height=628&pad_color=fff&v=1614354184&width=1200",
+        "Redirect": "https://eu.oneill.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eu.oneill.com/"
+    },
+    {
+        "link": "https://min2win.ru",
+        "Heading": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0438\u0433\u0440\u044b \u043e\u043d\u043b\u0430\u0439\u043d",
+        "Abstract": "\u0418\u0433\u0440\u0430\u0439\u0442\u0435 \u0432 \u041c\u0430\u0434\u0436\u043e\u043d\u0433\u0438, \u0428\u0430\u0440\u0438\u043a\u0438, \u0413\u043e\u043b\u043e\u0432\u043e\u043b\u043e\u043c\u043a\u0438, \u041f\u0430\u0441\u044c\u044f\u043d\u0441\u044b, \u0422\u0440\u0438 \u0432 \u0440\u044f\u0434 \u0438 \u0434\u0440\u0443\u0433\u0438\u0435 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435 \u0438\u0433\u0440\u044b \u043e\u043d\u043b\u0430\u0439\u043d \u043d\u0430 1-\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u0430 Min2Win, \u0431\u0435\u0437 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438.",
+        "Official Site": "https://www.min2win.ru/",
+        "Icon": "https://www.min2win.ru/apple-touch-icon-152x152-precomposed.png",
+        "Redirect": "https://www.min2win.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.min2win.ru/"
+    },
+    {
+        "link": "https://bpmonline.com",
+        "Heading": "Agentic CRM & Workflow Platform with No-Code and AI at Its Core | Creatio",
+        "Abstract": "Build apps, AI agents, and automate customer and operational workflows achieving the fastest time-to-value and the highest ROI on the market. Learn more.",
+        "Official Site": "https://www.creatio.com/",
+        "Icon": "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/OG-Creatio-v.2.jpg",
+        "Redirect": "https://www.creatio.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.creatio.com/"
+    },
+    {
+        "link": "https://covestro.com",
+        "Heading": "Home | Covestro",
+        "Abstract": "Discover Covestro: Leading in high-tech polymers and sustainability for key industries.",
+        "Official Site": "https://www.covestro.com/en",
+        "Icon": "/CovestroFrontend/meta/solutioncenter/favicon-32x32.png",
+        "Redirect": "https://www.covestro.com/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.covestro.com/en"
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "link": "https://macmillaneducation.com",
+        "Heading": "Macmillan Education Homepage | Macmillan Education | Springer Nature",
+        "Abstract": null,
+        "Official Site": "https://macmillaneducation.com",
+        "Icon": "/app-sn/public/favicon/favicon-32x32.png",
+        "Redirect": "https://macmillaneducation.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://macmillaneducation.com"
+    },
+    {
+        "link": "https://brecks.com",
+        "Heading": "Breck's Flower Bulbs - Bulbs from Holland since 1818",
+        "Abstract": "Breck's flower bulbs, perennials, and bareroots come straight from Holland. Shop premium daffodils, tulips, iris, daylilies, roses & more!",
+        "Official Site": "https://www.brecks.com/",
+        "Icon": "http://www.brecks.com/cdn/shop/files/BR_Link_Placeholder_Image_466x373.jpg?v=1770830812",
+        "Redirect": "https://www.brecks.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.brecks.com/"
+    },
+    {
+        "link": "https://testout.com",
+        "Heading": "CompTIA ",
+        "Abstract": null,
+        "Official Site": "https://www.comptia.org/en/lp/testout/",
+        "Icon": "https://www.comptia.org/images/image-placeholder-800x450.png/",
+        "Redirect": "https://www.comptia.org/en/lp/testout/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.comptia.org/en/lp/testout/"
+    },
+    {
+        "link": "https://theesa.com",
+        "Heading": "The Entertainment Software Association - the ESA",
+        "Abstract": "We Love Video Games. Full Stop. We help our members thrive in a complex political and policy environment, educating policymakers and regulators about the power of play and video games\u2019 positive impact on society.",
+        "Official Site": "https://www.theesa.com/",
+        "Icon": "https://www.theesa.com/wp-content/uploads/2024/05/es-social-home-play-jpg.webp",
+        "Redirect": "https://www.theesa.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.theesa.com/"
+    },
+    {
+        "link": "https://trf4.jus.br",
+        "Heading": ":: Portal da Justi\u00e7a Federal da 4\u00aa Regi\u00e3o ::",
+        "Abstract": null,
+        "Official Site": "https://trf4.jus.br",
+        "Icon": "N/A",
+        "Redirect": "https://trf4.jus.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trf4.jus.br"
+    },
+    {
+        "link": "https://hopscotch.in",
+        "Heading": null,
+        "Abstract": "{{appCtrl.getMetaInfo('og_description')}}",
+        "Official Site": "{{appCtrl.getCurrentUrl()}}",
+        "Icon": "{{appCtrl.getMetaInfo('og_image')}}",
+        "Redirect": "{{appCtrl.getCurrentUrl()}}",
+        "AbstractSource": "BS4",
+        "AbstractURL": "{{appCtrl.getCurrentUrl()}}"
+    },
+    {
+        "link": "https://kfupm.edu.sa",
+        "Heading": "\n\tKFUPM\n",
+        "Abstract": "KFUPM is a leading Saudi university in science, engineering, and innovation\u2014offering cutting-edge research, future-ready programs, and a vibrant campus life.",
+        "Official Site": "http://www.kfupm.edu.sa",
+        "Icon": "/ResourcePackages/Main/assets/dist/images/Favicon.svg",
+        "Redirect": "http://www.kfupm.edu.sa",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.kfupm.edu.sa"
+    },
+    {
+        "link": "https://ex2.com",
+        "Heading": "Ex2 - H\u00e9bergeur Web vert sp\u00e9cialis\u00e9 WordPress avec support 24h/24",
+        "Abstract": "Ex2 est un h\u00e9bergeur web \u00e9coresponsable dot\u00e9 d'infrastructures derni\u00e8re g\u00e9n\u00e9ration pour vos projets d'h\u00e9bergement web : site perso, e-commerce, WordPress, serveur d\u00e9di\u00e9.",
+        "Official Site": "https://www.ex2.com/",
+        "Icon": "https://www.ex2.com/assets/img/og-image.png",
+        "Redirect": "https://www.ex2.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ex2.com/"
+    },
+    {
+        "link": "https://dash.ai",
+        "Heading": "Dropbox Dash",
+        "Abstract": "Dropbox Dash helps speed up work with AI-powered search across all your connected apps. Dropbox is SOC2-compliant and committed to handling your information with care.",
+        "Official Site": "https://dash.ai",
+        "Icon": "N/A",
+        "Redirect": "https://dash.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dash.ai"
+    },
+    {
+        "link": "https://disneyredirects.com",
+        "Heading": "The Walt Disney Company - Sign In",
+        "Abstract": null,
+        "Official Site": "https://disneyredirects.com",
+        "Icon": "https://ok2static2.oktacdn.com/bc/image/fileStoreRecord?id=fs0103mxs2lEQpytF0x8",
+        "Redirect": "https://disneyredirects.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://disneyredirects.com"
+    },
+    {
+        "link": "https://mamaearth.in",
+        "Heading": "Mamaearth",
+        "Abstract": "Mamaearth",
+        "Official Site": "https://mamaearth.com/",
+        "Icon": "//mamaearth.com/cdn/shop/files/cropped-Favicon-2-150x150.png?crop=center&height=32&v=1750309734&width=32",
+        "Redirect": "https://mamaearth.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mamaearth.com/"
+    },
+    {
+        "link": "https://shriramfinance.in",
+        "Heading": "Investments, Personal & Business Loans, Insurance, BBPS, UPI Payments",
+        "Abstract": "Shriram Finance: Your choice for FD, FIP, General & Life Insurance, Personal, Business, and Vehicle Loans, along with easy BBPS and UPI payment services. India's leading NBFC for diverse financial needs.",
+        "Official Site": "https://www.shriramfinance.in/",
+        "Icon": "https://www.shriramfinance.in/media_1629469c2476817d47678a31aa59ade8b4529fcbd.svg?width=1200&format=pjpg&optimize=medium",
+        "Redirect": "https://www.shriramfinance.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.shriramfinance.in/"
+    },
+    {
+        "link": "https://eternagame.org",
+        "Heading": "Eterna",
+        "Abstract": null,
+        "Official Site": "https://eternagame.org",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://eternagame.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eternagame.org"
+    },
+    {
+        "link": "https://libkey.io",
+        "Heading": "LibKey",
+        "Abstract": "",
+        "Official Site": "https://libkey.io",
+        "Icon": "//libkey-app.thirdiron.com/assets/favicon-661ec25342ce950cb4299b8c5facc01a.ico",
+        "Redirect": "https://libkey.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://libkey.io"
+    },
+    {
+        "link": "https://t35.com",
+        "Heading": "T35 Hosting \u2013 Managed Shared, WordPress, Magento & Dedicated Hosting",
+        "Abstract": null,
+        "Official Site": "https://t35.com",
+        "Icon": "https://www.t35hosting.com/wp-content/uploads/2016/01/cropped-favicon-32x32.png",
+        "Redirect": "https://t35.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://t35.com"
+    },
+    {
+        "link": "https://freenas.org",
+        "Heading": "Enterprise Data Platform | TrueNAS Storage Appliances",
+        "Abstract": "Transform your data estate with TrueNAS Enterprise storage appliances. Secure, scalable, high-performance data platform for every workflow.",
+        "Official Site": "https://www.truenas.com/",
+        "Icon": "https://www.truenas.com/wp-content/uploads/2023/11/F100_racks_featured.jpg",
+        "Redirect": "https://www.truenas.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.truenas.com/"
+    },
+    {
+        "link": "https://2site.ru",
+        "Heading": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u043e\u0432 \u0432 \u0412\u0435\u043b\u0438\u043a\u043e\u043c \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0435",
+        "Abstract": "\u0412\u0435\u0431-\u0441\u0442\u0443\u0434\u0438\u044f Site&Seo -  \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0438 \u043f\u0440\u043e\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435 \u0441\u0430\u0439\u0442\u043e\u0432 \u0432 \u0412\u0435\u043b\u0438\u043a\u043e\u043c \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0435. \u041e\u043f\u044b\u0442 \u0431\u043e\u043b\u0435\u0435 15 \u043b\u0435\u0442. \u0421\u043e\u0437\u0434\u0430\u0435\u043c \u0441\u0430\u0439\u0442\u044b \u043b\u044e\u0431\u043e\u0439 \u0441\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u0438. \u0420\u0430\u0431\u043e\u0442\u0430\u0435\u043c \u043d\u0430 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442. \u041d\u0443\u0436\u043d\u043e \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0441\u0430\u0439\u0442? \u0417\u0432\u043e\u043d\u0438\u0442\u0435, \u043e\u0431\u0441\u0443\u0434\u0438\u043c.",
+        "Official Site": "https://2site.ru",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://2site.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://2site.ru"
+    },
+    {
+        "link": "https://videosxgays.com",
+        "Heading": "PORNO GAY - Videos XXX en Streaming Gratuit - VideosXGAYS",
+        "Abstract": "Le porno gay gratuit en streaming video HD. Chaque jour de nouvelles vid\u00e9os gays avec des minets, du bareback et de beaux mecs TTBM. Le tube gay fran\u00e7ais num\u00e9ro 1 qui te propose chaque jour des nouveaut\u00e9s.",
+        "Official Site": "https://www.videosxgays.com/",
+        "Icon": "https://www.videosxgays.com/contents/flqhqecpuowq/theme/logo.png",
+        "Redirect": "https://www.videosxgays.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.videosxgays.com/"
+    },
+    {
+        "link": "https://dolldivine.com",
+        "Heading": "Newest Dress Up Games [Full List]",
+        "Abstract": "Complete list of all new dress up games, girl games and character creators. Anime and fantasy doll makers and dress ups for adults and teenagers",
+        "Official Site": "https://www.dolldivine.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.dolldivine.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dolldivine.com/"
+    },
+    {
+        "link": "https://amartfurniture.com.au",
+        "Heading": "Amart Furniture: Shop Online & In-Store Across Australia",
+        "Abstract": "Shop Amart Furniture for stylish & affordable home furnishings. Explore our wide selection of indoor and outdoor furniture online or in-store today!",
+        "Official Site": "https://amartfurniture.com.au",
+        "Icon": "https://www.amartfurniture.com.au/on/demandware.static/-/Library-Sites-amart-shared-library/en_AU/v1779673145972/images/favicons/favicon-32x32.png?v=2",
+        "Redirect": "https://amartfurniture.com.au",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amartfurniture.com.au"
+    },
+    {
+        "link": "https://expressionengine.com",
+        "Heading": "ExpressionEngine \u2014 The Best Open Source CMS",
+        "Abstract": "ExpressionEngine is a flexible, feature-rich content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their web site. Publish Your Universe!",
+        "Official Site": "https://expressionengine.com",
+        "Icon": "https://expressionengine.com//assets/images/website-social-card.png",
+        "Redirect": "https://expressionengine.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://expressionengine.com"
+    },
+    {
+        "link": "https://verabradleyoutlet.com",
+        "Heading": "\n        Vera Bradley Outlet Store\n        \n        \n        \n    ",
+        "Abstract": "Vera Bradley Outlet Store",
+        "Official Site": "https://verabradleyoutlet.com/",
+        "Icon": "//verabradleyoutlet.com/cdn/shop/files/Favicon_32x32.png?v=1738419813",
+        "Redirect": "https://verabradleyoutlet.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://verabradleyoutlet.com/"
+    },
+    {
+        "link": "https://tabechoku.com",
+        "Heading": "\u98df\u3079\u30c1\u30e7\u30af\uff5c\u7523\u5730\u76f4\u9001(\u7523\u76f4)\u304a\u53d6\u308a\u5bc4\u305b\u901a\u8ca9 - \u8fb2\u5bb6\u30fb\u6f01\u5e2b\u304b\u3089\u65ec\u306e\u98df\u6750\u3092\u76f4\u9001",
+        "Abstract": "\u5229\u7528\u7387No.1\u306e\u7523\u76f4\u901a\u8ca9\u30b5\u30a4\u30c8\u300c\u98df\u3079\u30c1\u30e7\u30af\u300d\u306f\u3001\u54c1\u8cea\u306b\u3053\u3060\u308f\u308b\u8fb2\u5bb6\u30fb\u6f01\u5e2b\u304b\u3089\u65ec\u306e\u98df\u6750\u3092\u76f4\u63a5\u304a\u53d6\u308a\u5bc4\u305b\u3067\u304d\u308b\u30aa\u30f3\u30e9\u30a4\u30f3\u306e\u76f4\u58f2\u6240\u3067\u3059\u3002\u30e6\u30fc\u30b6\u30fc\u6570\u306f135\u4e07\u4eba\u3092\u7a81\u7834\u3002\u751f\u7523\u8005\u304c\u4e00\u756a\u7f8e\u5473\u3057\u3044\u30bf\u30a4\u30df\u30f3\u30b0\u3092\u898b\u6975\u3081\u3001\u65ec\u306e\u91ce\u83dc\u3084\u679c\u7269\u3001\u9b5a\u3001\u8089\u3001\u5375\u3001\u725b\u4e73\u306a\u3069\u3092\u30c1\u30e7\u30af\u3067\u304a\u5c4a\u3051\u3002\u3060\u304b\u3089\u65b0\u9bae\u3002\u3060\u304b\u3089\u7f8e\u5473\u3057\u3044\u3002\u6709\u6a5f\u91ce\u83dc\u306a\u3069\u8fb2\u85ac\u5316\u5b66\u80a5\u6599\u3092\u4f7f\u308f\u306a\u3044\u751f\u7523\u8005\u3082\u3044\u308b\u306e\u3067\u3001\u5c0f\u3055\u3044\u304a\u5b50\u3055\u3093\u304c\u3044\u308b\u3054\u5bb6\u5ead\u3082\u5b89\u5fc3\u3057\u3066\u3054\u5229\u7528\u3044\u305f\u3060\u3044\u3066\u3044\u307e\u3059\u3002",
+        "Official Site": "https://www.tabechoku.com/",
+        "Icon": "https://www.tabechoku.com/og_img_202109.png",
+        "Redirect": "https://www.tabechoku.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tabechoku.com/"
+    },
+    {
+        "link": "https://laprovinciacr.it",
+        "Heading": "Cremona - Notizie di cronaca, politica, economia e cultura | La Provincia di Cremona",
+        "Abstract": "Leggi le ultime notizie di Cremona e provincia: cronaca, politica, economia, cultura, sport ed eventi. Rimani aggiornato con La Provincia di Cremona",
+        "Official Site": "https://www.laprovinciacr.it/",
+        "Icon": "https://www.laprovinciacr.it/favicon_1.ico?v=1619774213930",
+        "Redirect": "https://www.laprovinciacr.it/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.laprovinciacr.it/"
+    },
+    {
+        "link": "https://nikasoft.ru",
+        "Heading": "\u041d\u0418\u041a\u0410-\u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 | \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u0432 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0438",
+        "Abstract": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u0434\u043b\u044f \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u0437\u0430\u043d\u044f\u0442\u0438\u0439/\u0443\u0440\u043e\u043a\u043e\u0432 \u0434\u043b\u044f \u0448\u043a\u043e\u043b, \u0433\u0438\u043c\u043d\u0430\u0437\u0438\u0439, \u043b\u0438\u0446\u0435\u0435\u0432, \u043a\u043e\u043b\u043b\u0435\u0434\u0436\u0435\u0439 \u0438 \u0442\u0435\u0445\u043d\u0438\u043a\u0443\u043c\u043e\u0432.",
+        "Official Site": "https://nikasoft.ru",
+        "Icon": "/wp-content/themes/zukka/assets/img/favicon/favicon-32x32.png",
+        "Redirect": "https://nikasoft.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nikasoft.ru"
+    },
+    {
+        "link": "https://raiders.com",
+        "Heading": "Las Vegas Raiders Home | Official Team Website | Raiders.com",
+        "Abstract": "The official website of the Las Vegas Raiders a member club of the National Football League (NFL). For the latest news, photos, podcasts, videos, and all information about the Silver and Black.",
+        "Official Site": "https://www.raiders.com/",
+        "Icon": "https://static.nfl.com/static/content/public/static/wildcat/assets/img/logos/teams/OAK.svg",
+        "Redirect": "https://www.raiders.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.raiders.com/"
+    },
+    {
+        "link": "https://viper.to",
+        "Heading": "ViperGirls",
+        "Abstract": "Full Sexual Satisfaction!",
+        "Official Site": "https://viper.to",
+        "Icon": "/favicon-192x192.png",
+        "Redirect": "https://viper.to",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://viper.to"
+    },
+    {
+        "link": "https://hosting4less.com",
+        "Heading": "Hosting 4 Less - Quality Web Hosting Service Since 1998",
+        "Abstract": "Welcome to Hosting 4 Less Hosting 4 Less specializes in high quality web hosting services. Since our inception in 1998, our web hosting service has never been a reseller of another web hosting provider. We are proud to say we own and operate our own web hosting",
+        "Official Site": "https://www.hosting4less.com/",
+        "Icon": "https://www.hosting4less.com/favicon.ico",
+        "Redirect": "https://www.hosting4less.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hosting4less.com/"
+    },
+    {
+        "link": "https://polarisoffice.com",
+        "Heading": "Easier document work with AI | Polaris Office",
+        "Abstract": "Manage HWP, PDF, and MS Office in one place. From summaries to translations and PPTs\u2014AI does it all!",
+        "Official Site": "https://www.polarisoffice.com/en",
+        "Icon": "https://polink-static-contents.polarisoffice.com/web/resources/image/Link_bi.png",
+        "Redirect": "https://www.polarisoffice.com/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.polarisoffice.com/en"
+    },
+    {
+        "link": "https://slidesdocs.com",
+        "Heading": "Free Powerpoint Templates And Best Google Slides Themes - Slidesdocs",
+        "Abstract": "Slidesdocs provides professional powerpoint templates and google slides themes for your presentations. 100% Free! Easy to Edit and Customize! Impress your audience with our amazing and ready-to use powerpoint templates.",
+        "Official Site": "https://slidesdocs.com",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://slidesdocs.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://slidesdocs.com"
+    },
+    {
+        "link": "https://lewdflix.com",
+        "Heading": "Lewdflix - Play Erotic Porn Games | Free Adult Sex Games",
+        "Abstract": "Enjoy best free online adult erotic games. Play online high-quality games for free! Dive into immersive adventures and enjoy a unique gaming experience.",
+        "Official Site": "https://lewdflix.com/",
+        "Icon": "https://lewdflix.com/wp-content/uploads/2025/06/Lewdflix-preview.png",
+        "Redirect": "https://lewdflix.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lewdflix.com/"
+    },
+    {
+        "link": "https://alarbda.com",
+        "Heading": "\u0633\u0643\u0633 Wtf \u00bb \u0627\u0641\u0644\u0627\u0645 \u0633\u0643\u0633 \u062d\u0635\u0631\u064a\u0629",
+        "Abstract": "\u0647\u0644 \u0645\u0644\u0644\u062a \u0645\u0646 \u062a\u0635\u0641\u062d \u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u0633\u0643\u0633 \u0627\u0644\u0639\u0641\u0646\u0629 \u0648\u0627\u0644\u063a\u064a\u0631 \u0627\u062d\u062a\u0631\u0627\u0641\u064a\u0629 \u0645\u0648\u0642\u0639 \u0633\u0643\u0633\u0627\u0648\u064a \u064a\u0642\u062f\u0645 \u0644\u0643 \u0643\u0644 \u0627\u0644\u0627\u0641\u0644\u0627\u0645 \u0627\u0644\u0627\u0628\u0627\u062d\u064a\u0629 \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u0627\u0644\u0645\u0645\u064a\u0632\u0629 \u0648\u0627\u0644\u0645\u0646\u062a\u0642\u0627\u0629 \u0628\u0639\u0646\u0627\u064a\u0629 \u0645\u0646 \u0643\u0644 \u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0627\u0644\u0625\u0628\u0627\u062d\u064a\u0629 \u062d\u0648\u0644 \u0627\u0644\u0639\u0627\u0644\u0645 \u0628\u0643\u0627\u0641\u0629 \u0627\u0644\u062a\u0635\u0646\u064a\u0641\u0627\u062a \u0627\u0641\u0644\u0627\u0645 \u0648\u0645\u0642\u0627\u0637\u0639 \u0633\u0643\u0633 \u0639\u0631\u0628\u064a \u0648 \u0627\u062c\u0646\u0628\u064a \u0645\u062a\u0631\u062c\u0645 \u0628\u0627\u0644\u0627\u0636\u0627\u0641\u0629 \u0644\u0635\u0648\u0631 \u0627\u0644\u0633\u0643\u0633 \u0627\u0644\u0645\u062a\u062d\u0631\u0643\u0629 \u0648\u0630\u0627\u062a \u0627\u0644\u062f\u0642\u0629 \u0627\u0644\u0639\u0627\u0644\u064a\u0629 \u0633\u0643\u0633 \u0627\u062c\u0646\u0628\u064a \u0648\u0639\u0631\u0628\u064a \u062c\u0646\u0633 \u0645\u062d\u0627\u0627\u0631\u0631\u0645 \u0646\u064a\u0643 \u0628\u0632\u0627\u0632 \u0648 \u0645\u0624\u062e\u0631\u0627\u062a \u062c\u0645\u064a\u0644\u0629 \u0648\u0627\u0644\u0645\u0632\u064a\u062f \u0627\u0633\u062a\u0645\u062a\u0639 \u0628\u0645\u062d\u062a\u0648\u0649 \u0627\u0628\u0627\u062d\u064a \u0639\u0627\u0644\u064a \u0627\u0644\u062c\u0648\u062f\u0629",
+        "Official Site": "https://alarbda.com/",
+        "Icon": "https://alarbda.com/wp-content/themes/retrotube/assets/img/favicon.png",
+        "Redirect": "https://alarbda.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alarbda.com/"
+    },
+    {
+        "link": "https://klaravik.se",
+        "Heading": "K\u00f6p & s\u00e4lj maskiner, verktyg & fordon p\u00e5 auktion | Klaravik",
+        "Abstract": "K\u00f6p och s\u00e4lj p\u00e5 Nordens st\u00f6rsta auktionssajt f\u00f6r maskiner, verktyg och fordon. Skapa konto, l\u00e4gg bud och kontakta din lokala auktionsm\u00e4klare f\u00f6r att s\u00e4lja.",
+        "Official Site": "https://www.klaravik.se/",
+        "Icon": "https://www.klaravik.se/images/klaravik-share-icon-200x200.png",
+        "Redirect": "https://www.klaravik.se/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.klaravik.se/"
+    }
+]

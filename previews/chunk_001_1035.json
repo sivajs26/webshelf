@@ -1,0 +1,422 @@
+[
+    {
+        "link": "https://vivatechstores.net",
+        "Heading": "Vivatech - Premium Tech Store",
+        "Abstract": null,
+        "Official Site": "https://vivatechstores.net",
+        "Icon": "images/favicon.png",
+        "Redirect": "https://vivatechstores.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vivatechstores.net"
+    },
+    {
+        "link": "https://thehendonmob.com",
+        "Heading": "Largest Live Poker Database - Poker Hendon Mob",
+        "Abstract": "",
+        "Official Site": "https://www.thehendonmob.com/",
+        "Icon": "https://www.thehendonmob.com/content/uploads/2019/01/cropped-thm-favicon-1-32x32.png",
+        "Redirect": "https://www.thehendonmob.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thehendonmob.com/"
+    },
+    {
+        "link": "https://cicero.de",
+        "Heading": "Cicero Online - Magazin f\u00fcr politische Kultur",
+        "Abstract": "Cicero Online ist ein Magazin f\u00fcr politische Kultur im Internet. Wir bieten Ihnen herausragende Autoren und Debatten zu aktuellen Themen.",
+        "Official Site": "https://www.cicero.de/home",
+        "Icon": "https://cicero-prod.nbg1.your-objectstorage.com/s3fs-public/favicons/favicon-32x32.png",
+        "Redirect": "https://www.cicero.de/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cicero.de/home"
+    },
+    {
+        "link": "https://pon-navi.net",
+        "Heading": "\u540d\u4ed8\u3051\u30dd\u30f3\u516c\u5f0f - \u8d64\u3061\u3083\u3093\u306e\u540d\u524d\u691c\u7d22\u3000\u7537\u306e\u5b50/\u5973\u306e\u5b50\u306e\u547d\u540d\u30b5\u30dd\u30fc\u30c8",
+        "Abstract": "\u3054\u5229\u75284\u5104\u56de\u7a81\u7834\uff01\u540d\u4ed8\u3051\u30dd\u30f3\u306f\u65e5\u672c\u3067\u4e00\u756a\u5229\u7528\u3055\u308c\u3066\u3044\u308b\u540d\u524d\u547d\u540d\u30b5\u30a4\u30c8\u3067\u3059\u3002\u8d64\u3061\u3083\u3093\u306e\u540d\u524d\u691c\u7d22\u304c\u30b5\u30af\u30b5\u30af\u3067\u304d\u308b\uff01\u7d50\u679c\u306f\u4eba\u6c17\u9806\u3067\u8868\u793a\uff06\u6c17\u306b\u306a\u308b\u540d\u524d\u306f\u304a\u6c17\u306b\u5165\u308a\u4fdd\u5b58\u306a\u3069\u3001\u4fbf\u5229\u306a\u6a5f\u80fd\u3067\u3054\u5229\u7528\u56de\u65703\u5104\u56de\u7a81\u7834\u3002\u59d3\u540d\u5224\u65ad\u3084\u304a\u3057\u3083\u308c\u306a\u547d\u540d\u66f8\u3082\u7121\u6599\u3067\u5229\u7528\u3067\u304d\u307e\u3059\u3002",
+        "Official Site": "https://pon-navi.net",
+        "Icon": "/common/images/author_pon.png",
+        "Redirect": "https://pon-navi.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pon-navi.net"
+    },
+    {
+        "link": "https://ihasco.co.uk",
+        "Heading": "Online Training Courses | The eLearning Experts | iHasco",
+        "Abstract": "Training Made Simple - Over 180 online training courses. A simple but effective LMS. 12,000+ UK clients and over 20 million training sessions delivered!",
+        "Official Site": "https://www.ihasco.co.uk/",
+        "Icon": "https://www.ihasco.co.uk/app/uploads/2026/04/iHasco_Logo_-_2000_x_1600-aspect-ratio-1.91-1.png",
+        "Redirect": "https://www.ihasco.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ihasco.co.uk/"
+    },
+    {
+        "link": "https://globle-game.com",
+        "Heading": "Globle",
+        "Abstract": "Use your geography knowledge to figure out the mystery country in as few guesses as possible!",
+        "Official Site": "https://globle-game.com",
+        "Icon": "/globle-preview.png",
+        "Redirect": "https://globle-game.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://globle-game.com"
+    },
+    {
+        "link": "https://beretta.com",
+        "Heading": "Country",
+        "Abstract": null,
+        "Official Site": "https://www.beretta.com/country",
+        "Icon": "https://dam.beretta.com/content/dam/beretta/logos/Full__Blue.svg",
+        "Redirect": "https://www.beretta.com/country",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.beretta.com/country"
+    },
+    {
+        "link": "https://appmeasurements.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://appmeasurements.com",
+        "Icon": "N/A",
+        "Redirect": "https://appmeasurements.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://appmeasurements.com"
+    },
+    {
+        "link": "https://mintransporte.gov.co",
+        "Heading": "Ministerio de Transporte",
+        "Abstract": "Ministerio de Transporte, Conoce los servicios, noticias y normativas del Ministerio de Transporte de Colombia. Informaci\u00f3n oficial para ciudadanos, empresas y entidades p\u00fablicas.",
+        "Official Site": "https://mintransporte.gov.co/",
+        "Icon": "https://mintransporte.gov.co/info/mintransporte/web/portal/img/favicon.png",
+        "Redirect": "https://mintransporte.gov.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mintransporte.gov.co/"
+    },
+    {
+        "link": "https://skolverket.se",
+        "Heading": "Skolverket",
+        "Abstract": "Skolverket ska fr\u00e4mja att alla barn och elever f\u00e5r tillg\u00e5ng till en utbildning och verksamhet som \u00e4r likv\u00e4rdig och av god kvalitet i en trygg milj\u00f6.",
+        "Official Site": "https://www.skolverket.se/",
+        "Icon": "https://www.skolverket.se/images/18.31c292d516e7445866a9c/1574163361667/ogimage.png",
+        "Redirect": "https://www.skolverket.se/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.skolverket.se/"
+    },
+    {
+        "link": "https://unimealplan.com",
+        "Heading": "Weight loss management app",
+        "Abstract": "Are you searching for a well-balanced meal plan that considers all your needs and preferences? Check out recipes composed by Unimeal experts just for you!",
+        "Official Site": "https://unimeal.com/en",
+        "Icon": "https://unimeal.com/UM_Sharing_Image.png",
+        "Redirect": "https://unimeal.com/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://unimeal.com/en"
+    },
+    {
+        "link": "https://kissflow.com",
+        "Heading": "Kissflow | Build Custom Enterprise Apps Fast with AI & Low-Code",
+        "Abstract": "Kissflow\u2019s AI-powered low-code platform for IT and no-code platform for business leaders enables users build custom enterprise apps, automate workflows, and enhance enterprise efficiency. Try it today!",
+        "Official Site": "https://kissflow.com",
+        "Icon": "https://kissflow.com/hubfs/OG%20Homepage.webp",
+        "Redirect": "https://kissflow.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kissflow.com"
+    },
+    {
+        "link": "https://gamingbolt.com",
+        "Heading": "Video Game News, Reviews, Walkthroughs And Guides | GamingBolt",
+        "Abstract": "GamingBolt covers the latest video game news, reviews, guides, tips, tricks, wikis, opinions, features and more.",
+        "Official Site": "https://gamingbolt.com/",
+        "Icon": "https://gamingbolt.com/wp-content/themes/GamingBoltV5/images/gbpageimage.jpg",
+        "Redirect": "https://gamingbolt.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gamingbolt.com/"
+    },
+    {
+        "link": "https://immovlan.be",
+        "Heading": null,
+        "Abstract": "Choose your language / Choississez votre langue / Kies je taal",
+        "Official Site": "https://immovlan.be",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://immovlan.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://immovlan.be"
+    },
+    {
+        "link": "https://crummy.com",
+        "Heading": "Swear not by the wiki, the fickle wiki, the inconstant wiki",
+        "Abstract": null,
+        "Official Site": "https://crummy.com",
+        "Icon": "N/A",
+        "Redirect": "https://crummy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crummy.com"
+    },
+    {
+        "link": "https://hivetoons.org",
+        "Heading": "HiveToons | Read Manga, Manhwa & Manhua Online - Read manga, manhwa, and manhua online at HiveToons with translated chapters, popular titles, latest updates, and a fast, organized reading experience.",
+        "Abstract": "Read manga, manhwa, and manhua online at HiveToons with translated chapters, popular titles, latest updates, and a fast, organized reading experience.",
+        "Official Site": "https://hivetoons.org",
+        "Icon": "https://storage.hivetoon.com/public/upload/2026/03/29/26436e08-1b05-4c54-bd83-6dfeb75ea597.webp",
+        "Redirect": "https://hivetoons.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hivetoons.org"
+    },
+    {
+        "link": "https://latticehq.com",
+        "Heading": "Lattice |\u00a0The HR platform that people love",
+        "Abstract": "Join 5,000+ forward-thinking teams using Lattice\u2019s HR and AI tools to manage people and performance \u2014 all on one trusted platform.",
+        "Official Site": "https://latticehq.com",
+        "Icon": "https://cdn.prod.website-files.com/64ad6f1aef87635bd23449f1/681d1463b7130290651a6126_og-lattice.webp",
+        "Redirect": "https://latticehq.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://latticehq.com"
+    },
+    {
+        "link": "https://transactiondesk.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://transactiondesk.com",
+        "Icon": "N/A",
+        "Redirect": "https://transactiondesk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://transactiondesk.com"
+    },
+    {
+        "link": "https://ciodive.com",
+        "Heading": "Information and Enterprise Technology News | CIO Dive",
+        "Abstract": "CIO Dive provides news and analysis for IT executives. We cover big data, IT strategy, cloud computing, security, mobile technology, infrastructure, software and more.",
+        "Official Site": "https://ciodive.com",
+        "Icon": "https://d12v9rtnomnebu.cloudfront.net/divesite/header_image_logos/cio_dive_feed_header.jpg",
+        "Redirect": "https://ciodive.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ciodive.com"
+    },
+    {
+        "link": "https://youmaker.com",
+        "Heading": "{{ .og_title }}",
+        "Abstract": "{{ .og_description }}",
+        "Official Site": "{{ .og_url }}",
+        "Icon": "{{ .og_image }}",
+        "Redirect": "{{ .og_url }}",
+        "AbstractSource": "BS4",
+        "AbstractURL": "{{ .og_url }}"
+    },
+    {
+        "link": "https://musica.com",
+        "Heading": "Toda la m\u00fasica en MUSICA.COM",
+        "Abstract": "En musica.com puedes escuchar miles de canciones mientras lees sus letras. Playlists, juegos, art\u00edculos de m\u00fasica, v\u00eddeos virales...",
+        "Official Site": "https://www.musica.com",
+        "Icon": "https://i.musicaimg.com/mas-musica/musica.png",
+        "Redirect": "https://www.musica.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.musica.com"
+    },
+    {
+        "link": "https://chihuahua.gob.mx",
+        "Heading": "| Portal Gubernamental del Estado de Chihuahua",
+        "Abstract": null,
+        "Official Site": "https://chihuahua.gob.mx",
+        "Icon": "/sites/default/atach2/iconogob.ico",
+        "Redirect": "https://chihuahua.gob.mx",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chihuahua.gob.mx"
+    },
+    {
+        "link": "https://insidehalton.com",
+        "Heading": "Local News and Weather \u2014 Oakville, Burlington, Milton | Inside Halton",
+        "Abstract": "Stay informed with local news from Halton Region. Get the latest news and weather from Oakville, Burlington and Milton.",
+        "Official Site": "https://www.insidehalton.com/",
+        "Icon": "https://bloximages.chicago2.vip.townnews.com/insidehalton.com/content/tncms/custom/image/e6d88446-fbe9-11ed-950e-778da0dc3a80.png?resize=600%2C315",
+        "Redirect": "https://www.insidehalton.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.insidehalton.com/"
+    },
+    {
+        "link": "https://salzburg.info",
+        "Heading": "Salzburg - City of Culture : salzburg.info",
+        "Abstract": "Your official guide to Salzburg \u2713 UNESCO World Heritage - Mozart - Salzburg Festival - The Sound of Music - Advent & Silent Night: That's Salzburg!",
+        "Official Site": "https://www.salzburg.info/en",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://www.salzburg.info/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.salzburg.info/en"
+    },
+    {
+        "link": "https://invertexto.com",
+        "Heading": "invertexto.com - Ferramentas e Aplicativos Online",
+        "Abstract": "Ferramentas e aplicativos online de manipula\u00e7\u00e3o de texto, sorteio, c\u00f3digo de barras, data e hora, criptografia, n\u00fameros aleat\u00f3rios, entre outras.",
+        "Official Site": "https://www.invertexto.com",
+        "Icon": "https://cdn.invertexto.com/img/face-note.png",
+        "Redirect": "https://www.invertexto.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.invertexto.com"
+    },
+    {
+        "link": "https://covet.pics",
+        "Heading": "Covet.pics - Galleries that sell",
+        "Abstract": "Covet.pics is a wholesome Shopify app that covers all your gallery needs. Easily scalable, customizable and user-generated, it is designed to grow your conversions while freeing up your time.",
+        "Official Site": "https://covet.pics",
+        "Icon": "https://cdn.prod.website-files.com/5e2eb22b5b8bed6e48bc5b0a/5e4236a77e2794c48faeb0f4_covet_favicon_32.png",
+        "Redirect": "https://covet.pics",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://covet.pics"
+    },
+    {
+        "link": "https://jitbit.com",
+        "Heading": "Jitbit: Email-First Help Desk Software & IT Ticketing System",
+        "Abstract": "Jitbit HelpDesk - a ticketing system for your support team",
+        "Official Site": "https://jitbit.com",
+        "Icon": "https://imgen.jitbit.com/?bg=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fsilicon-valley-season-3.jpg&txt=_&logo=https%3A%2F%2Fwww.jitbit.com%2Fimages%2Femaillogo.png&font=Corbel",
+        "Redirect": "https://jitbit.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jitbit.com"
+    },
+    {
+        "link": "https://dom2.ru",
+        "Heading": "\u0414\u043e\u043c-2. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0440\u0435\u0430\u043b\u0438\u0442\u0438-\u0448\u043e\u0443",
+        "Abstract": "#\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e\u0412\u0441\u0435: \u0441\u0440\u043e\u0447\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438, \u0441\u0435\u043d\u0441\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f, \u043e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u043d\u044b\u0435 \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e",
+        "Official Site": "https://dom2.ru/",
+        "Icon": "https://dom2.ru/static/img/share.png",
+        "Redirect": "https://dom2.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dom2.ru/"
+    },
+    {
+        "link": "https://epawg.com",
+        "Heading": "The Best Amateur Porn Videos & Sexy Content Creators - Epawg",
+        "Abstract": "Enjoy a huge selection of custom porn videos starring sexy amateur models from OnlyFans and Snapchat. Real girls posting sex videos in dozens of categories!",
+        "Official Site": "https://epawg.com/",
+        "Icon": "https://epawg.com/static/images/logo.png",
+        "Redirect": "https://epawg.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://epawg.com/"
+    },
+    {
+        "link": "https://myablefy.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://myablefy.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://myablefy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://myablefy.com"
+    },
+    {
+        "link": "https://payworks.ca",
+        "Heading": "Payworks - Payroll, HR, Employee Self Service, Time & Absence and More",
+        "Abstract": "Payworks is a leading expert in the field of total workforce management solutions, providing cloud-based Payroll, Human Resources, Employee Time and Absence Management to businesses across Canada.",
+        "Official Site": "https://www.payworks.ca",
+        "Icon": "https://www.payworks.ca/images/default-source/open-graph/index.jpg?sfvrsn=7853e135_3",
+        "Redirect": "https://www.payworks.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.payworks.ca"
+    },
+    {
+        "link": "https://dineplan.com",
+        "Heading": "Dineplan - Restaurants & Online Restaurant Reservations",
+        "Abstract": "Make online reservations, read reviews & browse menus for 2,000+ South African restaurants. Download the free Dineplan restaurant reservation app for Android & iPhone.",
+        "Official Site": "https://www.dineplan.com",
+        "Icon": "https://www.dineplan.com/media/images/favicons/logo_spot_256.png",
+        "Redirect": "https://www.dineplan.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dineplan.com"
+    },
+    {
+        "link": "https://kg.ac.rs",
+        "Heading": "\u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442 \u0443 \u041a\u0440\u0430\u0433\u0443\u0458\u0435\u0432\u0446\u0443",
+        "Abstract": "\u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442 \u0443 \u041a\u0440\u0430\u0433\u0443\u0458\u0435\u0432\u0446\u0443 \u0458\u0435 \u0441\u0430\u043c\u043e\u0441\u0442\u0430\u043b\u043d\u0430 \u0432\u0438\u0441\u043e\u043a\u043e\u0448\u043a\u043e\u043b\u0441\u043a\u0430 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0430, \u0447\u0438\u0458\u0438 \u0458\u0435 \u043e\u0441\u043d\u0438\u0432\u0430\u0447 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430. \u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442 \u0458\u0435 \u043e\u0441\u043d\u043e\u0432\u0430\u043d 21. \u043c\u0430\u0458\u0430 1976. \u0433\u043e\u0434\u0438\u043d\u0435, \u0430\u043b\u0438 \u0441\u0443 \u043f\u0440\u0432\u0435 \u0432\u0438\u0441\u043e\u043a\u043e\u0448\u043a\u043e\u043b\u0441\u043a\u0435 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u0458\u0435 \u0443 \u041a\u0440\u0430\u0433\u0443\u0458\u0435\u0432\u0446\u0443 \u043f\u043e\u0447\u0435\u043b\u0435 \u0441\u0430 \u0440\u0430\u0434\u043e\u043c 1960. \u0433\u043e\u0434\u0438\u043d\u0435, \u043a\u0430\u043e \u043e\u0434\u0435\u0459\u0435\u045a\u0430 \u0431\u0435\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0445 \u0444\u0430\u043a\u0443\u043b\u0442\u0435\u0442\u0430. \u041a\u043e\u0440\u0435\u043d\u0438 \u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442\u0430 \u0443 \u041a\u0440\u0430\u0433\u0443\u0458\u0435\u0432\u0446\u0443 \u0438 \u0432\u0438\u0441\u043e\u043a\u043e\u0433 \u0448\u043a\u043e\u043b\u0441\u0442\u0432\u0430 \u0443 \u0421\u0440\u0431\u0438\u0458\u0438 \u0441\u0435\u0436\u0443 \u0434\u043e \u0434\u0430\u043b\u0435\u043a\u0435 1838. \u0433\u043e\u0434\u0438\u043d\u0435, \u043a\u0430\u0434\u0430 \u0441\u0443 \u0443 \u041a\u0440\u0430\u0433\u0443\u0458\u0435\u0432\u0446\u0443, \u0442\u0430\u0434\u0430 \u043f\u0440\u0435\u0441\u0442\u043e\u043d\u043e\u043c \u0433\u0440\u0430\u0434\u0443 \u043e\u0431\u043d\u043e\u0432\u0459\u0435\u043d\u0435 \u0421\u0440\u0431\u0438\u0458\u0435, \u043d\u0438\u043a\u043b\u0435 \u043f\u0440\u0432\u0435 \u043f\u0440\u043e\u0441\u0432\u0435\u0442\u043d\u0435, \u043a\u0443\u043b\u0442\u0443\u0440\u043d\u0435 \u0438 \u043f\u0440\u0438\u0432\u0440\u0435\u0434\u043d\u0435 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u0458\u0435 \u0438 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u043f\u0440\u0432\u0430 \u0432\u0438\u0441\u043e\u043a\u043e\u0448\u043a\u043e\u043b\u0441\u043a\u0430 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u0458\u0430 - \u041b\u0438\u0446\u0435\u0458 \u041a\u043d\u0435\u0436\u0435\u0432\u0438\u043d\u0435 \u0421\u0440\u0431\u0438\u0458\u0435 - \u043a\u043e\u0458\u0438 \u0458\u0435 1841. \u0433\u043e\u0434\u0438\u043d\u0435 \u043f\u0440\u0435\u0441\u0435\u0459\u0435\u043d \u0443 \u0411\u0435\u043e\u0433\u0440\u0430\u0434 \u0438 \u043f\u0440\u0435\u0440\u0430\u0441\u0442\u0430\u043e \u0443 \u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442 \u0443 \u0411\u0435\u043e\u0433\u0440\u0430\u0434\u0443. \u041f\u0440\u0438 \u0438\u0437\u0440\u0430\u0434\u0438 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u0458\u0435 \u0423\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442\u0430 \u0443\u0441\u0432\u043e\u0458\u0435\u043d \u0458\u0435 \u043c\u043e\u0434\u0435\u043b \u0440\u0430\u0437\u0443\u0452\u0435\u043d\u043e\u0433 \u0443\u043d\u0438\u0432\u0435\u0440\u0437\u0438\u0442\u0435\u0442\u0430, \u043a\u043e\u0458\u0438 \u0441\u0435 \u0440\u0430\u0437\u0432\u0438\u0458\u0430 \u043d\u0430 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0443 \u0434\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0458\u0435, \u0430 \u043f\u0440\u0435\u043c\u0430 \u043f\u043e\u0442\u0440\u0435\u0431\u0430\u043c\u0430 \u043f\u0440\u0438\u0432\u0440\u0435\u0434\u0435 \u0438 \u0434\u0440\u0443\u0448\u0442\u0432\u0435\u043d\u0438\u0445 \u0434\u0435\u043b\u0430\u0442\u043d\u043e\u0441\u0442\u0438 \u0428\u0443\u043c\u0430\u0434\u0438\u0458\u0435 \u0438 \u041f\u043e\u043c\u043e\u0440\u0430\u0432\u0459\u0430, \u043f\u043e\u0434\u0440\u0443\u0447\u0458\u0430 \u043a\u043e\u0458\u0435 \u0438\u043c\u0430 \u043e\u043a\u043e 600.000 \u0441\u0442\u0430\u043d\u043e\u0432\u043d\u0438\u043a\u0430. \u041e\u0441\u0430\u043c \u0433\u043e\u0434\u0438\u043d\u0430 \u043a\u0430\u0441\u043d\u0438\u0458\u0435 \u043e\u0441\u043d\u0438\u0432\u0430 \u0441\u0435 ",
+        "Official Site": "https://kg.ac.rs",
+        "Icon": "favicon.ico",
+        "Redirect": "https://kg.ac.rs",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kg.ac.rs"
+    },
+    {
+        "link": "https://homestarrunner.com",
+        "Heading": "Everybody! Everybody! - Homestar Runner",
+        "Abstract": "",
+        "Official Site": "https://homestarrunner.com",
+        "Icon": "/assets/images/favicon.ico",
+        "Redirect": "https://homestarrunner.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://homestarrunner.com"
+    },
+    {
+        "link": "https://startupxplore.com",
+        "Heading": "Invest in the best startups with the best investors",
+        "Abstract": "syndicate.meta.description.fb",
+        "Official Site": "https://startupxplore.com/en",
+        "Icon": "https://startupxplore.com/newdesign/images/share/syndicates.png",
+        "Redirect": "https://startupxplore.com/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://startupxplore.com/en"
+    },
+    {
+        "link": "https://joynetgame.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://joynetgame.com",
+        "Icon": "N/A",
+        "Redirect": "https://joynetgame.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://joynetgame.com"
+    },
+    {
+        "link": "https://journalistsresource.org",
+        "Heading": "The Journalist's Resource - Informing the news with research",
+        "Abstract": "The Journalist\u2019s Resource helps to bridge the communications gap between academia and journalism. Our goal: more high-quality research in the news stream.",
+        "Official Site": "https://journalistsresource.org/",
+        "Icon": "https://journalistsresource.org/wp-content/uploads/2021/02/jr-logo.png",
+        "Redirect": "https://journalistsresource.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://journalistsresource.org/"
+    },
+    {
+        "link": "https://codemonkey.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://codemonkey.com",
+        "Icon": "N/A",
+        "Redirect": "https://codemonkey.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://codemonkey.com"
+    },
+    {
+        "link": "https://pilotflyingj.com",
+        "Heading": "Pilot Company | Travel Center & Gas Station Network",
+        "Abstract": "<p>Pilot Company is a travel center network of truck stops, Pilot Eats, gas stations, the Pilot app, and gas and diesel fuel.</p>",
+        "Official Site": "https://pilotflyingj.com",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://pilotflyingj.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pilotflyingj.com"
+    },
+    {
+        "link": "https://nowpayments.io",
+        "Heading": "Crypto Payment Gateway \u2014 the best solution for accepting cryptocurrency for your business",
+        "Abstract": "\u25b6\ufe0f NOWPayments is a crypto payment gateway for accepting Bitcoin, USDT, Ethereum and other cryptocurrencies. \u2705 Sign up for free and start accepting crypto NOW!",
+        "Official Site": "https://nowpayments.io",
+        "Icon": "https://nowpayments.io/images/logo/sharing_image.png",
+        "Redirect": "https://nowpayments.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nowpayments.io"
+    },
+    {
+        "link": "https://raksul.com",
+        "Heading": "\u5370\u5237\u306e\u3053\u3068\u306a\u3089\u683c\u5b89\u30fb\u6fc0\u5b89\u306e\u5370\u5237\u901a\u8ca9\u3010\u30e9\u30af\u30b9\u30eb\u3011",
+        "Abstract": "\u30cd\u30c3\u30c8\u5370\u5237\u306e\u30e9\u30af\u30b9\u30eb\u306e\u30c8\u30c3\u30d7\u30da\u30fc\u30b8\u3067\u3059\u3002\u30c6\u30ec\u30d3CM\u3067\u3082\u304a\u306a\u3058\u307f\u306e\u30e9\u30af\u30b9\u30eb\u306f\u30cd\u30c3\u30c8\u3067\u7c21\u5358\u306b\u5370\u5237\u7269\u3092\u6ce8\u6587\u3067\u304d\u308b\u5370\u5237\u901a\u8ca9\u30b5\u30a4\u30c8\u3067\u3059\u300224\u6642\u9593\u6ce8\u6587\u53d7\u4ed8\u3001\u5168\u56fd\u9001\u6599\u7121\u6599\u3001\u5145\u5b9f\u306e\u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30dd\u30fc\u30c8\u3002",
+        "Official Site": "https://raksul.com/",
+        "Icon": "https://raksul.com/asset/img/common/img-ogp-raksul.png",
+        "Redirect": "https://raksul.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://raksul.com/"
+    },
+    {
+        "link": "https://hotelchocolat.com",
+        "Heading": "Luxury Chocolates and Chocolate Gifts | Hotel Chocolat",
+        "Abstract": "Welcome to Hotel Chocolat. Discover luxury chocolate gifts, hampers and chocolate boxes for every occasion, crafted with ethically sourced cacao and delivered with care.",
+        "Official Site": "https://hotelchocolat.com",
+        "Icon": "https://www.hotelchocolat.com/on/demandware.static/Sites-HotelChocolat-Site/-/default/dw2ffbcbd7/images/logo-black.png",
+        "Redirect": "https://hotelchocolat.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hotelchocolat.com"
+    }
+]

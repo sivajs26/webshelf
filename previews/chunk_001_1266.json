@@ -1,0 +1,262 @@
+[
+    {
+        "link": "https://skoob.com.br",
+        "Heading": "Skoob",
+        "Abstract": null,
+        "Official Site": "https://skoob.com.br",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://skoob.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://skoob.com.br"
+    },
+    {
+        "link": "https://univ-cotedazur.fr",
+        "Heading": "Universit\u00e9 C\u00f4te d'Azur",
+        "Abstract": "Universit\u00e9 intensive en recherche portant des formations d\u2019excellence dans les secteurs innovants, implant\u00e9e \u00e0 Nice, Sophia-Antipolis, Cannes, Grasse et Menton",
+        "Official Site": "https://univ-cotedazur.fr/",
+        "Icon": "https://univ-cotedazur.fr/medias/photo/vip360_1759220624276-jpg",
+        "Redirect": "https://univ-cotedazur.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://univ-cotedazur.fr/"
+    },
+    {
+        "link": "https://edtechmagazine.com",
+        "Heading": "K12 and Higher Education Technology News | EdTech Magazine",
+        "Abstract": "EdTech Magazine explores technology and education issues that IT leaders and educators face when they're evaluating and implementing a solution for K-12 and Higher Ed.",
+        "Official Site": "https://edtechmagazine.com",
+        "Icon": "/themes/cdw_edtech_main/favicon.ico",
+        "Redirect": "https://edtechmagazine.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://edtechmagazine.com"
+    },
+    {
+        "link": "https://useproof.com",
+        "Heading": "Proof - Increase Online Sales & Conversions With Personalization",
+        "Abstract": "Proof lets you easily personalize your website for every visitor to increase conversions. Learn how your B2B company use Proof to increase leads, demos, and sales.",
+        "Official Site": "https://useproof.com",
+        "Icon": "https://uploads-ssl.webflow.com/59318798d83bff2781822428/5e1e3a8abb0f19d0390685ce_Social%20media%20repost%20(1).png",
+        "Redirect": "https://useproof.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://useproof.com"
+    },
+    {
+        "link": "https://maplesoft.com",
+        "Heading": "Maplesoft - Software for Mathematics, Online Learning, Engineering",
+        "Abstract": "Maplesoft, providers of software and services for math education, online STEM learning, and engineering",
+        "Official Site": "https://maplesoft.com",
+        "Icon": "N/A",
+        "Redirect": "https://maplesoft.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://maplesoft.com"
+    },
+    {
+        "link": "https://webcg.net",
+        "Heading": "\u30af\u30eb\u30de\u597d\u304d\u306a\u3089\u6bce\u65e5\u307f\u3066\u308b webCG \u65b0\u8eca\u60c5\u5831\u30fb\u30ab\u30fc\u30b0\u30e9\u30d5\u30a3\u30c3\u30af",
+        "Abstract": "1962\u5e74\u5275\u520a\u306e\u81ea\u52d5\u8eca\u5c02\u9580\u8a8c\u300eCAR GRAPHIC\u300f\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30b5\u30a4\u30c8\u3068\u3057\u3066\u30011998\u5e746\u6708\u306b\u30aa\u30fc\u30d7\u30f3\u3057\u305f\u300ewebCG\u300f\u3002\u65b0\u8eca\u60c5\u5831\u306f\u3082\u3061\u308d\u3093\u3001\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u306b\u3088\u308b\u8a66\u4e57\u8a18\u3084\u30af\u30eb\u30de\u306b\u307e\u3064\u308f\u308b\u8aad\u307f\u7269\u306a\u3069\u3001\u30af\u30eb\u30de\u597d\u304d\u306b\u5411\u3051\u3066\u65e5\u3005\u60c5\u5831\u3092\u767a\u4fe1\u4e2d\u3067\u3059\u3002",
+        "Official Site": "https://www.webcg.net",
+        "Icon": "https://webcg.ismcdn.jp/common/webcg/images/v5/logo_ogp.png",
+        "Redirect": "https://www.webcg.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.webcg.net"
+    },
+    {
+        "link": "https://icard.com",
+        "Heading": "iCard Digital Wallet: discover reliable financial services in one app",
+        "Abstract": "The iCard Digital Wallet gives you a wide range of reliable financial services all in one convenient app. Enjoy easy transfers, secure online payments, virtual and physical cards, and more.",
+        "Official Site": "https://icard.com/",
+        "Icon": "https://cdn.icard.com/icard.com/img/common/og/og-image-home-nova-en.jpg?37",
+        "Redirect": "https://icard.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://icard.com/"
+    },
+    {
+        "link": "https://supermetrics.com",
+        "Heading": "Marketing Intelligence Platform: Supermetrics",
+        "Abstract": "Supermetrics is the leading Marketing Intelligence Platform for agencies and brands that allows you to connect, manage, analyze, and activate your data.",
+        "Official Site": "https://supermetrics.com/",
+        "Icon": "https://cdn.sanity.io/images/8ly2m84z/production-2025/eee7774699fe786de151ef9785e5392dc2da9d5a-3840x2160.png",
+        "Redirect": "https://supermetrics.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://supermetrics.com/"
+    },
+    {
+        "link": "https://agiloft.com",
+        "Heading": "Agiloft: Intelligent CLM Contract Management Software",
+        "Abstract": "Set the bar higher with Agiloft's contract lifecycle management software that automates your processes, reduces risk, & drives more revenue. Let's talk now.",
+        "Official Site": "https://www.agiloft.com/",
+        "Icon": "https://www.agiloft.com/wp-content/uploads/hero-woman-v1-1-scaled-e1740073527524.jpg",
+        "Redirect": "https://www.agiloft.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.agiloft.com/"
+    },
+    {
+        "link": "https://trophymanager.com",
+        "Heading": "Online Football Management Game",
+        "Abstract": null,
+        "Official Site": "https://trophymanager.com",
+        "Icon": "/pics/favicon.ico",
+        "Redirect": "https://trophymanager.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trophymanager.com"
+    },
+    {
+        "link": "https://trendingcyber.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://trendingcyber.com",
+        "Icon": "https://cdn.trendingcyber.com/afs_domains/trendingcyber.com_favicon.png",
+        "Redirect": "https://trendingcyber.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trendingcyber.com"
+    },
+    {
+        "link": "https://basecamphq.com",
+        "Heading": "Basecamp \u2014 Project management software, online collaboration",
+        "Abstract": "Trusted by millions, Basecamp puts everything you need to get work done in one place. It\u2019s the calm, organized way to manage projects, work with clients, and communicate company-wide.",
+        "Official Site": "https://basecamp.com/",
+        "Icon": "https://basecamp.com/assets/images/opengraph/basecamp.png?v=1.0.6",
+        "Redirect": "https://basecamp.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://basecamp.com/"
+    },
+    {
+        "link": "https://untsystem.edu",
+        "Heading": "UNT System Homepage",
+        "Abstract": null,
+        "Official Site": "https://www.untsystem.edu/index.php",
+        "Icon": "https://omni-templates.untsystem.edu/_resources/images/unts_favicon.ico",
+        "Redirect": "https://www.untsystem.edu/index.php",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.untsystem.edu/index.php"
+    },
+    {
+        "link": "https://lasd.org",
+        "Heading": "Los Angeles County Sheriff\u2019s Department | A Tradition of Service",
+        "Abstract": null,
+        "Official Site": "https://lasd.org/",
+        "Icon": "https://lasd.org/wp-content/uploads/2019/02/LASDstar_thumbnail.png",
+        "Redirect": "https://lasd.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lasd.org/"
+    },
+    {
+        "link": "https://fromdoppler.com",
+        "Heading": "Marketing Multicanal, Simple y potenciado por IA | Doppler",
+        "Abstract": "Con Doppler puedes dise\u00f1ar, enviar, medir y optimizar tus Campa\u00f1as Multicanal. Ahorra tiempo y dinero. \u00a1Crea tu cuenta gratis!",
+        "Official Site": "https://www.fromdoppler.com/es/",
+        "Icon": "https://www.fromdoppler.com/images/share-doppler-fb.png",
+        "Redirect": "https://www.fromdoppler.com/es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fromdoppler.com/es/"
+    },
+    {
+        "link": "https://otto-office.com",
+        "Heading": "OTTO Office: B\u00fcrobedarf, B\u00fcrotechnik und B\u00fcrom\u00f6bel",
+        "Abstract": "Kaufen Sie B\u00fcrobedarf, B\u00fcrotechnik und B\u00fcrom\u00f6bel online bei OTTO Office: \u00dcber 85.000 B\u00fcroartikel und 500 Marken zu Top-Preisen, 24-Std.-Lieferung ohne Aufpreis.",
+        "Official Site": "https://otto-office.com",
+        "Icon": "/oode/b2b/deu/images/favicon.ico",
+        "Redirect": "https://otto-office.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://otto-office.com"
+    },
+    {
+        "link": "https://bausch.com",
+        "Heading": "Bausch + Lomb Official Home Page ",
+        "Abstract": "Bausch + Lomb is one of the world's largest suppliers of contact lenses, lens care products,  prescription pharmaceuticals, intraocular lenses and other eye surgery products.",
+        "Official Site": "https://bausch.com",
+        "Icon": "/Assets/Bausch-DTC/css/images/favicon.png",
+        "Redirect": "https://bausch.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bausch.com"
+    },
+    {
+        "link": "https://evnspc.vn",
+        "Heading": "Trang th\u00f4ng tin \u0111i\u1ec7n t\u1eed t\u1ed5ng h\u1ee3p - T\u1ed5ng c\u00f4ng ty \u0110i\u1ec7n l\u1ef1c mi\u1ec1n Nam",
+        "Abstract": "https://evnspc.vn/",
+        "Official Site": "https://evnspc.vn/",
+        "Icon": "https://evnspc.vn/Images/backgroundevn.jpg",
+        "Redirect": "https://evnspc.vn/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://evnspc.vn/"
+    },
+    {
+        "link": "https://wkow.com",
+        "Heading": "WKOW 27 News | Madison, WI News, Weather & Sports",
+        "Abstract": "South Central Wisconsin breaking news, weather and live video. Covering local politics, crime, health, education and sports for Madison and South Central Wisconsin.",
+        "Official Site": "https://www.wkow.com/",
+        "Icon": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/custom/image/0bc6af70-0c2d-11ec-8535-ff1386af3f0f.png?resize=600%2C315",
+        "Redirect": "https://www.wkow.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wkow.com/"
+    },
+    {
+        "link": "https://cryptomus.com",
+        "Heading": "Cryptomus | All-in-One Cryptocurrency Platform",
+        "Abstract": "Best Cryptocurrency Platform with Lowest Fees. \u2605 Buy, sell, and accept payments in Bitcoin, USDT, and 100+ coins. \u2713 Secure crypto gateway & wallet with a convenient mobile app",
+        "Official Site": "https://cryptomus.com/",
+        "Icon": "https://cryptomus.com/img/main/main-opengraph.webp",
+        "Redirect": "https://cryptomus.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cryptomus.com/"
+    },
+    {
+        "link": "https://lapinkansa.fi",
+        "Heading": "Etusivu | Lapin Kansa",
+        "Abstract": "Lapin Kansa on lappilaisten oma \u00e4\u00e4nenkannattaja. Uutisia maakunnan joka kolkasta.",
+        "Official Site": "https://www.lapinkansa.fi",
+        "Icon": "https://kuvat.kaleva.media/images/v1/kalevacdn/OSdn47AsGktFPTQlBlRnN3ngaNX_sDJG1GWRXzDKWCCSDz721LO3Gp2Ez5mrYhLUYj_uTHw9uUegZH9gIRldjyRtXaOk1vQD5uyA6XOT19Wj9LMESD-H54eu4XQqcRE_bSboWFxMazWQPyfmZmJno-wQHzrs.png",
+        "Redirect": "https://www.lapinkansa.fi",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lapinkansa.fi"
+    },
+    {
+        "link": "https://blinktelecom.com.br",
+        "Heading": "Blink \u2013 Conex\u00e3o de verdade",
+        "Abstract": null,
+        "Official Site": "https://www.blinktelecom.com.br/",
+        "Icon": "https://www.blinktelecom.com.br/wp-content/uploads/2023/11/logo-footer.png",
+        "Redirect": "https://www.blinktelecom.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.blinktelecom.com.br/"
+    },
+    {
+        "link": "https://arquivo.pt",
+        "Heading": "Arquivo.pt - pesquise p\u00e1ginas do passado!",
+        "Abstract": "O Arquivo.pt \u00e9 um servi\u00e7o sem fins lucrativos que preserva informa\u00e7\u00e3o publicada na Web de interesse para a comunidade portuguesa. No Arquivo.pt pode pesquisar informa\u00e7\u00e3o arquivada desde 1996.",
+        "Official Site": "https://arquivo.pt",
+        "Icon": "img/logoFace.png",
+        "Redirect": "https://arquivo.pt",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arquivo.pt"
+    },
+    {
+        "link": "https://mannheim24.de",
+        "Heading": "Aktuelle Nachrichten aus Mannheim und Region \u2013 MANNHEIM24",
+        "Abstract": "Auf MANNHEIM24 findest Du aktuelle News aus Mannheim und Umgebung, zu Promi & Show sowie zum SV Waldhof Mannheim und weiteren Sport-Vereinen.",
+        "Official Site": "https://www.mannheim24.de/",
+        "Icon": "//www.mannheim24.de/favicon.ico",
+        "Redirect": "https://www.mannheim24.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mannheim24.de/"
+    },
+    {
+        "link": "https://iplayerhls.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://iplayerhls.com",
+        "Icon": "N/A",
+        "Redirect": "https://iplayerhls.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iplayerhls.com"
+    },
+    {
+        "link": "https://vmix.com",
+        "Heading": "\n\tLive Video Streaming Software | vMix\n",
+        "Abstract": "vMix is a live streaming and live production software video mixer and switcher for Windows. Easily Produce, Record and Live Stream professional looking content from your PC.",
+        "Official Site": "https://vmix.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://vmix.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vmix.com"
+    }
+]
