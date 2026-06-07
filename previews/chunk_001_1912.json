@@ -1,0 +1,252 @@
+[
+    {
+        "link": "https://iro.ke",
+        "Heading": "\u041c\u043e\u0434 \u0434\u043b\u044f \u041a\u043b\u0443\u0431\u0430 \u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0438 \u2014 Iroke",
+        "Abstract": null,
+        "Official Site": "https://iro.ke",
+        "Icon": "/images/icons/favicon-32x32.png",
+        "Redirect": "https://iro.ke",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://iro.ke"
+    },
+    {
+        "link": "https://ggrust.ru",
+        "Heading": "GGRust \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u2014 \u0434\u043e\u043d\u0430\u0442 \u0438 \u043f\u0440\u0438\u0432\u0438\u043b\u0435\u0433\u0438\u0438 \u0434\u043b\u044f Rust | \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d",
+        "Abstract": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d GGRust: \u0434\u043e\u043d\u0430\u0442 \u0438 \u043f\u0440\u0438\u0432\u0438\u043b\u0435\u0433\u0438\u0438 \u0434\u043b\u044f \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432 Rust. \u041f\u043e\u043a\u0443\u043f\u043a\u0430 \u043d\u0430\u0431\u043e\u0440\u043e\u0432 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432, \u0441\u043a\u0438\u043d\u043e\u0432, \u0442\u0432\u0438\u0447 \u0434\u0440\u043e\u043f\u044b. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0445 \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u0432 GG Rust.",
+        "Official Site": "https://ggrust.ru",
+        "Icon": "https://ggrust.ru/storage/bannerggrust.jpg",
+        "Redirect": "https://ggrust.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ggrust.ru"
+    },
+    {
+        "link": "https://blikon.com",
+        "Heading": "Blikon\u00ae",
+        "Abstract": "",
+        "Official Site": "https://blikon.com",
+        "Icon": "favicon.png",
+        "Redirect": "https://blikon.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://blikon.com"
+    },
+    {
+        "link": "https://rustutors.ru",
+        "Heading": "\u0420\u0443\u0441\u0442\u044c\u044e\u0442\u043e\u0440\u0441",
+        "Abstract": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a: \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430 \u043a \u0415\u0413\u042d, \u041e\u0413\u042d, \u0412\u041f\u0420, \u0438\u0442\u043e\u0433\u043e\u0432\u043e\u043c\u0443 \u0441\u043e\u0447\u0438\u043d\u0435\u043d\u0438\u044e \u043f\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u043c\u0443 \u044f\u0437\u044b\u043a\u0443 \u0438 \u043b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0435, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0430\u043d\u0430\u043b\u0438\u0437\u044b \u0438 \u043a\u0440\u0430\u0442\u043a\u0438\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u0438\u0439, \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0435 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u044b, \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u044b \u043a \u0441\u043e\u0447\u0438\u043d\u0435\u043d\u0438\u044e, \u0438\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0441 \u0430\u0443\u0434\u0438\u043e\u0437\u0430\u043f\u0438\u0441\u044f\u043c\u0438. \u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u0438 \u0442\u0435\u0441\u0442\u044b \u0434\u043b\u044f \u0441\u0430\u043c\u043e\u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438.",
+        "Official Site": "https://rustutors.ru",
+        "Icon": "/templates/RUS/images/favicon.ico",
+        "Redirect": "https://rustutors.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rustutors.ru"
+    },
+    {
+        "link": "https://engageli.com",
+        "Heading": "Engageli: Where Online Learning Happens",
+        "Abstract": "Engageli enhances online learning with an interactive virtual classroom, fostering engagement, collaboration, and improved educational outcomes for institutions and learners alike.",
+        "Official Site": "https://www.engageli.com",
+        "Icon": "https://www.engageli.com/hubfs/logomark_512_trans.png",
+        "Redirect": "https://www.engageli.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.engageli.com"
+    },
+    {
+        "link": "https://socialmarkz.com",
+        "Heading": "Your Source for Social News and Networking",
+        "Abstract": "Kliqqi is an open source content management system that lets you easily create your own user-powered website.",
+        "Official Site": "https://socialmarkz.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://socialmarkz.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://socialmarkz.com"
+    },
+    {
+        "link": "https://bebasket.fr",
+        "Heading": "BeBasket \u2014 Actu NBA, Spurs, EuroLeague, Betclic ELITE, Wembanyama, ...",
+        "Abstract": "Actu NBA (Spurs, lakers, Victor Wembanyama, Maxime Raynaud, ...), EuroLeague, Betclic ELITE, Equipe de France, ...",
+        "Official Site": "https://bebasket.fr",
+        "Icon": "/resources/favicon-fr/favicon-32x32.png",
+        "Redirect": "https://bebasket.fr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bebasket.fr"
+    },
+    {
+        "link": "https://gnatta.com",
+        "Heading": "Gnatta | Intelligent Customer Service Software",
+        "Abstract": "From autonomous AI agents to comprehensive platform capabilities - deliver exceptional support that scales with your business.",
+        "Official Site": "https://gnatta.com/",
+        "Icon": "https://gnatta.com/wp-content/uploads/2025/11/Homepage-OG-1.png",
+        "Redirect": "https://gnatta.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gnatta.com/"
+    },
+    {
+        "link": "https://orderinn.com",
+        "Heading": "Login - OrderInnNewWebsite",
+        "Abstract": null,
+        "Official Site": "https://orderinn.com",
+        "Icon": "/img/OrderInn-ICON.ico",
+        "Redirect": "https://orderinn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://orderinn.com"
+    },
+    {
+        "link": "https://datarush.es",
+        "Heading": "Data Center en M\u00e1laga | DataRush IT | Hospedaje web en M\u00e1laga",
+        "Abstract": "Hemos crecido en infraestructuras y servicios. Pero tambi\u00e9n como personas. Este trabajo ha tenido su recompensa fundamental en la confianza depositada por nuestros clientes. Tanto en el \u00e1mbito local como regional y nacional",
+        "Official Site": "https://www.datarush.es/",
+        "Icon": "https://www.datarush.es/wp-content/uploads/slider-datarush.webp",
+        "Redirect": "https://www.datarush.es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.datarush.es/"
+    },
+    {
+        "link": "https://tzkt.io",
+        "Heading": "TzKT - Tezos Explorer by Baking Bad",
+        "Abstract": "Tezos Explorer and API with the most comprehensive blockchain data, user-friendly interface and free open-source blockchain indexer.",
+        "Official Site": "https://tzkt.io",
+        "Icon": "https://tzkt.io/logo.png",
+        "Redirect": "https://tzkt.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tzkt.io"
+    },
+    {
+        "link": "https://mrd.com",
+        "Heading": "Food Delivery & Grocery Delivery | Order Online w/ MRD.com",
+        "Abstract": "Download the Mr D app to enjoy convenient grocery and food delivery from over 11,000 restaurants and stores, and 300+ Pick n Pay grocery stores. Pay with cash, card, or EFT and get your order delivered to over 2,600 suburbs across South Africa. Satisfy your cravings with ease!",
+        "Official Site": "https://www.mrd.com",
+        "Icon": "https://img.mrdfood.com/1200x628/seo/f614d870-0589-4d53-8366-59161bc5df17.png",
+        "Redirect": "https://www.mrd.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mrd.com"
+    },
+    {
+        "link": "https://theorie.nl",
+        "Heading": "Theorie.nl | Oefen en leer online voor je CBR theorie examen",
+        "Abstract": "Leer en oefen online voor je CBR theorie-examen met onze online videocursus en oefenexamens. Wij helpen kandidaten al 25 jaar met slagen!",
+        "Official Site": "https://www.theorie.nl/",
+        "Icon": "https://www.theorie.nl/media/Social-share/_1200x630_crop_center-center_82_none_ns/Theorie-social-share.png?v=1780040598",
+        "Redirect": "https://www.theorie.nl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.theorie.nl/"
+    },
+    {
+        "link": "https://whatfinger.com",
+        "Heading": "Whatfinger News\u00ae \u2013 Unfiltered Truth. America\u2019s News Feed",
+        "Abstract": null,
+        "Official Site": "https://whatfinger.com",
+        "Icon": "https://www.whatfinger.com/wp-content/uploads/2019/02/9b4a93_ea9f0b11c1414f8e8f205b396f6e8a23_mv2.png",
+        "Redirect": "https://whatfinger.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://whatfinger.com"
+    },
+    {
+        "link": "https://mnschool.ru",
+        "Heading": "\u041f\u0438\u043d \u0410\u043f \u041a\u0430\u0437\u0438\u043d\u043e \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u1409 Pin Up Casino \u0412\u0445\u043e\u0434",
+        "Abstract": "Pin Up \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u27a4 \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442 \u0434\u0432\u0435\u0440\u0438 \u0432 \u043c\u0438\u0440 \u0430\u0437\u0430\u0440\u0442\u043d\u044b\u0445 \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0439. \u23e9 \u0418\u0433\u0440\u043e\u0432\u044b\u0435 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u044b, \u0440\u0443\u043b\u0435\u0442\u043a\u0438, \u043b\u0430\u0439\u0432-\u0441\u0442\u043e\u043b\u044b, \u043a\u0440\u0430\u0448-\u0438\u0433\u0440\u044b \u0438 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043a\u0430\u0437\u0438\u043d\u043e.",
+        "Official Site": "https://mnschool.ru/",
+        "Icon": "https://mnschool.ru/img/logo_desktop.svg",
+        "Redirect": "https://mnschool.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mnschool.ru/"
+    },
+    {
+        "link": "https://suomalainen.com",
+        "Heading": "Suomalainen Kirjakauppa\n\n\n| Suomalainen.com",
+        "Abstract": "Suomalainen Kirjakauppa on alku jollekin suurelle! Meilt\u00e4 l\u00f6yd\u00e4t sopivat kirjat jokaiselle, esimerkiksi uutuuskirjat, klassikot, el\u00e4m\u00e4kerrat,englanninkieliset kirjat ja lasten kirjat. Monipuolisesta valikoimastamme l\u00f6yd\u00e4t my\u00f6s pelit ja lelut, opiskelu- ja toimistotarvikkeet sek\u00e4 k\u00e4sity\u00f6-, askartelu- ja taidetarvikkeet.",
+        "Official Site": "https://www.suomalainen.com/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0061/0372/8217/files/Suomalainen_Kirjakauppa_logo.jpg?v=1742306430",
+        "Redirect": "https://www.suomalainen.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.suomalainen.com/"
+    },
+    {
+        "link": "https://soprasteria.com",
+        "Heading": "\n\tHome Page - Sopra Steria\n",
+        "Abstract": "Sopra Steria, a European Tech leader recognised for its consulting, digital services and software development, helps its clients drive their digital transformation to obtain tangible and sustainable benefits.",
+        "Official Site": "https://www.soprasteria.com",
+        "Icon": "/ResourcePackages/Bootstrap4/assets/dist/favicon/favicon-Corp.ico",
+        "Redirect": "https://www.soprasteria.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.soprasteria.com"
+    },
+    {
+        "link": "https://archonia.com",
+        "Heading": "Your Favourite Online Anime And Manga Store - Archonia.com",
+        "Abstract": "Archonia Home Page",
+        "Official Site": "https://archonia.com",
+        "Icon": "N/A",
+        "Redirect": "https://archonia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://archonia.com"
+    },
+    {
+        "link": "https://tnstateparks.com",
+        "Heading": "Homepage | Tennessee State Parks",
+        "Abstract": "Discover Tennessee\u2019s natural, cultural and historic heritage. Our state parks offer diverse and varied natural landscapes, family-friendly recreational activities, affordable and varied lodging accommodations, volunteer opportunities and hundreds of interpretive programs and events.",
+        "Official Site": "https://tnstateparks.com",
+        "Icon": "/themes/custom/tdec/favicon.png",
+        "Redirect": "https://tnstateparks.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tnstateparks.com"
+    },
+    {
+        "link": "https://atasunoptik.com.tr",
+        "Heading": "Kad\u0131n, Erkek ve \u00c7ocuk G\u00fcne\u015f G\u00f6zl\u00fckleri | Atasun Optik",
+        "Abstract": "T\u00fcm g\u00fcne\u015f g\u00f6zl\u00fc\u011f\u00fc modellerine ve g\u00fcne\u015f g\u00f6zl\u00fc\u011f\u00fc aksesuarlar\u0131na ekonomik fiyatlarla Atasun Optik ayr\u0131cal\u0131\u011f\u0131 ve g\u00fcveni ile ula\u015f\u0131n!",
+        "Official Site": "https://www.atasunoptik.com.tr",
+        "Icon": "https://stn-atasun.mncdn.com/Content/img/facebook_ogp.jpg",
+        "Redirect": "https://www.atasunoptik.com.tr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.atasunoptik.com.tr"
+    },
+    {
+        "link": "https://hotcoursesabroad.com",
+        "Heading": "Study Abroad Courses & Universities | IDP Hotcourses Abroad",
+        "Abstract": "Explore study abroad options: 4,800+ universities, 32,000 courses, 7,000 scholarships, plus expert guides, advice, and tips worldwide.",
+        "Official Site": "https://www.hotcoursesabroad.com/",
+        "Icon": "/images/og_image.png",
+        "Redirect": "https://www.hotcoursesabroad.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hotcoursesabroad.com/"
+    },
+    {
+        "link": "https://lirmi.com",
+        "Heading": "El software para colegios n\u00ba1 del mercado | Lirmi",
+        "Abstract": "Optimiza la administraci\u00f3n de tu centro educativo con el software escolar de Lirmi. Herramientas, recursos, comunicaci\u00f3n y mucho m\u00e1s a tu disposici\u00f3n.",
+        "Official Site": "https://www.lirmi.com",
+        "Icon": "https://www.lirmi.com/hubfs/iso_auror-1.png",
+        "Redirect": "https://www.lirmi.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lirmi.com"
+    },
+    {
+        "link": "https://mokapos.com",
+        "Heading": "Sistem Aplikasi Kasir Online Berbasis Cloud Terbaik di Indonesia - Moka POS",
+        "Abstract": "Butuh sistem aplikasi dan mesin kasir online untuk usaha Anda? Cek laporan penjualan, transaksi pembayaran digital dan kelola inventorimu dengan Moka POS (Point of Sale).",
+        "Official Site": "https://www.mokapos.com/",
+        "Icon": "/imgs/mock.jpg",
+        "Redirect": "https://www.mokapos.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mokapos.com/"
+    },
+    {
+        "link": "https://entreesmoothstir.com",
+        "Heading": "Operated by Clickadu Advertisement Network",
+        "Abstract": null,
+        "Official Site": "https://entreesmoothstir.com",
+        "Icon": "https://clickadu.com/favicon.ico",
+        "Redirect": "https://entreesmoothstir.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://entreesmoothstir.com"
+    },
+    {
+        "link": "https://techwiser.com",
+        "Heading": "TechWiser - Trending Tech News",
+        "Abstract": "TechWiser is a leading gaming and tech site that covers news, reviews, opinions, and guides around it.",
+        "Official Site": "https://techwiser.com/",
+        "Icon": "https://techwiser.com/wp-content/uploads/2026/05/fav_icon-2.webp",
+        "Redirect": "https://techwiser.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://techwiser.com/"
+    }
+]
