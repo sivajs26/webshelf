@@ -1,0 +1,282 @@
+[
+    {
+        "link": "https://inchem.org",
+        "Heading": "INCHEM",
+        "Abstract": null,
+        "Official Site": "https://inchem.org",
+        "Icon": "./media/img/favicon.ico",
+        "Redirect": "https://inchem.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://inchem.org"
+    },
+    {
+        "link": "https://voidstar.com",
+        "Heading": "Voidstar",
+        "Abstract": null,
+        "Official Site": "https://voidstar.com",
+        "Icon": "N/A",
+        "Redirect": "https://voidstar.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://voidstar.com"
+    },
+    {
+        "link": "https://newschannel10.com",
+        "Heading": "KFDA | NewsChannel 10 | Amarillo Texas",
+        "Abstract": "NewsChannel 10 is the leading news source in the Panhandle. We strive to bring you the latest news stories with the most accurate information and as soon as the story breaks.",
+        "Official Site": "https://www.newschannel10.com",
+        "Icon": "https://gray-kfda-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fwebpubcontent.gray.tv%2Fgray%2Farc-fusion-assets%2Fimages%2Ffallback-graphics%2Fkfda.jpg%3Fd%3D572%26mxId%3D00000000?auth=8a002b4151bc269dfa7de84228b8600eaf9e13a2312ccd94884acee07642aefd&width=1200&height=600&smart=true",
+        "Redirect": "https://www.newschannel10.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.newschannel10.com"
+    },
+    {
+        "link": "https://allkindsofsocial.com",
+        "Heading": "Your Source for Social News and Networking",
+        "Abstract": "Kliqqi is an open source content management system that lets you easily create your own user-powered website.",
+        "Official Site": "https://allkindsofsocial.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://allkindsofsocial.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://allkindsofsocial.com"
+    },
+    {
+        "link": "https://bookmark-group.com",
+        "Heading": "Your Source for Social News and Networking",
+        "Abstract": "Kliqqi is an open source content management system that lets you easily create your own user-powered website.",
+        "Official Site": "https://bookmark-group.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://bookmark-group.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bookmark-group.com"
+    },
+    {
+        "link": "https://pcsb.org",
+        "Heading": "Home - Pinellas County Schools",
+        "Abstract": "Home - Pinellas County Schools",
+        "Official Site": "https://www.pcsb.org/",
+        "Icon": "https://resources.finalsite.net/images/v1756308455/pcsborg/gwsyjgrcxymdhetsdk2o/pinellas_fav.ico",
+        "Redirect": "https://www.pcsb.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pcsb.org/"
+    },
+    {
+        "link": "https://providus.rs",
+        "Heading": "Home - providus.rs",
+        "Abstract": "SHG Cloud (formerly Providus, now part of SkyHighGrowth) offers managed cloud services, cloud migration, and DevOps solutions using GitOps principles for secure, automated deployments. Optimize your cloud strategy with SHG Cloud's tailored, scalable solutions.",
+        "Official Site": "https://www.providus.rs/",
+        "Icon": "https://www.providus.rs/wp-content/uploads/2024/11/SHG-CLOUD-CTO-QUOTE.svg",
+        "Redirect": "https://www.providus.rs/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.providus.rs/"
+    },
+    {
+        "link": "https://erstebank.hr",
+        "Heading": "Erste banka #vjerujusebe",
+        "Abstract": "Pridru\u017eite se vi\u0161e od milijun klijenata Erste banke, bankarite jednostavnije i otkrijte za\u0161to smo prvi po zadovoljstvu klijenata u Hrvatskoj.",
+        "Official Site": "https://www.erstebank.hr/hr/gradjanstvo",
+        "Icon": "https://cdn0.erstegroup.com/content/dam/hr/ebc/common/logos/erste-bank.svg",
+        "Redirect": "https://www.erstebank.hr/hr/gradjanstvo",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.erstebank.hr/hr/gradjanstvo"
+    },
+    {
+        "link": "https://r-p-s.ru",
+        "Heading": "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u043f\u0430\u0440\u043a\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b: \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e, \u043f\u0440\u043e\u0434\u0430\u0436\u0430 \u0438 \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u043e\u0435 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435",
+        "Abstract": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u043c, \u043f\u0440\u043e\u0434\u0430\u0451\u043c \u0438 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u0435\u043c \u043f\u0430\u0440\u043a\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b. \u0412\u044b\u0433\u043e\u0434\u043d\u044b\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0438 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u043e\u0435 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435. \u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043f\u043e \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0443 \u043d\u0430 \u0441\u0430\u0439\u0442\u0435.",
+        "Official Site": "https://r-p-s.ru",
+        "Icon": "/android-icon-192x192.png",
+        "Redirect": "https://r-p-s.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://r-p-s.ru"
+    },
+    {
+        "link": "https://prim.hu",
+        "Heading": "Prim Online",
+        "Abstract": "Online informatikai magazin, az informatik\u00e1t \u00fczletszer\u0171en alkalmaz\u00f3k sz\u00e1m\u00e1ra, mely sz\u00e1mos kieg\u00e9sz\u00edt\u0151 szolg\u00e1ltat\u00e1st \u2013 \u00fczleti h\u00edrszolg\u00e1ltat\u00e1s, rendezv\u00e9nynapt\u00e1r, levelez\u0151lista, h\u00edrlevelek - \u00a0k\u00edn\u00e1l l\u00e1togat\u00f3i sz\u00e1m\u00e1ra.",
+        "Official Site": "http://prim.hu/",
+        "Icon": "/favicon.ico",
+        "Redirect": "http://prim.hu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://prim.hu/"
+    },
+    {
+        "link": "https://fluoridealert.org",
+        "Heading": "Fluoride Action Network -",
+        "Abstract": null,
+        "Official Site": "https://fluoridealert.org/",
+        "Icon": "https://fluoridealert.org/wp-content/uploads/2024/06/FAN-Favicon-512x512-1-150x150.png",
+        "Redirect": "https://fluoridealert.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fluoridealert.org/"
+    },
+    {
+        "link": "https://crestinortodox.ro",
+        "Heading": "CrestinOrtodox.ro - Cea mai mare comunitate ortodoxa din lume ",
+        "Abstract": "CrestinOrtodox.ro - Portal Crestin Ortodox, ofera informatii despre sarbatori, sfinti, biserici, manastiri, obiceiuri, acatiste, rugaciuni, predici, calendar ortodox, pasti, colinde, paste.",
+        "Official Site": "https://crestinortodox.ro",
+        "Icon": "N/A",
+        "Redirect": "https://crestinortodox.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://crestinortodox.ro"
+    },
+    {
+        "link": "https://school10gai.ru",
+        "Heading": "1Win \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u0430 1\u0412\u0438\u043d | \u0412\u0445\u043e\u0434 \u043d\u0430 \u0437\u0435\u0440\u043a\u0430\u043b\u043e",
+        "Abstract": "1Win \u2013 \u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u0441\u043a\u0430\u044f \u043a\u043e\u043d\u0442\u043e\u0440\u0430 \u0438 \u043e\u043d\u043b\u0430\u0439\u043d \u043a\u0430\u0437\u0438\u043d\u043e. \u0412\u0445\u043e\u0434 \u043d\u0430 \u0441\u0430\u0439\u0442 1\u0412\u0438\u043d \u0438 \u0440\u0430\u0431\u043e\u0447\u0435\u0435 \u0437\u0435\u0440\u043a\u0430\u043b\u043e \u0434\u043b\u044f \u043e\u043d\u043b\u0430\u0439\u043d \u0441\u0442\u0430\u0432\u043e\u043a \u043d\u0430 \u0441\u043f\u043e\u0440\u0442\u26a1\ufe0f \u0411\u043e\u043d\u0443\u0441 500% \u043f\u0440\u0438 \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438, \u0432\u044b\u0433\u043e\u0434\u043d\u044b\u0435 \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442\u044b, \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b \u0438 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+        "Official Site": "https://school10gai.ru/",
+        "Icon": "https://school10gai.ru/storage/logotype/J9jeLRNTpJVtXYmOrFTHjkE9vwONs8Nqond3jzi2.webp",
+        "Redirect": "https://school10gai.ru/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://school10gai.ru/"
+    },
+    {
+        "link": "https://chanty.com",
+        "Heading": "Chanty \u2013 Team Communication and Collaboration Software Chanty",
+        "Abstract": "Join Chanty \u2013 your all-in-one team collaboration tool, with unlimited message history, powerful features and apps to make your team super productive.",
+        "Official Site": "https://www.chanty.com",
+        "Icon": "https://cdn.chanty.com/landing/202605221144/images/chanty-social.png",
+        "Redirect": "https://www.chanty.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.chanty.com"
+    },
+    {
+        "link": "https://omegle-archive.com",
+        "Heading": "Omegle Hot Archive",
+        "Abstract": null,
+        "Official Site": "https://omegle-archive.com",
+        "Icon": "\n",
+        "Redirect": "https://omegle-archive.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://omegle-archive.com"
+    },
+    {
+        "link": "https://gisreportsonline.com",
+        "Heading": "GIS Reports \u2013 Providing a basis for decisions",
+        "Abstract": "GIS provides independent, unbiased scenario-based geopolitical forecasting and analysis with a focus on relevance for decisionmakers.",
+        "Official Site": "https://www.gisreportsonline.com/",
+        "Icon": "https://www.gisreportsonline.com/wp-content/plugins/pragmaticus-wp/assets/images/favicons/favicon-32x32.png",
+        "Redirect": "https://www.gisreportsonline.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.gisreportsonline.com/"
+    },
+    {
+        "link": "https://beintheknow.org",
+        "Heading": "Get the facts about sexual health and HIV | Be in the KNOW",
+        "Abstract": "Get the facts about sexual health and HIV",
+        "Official Site": "https://www.beintheknow.org/",
+        "Icon": "https://main-bvxea6i-6rqgc3hghbyr4.uk-1.platformsh.site/sites/default/files/images/Be%20in%20the%20KNOW%20logo%20%281200%20%C3%97%20630px%29.png",
+        "Redirect": "https://www.beintheknow.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.beintheknow.org/"
+    },
+    {
+        "link": "https://supersimple.com",
+        "Heading": "Super Simple - Kids songs, shows, and free resources",
+        "Abstract": null,
+        "Official Site": "https://supersimple.com/",
+        "Icon": "https://supersimple.com/wp-content/uploads/sso-logo-shadow.png",
+        "Redirect": "https://supersimple.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://supersimple.com/"
+    },
+    {
+        "link": "https://gdagsns.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://gdagsns.com",
+        "Icon": "N/A",
+        "Redirect": "https://gdagsns.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gdagsns.com"
+    },
+    {
+        "link": "https://kremen.today",
+        "Heading": "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a \u0422\u0443\u0434\u0435\u0439 | \u0412\u0441\u0456 \u043d\u043e\u0432\u0438\u043d\u0438 \u043c\u0456\u0441\u0442\u0430",
+        "Abstract": "\u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a, \u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433, \u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a \u041d\u043e\u0432\u0438\u043d\u0438, \u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433 \u041d\u043e\u0432\u043e\u0441\u0442\u0438, \u041d\u043e\u0432\u0438\u043d\u0438 \u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u043a\u0430, \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0433\u0430, \u041a\u0440\u0435\u043c\u0435\u043d\u0447\u0443\u0446\u044c\u043a\u0456 \u043d\u043e\u0432\u0438\u043d\u0438, \u041d\u043e\u0432\u0438\u043d\u0438",
+        "Official Site": "https://kremen.today/",
+        "Icon": "https://kremen.today/wp-content/uploads/2023/09/custom-post-image-1.jpeg",
+        "Redirect": "https://kremen.today/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kremen.today/"
+    },
+    {
+        "link": "https://izuiyou.com",
+        "Heading": "\u6700\u53f3-\u6211\u7684\u5feb\u4e50\u6e90\u6cc9",
+        "Abstract": "\u300c\u6700\u53f3\u7f51\u9875\u7248\u300d\u6700\u53f3\uff0c\u662f\u5e74\u8f7b\u4eba\u90fd\u5728\u7528\u3001\u8d85\u7ea7\u6709\u8da3\u7684\u5174\u8da3\u793e\u533a\u3002\u6709\u8da3\u4e0d\u53ea\u5e16\u5b50\uff0c\u66f4\u6709\u8111\u6d1e\u795e\u8bc4\u8bba\uff0c\u5b8c\u5168\u7b11\u4e0d\u505c\u3002\u7cbe\u51c6\u7684\u63a8\u8350\uff0c\u5e2e\u4f60\u627e\u5230\u5174\u8da3\u76f8\u6295\u7684\u4eba\uff0c\u603b\u6709\u4e00\u4e2a\u8bdd\u9898\u8ba9\u4f60\u6d41\u8fde\u5fd8\u8fd4\u3002\u8457\u540d\u6587\u5b66\u5bb6\u5c0f\u53f3\u541b\u66fe\u7ecf\u8bf4\u8fc7\uff1a\"\u4e00\u4e2a\u4f18\u79c0\u7684\u5e74\u8f7b\u4eba\u5e94\u8be5\u5177\u6709\u4e09\u79cd\u7279\u8d28\uff1a\u7a81\u7834\u5929\u9645\u7684\u8111\u6d1e\uff0c\u65e0\u7a77\u65e0\u5c3d\u7684\u4e50\u89c2\uff0c\u4ee5\u53ca\u6e29\u67d4\u76f8\u5f85\u7684\u5584\u826f\u3002\u301e\u800c\u6211\u4eec\u6700\u53f3\u91cc\uff0c\u6ee1\u6ee1\u90fd\u662f\u8fd9\u6837\u7684\u4eba\uff01",
+        "Official Site": "https://izuiyou.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://izuiyou.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://izuiyou.com"
+    },
+    {
+        "link": "https://ingbusiness.pl",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://ingbusiness.pl",
+        "Icon": "N/A",
+        "Redirect": "https://ingbusiness.pl",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ingbusiness.pl"
+    },
+    {
+        "link": "https://chick.com",
+        "Heading": "Chick.com: Chick Cartoon Gospel Tracts Make Witnessing So Easy!",
+        "Abstract": "Chick Publications is best known for Chick cartoon tracts. The gospel tracts that people actually like to read! These gospel cartoon tracts are available in over 100 languages and are very popular, with over ONE BILLION sold.",
+        "Official Site": "https://chick.com",
+        "Icon": "/images/logos/favicon.ico",
+        "Redirect": "https://chick.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://chick.com"
+    },
+    {
+        "link": "https://pngitem.com",
+        "Heading": "PNGitem - Millions of Pure HD Transparent PNG Images For Free Download",
+        "Abstract": "PNGitem provides millions of free HD transparent images. Including transparent png clip art, cartoon, icon, logo, silhouette, watercolors, outlines, etc. All images are for personal use or non-commercial use.",
+        "Official Site": "https://pngitem.com",
+        "Icon": "N/A",
+        "Redirect": "https://pngitem.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pngitem.com"
+    },
+    {
+        "link": "https://mambowifi.com",
+        "Heading": "Home | Mambo WiFi",
+        "Abstract": "Transforme o WiFi do seu neg\u00f3cio em um canal de vendas.Conecte usu\u00e1rios, capture dados estrat\u00e9gicos e entregue experi\u00eancias digitais mais inteligentes com",
+        "Official Site": "https://mambowifi.com/",
+        "Icon": "https://mambowifi.com/wp-content/uploads/2026/05/Mockup-Nova-Home-v5-Final.png",
+        "Redirect": "https://mambowifi.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mambowifi.com/"
+    },
+    {
+        "link": "https://gazduirejocuri.ro",
+        "Heading": "gazduirejocuri.ro | Anti-DDoS Flood Protection and Firewall",
+        "Abstract": null,
+        "Official Site": "https://gazduirejocuri.ro",
+        "Icon": "N/A",
+        "Redirect": "https://gazduirejocuri.ro",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gazduirejocuri.ro"
+    },
+    {
+        "link": "https://cadena100.es",
+        "Heading": "CADENA 100 | La mejor variedad musical",
+        "Abstract": "CADENA 100. La mejor variedad musical. Con 45 minutos de m\u00fasica sin interrupci\u00f3n. Buenos D\u00edas Javi y Mar, Happy Hour, La Noche de CADENA 100,Por Ellas",
+        "Official Site": "https://www.cadena100.es",
+        "Icon": "https://imagenes.cadena100.es/images/cadena100-redes-sociales.jpg",
+        "Redirect": "https://www.cadena100.es",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cadena100.es"
+    },
+    {
+        "link": "https://globals-download.com",
+        "Heading": "Apple",
+        "Abstract": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+        "Official Site": "https://www.apple.com/",
+        "Icon": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202604211141",
+        "Redirect": "https://www.apple.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.apple.com/"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "link": "https://watsonsvip.com.cn",
+        "Heading": "\u5c48\u81e3\u6c0f\u5b98\u65b9\u4e91\u5e97",
+        "Abstract": null,
+        "Official Site": "https://watsonsvip.com.cn",
+        "Icon": "./favicon.ico",
+        "Redirect": "https://watsonsvip.com.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://watsonsvip.com.cn"
+    },
+    {
+        "link": "https://eki.ee",
+        "Heading": "EKI.ee \u2013 Eesti Keele Instituut",
+        "Abstract": "EKI.ee - Eesti Keele Instituut",
+        "Official Site": "https://eki.ee",
+        "Icon": "https://eki.ee/wp-content/themes/eki-theme/assets/media/images/fb_default_icon.png",
+        "Redirect": "https://eki.ee",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eki.ee"
+    },
+    {
+        "link": "https://hpu.edu",
+        "Heading": "\n\t\t\t\n    Hawaii Pacific University - Private College Honolulu\n\n\n\t\t",
+        "Abstract": "Get your bachelor's, master's and doctoral degrees at Hawaii Pacific University - a private college in downtown Honolulu. Set on an urban campus, HPU is different.",
+        "Official Site": "https://hpu.edu",
+        "Icon": "N/A",
+        "Redirect": "https://hpu.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hpu.edu"
+    },
+    {
+        "link": "https://thoroughbreddailynews.com",
+        "Heading": "Horse Racing News, Replays & Entries | Thoroughbred Daily News",
+        "Abstract": "Get exclusive horse racing news, race replays, and entries with Thoroughbred Daily News. Download our free daily newsletter and stay ahead of expert insights today.",
+        "Official Site": "https://www.thoroughbreddailynews.com/",
+        "Icon": "https://www.thoroughbreddailynews.com/wp-content/themes/TDN/imgs/favicon.ico",
+        "Redirect": "https://www.thoroughbreddailynews.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thoroughbreddailynews.com/"
+    },
+    {
+        "link": "https://leipziger-buchmesse.de",
+        "Heading": "Startseite | Leipziger Buchmesse",
+        "Abstract": "Die Leipziger Buchmesse ist der wichtigste Fr\u00fchjahrstreff der Buch- und Medienbranche und verbindet Leser:innen, Autor:innen, Verlage und Medien. ",
+        "Official Site": "https://www.leipziger-buchmesse.de/de/",
+        "Icon": "https://www.leipziger-buchmesse.de/files/buchmesse/media/grafiken/header-und-banner/lbm-key-1920x1080px_16_9_l-2.jpg",
+        "Redirect": "https://www.leipziger-buchmesse.de/de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.leipziger-buchmesse.de/de/"
+    },
+    {
+        "link": "https://fluro.io",
+        "Heading": "Fluro",
+        "Abstract": "{{ seo.metaDescription() | plaintext }}",
+        "Official Site": "{{ seo.getUrl() }}",
+        "Icon": "{{ seo.getImage() }}",
+        "Redirect": "{{ seo.getUrl() }}",
+        "AbstractSource": "BS4",
+        "AbstractURL": "{{ seo.getUrl() }}"
+    },
+    {
+        "link": "https://epicpass.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://epicpass.com",
+        "Icon": "N/A",
+        "Redirect": "https://epicpass.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://epicpass.com"
+    },
+    {
+        "link": "https://eauto.co.in",
+        "Heading": "Shop Online for Bike Spare Parts & Accessories at Low Price\n",
+        "Abstract": "Genuine Bike Spare Parts | Low Price | Fast Delivery. Parts for Bajaj Pulsar 220, 200, 180 , 150 , Discover, Avenger, Hero Passion, Splendor, Xtreme, Karizma, Pleasure, Honda Activa, CBR 150, Unicorn, Honda Twister, Yamaha FZ, R15, Suzuki Access & More",
+        "Official Site": "https://eauto.co.in/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0415/7846/3390/files/eauto-app-logo.jpg?height=628&pad_color=fff&v=1631018743&width=1200",
+        "Redirect": "https://eauto.co.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eauto.co.in/"
+    },
+    {
+        "link": "https://ttbooking.ru",
+        "Heading": "\u0410\u0432\u0442\u043e\u0440\u0438\u0437\u0430\u0446\u0438\u044f",
+        "Abstract": null,
+        "Official Site": "https://ttbooking.ru",
+        "Icon": "N/A",
+        "Redirect": "https://ttbooking.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ttbooking.ru"
+    },
+    {
+        "link": "https://the9.com",
+        "Heading": "the9",
+        "Abstract": null,
+        "Official Site": "https://the9.com",
+        "Icon": "/logo.ico",
+        "Redirect": "https://the9.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://the9.com"
+    },
+    {
+        "link": "https://soapui.org",
+        "Heading": "The World\u2019s Most Popular API Testing Tool | SoapUI",
+        "Abstract": "SoapUI is the world\u2019s most widely-used automated testing tool for SOAP and REST APIs. Write, run, integrate, and automate advanced API Tests with ease. See why millions of users trust SoapUI for testing their APIs today!",
+        "Official Site": "https://soapui.org/",
+        "Icon": "https://imagedelivery.net/PVooPtpJE-25QaNkbEuXvw/e95d2918-2092-490d-003b-3fd8adc18600/public",
+        "Redirect": "https://soapui.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://soapui.org/"
+    },
+    {
+        "link": "https://12321.cn",
+        "Heading": "12321\u7f51\u7edc\u4e0d\u826f\u4e0e\u5783\u573e\u4fe1\u606f\u4e3e\u62a5\u53d7\u7406\u4e2d\u5fc3",
+        "Abstract": "12321,12321\u7f51\u7edc\u4e0d\u826f\u4e0e\u5783\u573e\u4fe1\u606f\u4e3e\u62a5\u53d7\u7406\u4e2d\u5fc3\u63d0\u4f9b\u7f51\u7edc\u5783\u573e\u4e0e\u4e0d\u826f\u4fe1\u606f\u7684\u4e3e\u62a5\u548c\u53d7\u7406\u53cd\u9988\u3002",
+        "Official Site": "https://12321.cn",
+        "Icon": "/Public/home/image/favicon.ico",
+        "Redirect": "https://12321.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://12321.cn"
+    },
+    {
+        "link": "https://school60br.ru",
+        "Heading": "Pinco Casino \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0421\u0430\u0439\u0442 | \u0411\u043e\u043d\u0443\u0441\u044b \u0438 \u041f\u0440\u043e\u043c\u043e\u043a\u043e\u0434\u044b 2026",
+        "Abstract": "Pinco Casino \u2014 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0439\u0442 \u043e\u043d\u043b\u0430\u0439\u043d-\u043a\u0430\u0437\u0438\u043d\u043e \u0441 \u043b\u0438\u0446\u0435\u043d\u0437\u0438\u0435\u0439 Cura\u00e7ao. \u0418\u0433\u0440\u0430\u0439\u0442\u0435 \u0432 5000+ \u0441\u043b\u043e\u0442\u043e\u0432, live-\u0438\u0433\u0440\u044b \u0438 Aviator. \u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0431\u043e\u043d\u0443\u0441 150% \u0434\u043e 500 000 \u20bd + 250 \u0444\u0440\u0438\u0441\u043f\u0438\u043d\u043e\u0432, \u043f\u0440\u043e\u043c\u043e\u043a\u043e\u0434\u044b PROMO101, 77PINCO, \u0435\u0436\u0435\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u044d\u0448\u0431\u044d\u043a \u0438 \u0431\u044b\u0441\u0442\u0440\u044b\u0435 \u0432\u044b\u043f\u043b\u0430\u0442\u044b",
+        "Official Site": "https://school60br.ru",
+        "Icon": "/uploads/img/favicon.png",
+        "Redirect": "https://school60br.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://school60br.ru"
+    },
+    {
+        "link": "https://clinicbarcelona.org",
+        "Heading": "Nos mueve tu salud | Hospital Cl\u00ednic Barcelona",
+        "Abstract": "Web del Hospital Cl\u00ednic y del IDIBAPS",
+        "Official Site": "https://www.clinicbarcelona.org/",
+        "Icon": "https://www.clinicbarcelona.org/uploads/media/default/0002/25/e0c3a6983283a8cd1aae6f49e908e1f5ddc6caf3.jpeg",
+        "Redirect": "https://www.clinicbarcelona.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.clinicbarcelona.org/"
+    },
+    {
+        "link": "https://minitrucktalk.com",
+        "Heading": "Japanese Mini Truck Forum",
+        "Abstract": "Japanese mini 4x4 truck forum for the mini truck enthusiasts.",
+        "Official Site": "https://minitrucktalk.com",
+        "Icon": "N/A",
+        "Redirect": "https://minitrucktalk.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://minitrucktalk.com"
+    },
+    {
+        "link": "https://msvu.ca",
+        "Heading": "Mount Saint Vincent University - Halifax, Nova Scotia, Canada",
+        "Abstract": "Committed to providing the best university experience for engaged citizens, who want to make a positive impact on the world.",
+        "Official Site": "https://www.msvu.ca",
+        "Icon": "https://www.msvu.ca/wp-content/uploads/2026/03/MSVU-Spring-Banner-2026-1200x630.jpg",
+        "Redirect": "https://www.msvu.ca",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.msvu.ca"
+    },
+    {
+        "link": "https://olvidona.com",
+        "Heading": "Selamat Datang Di KING138 Situs Penyedia Login Mudah dengan Navigasi User Friendly",
+        "Abstract": "Selamat Datang Di KING138, situs penyedia login mudah dengan navigasi user friendly yang dirancang untuk memberikan pengalaman cepat, praktis, dan nyaman bagi semua pengguna.",
+        "Official Site": "https://king138bell.vip/",
+        "Icon": "https://usglobalasset.com/king138/popup/agenPARTNERpop-710(comp).jpg",
+        "Redirect": "https://king138bell.vip/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://king138bell.vip/"
+    },
+    {
+        "link": "https://barrypopik.com",
+        "Heading": "The Big Apple",
+        "Abstract": "An etymological dictionary of American words, names, quotations and phrases, including regional dictionaries of New York City, Florida, Oregon and Texas.",
+        "Official Site": "https://barrypopik.com",
+        "Icon": "https://barrypopik.com//assets/img/big-apple-shield.jpg",
+        "Redirect": "https://barrypopik.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://barrypopik.com"
+    },
+    {
+        "link": "https://megaphonetv.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://megaphonetv.com",
+        "Icon": "data:;",
+        "Redirect": "https://megaphonetv.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://megaphonetv.com"
+    },
+    {
+        "link": "https://hubert.com",
+        "Heading": "Hubert US",
+        "Abstract": "Hubert is the leader in food merchandising, tailored solutions and quality service across the US and Canada. Home to more than 130,000 products, Hubert.com offers top brands like Vollrath, Cambro and Vulcan. ",
+        "Official Site": "https://hubert.com",
+        "Icon": "https://d266cn3wcwor51.cloudfront.net/resources/images/Hubert_favicon_black.png",
+        "Redirect": "https://hubert.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hubert.com"
+    },
+    {
+        "link": "https://dailylook.com",
+        "Heading": "DAILYLOOK | Premium Personal Styling",
+        "Abstract": "Dailylook is a personal styling service that sends you a box of hand-picked fashion items right to your door every month. Keep what you love. Return what you don't. Get styled today!",
+        "Official Site": "https://www.dailylook.com/",
+        "Icon": "https://www.dailylook.com/images/general/sitelogolarge.jpg",
+        "Redirect": "https://www.dailylook.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dailylook.com/"
+    },
+    {
+        "link": "https://cewe.de",
+        "Heading": "CEWE.de: Verzaubern \u2728Sie mit Ihren Fotos",
+        "Abstract": "CEWE FOTOBUCH \u2714 Fotokalender...  \u2764\ufe0f\u2794Jetzt mit der CEWE Fotowelt-App oder -Software \ud83d\udcf7 gestalten",
+        "Official Site": "https://cewe.de",
+        "Icon": "asset/assets/images/favicon.ico",
+        "Redirect": "https://cewe.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cewe.de"
+    },
+    {
+        "link": "https://rqi1stop.com",
+        "Heading": "\n        RQI 1Stop Learning Platform    ",
+        "Abstract": null,
+        "Official Site": "https://rqi1stop.com",
+        "Icon": "https://d1n8vqfw98nkd0.cloudfront.net/img/1002/favicon.ico",
+        "Redirect": "https://rqi1stop.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rqi1stop.com"
+    }
+]
