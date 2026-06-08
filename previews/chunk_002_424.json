@@ -1,0 +1,312 @@
+[
+    {
+        "link": "https://gothamgazette.com",
+        "Heading": "Gotham Gazette: The Place for New York Policy and Politics",
+        "Abstract": "Gotham Gazette is an online publication covering New York policy and politics as well as news on public safety, transportation, education, finance and more",
+        "Official Site": "/",
+        "Icon": "/templates/gg2015/img/logo_gotham.png",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://datacredito.com.co",
+        "Heading": "Datacr\u00e9dito Experian | Soluciones para empresas",
+        "Abstract": "Nuestras soluciones tecnol\u00f3gicas te brindan la informaci\u00f3n que necesitas para originar cr\u00e9dito, validar identidades, prevenir el fraude y optimizar tu cartera. \u00a1Tu socio tecnol\u00f3gico de confianza!",
+        "Official Site": "https://www.datacredito.com.co/",
+        "Icon": "https://www.datacredito.com.co/content/dam/marketing/na/social/datacredito-experian-og.png",
+        "Redirect": "https://www.datacredito.com.co/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.datacredito.com.co/"
+    },
+    {
+        "link": "https://thenewsherald.com",
+        "Heading": "The News Herald \u2013 Southgate, MI News, Sports, Weather & Things to Do",
+        "Abstract": "Southgate, MI News, Sports, Weather & Things to Do",
+        "Official Site": "https://www.thenewsherald.com",
+        "Icon": "https://www.thenewsherald.com/wp-content/uploads/2021/06/newsheraldfallback.jpg",
+        "Redirect": "https://www.thenewsherald.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thenewsherald.com"
+    },
+    {
+        "link": "https://wandsworth.gov.uk",
+        "Heading": "Home - Wandsworth Borough Council",
+        "Abstract": "Welcome to the London Borough of Wandsworth.",
+        "Official Site": "/",
+        "Icon": "https://wandsworth.gov.uk/Assets/Wandsworth-logo-400x400.png",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://simplyceph.com",
+        "Heading": " SimplyCeph - ",
+        "Abstract": null,
+        "Official Site": "https://simplyceph.com",
+        "Icon": "N/A",
+        "Redirect": "https://simplyceph.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://simplyceph.com"
+    },
+    {
+        "link": "https://enpc.fr",
+        "Heading": "\u00c9cole nationale des ponts et chauss\u00e9es - Construire les mondes de demain",
+        "Abstract": "L\u2019\u00c9cole nationale des ponts et chauss\u00e9es est une grande \u00e9cole fran\u00e7aise, proposant des formations d'excellence en lien avec les enjeux de la transition \u00e9cologique et num\u2026",
+        "Official Site": "https://ecoledesponts.fr/node",
+        "Icon": "https://ecoledesponts.fr/themes/project/img/home/logo_og.jpg",
+        "Redirect": "https://ecoledesponts.fr/node",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ecoledesponts.fr/node"
+    },
+    {
+        "link": "https://uade.edu.ar",
+        "Heading": " UADE | Universidad Argentina de la Empresa",
+        "Abstract": "UADE es una universidad argentina que se destaca por su excelencia en la ense\u00f1anza, aprendizaje e investigaci\u00f3n",
+        "Official Site": "https://uade.edu.ar/",
+        "Icon": "https://uade.edu.ar/media/hrlpdgg0/uade_arg.png",
+        "Redirect": "https://uade.edu.ar/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uade.edu.ar/"
+    },
+    {
+        "link": "https://amlabs.com.br",
+        "Heading": "AMLabs | Solu\u00e7\u00f5es Completas para Minimercados Aut\u00f4nomos",
+        "Abstract": "AMLabs oferece solu\u00e7\u00f5es completas para minimercados aut\u00f4nomos: Totem de Pagamento, Controle de Acesso, Sistema de Gest\u00e3o e mais. Potencialize seu neg\u00f3cio!",
+        "Official Site": "https://www.amlabs.com.br/",
+        "Icon": "https://www.amlabs.com.br/wp-content/uploads/2025/11/AMLabs.png",
+        "Redirect": "https://www.amlabs.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.amlabs.com.br/"
+    },
+    {
+        "link": "https://linkedbookmarker.com",
+        "Heading": "Your Source for Social News and Networking",
+        "Abstract": "Kliqqi is an open source content management system that lets you easily create your own user-powered website.",
+        "Official Site": "https://linkedbookmarker.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://linkedbookmarker.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://linkedbookmarker.com"
+    },
+    {
+        "link": "https://fivestaralliance.com",
+        "Heading": "Search and Book Luxury Hotels Worldwide : Five Star Alliance",
+        "Abstract": null,
+        "Official Site": "https://fivestaralliance.com",
+        "Icon": "/files/fivestaralliance.com/fsauitheme_favicon_0.gif",
+        "Redirect": "https://fivestaralliance.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fivestaralliance.com"
+    },
+    {
+        "link": "https://xhunt.ai",
+        "Heading": "XHunt: AI-Powered InfluenceFi Platform",
+        "Abstract": "XHunt.ai is an AI-powered platform for KOLs to grow audiences, monetize content, and thrive in the global creator economy.",
+        "Official Site": "https://xhunt.ai",
+        "Icon": "/eye48.png",
+        "Redirect": "https://xhunt.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xhunt.ai"
+    },
+    {
+        "link": "https://pflanzen-koelle.de",
+        "Heading": "Pflanzen-K\u00f6lle Gartencenter & Onlineshop",
+        "Abstract": "K\u00f6lle Gartencenter & Garten-Onlineshop \u2714\ufe0fGro\u00dfes Sortiment \u2714\ufe0fProfessionelle Beratung \u2714\ufe0fNat\u00fcrlich nachhaltig \u2714\ufe0fG\u00e4rtner seit 1818 \u25ba Jetzt entdecken!",
+        "Official Site": "https://www.pflanzen-koelle.de/",
+        "Icon": "https://cdn.pflanzen-koelle.de/media/41/07/43/1759731749/pflanzen-koelle-logo_29092025.svg",
+        "Redirect": "https://www.pflanzen-koelle.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pflanzen-koelle.de/"
+    },
+    {
+        "link": "https://uxfol.io",
+        "Heading": "UXfolio - Fast & easy UX portfolio building",
+        "Abstract": "Build your UX portfolio faster with supercharged tools tailored to your needs and hiring managers' expectations.",
+        "Official Site": "https://uxfol.io/",
+        "Icon": "https://uxfol.io/landing-images/og_image.png",
+        "Redirect": "https://uxfol.io/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://uxfol.io/"
+    },
+    {
+        "link": "https://f1000.com",
+        "Heading": "Open Research Publishing - Advancing Knowledge - F1000",
+        "Abstract": "F1000 provides open research publishing services to funders, institutions, and societies worldwide. Partner with F1000 today to maximize research impact.",
+        "Official Site": "https://www.f1000.com/",
+        "Icon": "https://www.f1000.com/wp-content/uploads/2021/06/F1000-Link-Share-Preview.png",
+        "Redirect": "https://www.f1000.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.f1000.com/"
+    },
+    {
+        "link": "https://theleafchronicle.com",
+        "Heading": "The Leaf Chronicle | Clarksville, TN",
+        "Abstract": "Your one stop shop for news, weather, and activities in and around Clarksville, Montgomery County and Fort Campbell",
+        "Official Site": "https://www.theleafchronicle.com/",
+        "Icon": "https://www.theleafchronicle.com/tangstatic/sites/pcla/og-image-q1a2z3f7e21240.png",
+        "Redirect": "https://www.theleafchronicle.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.theleafchronicle.com/"
+    },
+    {
+        "link": "https://onetcenter.org",
+        "Heading": "O*NET Resource Center",
+        "Abstract": "A workforce professional, developer, and research portal with data, tools, websites, technical documentation, and customer support information.",
+        "Official Site": "https://www.onetcenter.org/",
+        "Icon": "https://www.onetcenter.org/shared/image/promo/center.jpg",
+        "Redirect": "https://www.onetcenter.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.onetcenter.org/"
+    },
+    {
+        "link": "https://jj.cn",
+        "Heading": "\u7ade\u6280\u4e16\u754c www.jj.cn",
+        "Abstract": "JJ\u6597\u5730\u4e3b\u662f\u5168\u6c11\u5a31\u4e50\u7684\u4e13\u4e1a\u68cb\u724c\u5728\u7ebf\u7ade\u6280\u5e73\u53f0\uff0c\u9996\u521b\u7ade\u6280\u6bd4\u8d5b\u6a21\u5f0f\uff0c\u514d\u8d39\u8d62\u5956\u54c1\uff0c\u63d0\u4f9b\u6597\u5730\u4e3b\u3001\u9ebb\u5c06\u3001\u8c61\u68cb\u7b49\u6570\u5341\u6b3e\u6e38\u620f\uff0c\u62e5\u6709\u4e30\u5bcc\u4e13\u4e1a\u8d5b\u4e8b\uff0c\u516c\u5e73\u7ade\u6280\uff0c\u73a9\u6cd5\u591a\u6837\uff0c\u5956\u54c1\u7ed9\u529b!",
+        "Official Site": "https://jj.cn",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://jj.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jj.cn"
+    },
+    {
+        "link": "https://ctl.de",
+        "Heading": "Startseite - CTL GmbH",
+        "Abstract": "Wir beraten, betreuen und beliefern kleine und mittelst\u00e4ndische Unternehmen, Kommunal\u00adverwaltungen, Schulen, Architekten, Hotels, Gastst\u00e4tten, Arztpraxen, Notare, Rechtsanw\u00e4lte, Steuerberater und Privatanwender in allen Belangen der IT. Wir sind ein EDV-Vollsortimenter mit eigener Fertigung.",
+        "Official Site": "https://ctl.de/",
+        "Icon": "https://ctl.de/wp-content/uploads/2022/06/Astronaut-und-gelb.png",
+        "Redirect": "https://ctl.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ctl.de/"
+    },
+    {
+        "link": "https://juritravail.com",
+        "Heading": "Juritravail, votre service juridique en ligne",
+        "Abstract": "1er service d'information juridique compos\u00e9 de juristes et avocats. Le droit expliqu\u00e9 en langage simple : droit du travail, droit des affaires, propri\u00e9t\u00e9 intellectuelle...",
+        "Official Site": "https://juritravail.com",
+        "Icon": "https://www.juritravail.com/assets/images/favicon/favicon-Aygfaoj.ico",
+        "Redirect": "https://juritravail.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://juritravail.com"
+    },
+    {
+        "link": "https://cashraven.io",
+        "Heading": "We are Monetization Platform for \u2028APP & Software - Cash Raven",
+        "Abstract": "App and software monetization platform without ads display. Make passive recurring income from daily active users.",
+        "Official Site": "https://cashraven.io",
+        "Icon": "https://cdn.prod.website-files.com/68bee34bf57d807a4990d81a/6931c885b5738b70b87dc9d7_CR%20home.png",
+        "Redirect": "https://cashraven.io",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cashraven.io"
+    },
+    {
+        "link": "https://imaeil.com",
+        "Heading": "\ub9e4\uc77c\uc2e0\ubb38 - \ub300\ud55c\ubbfc\uad6d\uc774 pick\ud55c \ub274\uc2a4",
+        "Abstract": null,
+        "Official Site": "https://www.imaeil.com/",
+        "Icon": "/assets/images/common/none_image_maeil.jpg",
+        "Redirect": "https://www.imaeil.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.imaeil.com/"
+    },
+    {
+        "link": "https://thinkglobalhealth.org",
+        "Heading": "Think Global Health",
+        "Abstract": "Revealing forces in global health",
+        "Official Site": "https://www.thinkglobalhealth.org/",
+        "Icon": "https://assets.cfr.org/image/fetch/og_image_landscape/https://build.thinkglobalhealth.org//wp-content/uploads/2025/08/TGH-Hub-OG-1200x628-1.png",
+        "Redirect": "https://www.thinkglobalhealth.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.thinkglobalhealth.org/"
+    },
+    {
+        "link": "https://arwanatotospin.com",
+        "Heading": "ARWANATOTO | Platform Gaming Aman dan Inovatif",
+        "Abstract": "ARWANATOTO adalah platform gaming online terpercaya dengan teknologi enkripsi, layanan lengkap, dan bonus menarik. Daftar dan mainkan sekarang!",
+        "Official Site": "https://arwanatotospin.com",
+        "Icon": "/assets/img/aw/favicon.png?v=1780897818",
+        "Redirect": "https://arwanatotospin.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://arwanatotospin.com"
+    },
+    {
+        "link": "https://30seconds.com",
+        "Heading": "30Seconds  - Food, Fun, Health, Happiness",
+        "Abstract": "Food, Fun, Health, Happiness",
+        "Official Site": "https://30seconds.com/",
+        "Icon": "https://media.30seconds.com/static/img/favicon.12c770a37366.ico",
+        "Redirect": "https://30seconds.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://30seconds.com/"
+    },
+    {
+        "link": "https://londynek.net",
+        "Heading": "Londynek.net - UK Polish Community Online informacje i og\u0142oszenia",
+        "Abstract": "Najpopularniejszy polski portal w Wielkiej Brytanii. Serwisy informacyjne, serwisy og\u0142oszeniowe, katalog firm polonijnych, kalendarium wydarze\u0144, faq, encyklpedia turystyczno-emigracyjna",
+        "Official Site": "https://londynek.net",
+        "Icon": "https://assets.aws.londynek.net/images/_download/londynek/londynek-logo-square-512x512.png",
+        "Redirect": "https://londynek.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://londynek.net"
+    },
+    {
+        "link": "https://viewdepth.cn",
+        "Heading": "viewdepth.com",
+        "Abstract": null,
+        "Official Site": "https://viewdepth.cn",
+        "Icon": "N/A",
+        "Redirect": "https://viewdepth.cn",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://viewdepth.cn"
+    },
+    {
+        "link": "https://autotitre.com",
+        "Heading": "Autotitre.com : actualit\u00e9 automobile, essais, forum auto, fiches techniques, TOP 30",
+        "Abstract": "R\u00e9sum\u00e9 Auto Titre du 2 au 7 juin 2026. Essai Ferrari 12Cilindri (2026) : le coeur battant de Maranello. Essai Renault Symbioz vs Jaecoo 5 : pourquoi payer 7 000 \u20ac de plus ?. ETroph\u00e9es AMAM 2026 : le palmar\u00e8s complet. Land Rover Defender Octa vs Mercedes-AMG G 63 : le duel des dinosaures survitamin\u00e9s. Lanc\u00e9 en 1977, ce mod\u00e8le toujours au catalogue adopte enfin son premier airbag !. ",
+        "Official Site": "https://www.autotitre.com/",
+        "Icon": "https://up.autotitre.com/img/autotitre-1200x630.jpg",
+        "Redirect": "https://www.autotitre.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.autotitre.com/"
+    },
+    {
+        "link": "https://yoursocialpeople.com",
+        "Heading": "Your Source for Social News and Networking",
+        "Abstract": "Kliqqi is an open source content management system that lets you easily create your own user-powered website.",
+        "Official Site": "https://yoursocialpeople.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://yoursocialpeople.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yoursocialpeople.com"
+    },
+    {
+        "link": "https://commissaries.com",
+        "Heading": "Main Homepage - Defense Commissary Agency",
+        "Abstract": null,
+        "Official Site": "https://shop.commissaries.com/",
+        "Icon": "https://shop.commissaries.com/wp-content/uploads/TOTG-Banner-1733x541-3.jpg",
+        "Redirect": "https://shop.commissaries.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://shop.commissaries.com/"
+    },
+    {
+        "link": "https://yemcy.net",
+        "Heading": "\u7b2c\u4e00\u5c0f\u8bf4\u7f51 - \u6700\u597d\u770b\u7684\u514d\u8d39\u5c0f\u8bf4\u9605\u8bfb\u7f51",
+        "Abstract": "\u7b2c\u4e00\u5c0f\u8bf4\u7f51\u7f51\u7b2c\u4e00\u65f6\u95f4\u66f4\u65b0\u6700\u65b0\u5b8c\u7ed3\u5c0f\u8bf4\uff0c\u8ba9\u60a8\u7b2c\u4e00\u65f6\u95f4\u9605\u8bfb\u5230\u6700\u65b0\u5185\u5bb9\u3002",
+        "Official Site": "https://yemcy.net",
+        "Icon": "N/A",
+        "Redirect": "https://yemcy.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yemcy.net"
+    },
+    {
+        "link": "https://themeum.com",
+        "Heading": "Themeum: WordPress LMS, No-Code Builder, Crowdfunding Plugins \u2013 LMS, No-Code Website Builder & Crowdfunding Plugins",
+        "Abstract": null,
+        "Official Site": "https://www.themeum.com/",
+        "Icon": "https://www.themeum.com/wp-content/uploads/2024/12/cropped-favicon-32x32.webp",
+        "Redirect": "https://www.themeum.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.themeum.com/"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "link": "https://klubradio.hu",
+        "Heading": "Klubr\u00e1di\u00f3",
+        "Abstract": "",
+        "Official Site": "http://klubradio.test.netrix.hu/cimlap",
+        "Icon": "https://www.klubradio.hu/static/frontend/imgs/logo.png",
+        "Redirect": "http://klubradio.test.netrix.hu/cimlap",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://klubradio.test.netrix.hu/cimlap"
+    },
+    {
+        "link": "https://aari.ru",
+        "Heading": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430",
+        "Abstract": "\u041e\u043f\u0438\u0441\u0430\u043d\u0438\u0435",
+        "Official Site": "https://aari.ru",
+        "Icon": "./img/icon/favicon-32x32.png",
+        "Redirect": "https://aari.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://aari.ru"
+    },
+    {
+        "link": "https://petrolplus.ru",
+        "Heading": "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0430\u0432\u0442\u043e\u043f\u0430\u0440\u043a\u043e\u043c \u0441 \u041f\u041f\u0420: \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c",
+        "Abstract": "\u0423\u0437\u043d\u0430\u0439\u0442\u0435, \u043a\u0430\u043a \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u00ab\u041f\u0435\u0440\u0435\u0434\u043e\u0432\u044b\u0435 \u041f\u043b\u0430\u0442\u0435\u0436\u043d\u044b\u0435 \u0420\u0435\u0448\u0435\u043d\u0438\u044f\u00bb  \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0432\u0430\u043c \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c \u0430\u0432\u0442\u043e\u043f\u0430\u0440\u043a\u043e\u043c, \u0441\u043d\u0438\u0437\u0438\u0442\u044c \u0440\u0430\u0441\u0445\u043e\u0434\u044b \u0438 \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c. \ud83d\ude97\ud83d\udcc8 ",
+        "Official Site": "https://www.petrolplus.ru",
+        "Icon": "https://petrolplus.ru/assets/da445904-cfae-4b03-abf1-504e7ef080a7/fuelcard-vezdehod.png",
+        "Redirect": "https://www.petrolplus.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.petrolplus.ru"
+    },
+    {
+        "link": "https://pollev.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://pollev.com",
+        "Icon": "N/A",
+        "Redirect": "https://pollev.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pollev.com"
+    },
+    {
+        "link": "https://babilonica.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://babilonica.top",
+        "Icon": "N/A",
+        "Redirect": "https://babilonica.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://babilonica.top"
+    },
+    {
+        "link": "https://ready2order.com",
+        "Heading": "Cloud POS System \u2013 free testing | ready2order",
+        "Abstract": "Find your new POS today! \u2713Perfect for gastronomy, service & retail \u2713For Windows, Android, Mac, iOS \u2713Free support. \u25ba Test now for free!",
+        "Official Site": "https://ready2order.com/en/",
+        "Icon": "https://web-assets.ready2order.com/17144/1762512688-readymax2_mini.jpg?w=1200&h=630&fit=crop&auto=compress,format&fm=jpg&q=18",
+        "Redirect": "https://ready2order.com/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ready2order.com/en/"
+    },
+    {
+        "link": "https://greenday.com",
+        "Heading": "Green Day",
+        "Abstract": "The American Dream Is Killing Me - Official website for God's Favorite Band aka Green Day. Features tour dates, merch & more.",
+        "Official Site": "https://greenday.com/",
+        "Icon": "https://greenday.com/wp-content/uploads/2023/10/green-day-share-card.jpg",
+        "Redirect": "https://greenday.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://greenday.com/"
+    },
+    {
+        "link": "https://hacklinkpc.com",
+        "Heading": "Hacklink Panel - Hacklink",
+        "Abstract": "",
+        "Official Site": "https://hacklinkpc.com",
+        "Icon": "https://i.hizliresim.com/jpjqrcp.png",
+        "Redirect": "https://hacklinkpc.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hacklinkpc.com"
+    },
+    {
+        "link": "https://destination.one",
+        "Heading": "destination.one | Plattform f\u00fcr digitales Destinationsmanagement",
+        "Abstract": "destination.one optimiert digitale Destinationsauftritte: G\u00e4steinformation, Buchungen & Content auf einer All-in-One-Plattform.",
+        "Official Site": "https://destination.one",
+        "Icon": "/favicon/neustads/favicon-96x96.png",
+        "Redirect": "https://destination.one",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://destination.one"
+    },
+    {
+        "link": "https://hailstate.com",
+        "Heading": "Mississippi State - Official Athletics Website",
+        "Abstract": "The official athletics website for the Mississippi State Bulldogs",
+        "Official Site": "https://hailstate.com/",
+        "Icon": "https://hailstate.com/images/logos/site/site.png",
+        "Redirect": "https://hailstate.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hailstate.com/"
+    },
+    {
+        "link": "https://generalblue.com",
+        "Heading": "General Blue - Official Home Page",
+        "Abstract": "General Blue delivers enterprise cloud solutions, expert consulting, and productivity tools that help businesses and teams worldwide operate smarter.",
+        "Official Site": "https://www.generalblue.com/",
+        "Icon": "/favicon.u3hh0geyi4.svg",
+        "Redirect": "https://www.generalblue.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.generalblue.com/"
+    },
+    {
+        "link": "https://malc.org.uk",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://malc.org.uk",
+        "Icon": "//abs.twimg.com/favicons/twitter.3.ico",
+        "Redirect": "https://malc.org.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://malc.org.uk"
+    },
+    {
+        "link": "https://technabob.com",
+        "Heading": "mediadecision.com",
+        "Abstract": "",
+        "Official Site": "https://www.mediadecision.com/",
+        "Icon": "https://bloximages.chicago2.vip.townnews.com/mediadecision.com/content/tncms/custom/image/1dde34c2-a410-11ed-8535-dfefebe86e55.png?resize=600%2C315",
+        "Redirect": "https://www.mediadecision.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.mediadecision.com/"
+    },
+    {
+        "link": "https://datilografia.site",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://datilografia.site",
+        "Icon": "N/A",
+        "Redirect": "https://datilografia.site",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://datilografia.site"
+    },
+    {
+        "link": "https://mytaxoffice.com",
+        "Heading": "Online Taxes Professional Tax Software",
+        "Abstract": null,
+        "Official Site": "https://mytaxoffice.com",
+        "Icon": "N/A",
+        "Redirect": "https://mytaxoffice.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mytaxoffice.com"
+    },
+    {
+        "link": "https://hiddenvalley.com",
+        "Heading": "Ranch Salad Dressing, Products, Recipes, & More | Hidden Valley\u2122 Ranch",
+        "Abstract": "Looking for an Easy Recipe Tonight? Try a Recipe from Hidden Valley\u2122 and Check out Our Tasty Products!",
+        "Official Site": "https://www.hiddenvalley.com/",
+        "Icon": "N/A",
+        "Redirect": "https://www.hiddenvalley.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hiddenvalley.com/"
+    },
+    {
+        "link": "https://fe.ru",
+        "Heading": "Fe / \u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u043e\u0432",
+        "Abstract": null,
+        "Official Site": "https://fe.ru",
+        "Icon": "images/favicon.svg",
+        "Redirect": "https://fe.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fe.ru"
+    },
+    {
+        "link": "https://fatbraintoys.com",
+        "Heading": "Educational Toys & Learning Toys from Fat Brain Toys",
+        "Abstract": "Fat Brain Toys - the top online toy store for the very best educational toys, games, and gifts. Smart selection of Montessori toys for all ages, including baby, toddler, and teens. Named one of the best toy stores in America, we feature the very best toys for Christmas and Hanukkah 2025. Full color toy catalog now available!",
+        "Official Site": "https://www.fatbraintoys.com/index.cfm",
+        "Icon": "https://d3tvemk8zf61cc.cloudfront.net/FB_FBT_logo.jpg",
+        "Redirect": "https://www.fatbraintoys.com/index.cfm",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fatbraintoys.com/index.cfm"
+    },
+    {
+        "link": "https://strut.fit",
+        "Heading": "StrutFit - AI-Powered Customer Experience Platform for Retailers",
+        "Abstract": "Grow faster and transform your customer experience with the platform that brings your eCommerce into the AI era. Reduce returns, increase conversions, and enhance satisfaction.",
+        "Official Site": "https://www.strut.fit/",
+        "Icon": "https://www.strut.fit/strutfit-logo.png",
+        "Redirect": "https://www.strut.fit/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.strut.fit/"
+    },
+    {
+        "link": "https://grmsplatform.com",
+        "Heading": "RMS",
+        "Abstract": null,
+        "Official Site": "https://grmsplatform.com",
+        "Icon": "N/A",
+        "Redirect": "https://grmsplatform.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://grmsplatform.com"
+    },
+    {
+        "link": "https://johnson-creative.com",
+        "Heading": "Keep Connect \u2014 Automatic Router Rebooter for Reliable WiFi 24/7",
+        "Abstract": "Johnson Creative LLC | Keep Connect auto-reboots your router when internet drops. Free SMS, email alerts & free shipping. Trusted by thousands.",
+        "Official Site": "https://www.johnson-creative.com/",
+        "Icon": "https://www.johnson-creative.com/wp-content/uploads/2023/02/Twitter-2nd-2.jpg",
+        "Redirect": "https://www.johnson-creative.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.johnson-creative.com/"
+    },
+    {
+        "link": "https://adcloud-finance.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://adcloud-finance.com",
+        "Icon": "N/A",
+        "Redirect": "https://adcloud-finance.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://adcloud-finance.com"
+    },
+    {
+        "link": "https://churchtrac.com",
+        "Heading": "ChurchTrac - Church Management Software for Small and Large Churches",
+        "Abstract": "The most user-friendly and affordable church software to track online giving, accounting, membership, child check-in, visitors, small groups, events, volunteers, attendance and more.",
+        "Official Site": "https://churchtrac.com",
+        "Icon": "https://cdn.churchtrac.com/images/landing/homepage/hero3.png?20201215",
+        "Redirect": "https://churchtrac.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://churchtrac.com"
+    },
+    {
+        "link": "https://loiraburra.top",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://loiraburra.top",
+        "Icon": "N/A",
+        "Redirect": "https://loiraburra.top",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://loiraburra.top"
+    },
+    {
+        "link": "https://motorsportreg.com",
+        "Heading": "MotorsportReg | racing, track day, HPDE, autocross, sport bike, karting, & motocross events",
+        "Abstract": "Online event registration for 1,000+ motorsport clubs, racetracks & sanctioning bodies. Automate tasks, improve accuracy & grow participation for free.",
+        "Official Site": "https://motorsportreg.com",
+        "Icon": "/assets/favicon-32x32.png",
+        "Redirect": "https://motorsportreg.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://motorsportreg.com"
+    },
+    {
+        "link": "https://getidealist.com",
+        "Heading": "Your Source for Social News and Networking",
+        "Abstract": "Kliqqi is an open source content management system that lets you easily create your own user-powered website.",
+        "Official Site": "https://getidealist.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://getidealist.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://getidealist.com"
+    },
+    {
+        "link": "https://lander.edu",
+        "Heading": "Lander University - Greenwood, South Carolina | Lander University",
+        "Abstract": "Lander University offers high-demand and market-driven programs to ambitious and talented students in South Carolina and beyond.",
+        "Official Site": "https://www.lander.edu/index",
+        "Icon": "https://www.lander.edu/_files/images/generic/LLT_Flowers_SP25-OG-tags-default.jpg",
+        "Redirect": "https://www.lander.edu/index",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.lander.edu/index"
+    },
+    {
+        "link": "https://automedsystems.com.au",
+        "Heading": "AutoMed Systems \u2013 Online appointments",
+        "Abstract": "YOUR COMPLETE RECEPTION SOLUTION  \nSMART ENOUGH TO DELIVER, NICE ENOUGH TO CARE      \nAutoMed Systems is not just a digital tool, it will revolutionise the way you provide healthcare     \nDesigned by an Australian",
+        "Official Site": "https://automedsystems.com.au/",
+        "Icon": "https://automedsystems.com.au/wp-content/uploads/2017/03/logo-1-e1488342721106.png",
+        "Redirect": "https://automedsystems.com.au/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://automedsystems.com.au/"
+    },
+    {
+        "link": "https://edogs.de",
+        "Heading": "Hundemarkt: Hunde online finden - edogs.de",
+        "Abstract": "Deutschlands sicherste Hundevermittlung edogs \u25ba Hunde finden \u2713 Einfach und unkompliziert \u27bd Jetzt Traumhund finden auf edogs.de!",
+        "Official Site": "https://www.edogs.de/",
+        "Icon": "https://www.edogs.de/grafiken/fb_sharing.jpg",
+        "Redirect": "https://www.edogs.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.edogs.de/"
+    },
+    {
+        "link": "https://plateautel.net",
+        "Heading": "MyPlateau the one stop local content website | Dashboard",
+        "Abstract": "The one stop local content website for all your local and national news, sports, weather, technology, finance, entertainment, health and more.",
+        "Official Site": "https://plateautel.net",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://plateautel.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://plateautel.net"
+    },
+    {
+        "link": "https://dealsea.com",
+        "Heading": "Dealsea.com: Best Deals",
+        "Abstract": "Easy shopping with the best shopping tips.",
+        "Official Site": "https://dealsea.com",
+        "Icon": "https://i.dealsea.com/i/faviconv2.ico",
+        "Redirect": "https://dealsea.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dealsea.com"
+    },
+    {
+        "link": "https://alghad.com",
+        "Heading": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u063a\u062f | \u0645\u0635\u062f\u0631\u0643 \u0627\u0644\u0623\u0648\u0644 \u0644\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0623\u0631\u062f\u0646 \u0648\u0627\u0644\u0639\u0627\u0644\u0645",
+        "Abstract": "\u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u063a\u062f \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0647\u064a \u0645\u0635\u062f\u0631\u0643 \u0627\u0644\u0627\u0648\u0644 \u0644\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0623\u0631\u062f\u0646\u060c \u0648\u064a\u0645\u0643\u0646\u0643 \u0627\u0644\u0627\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0627\u062e\u0631 \u0627\u0644\u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0648\u0627\u0644\u0625\u0642\u0644\u064a\u0645\u064a\u0629 \u0648\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u064a \u0645\u062c\u0627\u0644\u0627\u062a \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f \u0648\u0627\u0644\u0633\u064a\u0627\u0633\u0629 \u0648\u0627\u0644\u0631\u064a\u0627\u0636\u0629 \u0648\u0627\u0644\u0635\u062d\u0629 \u0648\u063a\u064a\u0631\u0647\u0627.",
+        "Official Site": "https://alghad.com",
+        "Icon": "https://alghad.com/App_Images/default.jpg",
+        "Redirect": "https://alghad.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alghad.com"
+    },
+    {
+        "link": "https://homeofengines.co.za",
+        "Heading": "Engines for Sale South Africa | Home of Engines",
+        "Abstract": "Shop quality imported engines for sale in South Africa. Home of Engines supplies low-mileage petrol and diesel engines, gearboxes, fitment support and nationwide delivery.",
+        "Official Site": "https://homeofengines.co.za/",
+        "Icon": "https://homeofengines.co.za/wp-content/uploads/2021/01/favicon.jpg",
+        "Redirect": "https://homeofengines.co.za/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://homeofengines.co.za/"
+    },
+    {
+        "link": "https://clarizen.com",
+        "Heading": "Planview AdaptiveWork Project Portfolio Management Software",
+        "Abstract": "Planview AdaptiveWork (formerly AdaptiveWork) enables PMOs and delivery teams to gain visibility across their work, automate workflows, manage risks, and deliver business impact.",
+        "Official Site": "https://www.planview.com/products-solutions/products/adaptivework/",
+        "Icon": "https://media.planview.com/wp-content/uploads/2020/01/social-planview-rebrand-min.jpg",
+        "Redirect": "https://www.planview.com/products-solutions/products/adaptivework/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.planview.com/products-solutions/products/adaptivework/"
+    },
+    {
+        "link": "https://berry-ai.com",
+        "Heading": "Berry AI - Computer Vision for Fast Food",
+        "Abstract": "Berry AI builds customized computer vision products for fast food chains to create new experiences.",
+        "Official Site": "https://www.berry-ai.com",
+        "Icon": "https://static.wixstatic.com/media/6ade0c_34008c6e6f9f4e9ca997ec4b68b7ac0b%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/6ade0c_34008c6e6f9f4e9ca997ec4b68b7ac0b%7Emv2.png",
+        "Redirect": "https://www.berry-ai.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.berry-ai.com"
+    },
+    {
+        "link": "https://autorevue.at",
+        "Heading": "autorevue | \u00d6sterreichs f\u00fchrendes Automagazin",
+        "Abstract": "autorevue.at bietet Premium-Inhalte aus der Autowelt, Motorsport, M\u00e4nnersache und einen Gebrauchtwagenmarktplatz. Dar\u00fcber hinaus hilft es allen Auto-Interessierten mit Tipps & Tricks zum Autokauf.",
+        "Official Site": "/",
+        "Icon": "/assets/ar-og-image.png?width=1200&height=630&format=jpg",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    }
+]
