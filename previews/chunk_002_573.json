@@ -1,0 +1,322 @@
+[
+    {
+        "link": "https://philipsiot.com",
+        "Heading": "\u5343\u9e1f\u7965\u4e91",
+        "Abstract": null,
+        "Official Site": "https://philipsiot.com",
+        "Icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMxSURBVHgBzZZ5SFRBHMc/r0NtU7NMyZLWyiTTKO2StMPooCw6sYOiIijLf4LohgoiMIgujAq6y6iIsqLUQhPK7FKRTA1l1bIyj7U8d9Xa5u1DZd3FdVWkLzzeezPfme98Z36/mZEIjDTQczD0oofxHwuqg8B1BF1FH6sMO0fwXwSO7oJtD4VvQPOSzqJ9QRdPGLcE6irh3VXo5wK+YYrTj7Ggq8JWWJ5SSYLhUyBgNZTkQuY9pfPKL5B+S+EEroXBo7AVklla2KmEq6XCzUDIjgOtxnJLL7GmI0OE8+tQU0oHYTAVHKgGvzDFTdZj8f7dfvO+DqjdVITPCaC/g71Fiq6xidsJHyj8rm0jqJ4qRjwditMhP1lU/cUa5JmPj45kXpCvxfqYuPeUVdYwwceT0K2njYJK0Lh5K9OT9RDK8ug4JHzU7hZrDMLGnWdpPHn1ifzYQy3limAfB9BX2yhmjpyCEt5mFRmdz5zoTfSecE7u/GPCsZ6HHYDs5sjFOA5feIrrABX6hiZqdY0c3DyfQxFhFHwr717BkzFJHD7/hLP7VhGxcrpxBFHXnnMg+hG+o4Yweay6hdvlvVR2dzH2NVuXB7NuwRTW7LtMZNRddq2fy9JZ4zl1K9mEb91hQLiIjTY0OTflLU6RJK/oJ3s2zCEhNVsESrpxDTcsmsrCYD+2Rd02aWrd4YBhIpnE1qYtUJ6+dmDvZEJxd3Wm6IdWBMpoAscMJ3SSD+PHeJKSqcHbczC2OZRRkiPECpVvR9MOJGFn4+Igjl5OYIYQTIvZbSx/8CKT+4kZHNuxrBOCVrB30zwyPn8ldMtpgvy9+FWjI7ewhO0igCJWhHR/lDqp7Hl6ZrsxyeNTssWqGji3fxWzhOO26BbBZoSF+Bmf9tAqKO82Hv7mDKm3eZl8kriJ0ZfnYysUwdoKaKiBEdPMGfoqJdma0VAPzh6CGwwVGjTFFXh5uLYrUlzaeupIXb0meg0dxPLZE3BWOVisr9XpuRSbiraqTv7t+jVRPudO3EwSHdaa1Wmr6zh+I7FZzIhuCRoXp34sEy7borKqnisPU6mu07eUST1985YddkZQopP4B+qLDsKqjkd4AAAAAElFTkSuQmCC",
+        "Redirect": "https://philipsiot.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://philipsiot.com"
+    },
+    {
+        "link": "https://antilopay.com",
+        "Heading": "Antilopay - \u043f\u0440\u0438\u0435\u043c \u043f\u043b\u0430\u0442\u0435\u0436\u0435\u0438\u0306 \u0434\u043b\u044f \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0438\u0306\u0442\u0430",
+        "Abstract": "Antilopay - \u043f\u0440\u0438\u0435\u043c \u043f\u043b\u0430\u0442\u0435\u0436\u0435\u0439 \u0434\u043b\u044f \u0432\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430",
+        "Official Site": "https://antilopay.com",
+        "Icon": "https://static.tildacdn.com/tild6661-3532-4138-b334-306134636237/antilopay_logo.svg",
+        "Redirect": "https://antilopay.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://antilopay.com"
+    },
+    {
+        "link": "https://mjtsai.com",
+        "Heading": "Michael Tsai - Good Evening",
+        "Abstract": null,
+        "Official Site": "https://mjtsai.com",
+        "Icon": "N/A",
+        "Redirect": "https://mjtsai.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mjtsai.com"
+    },
+    {
+        "link": "https://aktienfinder.net",
+        "Heading": null,
+        "Abstract": "{{metatag.description}}",
+        "Official Site": "{{metatag.url}}",
+        "Icon": "{{metatag.image}}",
+        "Redirect": "{{metatag.url}}",
+        "AbstractSource": "BS4",
+        "AbstractURL": "{{metatag.url}}"
+    },
+    {
+        "link": "https://light-speed.com",
+        "Heading": "LightSpeed Gaming | Ventrilo | TeamSpeak | Mumble",
+        "Abstract": null,
+        "Official Site": "https://light-speed.com",
+        "Icon": "N/A",
+        "Redirect": "https://light-speed.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://light-speed.com"
+    },
+    {
+        "link": "https://bookmarkspiral.com",
+        "Heading": "Your Source for Social News and Networking",
+        "Abstract": "Kliqqi is an open source content management system that lets you easily create your own user-powered website.",
+        "Official Site": "https://bookmarkspiral.com",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://bookmarkspiral.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bookmarkspiral.com"
+    },
+    {
+        "link": "https://laurea.fi",
+        "Heading": "Laurea-ammattikorkeakoulu - Osaamisen uusi aikakausi",
+        "Abstract": "Laurea-ammattikorkeakoulu kouluttaa ty\u00f6el\u00e4m\u00e4n asiantuntijoita ja tarjoaa yrityksille ja organisaatioille asiantuntevaa kumppanuutta, ty\u00f6el\u00e4m\u00e4l\u00e4ht\u00f6ist\u00e4 kehitt\u00e4mist\u00e4 ja opiskelijayhteisty\u00f6t\u00e4.",
+        "Official Site": "https://www.laurea.fi/",
+        "Icon": "https://www.laurea.fi/wp-content/uploads/2026/05/etusivu_hero.webp",
+        "Redirect": "https://www.laurea.fi/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.laurea.fi/"
+    },
+    {
+        "link": "https://hippo.com",
+        "Heading": "Hippo Home Insurance - affordable, tailored quotes in under 60 seconds",
+        "Abstract": "Hippo Insurance Services helps you compare quotes from 70+ top carriers to save on homeowners insurance \u2014 all in just 60 seconds.",
+        "Official Site": "https://www.hippo.com",
+        "Icon": "https://www.hippo.com/lpassets/images/landing-page/landing-page-og-image.png",
+        "Redirect": "https://www.hippo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hippo.com"
+    },
+    {
+        "link": "https://ichijo.co.jp",
+        "Heading": "\u300c\u5bb6\u306f\u3001\u6027\u80fd\u3002\u300d\u3053\u3060\u308f\u308a\u306e\u5bb6\u3065\u304f\u308a\u306a\u3089\u4e00\u6761\u5de5\u52d9\u5e97\uff5c\u4f4f\u5b85\u30e1\u30fc\u30ab\u30fc\uff08\u30cf\u30a6\u30b9\u30e1\u30fc\u30ab\u30fc\uff09",
+        "Abstract": "\u4e00\u6761\u5de5\u52d9\u5e97\u3010\u516c\u5f0f\u30b5\u30a4\u30c8\u3011\u6027\u80fd\u3092\u8ffd\u6c42\u3059\u308b\u4f4f\u5b85\u30e1\u30fc\u30ab\u30fc\u3001\u4e00\u6761\u5de5\u52d9\u5e97\u3067\u3059\u3002\u7701\u30a8\u30cd10\u51a0\u30fb\u5275\u30a8\u30cd5\u51a0\u3002\u7d2f\u7a4d\u7d0420\u4e07\u68df\u306e\u5efa\u7bc9\u5b9f\u7e3e\u3002\u4f4f\u5b85\u5546\u54c1\u7d39\u4ecb\u3001\u5c55\u793a\u5834\u4e00\u89a7\u3084\u3001\u8010\u9707\u3001\u8010\u4e45\u3001\u7701\u30a8\u30cd\u3001\u5065\u5eb7\u3001\u5168\u3066\u306b\u59a5\u5354\u3057\u306a\u3044\u9ad8\u6027\u80fd\u306a\u4f4f\u307e\u3044\u3078\u306e\u3053\u3060\u308f\u308a\u3092\u652f\u3048\u308b\u4e00\u6761\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3001\u5bb6\u3065\u304f\u308a\u306e\u57fa\u790e\u77e5\u8b58\u3092\u3054\u7d39\u4ecb\u3057\u3066\u3044\u307e\u3059\u3002",
+        "Official Site": "https://www.ichijo.co.jp/",
+        "Icon": "https://www.ichijo.co.jp/img/ogp.jpg",
+        "Redirect": "https://www.ichijo.co.jp/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.ichijo.co.jp/"
+    },
+    {
+        "link": "https://dedalus.com",
+        "Heading": "Dedalus #Ways: Delivering Value in Healthcare",
+        "Abstract": "Dedalus: A leader in healthcare software, offering #Ways for seamless care and value across the healthcare ecosystem with innovative solutions.",
+        "Official Site": "https://www.dedalus.com/global/en/",
+        "Icon": "https://www.dedalus.com/global/wp-content/uploads/sites/9/2023/12/logo_Site-Image.jpg",
+        "Redirect": "https://www.dedalus.com/global/en/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.dedalus.com/global/en/"
+    },
+    {
+        "link": "https://netcalibre.net",
+        "Heading": "Home - Netcalibre Ltd",
+        "Abstract": "Zero Lag. Just instant connectivity. We get it\u2014no one wants to wait around for the internet. That\u2019s why we make sure your space is connected and ready to go the moment you move in. Designed for buildings Our fibre framework modernises commercial buildings with a high-capacity network that interconnects multiple carriers, giving tenants seamless access [\u2026]",
+        "Official Site": "https://netcalibre.uk/",
+        "Icon": "https://netcalibre.uk/wp-content/uploads/2024/10/favicon.png",
+        "Redirect": "https://netcalibre.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://netcalibre.uk/"
+    },
+    {
+        "link": "https://alpha-ag.ru",
+        "Heading": "Alpha-AG \u2014 \u043b\u0443\u0447\u0448\u0438\u0435 \u0438\u0433\u0440\u044b \u0438 \u043c\u043e\u0434\u044b \u043d\u0430 \u0410\u043d\u0434\u0440\u043e\u0438\u0434 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e",
+        "Abstract": "\u041e\u0431\u0437\u043e\u0440\u044b \u0438 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u0435 \u0432\u0437\u043b\u043e\u043c\u0430\u043d\u043d\u044b\u0445 \u0438\u0433\u0440 \u0434\u043b\u044f Android \u043f\u043b\u0430\u043d\u0448\u0435\u0442\u043e\u0432 \u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043e\u0432, \u043c\u043e\u0434\u044b \u0438 \u0447\u0438\u0442\u044b \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e, \u0431\u0435\u0437 \u0432\u0438\u0440\u0443\u0441\u043e\u0432, \u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u0438 \u0441\u043c\u0441",
+        "Official Site": "https://alpha-ag.ru",
+        "Icon": "//www.alpha-ag.ru/favicon.svg",
+        "Redirect": "https://alpha-ag.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alpha-ag.ru"
+    },
+    {
+        "link": "https://mysubscriptionaddiction.com",
+        "Heading": "My Subscription Addiction",
+        "Abstract": "Monthly subscription box reviews from boxes like Birchbox, Glossybox, Popsugar, and more. Get reviews, spoilers, coupons, updates and more about your favorite subscription boxes.",
+        "Official Site": "https://mysubscriptionaddiction.com",
+        "Icon": "N/A",
+        "Redirect": "https://mysubscriptionaddiction.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mysubscriptionaddiction.com"
+    },
+    {
+        "link": "https://wigan.gov.uk",
+        "Heading": "\n\tWigan Council - Residents\n",
+        "Abstract": null,
+        "Official Site": "https://wigan.gov.uk",
+        "Icon": "/SiteElements/Images/favicon.ico",
+        "Redirect": "https://wigan.gov.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wigan.gov.uk"
+    },
+    {
+        "link": "https://buffiniandcompany.com",
+        "Heading": "Real Estate Coaching, Training & Events | Buffini & Company",
+        "Abstract": "Buffini & Company, North America's premier business coaching firm, serves membership of 22,000 and annually educates over 60,000 through training initiatives. Contact us!",
+        "Official Site": "https://www.buffini.com/",
+        "Icon": "https://www.buffini.com/wp-content/uploads/2026/01/2026_01_Buffini_Social_Share_v1_1200x630.jpg",
+        "Redirect": "https://www.buffini.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.buffini.com/"
+    },
+    {
+        "link": "https://videohdzog.com",
+        "Heading": null,
+        "Abstract": "",
+        "Official Site": "https://videohdzog.com",
+        "Icon": "/static/images/favicons/android-icon-192x192.png",
+        "Redirect": "https://videohdzog.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://videohdzog.com"
+    },
+    {
+        "link": "https://omo-ic.hk",
+        "Heading": "\u5168\u7403\u96fb\u5b50\u5143\u4ef6\u5206\u92b7\u5546 - OMO Electronic",
+        "Abstract": "\u96fb\u5b50\u5143\u4ef6\u5206\u92b7\u5546\uff0c\u5099\u6709\u5927\u91cf\u5eab\u5b58\uff0c\u53ef\u7576\u5929\u767c\u8ca8\uff0c\u7121\u6700\u4f4e\u8a02\u55ae\u8981\u6c42\u3002\u6bcf\u5929\u589e\u52a0\u65b0\u7684\u96fb\u5b50\u5143\u4ef6\u548c\u96f6\u4ef6",
+        "Official Site": "https://omo-ic.hk",
+        "Icon": "N/A",
+        "Redirect": "https://omo-ic.hk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://omo-ic.hk"
+    },
+    {
+        "link": "https://biztechmagazine.com",
+        "Heading": "Technology Solutions That Drive Business | BizTech Magazine",
+        "Abstract": "BizTech Magazine explores technology and business issues that IT leaders and business managers face when they\u2019re evaluating and implementing a solution.",
+        "Official Site": "https://biztechmagazine.com",
+        "Icon": "/themes/cdw_biztech/favicon.ico",
+        "Redirect": "https://biztechmagazine.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://biztechmagazine.com"
+    },
+    {
+        "link": "https://hfcc.edu",
+        "Heading": "Henry Ford College | Henry Ford College",
+        "Abstract": null,
+        "Official Site": "https://hfcc.edu",
+        "Icon": "/themes/custom/kfmain/favicon.ico",
+        "Redirect": "https://hfcc.edu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hfcc.edu"
+    },
+    {
+        "link": "https://alec.org",
+        "Heading": "\n                            Home - American Legislative Exchange Council - American Legislative Exchange Council\n                    ",
+        "Abstract": "American Legislative Exchange Council (ALEC). State legislators dedicated to principles of limited government, free markets, and federalism.",
+        "Official Site": "https://alec.org/",
+        "Icon": "https://alec.org/wp-content/uploads/2021/12/jefferson-bg.jpg",
+        "Redirect": "https://alec.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://alec.org/"
+    },
+    {
+        "link": "https://allegypttours.com",
+        "Heading": null,
+        "Abstract": "",
+        "Official Site": "https://allegypttours.com",
+        "Icon": "https://s3.eu-central-1.amazonaws.com/other.projects.storage/multitenacy/settings/2024-07-15-02-00-44-066952b8ca1c84.png",
+        "Redirect": "https://allegypttours.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://allegypttours.com"
+    },
+    {
+        "link": "https://onlinepharmacy.ie",
+        "Heading": "Online Pharmacy Ireland | Medical Supplies \u2013 OnlinePharmacy",
+        "Abstract": "Save huge on medicine, cosmetics, and more online at OnlinePharmacy.ie. Next-day delivery in Ireland. Free shipping over \u20ac45. Contact us to save more.",
+        "Official Site": "https://onlinepharmacy.ie/",
+        "Icon": "http://onlinepharmacy.ie/cdn/shop/files/op-logo-web_900x_63157875-848d-44c8-814d-5ee1cd53a13d.png?v=1615292870",
+        "Redirect": "https://onlinepharmacy.ie/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://onlinepharmacy.ie/"
+    },
+    {
+        "link": "https://eatigo.com",
+        "Heading": "Asia\u2019s No.1 Restaurant Reservation Platform\uff5cEatigo",
+        "Abstract": "Eatigo: Save up to 50% at top buffets, hotpots & more! Instant booking with daily discounts at every restaurant, every day! Book now.",
+        "Official Site": "https://eatigo.com/",
+        "Icon": "https://cdn.myfunnow.com/web/og_images/eatigo_ogImage.png",
+        "Redirect": "https://eatigo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eatigo.com/"
+    },
+    {
+        "link": "https://trendspider.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://trendspider.com",
+        "Icon": "data:;",
+        "Redirect": "https://trendspider.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trendspider.com"
+    },
+    {
+        "link": "https://harpa.ai",
+        "Heading": "HARPA AI Browser Agent | ChatGPT, Claude, Gemini, Perplexity",
+        "Abstract": "HARPA AI combines every AI in one Chrome extension: OpenAI GPT-5.4, Anthropic Claude 4.6, Google Gemini 3.1, Grok, Perplexity, DeepSeek. It automates your online work and saves time searching, writing, coding and summarizing on the web.",
+        "Official Site": "https://harpa.ai/",
+        "Icon": "https://harpa.ai/img/og-branding.jpg",
+        "Redirect": "https://harpa.ai/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://harpa.ai/"
+    },
+    {
+        "link": "https://bioenergie-bamberg.de",
+        "Heading": "Google",
+        "Abstract": null,
+        "Official Site": "https://bioenergie-bamberg.de",
+        "Icon": "//www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+        "Redirect": "https://bioenergie-bamberg.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bioenergie-bamberg.de"
+    },
+    {
+        "link": "https://ajudadireito.com.br",
+        "Heading": "Ajuda Direito - Home",
+        "Abstract": "Peticionar sem problemas  ou contratempos? Todos os  tribunais  do  Brasil em um \u00fanico lugar? Utilize o Navegador  do Advogado. Pje, PROJUDI, eSAJ, EPROC e todos os outros sistemas funcionando sem complica\u00e7\u00e3o.",
+        "Official Site": "https://ajudadireito.com.br/",
+        "Icon": "/images/icone.png",
+        "Redirect": "https://ajudadireito.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ajudadireito.com.br/"
+    },
+    {
+        "link": "https://wawlabs.com",
+        "Heading": "Wawlabs AI Search Engine and Browse",
+        "Abstract": "Wawlabs is an AI-driven search and browse solution that understands user intent and showcases the right products to drive revenue.",
+        "Official Site": "https://wawlabs.com/",
+        "Icon": "https://wawlabs.com/wp-content/uploads/2025/04/img1.png",
+        "Redirect": "https://wawlabs.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wawlabs.com/"
+    },
+    {
+        "link": "https://ecosweb.com.br",
+        "Heading": "\u012erea Administrativa",
+        "Abstract": null,
+        "Official Site": "https://ecosweb.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://ecosweb.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ecosweb.com.br"
+    },
+    {
+        "link": "https://datasheet.live",
+        "Heading": "Datasheet.Directory: Global Supply Chains, Offer Electronic Components, Industrial Automation, Process Automation.",
+        "Abstract": "Electronic Components, Industrial Automation, Process Automation: High-Power_Modules, Aluminum_Electrolytic_Capacitors, FPGA, Industrial Controls, Industrial Computing, Power supplies, Frequency Converters, Air Cylinders, Valves, Pneumatics, etc.",
+        "Official Site": "https://datasheet.live",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://datasheet.live",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://datasheet.live"
+    },
+    {
+        "link": "https://enfamil.com",
+        "Heading": "Enfamil Newborn, Infant & Toddler Nutrition | Enfamil",
+        "Abstract": "Discover tailored formulas to help meet your child\u2019s nutritional needs. Pediatrician recommended for newborns, infants and toddlers. Find expert support.",
+        "Official Site": "https://www.enfamil.com/",
+        "Icon": "https://eu-images.contentstack.com/v3/assets/blta43066ddb6910e57/bltec809970da6887bc/698f5b4e675d560008452efe/homepage-brainy-hero-og-r.jpg",
+        "Redirect": "https://www.enfamil.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.enfamil.com/"
+    },
+    {
+        "link": "https://pgmall.my",
+        "Heading": "PGMall",
+        "Abstract": null,
+        "Official Site": "https://pgmall.my",
+        "Icon": "N/A",
+        "Redirect": "https://pgmall.my",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pgmall.my"
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "link": "https://companhiadasletras.com.br",
+        "Heading": "Grupo Companhia das Letras",
+        "Abstract": "40 anos de respeito \u00e0 intelig\u00eancia do leitor. Conhe\u00e7a o nosso cat\u00e1logo e autores.",
+        "Official Site": "https://companhiadasletras.com.br",
+        "Icon": "N/A",
+        "Redirect": "https://companhiadasletras.com.br",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://companhiadasletras.com.br"
+    },
+    {
+        "link": "https://softnyx.com",
+        "Heading": "Softnyx",
+        "Abstract": "Plataforma de entretenimiento online que une el mundo con los videojuegos!!",
+        "Official Site": "https://www.softnyx.com/",
+        "Icon": "https://img.softnyx.com/resources/www/b_img01.jpg",
+        "Redirect": "https://www.softnyx.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.softnyx.com/"
+    },
+    {
+        "link": "https://nyuhs.org",
+        "Heading": "Binghamton Hospital | Medical Services in New York's Southern Tier",
+        "Abstract": "United Health Services is a network of hospitals, urgent care clinics, and specialty medical services in NY's Southern Tier.",
+        "Official Site": "https://nyuhs.org",
+        "Icon": "/themes/custom/uhsny/favicon.ico",
+        "Redirect": "https://nyuhs.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nyuhs.org"
+    },
+    {
+        "link": "https://oci-sa.fr",
+        "Heading": "OCI - Transformation digitale & num\u00e9rique pour les entreprises !",
+        "Abstract": "Plongez dans la transformation digitale avec OCI. PME, ETI, associations ou collectivit\u00e9s, nos experts en digitalisation vous accompagnent !",
+        "Official Site": "https://www.oci.fr/",
+        "Icon": "https://www.oci.fr/wp-content/uploads/2025/01/www.oci.fr-entrez-dans-lere-de-la-transformation-digitale-avec-oci-www.oci-.fr-entrez-dans-lere-de-la-transformation-digitale-avec-oci-miniatures-evenements-webconferences.jpg",
+        "Redirect": "https://www.oci.fr/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.oci.fr/"
+    },
+    {
+        "link": "https://halloweenexpress.com",
+        "Heading": "Halloween Costumes, Decorations & Accessories | Halloween Express",
+        "Abstract": null,
+        "Official Site": "https://www.halloweenexpress.com/",
+        "Icon": "https://www.halloweenexpress.com/assets/dist/img/meta/hex/og_image.jpg",
+        "Redirect": "https://www.halloweenexpress.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.halloweenexpress.com/"
+    },
+    {
+        "link": "https://semeytv.kz",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://semeytv.kz",
+        "Icon": "N/A",
+        "Redirect": "https://semeytv.kz",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://semeytv.kz"
+    },
+    {
+        "link": "https://functionstring.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://functionstring.com",
+        "Icon": "N/A",
+        "Redirect": "https://functionstring.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://functionstring.com"
+    },
+    {
+        "link": "https://patientnotebook.com",
+        "Heading": "Patient Notebook",
+        "Abstract": null,
+        "Official Site": "https://patientnotebook.com",
+        "Icon": "/favicon.ico?v=1",
+        "Redirect": "https://patientnotebook.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://patientnotebook.com"
+    },
+    {
+        "link": "https://stenaline.co.uk",
+        "Heading": "Ferry to Ireland & Holland from UK | Stena Line",
+        "Abstract": "Travel to Ireland, Holland and Northern Europe with Stena Line. View our routes, ferries, special offers and much more. Book online for the best fares.   ",
+        "Official Site": "https://www.stenaline.co.uk/",
+        "Icon": "/etc.clientlibs/stenaline/clientlibs/clientlib-site/resources/icon-192x192.png",
+        "Redirect": "https://www.stenaline.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.stenaline.co.uk/"
+    },
+    {
+        "link": "https://tenna.com",
+        "Heading": "Tenna | Equipment Management Software",
+        "Abstract": "Equipment management software built for mixed fleets\u2014Tenna connects your entire equipment operations, going beyond tracking for full fleet control.",
+        "Official Site": "https://www.tenna.com/",
+        "Icon": "https://www.tenna.com/wp-content/uploads/2026/05/homepage-thumb-Large.jpeg",
+        "Redirect": "https://www.tenna.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tenna.com/"
+    },
+    {
+        "link": "https://gazonindia.com",
+        "Heading": "Best Internet Service Provider Near Me | Gazon Broadband",
+        "Abstract": "Gazon Broadband is one of the top 10 internet service providers with best and affordable wifi plans. Get the best internet plans for your home.",
+        "Official Site": "https://gazonindia.com/",
+        "Icon": "https://gazonindia.com/wp-content/uploads/2023/04/GAzon-Icon-150x150.jpg",
+        "Redirect": "https://gazonindia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://gazonindia.com/"
+    },
+    {
+        "link": "https://adiscope.com",
+        "Heading": "REVUP",
+        "Abstract": "\uad11\uace0\uc8fc\uc640 \ud37c\ube14\ub9ac\uc154\uc758 \uc218\uc775\ucc3d\ucd9c\uc744 \uc704\ud55c \uae00\ub85c\ubc8c \ubaa8\ubc14\uc77c \uad11\uace0 \ud50c\ub7ab\ud3fc.\uc560\ub514\uc2a4\ucf65.",
+        "Official Site": "https://www.adiscope.com",
+        "Icon": "https://www.adiscope.com/img/adiscope-og-image.png",
+        "Redirect": "https://www.adiscope.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.adiscope.com"
+    },
+    {
+        "link": "https://parts-honda.uk",
+        "Heading": "Honda genuine parts and accessories for cars",
+        "Abstract": null,
+        "Official Site": "https://parts-honda.uk",
+        "Icon": "/thumbs/favicons/hondacarsthemes/favicon.ico",
+        "Redirect": "https://parts-honda.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://parts-honda.uk"
+    },
+    {
+        "link": "https://punchout2go.com",
+        "Heading": "B2B eCommerce & eProcurement Integrations | TradeCentric",
+        "Abstract": "eProcurement integrations that are intelligent, intentional, and built to power results in the new era of B2B growth.",
+        "Official Site": "https://tradecentric.com/",
+        "Icon": "https://tradecentric.com/wp-content/uploads/2024/01/TradeCentric-logo-featured-675x375-1.jpg",
+        "Redirect": "https://tradecentric.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tradecentric.com/"
+    },
+    {
+        "link": "https://inicis.com",
+        "Heading": "\n            Premium PG \u2013 KG\uc774\ub2c8\uc2dc\uc2a4",
+        "Abstract": null,
+        "Official Site": "https://inicis.com",
+        "Icon": "N/A",
+        "Redirect": "https://inicis.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://inicis.com"
+    },
+    {
+        "link": "https://yaldagames.com",
+        "Heading": "\u042d\u0440\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0433\u0440\u044b, \u043f\u043e\u0440\u043d\u043e \u0438\u0433\u0440\u044b, \u042f\u043b\u0434\u0430 \u0413\u0435\u0439\u043c\u0441, \u0444\u043b\u044d\u0448 \u0438\u0433\u0440\u044b, \u0445\u0435\u043d\u0442\u0430\u0439, \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0435",
+        "Abstract": null,
+        "Official Site": "https://yaldagames.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://yaldagames.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yaldagames.com"
+    },
+    {
+        "link": "https://nism.ac.in",
+        "Heading": "National Institute of Securities Markets | NISM",
+        "Abstract": "NISM is India\u2019s leading institute for securities market education. Get SEBI-accredited courses, certifications, and financial training.",
+        "Official Site": "https://www.nism.ac.in/",
+        "Icon": "https://www.nism.ac.in/wp-content/uploads/2026/03/cropped-NISM_24x24_Faviocn-192x192-1.png",
+        "Redirect": "https://www.nism.ac.in/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.nism.ac.in/"
+    },
+    {
+        "link": "https://ieltsidpindia.com",
+        "Heading": "IELTS | Most Trusted English Test | IDP IELTS India",
+        "Abstract": "IELTS is the world\u2019s leading English-language test for work, study and migration. Learn about IELTS, find prep materials and get your results in one place.",
+        "Official Site": "https://ieltsidpindia.com/",
+        "Icon": "//images.ctfassets.net/unrdeg6se4ke/1VyoxkkGwW9bAdcKGr3RAx/77023118762852af714d1eb964b199aa/europe_hp_banner.jpg",
+        "Redirect": "https://ieltsidpindia.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://ieltsidpindia.com/"
+    },
+    {
+        "link": "https://garrigues.com",
+        "Heading": "Garrigues, desde todos los \u00e1ngulos del derecho de empresa",
+        "Abstract": "Garrigues es una firma internacional de servicios legales que asesora a nivel local y global desde todos los \u00e1ngulos del derecho de los negocios",
+        "Official Site": "https://garrigues.com",
+        "Icon": "/themes/custom/garriguestheme/img/imagenes/favicon.png",
+        "Redirect": "https://garrigues.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://garrigues.com"
+    },
+    {
+        "link": "https://binkp.net",
+        "Heading": "\nBINKP.NET DNS EDITOR 0.3 - login page\n",
+        "Abstract": null,
+        "Official Site": "https://binkp.net",
+        "Icon": "N/A",
+        "Redirect": "https://binkp.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://binkp.net"
+    },
+    {
+        "link": "https://froxy.com",
+        "Heading": "Your Trusted Proxy Provider Froxy | Elite Proxies and Scraper",
+        "Abstract": "Description: Buy proxy, E-commerce and SERP scrapers \u2714 200+ countries \u2714 Automatic rotation \u2714 Targeting settings \u2714 Pool of over 10 million IP addresses",
+        "Official Site": "https://froxy.com/en",
+        "Icon": "https://froxy.com/meta/landing/froxy_1200x630.png",
+        "Redirect": "https://froxy.com/en",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://froxy.com/en"
+    },
+    {
+        "link": "https://grabber.zone",
+        "Heading": "Sonic the Hedgehog Comics & Manga - Read Online - Grabber Zone",
+        "Abstract": "Sonic the Hedgehog comics and manga online collection. Read IDW comics, Archie comics, Fleetway comics, fanmade comics and other stuff!",
+        "Official Site": "https://grabber.zone/",
+        "Icon": "https://grabber.zone/wp-content/uploads/2022/12/\u043a\u043e\u043c\u0438\u043a\u0441\u044b\u0446\u044b.jpg",
+        "Redirect": "https://grabber.zone/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://grabber.zone/"
+    },
+    {
+        "link": "https://axioshq.com",
+        "Heading": "Internal Communications Software - AI Newsletter Tool - Axios HQ",
+        "Abstract": "Axios HQ helps organizations deliver clear and concise communications that drive business results with one complete Smart Brevity solution. \n",
+        "Official Site": "https://www.axioshq.com",
+        "Icon": "https://www.axioshq.com/hubfs/Thumb-2025%20Home%20page-final.png",
+        "Redirect": "https://www.axioshq.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.axioshq.com"
+    },
+    {
+        "link": "https://walthamforest.gov.uk",
+        "Heading": "Home | London Borough of Waltham Forest",
+        "Abstract": null,
+        "Official Site": "https://walthamforest.gov.uk",
+        "Icon": "/themes/custom/waltham_forest/favicon.ico",
+        "Redirect": "https://walthamforest.gov.uk",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://walthamforest.gov.uk"
+    },
+    {
+        "link": "https://demandprogress.org",
+        "Heading": "Home - Demand Progress",
+        "Abstract": null,
+        "Official Site": "https://demandprogress.org/",
+        "Icon": "https://demandprogress.org/wp-content/uploads/2021/04/new-homepage-photo-scaled-e1619640705579.jpg",
+        "Redirect": "https://demandprogress.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://demandprogress.org/"
+    },
+    {
+        "link": "https://fastway.co.za",
+        "Heading": "Fastway Couriers | Home",
+        "Abstract": "Fastway Couriers currently operates across key metropolitan and regional locations across South Africa, offering a low cost and fast courier delivery service. Franchise opportunities also available.",
+        "Official Site": "https://fastway.co.za",
+        "Icon": "/favicon-16x16.png",
+        "Redirect": "https://fastway.co.za",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fastway.co.za"
+    },
+    {
+        "link": "https://pitline.net",
+        "Heading": "\u0413\u043e\u043b\u043e\u0432\u043d\u0430 - PitLine",
+        "Abstract": null,
+        "Official Site": "https://pitline.net/",
+        "Icon": "https://pitline.net/wp-content/uploads/2021/11/cropped-logo-32x32.png",
+        "Redirect": "https://pitline.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://pitline.net/"
+    },
+    {
+        "link": "https://plk-sa.pl",
+        "Heading": "PKP Polskie Linie Kolejowe S.A.",
+        "Abstract": "PKP Polskie Linie Kolejowe S.A. jest zarz\u0105dc\u0105 narodowej sieci kolejowej. Nasz podstawowy produkt to rozk\u0142ad jazdy u\u0142o\u017cony na zam\u00f3wienie klienta \u2013 przewo\u017anika kolejowego, pasa\u017cerskiego b\u0105d\u017a towarowego, sprzedawany na podstawie umowy w formie wyznaczonej trasy przejazdu. Korzystanie z niej bez zmiany ustawie\u0144 dotycz\u0105cych plik\u00f3w cookies oznacza, \u017ce b\u0119d\u0105 one zamieszczane w Pa\u0144stwa komputerze / telefonie / tablecie. Wi\u0119cej informacji w",
+        "Official Site": "https://www.plk-sa.pl/",
+        "Icon": "/assets/images/favicons/favicon-32x32.png",
+        "Redirect": "https://www.plk-sa.pl/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.plk-sa.pl/"
+    },
+    {
+        "link": "https://waterford-news.ie",
+        "Heading": "Homepage - Waterford News & Star",
+        "Abstract": "Homepage - Waterford News & Star",
+        "Official Site": "https://www.waterford-news.ie/",
+        "Icon": "https://www.waterford-news.ie/pu_waterford/assets/images/WNS_og.png",
+        "Redirect": "https://www.waterford-news.ie/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.waterford-news.ie/"
+    },
+    {
+        "link": "https://fruitshopmegaways.com",
+        "Heading": "Fruit Shop Megaways Slot Game - Pragmatic Play \u25b7 RTP \ud83c\udf52",
+        "Abstract": "Experience fast Megaways spins, cascading wins and multiplier wilds in this Slot game. RTP 96.50%, high volatility, max win x20000 stake. Explore features and play details responsibly. \ud83c\udf52\ud83c\udfb0",
+        "Official Site": "http://fruitshopmegaways.com/",
+        "Icon": "http://fruitshopmegaways.com/uploads/media/2026/01/open-graph-image-697786e78efe77.73085251.jpg",
+        "Redirect": "http://fruitshopmegaways.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://fruitshopmegaways.com/"
+    },
+    {
+        "link": "https://taftlaw.com",
+        "Heading": "Taft | The Modern Law Firm",
+        "Abstract": "",
+        "Official Site": "https://www.taftlaw.com/",
+        "Icon": "/images/favicon.png?v=1.0.0",
+        "Redirect": "https://www.taftlaw.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.taftlaw.com/"
+    },
+    {
+        "link": "https://jesus-is-savior.com",
+        "Heading": "Jesus Christ is the ONLY way to Heaven!",
+        "Abstract": "Uplifting the inspired King James Bible, free grace Gospel and the precious name of Jesus Christ in these last days of Bible prophecy.",
+        "Official Site": "https://jesus-is-savior.com",
+        "Icon": "heart.ico",
+        "Redirect": "https://jesus-is-savior.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://jesus-is-savior.com"
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "link": "https://em-net.ne.jp",
+        "Heading": "e-mansion",
+        "Abstract": null,
+        "Official Site": "https://em-net.ne.jp",
+        "Icon": "/images/favicon.ico",
+        "Redirect": "https://em-net.ne.jp",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://em-net.ne.jp"
+    },
+    {
+        "link": "https://tampagov.net",
+        "Heading": "City of Tampa",
+        "Abstract": "Explore City of Tampa services, events, and latest news. Access resources for payments, parks, permits, mobility, and more.",
+        "Official Site": "https://www.tampa.gov/home",
+        "Icon": "/themes/custom/cotstyle/favicon.ico",
+        "Redirect": "https://www.tampa.gov/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.tampa.gov/home"
+    },
+    {
+        "link": "https://12thmanrising.com",
+        "Heading": "12th Man Rising | Seattle Seahawks News, Rumors & Analysis",
+        "Abstract": "Draft coverage, roster moves, and every piece of Seahawks news in-between.",
+        "Official Site": "https://12thmanrising.com/",
+        "Icon": "https://images2.minutemediacdn.com/image/upload/v1678008205/shape/cover/sport/12thManRising_google-schema-logo-6631696e64a021b39d4ea73dd3a64e7a.png",
+        "Redirect": "https://12thmanrising.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://12thmanrising.com/"
+    },
+    {
+        "link": "https://kaiber.ai",
+        "Heading": "Kaiber",
+        "Abstract": "AI Video Generation",
+        "Official Site": "https://kaiber.ai",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://kaiber.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kaiber.ai"
+    },
+    {
+        "link": "https://generaloptica.es",
+        "Heading": "General Optica | Tienda Online de Gafas, Lentillas y Aud\u00edfonos",
+        "Abstract": "Cuidamos de tu vista y o\u00eddo desde 1955 con los servicios m\u00e1s completos. Descubre las mejores gafas de sol, graduadas, lentillas y aud\u00edfonos. \u00a1Entra ahora!",
+        "Official Site": "https://www.generaloptica.es/es/",
+        "Icon": "https://static.generaloptica.es/media/og_image/default/200x200.jpg",
+        "Redirect": "https://www.generaloptica.es/es/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.generaloptica.es/es/"
+    },
+    {
+        "link": "https://counter.dev",
+        "Heading": "Counter: Easy Web Analytics",
+        "Abstract": "Track website visitors with Counter, a privacy-friendly\n      analytics tool. Get daily unique visitor counts, referrer information,\n      and geographical locations. Our open source web analytics tool makes it\n      easy to understand your web traffic. Get started today and pay what and\n      when you want!",
+        "Official Site": "https://counter.dev",
+        "Icon": "img/favicon.png",
+        "Redirect": "https://counter.dev",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://counter.dev"
+    },
+    {
+        "link": "https://amientertainment.net",
+        "Heading": "Operator Website - Login",
+        "Abstract": "The AMI Entertainment Network Operator Website allows AMI operators to manage their AMI powered entertainment equipment online.  Sign in to start managing your AMI powered equipment.",
+        "Official Site": "https://amientertainment.net",
+        "Icon": "N/A",
+        "Redirect": "https://amientertainment.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://amientertainment.net"
+    },
+    {
+        "link": "https://appllio.com",
+        "Heading": "\u30a2\u30d7\u30ea\u30aa - \u304a\u3059\u3059\u3081\u30a2\u30d7\u30ea\u30fb\u30b5\u30fc\u30d3\u30b9\u30fb\u88fd\u54c1\u306e\u6bd4\u8f03\u30fb\u30ec\u30d3\u30e5\u30fc\u30fb\u4f7f\u3044\u65b9\u3068\u6700\u65b0\u30cb\u30e5\u30fc\u30b9",
+        "Abstract": "\u30a2\u30d7\u30ea\u30aa\u306f\u3001\u304a\u3059\u3059\u3081\u306e\u30a2\u30d7\u30ea\u3084\u30b5\u30fc\u30d3\u30b9\u3001\u88fd\u54c1\u306e\u6bd4\u8f03\u30fb\u30ec\u30d3\u30e5\u30fc\u30fb\u4f7f\u3044\u65b9\u3068\u6700\u65b0\u30cb\u30e5\u30fc\u30b9\u3092\u767a\u4fe1\u3059\u308b\u7dcf\u5408\u60c5\u5831\u30b5\u30a4\u30c8\u3067\u3059\u3002\u30a2\u30d7\u30ea\u30aa\u7de8\u96c6\u90e8\u3067\u306f\u3001\u81ea\u5206\u305f\u3061\u3067\u4e8b\u5b9f\u3092\u3057\u3063\u304b\u308a\u3068\u78ba\u8a8d\u3057\u3066\u3001\u5206\u304b\u308a\u3084\u3059\u304f\u6574\u7406\u3057\u3066\u4f1d\u3048\u308b\u3053\u3068\u3092\u6700\u3082\u5927\u5207\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+        "Official Site": "https://appllio.com",
+        "Icon": "/themes/custom/appllio_sass/assets/favicon/appllio-2021-icon.svg",
+        "Redirect": "https://appllio.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://appllio.com"
+    },
+    {
+        "link": "https://caymanchem.com",
+        "Heading": null,
+        "Abstract": "We manufacture high quality biochemicals, assay kits, antibodies, and recombinant proteins and offer contract services for custom chemical synthesis/analysis, assay development/screening, and drug discovery.",
+        "Official Site": "https://caymanchem.com",
+        "Icon": "https://cdn2.caymanchem.com/cdn/cms/caymanchem/cmsImages/images/fish.png",
+        "Redirect": "https://caymanchem.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://caymanchem.com"
+    },
+    {
+        "link": "https://dialpadcdn.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://dialpadcdn.com",
+        "Icon": "N/A",
+        "Redirect": "https://dialpadcdn.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dialpadcdn.com"
+    },
+    {
+        "link": "https://hs-fresenius.de",
+        "Heading": "Hochschule Fresenius | Bachelor, Master & Online-Studium",
+        "Abstract": "Starte dein Studium an der Hochschule Fresenius: Bachelor, Master, online oder am Campus & Weiterbildung. Praxisnah, flexibel und an vielen Standorten.",
+        "Official Site": "https://www.hs-fresenius.de/",
+        "Icon": "https://www.hs-fresenius.de/wp-content/uploads/Content-Bild_2.png",
+        "Redirect": "https://www.hs-fresenius.de/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.hs-fresenius.de/"
+    },
+    {
+        "link": "https://signaturetravelnetwork.com",
+        "Heading": "Signature Travel Network",
+        "Abstract": null,
+        "Official Site": "https://signaturetravelnetwork.com",
+        "Icon": "N/A",
+        "Redirect": "https://signaturetravelnetwork.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://signaturetravelnetwork.com"
+    },
+    {
+        "link": "https://enewstoday.co.kr",
+        "Heading": "\uc774\ub274\uc2a4\ud22c\ub370\uc774",
+        "Abstract": "\uc885\ud569\uc778\ud130\ub137\uc2e0\ubb38, \uc0b0\uc5c5, \uae08\uc735, \ubd80\ub3d9\uc0b0, \uc804\uad6d, \uc2dc\uc0ac, \uc5f0\uc608, \uc2a4\ud3ec\uce20, \ud3ec\ud1a0, \uacbd\uc81c \uae30\uc0ac \uc81c\uacf5.",
+        "Official Site": "http://www.enewstoday.co.kr",
+        "Icon": "http://www.enewstoday.co.kr/image/logo/snslogo_20230418091055.jpg",
+        "Redirect": "http://www.enewstoday.co.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.enewstoday.co.kr"
+    },
+    {
+        "link": "https://edgeprop.sg",
+        "Heading": "EdgeProp.sg: Singapore Property for Sale & Rent, Latest Property News",
+        "Abstract": "Find Singapore properties here. From apartment, condo, HDB, landed, commercial to factory properties, we got all you need! Access to free property analytics data tools.",
+        "Official Site": "https://www.edgeprop.sg",
+        "Icon": "https://sg.tepcdn.com/public/usr/dluzx5/4f70fe-Edgeprop-Logo.jpg",
+        "Redirect": "https://www.edgeprop.sg",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.edgeprop.sg"
+    },
+    {
+        "link": "https://wfc2021.org",
+        "Heading": "1win \u2013 Onlayn kazino va pul tikish imkoniyatlari",
+        "Abstract": "1win UZ \ud83c\udfaf Eng yaxshi bonuslar va promo takliflar sizni kutmoqda! casino online dunyosini kashf qiling \ud83c\udfb0 1win UZ saytiga o\u2018ting va yutishni boshlang! \ud83d\ude80",
+        "Official Site": "https://wfc2021.org/",
+        "Icon": "/storage/logotype/gVtAhRkNpcirQgp359LZNzSUK9hItLg2teZPrF55.png",
+        "Redirect": "https://wfc2021.org/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wfc2021.org/"
+    },
+    {
+        "link": "https://cars245.com",
+        "Heading": "Buy Auto Parts Online | Quality Car Parts & Accessories - Cars245.com",
+        "Abstract": "Looking for reliable auto parts? Shop cars245 for a huge selection of high-quality auto parts, OEM replacements, and accessories for all makes. Fast shipping! Shop online today.",
+        "Official Site": "https://cars245.com",
+        "Icon": "/favicon-32x32.png",
+        "Redirect": "https://cars245.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cars245.com"
+    },
+    {
+        "link": "https://cammedia.com",
+        "Heading": "Cam Media LTD - Online Video Specialists",
+        "Abstract": null,
+        "Official Site": "https://cammedia.com",
+        "Icon": "favicon.ico",
+        "Redirect": "https://cammedia.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cammedia.com"
+    },
+    {
+        "link": "https://cml.ai",
+        "Heading": "Home - CML.AI",
+        "Abstract": null,
+        "Official Site": "https://www.cml.ai/",
+        "Icon": "N/A",
+        "Redirect": "https://www.cml.ai/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.cml.ai/"
+    },
+    {
+        "link": "https://vasafitness.com",
+        "Heading": "VASA Fitness | Gym Near Me",
+        "Abstract": "VASA offers premium amenities and boutique-style classes for an affordable price. Get healthy, feel strong, and be happy at every VASA location.",
+        "Official Site": "https://vasafitness.com/",
+        "Icon": "https://media.vasafitness.com/uploads/2018/05/cropped-cropped-VASA_favicon-1-32x32.png",
+        "Redirect": "https://vasafitness.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vasafitness.com/"
+    },
+    {
+        "link": "https://sicherheitstacho.eu",
+        "Heading": "Sicherheitstacho",
+        "Abstract": null,
+        "Official Site": "https://sicherheitstacho.eu",
+        "Icon": "/favicon.svg",
+        "Redirect": "https://sicherheitstacho.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://sicherheitstacho.eu"
+    },
+    {
+        "link": "https://passwordstore.org",
+        "Heading": "Pass: The Standard Unix Password Manager",
+        "Abstract": "Pass is the standard unix password manager, a lightweight password manager that uses GPG and Git for Linux, BSD, and Mac OS X.",
+        "Official Site": "https://passwordstore.org",
+        "Icon": "N/A",
+        "Redirect": "https://passwordstore.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://passwordstore.org"
+    },
+    {
+        "link": "https://tacswap.com",
+        "Heading": "Feed | Tacswap",
+        "Abstract": "The 2A Marketplace",
+        "Official Site": "https://tacswap.com",
+        "Icon": "/icons/icon-32.png",
+        "Redirect": "https://tacswap.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tacswap.com"
+    },
+    {
+        "link": "https://goldenhome.gr",
+        "Heading": "\u039c\u03b5\u03c3\u03b9\u03c4\u03b9\u03ba\u03ac \u0393\u03c1\u03b1\u03c6\u03b5\u03af\u03b1 | Golden Home",
+        "Abstract": "Golden home \u03bc\u03b5\u03c3\u03b9\u03c4\u03b9\u03ba\u03cc \u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03bf \u03c3\u03c4\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03c4\u03b7\u03c2 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2, \u03b2\u03cc\u03c1\u03b5\u03b9\u03b1 & \u03bd\u03cc\u03c4\u03b9\u03b1 \u03c0\u03c1\u03bf\u03ac\u03c3\u03c4\u03b9\u03b1. \u0392\u03c1\u03b5\u03af\u03c4\u03b5 \u03b1\u03ba\u03af\u03bd\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7\u03bd \u0391\u03b8\u03ae\u03bd\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03c0\u03ce\u03bb\u03b7\u03c3\u03b7 & \u03b5\u03bd\u03bf\u03b9\u03ba\u03af\u03b1\u03c3\u03b7!",
+        "Official Site": "https://goldenhome.gr",
+        "Icon": "N/A",
+        "Redirect": "https://goldenhome.gr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://goldenhome.gr"
+    },
+    {
+        "link": "https://foxtons.co.uk",
+        "Heading": "Foxtons: Estate Agents In London. Properties for Sale, Short & Long lets",
+        "Abstract": "Chosen for our service, famous for our results. Properties for sale, short and long lets in London. Learn more about our services.",
+        "Official Site": "https://www.foxtons.co.uk/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.foxtons.co.uk/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.foxtons.co.uk/"
+    },
+    {
+        "link": "https://psdconsulting.com",
+        "Heading": "PSD \u2013 Moving Efficiency Forward",
+        "Abstract": null,
+        "Official Site": "https://psdconsulting.com",
+        "Icon": "https://psdconsulting.com/wp-content/uploads/2022/09/cropped-site-icon-blue-32x32.png",
+        "Redirect": "https://psdconsulting.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://psdconsulting.com"
+    },
+    {
+        "link": "https://nebulahoroscope.com",
+        "Heading": "Nebula | Psychic Reading Online - Find Your Psychic Reader ",
+        "Abstract": "\u2b50 If you're looking for cosmic guidance, Nebula psychic readers will answer every question you might have \ud83d\udcab Learn what's written in the stars.",
+        "Official Site": "https://www.asknebula.com/",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://www.asknebula.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.asknebula.com/"
+    },
+    {
+        "link": "https://trackmania.com",
+        "Heading": "\n          Trackmania: Willkommen im Club      ",
+        "Abstract": null,
+        "Official Site": "https://trackmania.com",
+        "Icon": "N/A",
+        "Redirect": "https://trackmania.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://trackmania.com"
+    }
+]
