@@ -115,7 +115,11 @@ async def main():
             reader = list(csv.reader(f))
             for i in range(0, len(reader), 50):
                 batch_num = i // 50 + 1
-                json_output_name = f"previews/{filename.replace('.csv', f'_{batch_num:03d}.json')}"
+                chunk_num = filename.replace("chunk_", "").replace(".csv", "")
+                batch_group = f"group_{((batch_num - 1) // 100) * 100 + 1:03d}"
+                json_output_dir = f"previews/chunk_{chunk_num}/{batch_group}"
+                os.makedirs(json_output_dir, exist_ok=True)
+                json_output_name = f"{json_output_dir}/{filename.replace('.csv', f'_{batch_num:03d}.json')}"
                 
                 if os.path.exists(json_output_name):
                     print(f"Skipping batch {batch_num} for {filename} as it already exists.")

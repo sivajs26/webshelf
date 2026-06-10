@@ -222,7 +222,21 @@
         const query = new URLSearchParams(window.location.search)
         const index = query.get("index") || "006_001"
 
-        const DATA_URL = `https://raw.githubusercontent.com/sivajs26/webshelf/main/previews/chunk_${index}.json`;
+        let DATA_URL;
+        if (index.includes('_')) {
+            const parts = index.split('_');
+            const chunk = parts[0];
+            const batchNum = parseInt(parts[1], 10);
+            if (!isNaN(batchNum)) {
+                const groupStart = Math.floor((batchNum - 1) / 100) * 100 + 1;
+                const groupStr = `group_${String(groupStart).padStart(3, '0')}`;
+                DATA_URL = `https://raw.githubusercontent.com/sivajs26/webshelf/main/previews/chunk_${chunk}/${groupStr}/chunk_${chunk}_${parts[1]}.json`;
+            }
+        }
+        if (!DATA_URL) {
+            // Fallback to old flat structure if index is malformed or doesn't match standard
+            DATA_URL = `https://raw.githubusercontent.com/sivajs26/webshelf/main/previews/chunk_${index}.json`;
+        }
 
         // Render the sites into the DOM
         function renderSites(data) {
