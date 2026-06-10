@@ -1,0 +1,302 @@
+[
+    {
+        "link": "https://lesarcs.com",
+        "Heading": "Les Arcs - Station de ski Les Arcs, vos vacances \u00e0 la montagne",
+        "Abstract": "D\u00e9couvrez notre station de ski log\u00e9e au c\u0153ur des Alpes et v\u00e9ritable destination responsable ! Vivez une exp\u00e9rience unique et faites le plein d\u2019activit\u00e9s !",
+        "Official Site": "https://lesarcs.com",
+        "Icon": "/typo3conf/ext/core_les_arcs/Resources/Public/Icons/favicon.ico",
+        "Redirect": "https://lesarcs.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lesarcs.com"
+    },
+    {
+        "link": "https://slovakia.travel",
+        "Heading": "Slovakia.travel",
+        "Abstract": "N\u00e1rodn\u00fd port\u00e1l cestovn\u00e9ho ruchu Slovenska. \u010co vidie\u0165 a robi\u0165, Pr\u00edroda, Kult\u00fara a pamiatky, Trad\u00edcie a gastron\u00f3mia, Kam na v\u00edkend, Podujatia, Fotografie, Blog...",
+        "Official Site": "https://slovakia.travel",
+        "Icon": "N/A",
+        "Redirect": "https://slovakia.travel",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://slovakia.travel"
+    },
+    {
+        "link": "https://crawco.com",
+        "Heading": "Home | Crawford & Company",
+        "Abstract": "For over 80 years, Crawford has led the industry through a relentless focus on people and the innovative tools that empower them.",
+        "Official Site": "https://www.crawco.com/",
+        "Icon": "https://assets.crawco.com/photos/_1200x630_crop_center-center_82_none/global-open-graph-home-1200x630.jpg?mtime=1676385527",
+        "Redirect": "https://www.crawco.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.crawco.com/"
+    },
+    {
+        "link": "https://tm-town.com",
+        "Heading": "TM-Town - Better translation through technology and specialization | TM-Town",
+        "Abstract": "TM-Town is a unique new translation platform built around translation memory. TM-Town helps professional translators get the most out of their TMs.",
+        "Official Site": "https://tm-town.com",
+        "Icon": "/images/tm-town-favicon.ico",
+        "Redirect": "https://tm-town.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://tm-town.com"
+    },
+    {
+        "link": "https://yfscredit.com",
+        "Heading": "Yfs Credit -",
+        "Abstract": null,
+        "Official Site": "https://yfscredit.com/",
+        "Icon": "N/A",
+        "Redirect": "https://yfscredit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://yfscredit.com/"
+    },
+    {
+        "link": "https://fluxtech.ai",
+        "Heading": "Under Construction",
+        "Abstract": null,
+        "Official Site": "https://fluxtech.ai",
+        "Icon": "N/A",
+        "Redirect": "https://fluxtech.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://fluxtech.ai"
+    },
+    {
+        "link": "https://showsclicka.com",
+        "Heading": "Onlydaily",
+        "Abstract": null,
+        "Official Site": "https://showsclicka.com",
+        "Icon": "N/A",
+        "Redirect": "https://showsclicka.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://showsclicka.com"
+    },
+    {
+        "link": "https://youworkforthem.com",
+        "Heading": "Fonts & Graphics for Designers - YouWorkForThem",
+        "Abstract": "Shop 250,000+ fonts and 750,000+ graphics, stock photos, and videos. One-time purchase, no subscription. Trusted by designers since 2001.",
+        "Official Site": "https://www.youworkforthem.com/",
+        "Icon": "https://dfjx2uxqg3cgi.cloudfront.net/img/site/youworkforthem-logo.png?20140312040223",
+        "Redirect": "https://www.youworkforthem.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.youworkforthem.com/"
+    },
+    {
+        "link": "https://fanshawec.ca",
+        "Heading": "Fanshawe College",
+        "Abstract": "Fanshawe provides an exceptional education with flexible options. Full time and part time program options to earn a degree, diploma and graduate certificate",
+        "Official Site": "https://www.fanshawec.ca/find-your-program-fanshawe",
+        "Icon": "/core/misc/favicon.ico",
+        "Redirect": "https://www.fanshawec.ca/find-your-program-fanshawe",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.fanshawec.ca/find-your-program-fanshawe"
+    },
+    {
+        "link": "https://vossloh.com",
+        "Heading": "Vossloh",
+        "Abstract": "Together with our partners and customers, we optimize the rail infrastructure towards maximum track availability. ",
+        "Official Site": "https://vossloh.com",
+        "Icon": "/fav.ico",
+        "Redirect": "https://vossloh.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vossloh.com"
+    },
+    {
+        "link": "https://qualispace.com",
+        "Heading": "Secure Enterprise Cloud Solutions | QualiSpace",
+        "Abstract": "Explore enterprise cloud solutions with QualiSpace to unlock efficiency. Our customizable cloud services help businesses transform their IT infrastructure.",
+        "Official Site": "https://www.qualispace.com/",
+        "Icon": "https://cdn.qualispace.com/wp-content/uploads/2024/09/QS-Logo-100x100-1.jpg",
+        "Redirect": "https://www.qualispace.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.qualispace.com/"
+    },
+    {
+        "link": "https://supermercadosguanabara.com.br",
+        "Heading": "Supermercados Guanabara \u2014 Tudo por voc\u00ea!",
+        "Abstract": "Tudo por voc\u00ea! Conhe\u00e7a nosso site e fique por dentro das nossas ofertas.",
+        "Official Site": "https://supermercadosguanabara.com.br/",
+        "Icon": "https://supermercadosguanabara.com.br/sites/all/themes/site/assets/images/facebook-share.png",
+        "Redirect": "https://supermercadosguanabara.com.br/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://supermercadosguanabara.com.br/"
+    },
+    {
+        "link": "https://countryoutfitter.com",
+        "Heading": "Access to this page has been denied.",
+        "Abstract": null,
+        "Official Site": "https://countryoutfitter.com",
+        "Icon": "N/A",
+        "Redirect": "https://countryoutfitter.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://countryoutfitter.com"
+    },
+    {
+        "link": "https://uncomplicatedapps.com",
+        "Heading": "Uncomplicated",
+        "Abstract": "Uncomplicated apps ",
+        "Official Site": "https://www.uncomplicated.biz/",
+        "Icon": "https://www.uncomplicated.biz/assets/images/cheetah_stare_03c65427_1920x.jpg",
+        "Redirect": "https://www.uncomplicated.biz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.uncomplicated.biz/"
+    },
+    {
+        "link": "https://smallworldlabs.com",
+        "Heading": "Home - The Loop - A community for Personify clients",
+        "Abstract": "Create connections, deepen relationships, spark conversations and share information to drive your organization\u2019s mission. Grow your reach with digital member experiences and interactions where supporters, members, volunteers and other constituents come together \u2013 as a Community.",
+        "Official Site": "https://theloop.personifycorp.com/home",
+        "Icon": "https://static.prod01.ue1.p.pcomm.net/my/content/icon-mobile1.png",
+        "Redirect": "https://theloop.personifycorp.com/home",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://theloop.personifycorp.com/home"
+    },
+    {
+        "link": "https://koreanfriends.co.kr",
+        "Heading": "\ucf54\ub9ac\uc548\ud504\ub80c\uc988 OFFICAL WEBSITE",
+        "Abstract": "Koreanfriends, Korea No.1 Fashiontech company, KBP, \ucf54\ub9ac\uc548\ud504\ub80c\uc988, \ud654\uc7a5\ud488 \uc218\ucd9c, \ud328\uc158 \uc218\ucd9c",
+        "Official Site": "http://www.koreanfriends.co.kr",
+        "Icon": "https://koreanfriends.co.kr/img/og/koreanfriends.jpg",
+        "Redirect": "http://www.koreanfriends.co.kr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.koreanfriends.co.kr"
+    },
+    {
+        "link": "https://serverhostname.net",
+        "Heading": "Domain Default page",
+        "Abstract": null,
+        "Official Site": "https://serverhostname.net",
+        "Icon": "N/A",
+        "Redirect": "https://serverhostname.net",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://serverhostname.net"
+    },
+    {
+        "link": "https://besa.de",
+        "Heading": "BESA\u00ae | Brain Electrical Source Analysis: Home",
+        "Abstract": "",
+        "Official Site": "https://besa.de",
+        "Icon": "/wp-content/uploads/2014/05/favicon3.ico",
+        "Redirect": "https://besa.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://besa.de"
+    },
+    {
+        "link": "https://cblue.be",
+        "Heading": "CBlue - Votre partenaire pour la diffusion de vos contenus",
+        "Abstract": "CBlue est une entreprise de consultance en informatique sp\u00e9cialis\u00e9e dans l'h\u00e9bergement qualitatif de sites et au d\u00e9veloppement de plateformes E-Learning.",
+        "Official Site": "https://cblue.be",
+        "Icon": "/images/cblue-picto.svg",
+        "Redirect": "https://cblue.be",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://cblue.be"
+    },
+    {
+        "link": "https://memphistn.gov",
+        "Heading": "Home - The City of Memphis",
+        "Abstract": "The City of Memphis",
+        "Official Site": "https://memphistn.gov/",
+        "Icon": "https://memphistn.gov/wp-content/uploads/sb-instagram-feed-images/citymemphis.webp",
+        "Redirect": "https://memphistn.gov/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://memphistn.gov/"
+    },
+    {
+        "link": "https://justluxe.com",
+        "Heading": "Luxury Lifestyle Magazine: Your Ultimate Guide",
+        "Abstract": "Dive into our luxury lifestyle magazine for top articles on fashion, leisure, and stunning luxury vacations.",
+        "Official Site": "https://www.justluxe.com/",
+        "Icon": "https://www.justluxe.com/wp-content/uploads/2026/06/pano-image-hero.png",
+        "Redirect": "https://www.justluxe.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.justluxe.com/"
+    },
+    {
+        "link": "https://printme.com",
+        "Heading": "PrintMe 3.0",
+        "Abstract": null,
+        "Official Site": "https://printme.com",
+        "Icon": "/favicon.350bb0ce.ico",
+        "Redirect": "https://printme.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://printme.com"
+    },
+    {
+        "link": "https://bakadesuyo.com",
+        "Heading": "Barking Up the Wrong Tree - Homepage",
+        "Abstract": "Everything you need to know about Homepage",
+        "Official Site": "https://bakadesuyo.com/",
+        "Icon": "https://bakadesuyo.com/wp-content/uploads/2012/10/cropped-bakalogo-32x32.png",
+        "Redirect": "https://bakadesuyo.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bakadesuyo.com/"
+    },
+    {
+        "link": "https://snuzone.com",
+        "Heading": "\n  \n    Snus jetzt online kaufen zum Bestpreis - gratis Versand\n  \n",
+        "Abstract": "Snus und Nicotine Pouches online bestellen. Gro\u00dfe Auswahl mit +500 Produkten, faire Preise und kostenloser Versand nach Deutschland und \u00d6sterreich.",
+        "Official Site": "https://snuzone.com/",
+        "Icon": "https://cdn.shopify.com/s/files/1/0291/3766/6092/files/Social_Sharing.jpg?v=1690968415",
+        "Redirect": "https://snuzone.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://snuzone.com/"
+    },
+    {
+        "link": "https://mmust.ac.ke",
+        "Heading": "Home - Masinde Muliro Univesity of Science and Technology",
+        "Abstract": "Quality EducationView More Learn Courses OnlineView More FOCUS ON RESEARCHView More Bulletin Board MMUST Students Undertake Field Study in Landslide-Hit Chesongoch Community MMUST Signs a Memorandum of Agreement with National Biosafety Authority to Strengthen Biosafety and Biosecurity Training and Research MMUST Students Unite Through Sports to Mark International Sports Day Efforts to Devolve Research Management",
+        "Official Site": "https://mmust.ac.ke/",
+        "Icon": "https://mmust.ac.ke/wp-content/uploads/2024/02/cropped-logo-32x32.png",
+        "Redirect": "https://mmust.ac.ke/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://mmust.ac.ke/"
+    },
+    {
+        "link": "https://pvschools.net",
+        "Heading": "Home - Paradise Valley Unified School District",
+        "Abstract": "Home - PVSchools is home to some of the best schools in Phoenix and Scottsdale, including five of the best high schools in Arizona, and nearly 30 great elementary schools.",
+        "Official Site": "https://www.pvschools.net/",
+        "Icon": "https://resources.finalsite.net/images/v1661544899/pvschoolsnet/frhuloebnslliqrkgy6v/WebsiteOpenGraphImage.png",
+        "Redirect": "https://www.pvschools.net/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.pvschools.net/"
+    },
+    {
+        "link": "https://elta.gr",
+        "Heading": "ELTA PORTAL",
+        "Abstract": "\u03a4\u03b1 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac \u03a4\u03b1\u03c7\u03c5\u03b4\u03c1\u03bf\u03bc\u03b5\u03af\u03b1 (\u0395\u039b\u03a4\u0391) \u03c0\u03b1\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b5\u03c2 \u03c4\u03b1\u03c7\u03c5\u03b4\u03c1\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c5\u03c8\u03b7\u03bb\u03ae\u03c2 \u03c0\u03bf\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c3\u03b5 \u03c0\u03c1\u03bf\u03c3\u03b9\u03c4\u03ad\u03c2 \u03c4\u03b9\u03bc\u03ad\u03c2 \u03c3\u03b5 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03c3\u03b5 \u03cc\u03bb\u03b7 \u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1.",
+        "Official Site": "https://www.elta.gr",
+        "Icon": "/dist/images/elta/favicon.ico",
+        "Redirect": "https://www.elta.gr",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.elta.gr"
+    },
+    {
+        "link": "https://nkut.edu.tw",
+        "Heading": "Mail2000\u90f5\u4ef6\u7cfb\u7d71",
+        "Abstract": null,
+        "Official Site": "https://nkut.edu.tw",
+        "Icon": "/favicons/32.png?220127",
+        "Redirect": "https://nkut.edu.tw",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://nkut.edu.tw"
+    },
+    {
+        "link": "https://bankjatim.co.id",
+        "Heading": "Home | Bank Jatim",
+        "Abstract": "Bank Jatim adalah Bank terbesar di Jawa Timur, Yang Terbaik Untuk Anda",
+        "Official Site": "https://bankjatim.co.id",
+        "Icon": "http://www.bankjatim.co.id/files/favicon_jatim.png",
+        "Redirect": "https://bankjatim.co.id",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://bankjatim.co.id"
+    },
+    {
+        "link": "https://galencollege.edu",
+        "Heading": "Galen College of Nursing - Nursing Degree Programs & School | Galen College of Nursing",
+        "Abstract": "Galen is pure nursing. We offer accredited programs to start and advance your nursing career. Reach your career goals at your Galen campus!",
+        "Official Site": "https://galencollege.edu/",
+        "Icon": "https://galencollege.edu/wp-content/uploads/galen-college-of-nursing.png",
+        "Redirect": "https://galencollege.edu/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://galencollege.edu/"
+    }
+]
