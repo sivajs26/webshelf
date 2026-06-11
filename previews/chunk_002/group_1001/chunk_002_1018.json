@@ -1,0 +1,312 @@
+[
+    {
+        "link": "https://monstro.ru",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://monstro.ru",
+        "Icon": "/assets/logo-color.svg",
+        "Redirect": "https://monstro.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://monstro.ru"
+    },
+    {
+        "link": "https://kiwibit.com",
+        "Heading": "\n      Kiwibit | Your Smart Bird Feeder and Smart Nature Theater Everywhere\n \u2013 Kiwibit",
+        "Abstract": "Discover clear backyard bird watching with Kiwibit. Solar-powered smart bird feeder equipped with 4K camera and AI identification, designed to bring detailed, vibrant nature moments to your home.",
+        "Official Site": "https://kiwibit.com/",
+        "Icon": "http://kiwibit.com/cdn/shop/files/20260415-152817.png?v=1779114612",
+        "Redirect": "https://kiwibit.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kiwibit.com/"
+    },
+    {
+        "link": "https://rotacloud.com",
+        "Heading": "Online Rota Software & Workforce Management \u00b7 RotaCloud",
+        "Abstract": "Easy to use online rota software. Plan rotas, manage leave requests, monitor time & attendance \u2014 with free apps for your staff. Try it free today!",
+        "Official Site": "https://rotacloud.com/",
+        "Icon": "https://rotacloud.com/assets/images/social/rotacloud-thumbnail.png",
+        "Redirect": "https://rotacloud.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://rotacloud.com/"
+    },
+    {
+        "link": "https://lanzoux.com",
+        "Heading": "\u84dd\u594f\u00b7\u4e91\u5b58\u50a8",
+        "Abstract": null,
+        "Official Site": "https://lanzoux.com",
+        "Icon": "https://assets.bakstotre.com/assets/favicon.ico",
+        "Redirect": "https://lanzoux.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://lanzoux.com"
+    },
+    {
+        "link": "https://avtoformula.ru",
+        "Heading": "AVTOFORMULA.RU",
+        "Abstract": null,
+        "Official Site": "https://avtoformula.ru",
+        "Icon": "/favicon.ico",
+        "Redirect": "https://avtoformula.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://avtoformula.ru"
+    },
+    {
+        "link": "https://anh.moe",
+        "Heading": "Free image and video hosting \u2014 zPic.io",
+        "Abstract": "Free image and video hosting. zPic.io l\u00e0 d\u1ecbch v\u1ee5 up \u1ea3nh mi\u1ec5n ph\u00ed, up video mi\u1ec5n ph\u00ed \u0111\u01a1n gi\u1ea3n v\u00e0 nhanh ch\u00f3ng",
+        "Official Site": "/",
+        "Icon": "https://assets.zpic.biz/content/images/system/home_cover_1773260975802_yZcIfi.webp",
+        "Redirect": "/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "/"
+    },
+    {
+        "link": "https://java2s.com",
+        "Heading": "Programming Tutorials and Source Code Examples",
+        "Abstract": "Programming Tutorials and Source Code Examples",
+        "Official Site": "https://java2s.com",
+        "Icon": "style/favicon.ico",
+        "Redirect": "https://java2s.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://java2s.com"
+    },
+    {
+        "link": "https://wbtc.network",
+        "Heading": "Bitcoin\u2019s Passport to DEFI | WBTC",
+        "Abstract": "Access Bitcoin liquidity across DeFi with WBTC. Use native WBTC on Ethereum, Solana, TRON, and more to earn, trade, and participate in DeFi.",
+        "Official Site": "https://www.wbtc.network",
+        "Icon": "https://wbtc.network/wbtc-media-preview.png",
+        "Redirect": "https://www.wbtc.network",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wbtc.network"
+    },
+    {
+        "link": "https://goldvorsorge.at",
+        "Heading": "Gold & Silber kaufen \u00bb zertifiziert in \u00d6sterreich | Goldvorsorge",
+        "Abstract": "Gold kaufen in \u00d6sterreich \u2794 Goldbarren & M\u00fcnzen zum Tagespreis \u2713 Online bestellen \u2713 vor Ort kaufen \u2794 Jetzt bestellen & Ihr Verm\u00f6gen sch\u00fctzen!",
+        "Official Site": "https://goldvorsorge.at",
+        "Icon": "https://www.goldvorsorge.at/pub/media/favicon/stores/7/ms-icon-150x150.png",
+        "Redirect": "https://goldvorsorge.at",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://goldvorsorge.at"
+    },
+    {
+        "link": "https://quetext.com",
+        "Heading": "Plagiarism Checker & AI Detector by Quetext",
+        "Abstract": "Plagiarism Checker and AI Detector by Quetext. Our DeepSearch\u2122 technology searches billions of sources to detect plagiarism and AI-written content.",
+        "Official Site": "https://www.quetext.com/",
+        "Icon": "https://www.quetext.com/assets/img/logos/quetext-logo-og.png",
+        "Redirect": "https://www.quetext.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.quetext.com/"
+    },
+    {
+        "link": "https://provenceguide.com",
+        "Heading": "Site officiel du Tourisme en Provence, s\u00e9jours en Vaucluse",
+        "Abstract": "Pr\u00e9parez vos vacances en Provence : agenda et id\u00e9es de sorties \u00e0 Avignon, en Luberon, au Ventoux et en Vall\u00e9e du Rh\u00f4ne proven\u00e7ale...",
+        "Official Site": "https://www.provenceguide.com/",
+        "Icon": "https://www.provenceguide.com/app/uploads/2020/01/vallee-rhone.png",
+        "Redirect": "https://www.provenceguide.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.provenceguide.com/"
+    },
+    {
+        "link": "https://tradeeasy.com",
+        "Heading": "Tradeeasy Manufacturer Directory - Comprehensive database of Suppliers, Manufacturers, Factories, Exporters, and Importers",
+        "Abstract": "Go to Tradeeasy.com for detailed information of manufacturers,exporters,product catalogs to importer,wholesaler worldwide.",
+        "Official Site": "http://www.tradeeasy.com",
+        "Icon": "/p/rv/common/img/te-logo-350x350.jpg",
+        "Redirect": "http://www.tradeeasy.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "http://www.tradeeasy.com"
+    },
+    {
+        "link": "https://btcpayserver.org",
+        "Heading": "BTCPay Server",
+        "Abstract": "BTCPay Server is a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant, and free.",
+        "Official Site": "https://btcpayserver.org",
+        "Icon": "/card.png",
+        "Redirect": "https://btcpayserver.org",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://btcpayserver.org"
+    },
+    {
+        "link": "https://moottori.fi",
+        "Heading": "Moottori - Autot, liikenne, matkailu",
+        "Abstract": "Moottori kertoo ajoneuvoista, matkailusta ja liikenteest\u00e4. Moottori.fi t\u00e4ydent\u00e4\u00e4 painetun lehden tarjontaa verkossa.",
+        "Official Site": "https://moottori.fi/",
+        "Icon": "https://moottori.fi/wp-content/themes/moottori/build/img/favicon/favicon.svg",
+        "Redirect": "https://moottori.fi/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://moottori.fi/"
+    },
+    {
+        "link": "https://qumulo.com",
+        "Heading": "Qumulo | Data Simplified Anywhere at Exabyte Scale",
+        "Abstract": "Store, manage, and simplify all your unstructured data and hybrid workflows in one platform, anywhere - at the edge, in the core, or in any cloud.",
+        "Official Site": "https://qumulo-plslfm8r8-qumulo.vercel.app/",
+        "Icon": "https://www.datocms-assets.com/195389/1770871886-share-qumulo.jpg",
+        "Redirect": "https://qumulo-plslfm8r8-qumulo.vercel.app/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://qumulo-plslfm8r8-qumulo.vercel.app/"
+    },
+    {
+        "link": "https://wildcraft.com",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://wildcraft.com",
+        "Icon": "N/A",
+        "Redirect": "https://wildcraft.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://wildcraft.com"
+    },
+    {
+        "link": "https://openideo.com",
+        "Heading": "Social Impact Powered By Design Thinking - OpenIDEO",
+        "Abstract": "Thank you for your interest! While there are no current challenges, we invite you to stay connected and explore new opportunities with us at IDEO.com.",
+        "Official Site": "https://openideo.com",
+        "Icon": "https://cdn.prod.website-files.com/5a147545b687370001bfd10c/5a8eb9aba63d300001a1e5d5_Home-Hero-Slide-A-Web.jpg",
+        "Redirect": "https://openideo.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://openideo.com"
+    },
+    {
+        "link": "https://kitchenking.de",
+        "Heading": "Kitchenking - Alles & mehr f\u00fcr Ihre K\u00fcche   | KitchenKing24",
+        "Abstract": "K\u00fcchenausstattung & K\u00fcchenzubeh\u00f6r kaufen bei KitchenKing24 | Markenqualit\u00e4t \u2714 faire Preise \u2714 gro\u00dfe Auswahl \u2714 Online-Beratung \u260e +49 30-81054451",
+        "Official Site": "https://kitchenking.de",
+        "Icon": "https://www.kitchenking.de/media/favicon/stores/1/favicon.png",
+        "Redirect": "https://kitchenking.de",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://kitchenking.de"
+    },
+    {
+        "link": "https://dotcomcreations.in",
+        "Heading": "Software Development | Website Desining | SEO | Digital Marketing software company in lucknow",
+        "Abstract": "We provides solutions through software development   and web development  at very affordable cost. We also provide the Digital Marketing and seo services as well to make will provides you to easily monetize your bissiness.We are team of highly skilled IT professionals to listen your business needs and providing you tailor-made solutions at best price in lucknow.",
+        "Official Site": "https://dotcomcreations.biz/",
+        "Icon": "img/logo.png",
+        "Redirect": "https://dotcomcreations.biz/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://dotcomcreations.biz/"
+    },
+    {
+        "link": "https://roskvartal.ru",
+        "Heading": "\u0414\u043e\u0441\u0442\u0443\u043f \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d - \u0420\u043e\u0441\u041a\u0432\u0430\u0440\u0442\u0430\u043b",
+        "Abstract": null,
+        "Official Site": "https://roskvartal.ru",
+        "Icon": "N/A",
+        "Redirect": "https://roskvartal.ru",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://roskvartal.ru"
+    },
+    {
+        "link": "https://sciencebee.com.bd",
+        "Heading": "Science Bee - Learn Like Never Before",
+        "Abstract": "Explore Latest Science-Tech news, hundreds of blogs, ask questions. Join our Science Bee community to flourish your universe of...",
+        "Official Site": "https://www.sciencebee.com.bd/",
+        "Icon": "https://www.sciencebee.com.bd/storage/2021/11/Website-homepage-cover-nov-2021.jpg",
+        "Redirect": "https://www.sciencebee.com.bd/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.sciencebee.com.bd/"
+    },
+    {
+        "link": "https://veiled.com",
+        "Heading": "VEILED | Hijabs & Modest Clothing",
+        "Abstract": "Shop Veiled \u2014 Shop Veiled's sustainably made modest women\u2019s clothing, hijabs and accessories. Shop affordable modest women\u2019s & men's fashion and unique exclusive designs.",
+        "Official Site": "https://veiled.com/",
+        "Icon": "http://veiled.com/cdn/shop/files/Untitled_design_-_2025-06-27T111836.997.jpg?v=1751037541&width=2048",
+        "Redirect": "https://veiled.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://veiled.com/"
+    },
+    {
+        "link": "https://satellitemap.space",
+        "Heading": "Satellite Tracker \u2014 Live Map of Starlink & 30,000+ Satellites",
+        "Abstract": "Track satellites in real-time on an interactive 3D map. See Starlink trains, space stations, rocket bodies, and satellite passes visible from your location.",
+        "Official Site": "https://satellitemap.space",
+        "Icon": "https://satellitemap.space/og-preview-v2.jpg",
+        "Redirect": "https://satellitemap.space",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://satellitemap.space"
+    },
+    {
+        "link": "https://xoul.ai",
+        "Heading": "xoul.ai",
+        "Abstract": "Create and chat with AI characters, immersive scenarios, and original worlds on Xoul.",
+        "Official Site": "https://xoul.ai",
+        "Icon": "https://xoul.ai/assets/images/xoullink2.png",
+        "Redirect": "https://xoul.ai",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://xoul.ai"
+    },
+    {
+        "link": "https://builtwithscience.com",
+        "Heading": "Built With Science - Jeremy Ethier (Get the right workout and nutrition plan for you)",
+        "Abstract": "The Most Effective Way To Get The Body You Want. Every exercise and nutrition plan in each program uses the most scientifically effective methods for obtaining",
+        "Official Site": "https://builtwithscience.com/",
+        "Icon": "https://builtwithscience.com/wp-content/uploads/2024/12/hero-1.png",
+        "Redirect": "https://builtwithscience.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://builtwithscience.com/"
+    },
+    {
+        "link": "https://groupeactual.eu",
+        "Heading": "Agence pour l'emploi et d'int\u00e9rim - Actual group",
+        "Abstract": "D\u00e9couvrez Actual, Cr\u00e9ateur de solutions pour l'emploi et les comp\u00e9tences : recrutement int\u00e9rimaire, CDD, CDI, portage salarial, placement, conseil et formation. ",
+        "Official Site": "https://www.groupeactual.eu",
+        "Icon": "https://www.groupeactual.eu/img/front/default-image.jpg",
+        "Redirect": "https://www.groupeactual.eu",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.groupeactual.eu"
+    },
+    {
+        "link": "https://vatechniques.com",
+        "Heading": "Virginia Techniques Training Center",
+        "Abstract": null,
+        "Official Site": "https://vatechniques.com",
+        "Icon": "/images/favicon-196x196.png",
+        "Redirect": "https://vatechniques.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://vatechniques.com"
+    },
+    {
+        "link": "https://streamx.me",
+        "Heading": "StreamX - Watch Free Movies Online",
+        "Abstract": "",
+        "Official Site": "https://streamx.me/",
+        "Icon": "https://streamx.me/images/cover.jpg",
+        "Redirect": "https://streamx.me/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://streamx.me/"
+    },
+    {
+        "link": "https://eurocabel.tv",
+        "Heading": null,
+        "Abstract": null,
+        "Official Site": "https://eurocabel.tv",
+        "Icon": "N/A",
+        "Redirect": "https://eurocabel.tv",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://eurocabel.tv"
+    },
+    {
+        "link": "https://hksgames.com",
+        "Heading": "HKSGAMES INTERACTIVE TECHNOLOGY LIMITED",
+        "Abstract": null,
+        "Official Site": "https://hksgames.com",
+        "Icon": "N/A",
+        "Redirect": "https://hksgames.com",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://hksgames.com"
+    },
+    {
+        "link": "https://wedgwood.com",
+        "Heading": "Wedgwood",
+        "Abstract": "Wedgwood",
+        "Official Site": "https://www.wedgwood.com/",
+        "Icon": "//www.wedgwood.com/cdn/shop/files/Wedgwood_Favicon_01_32x32_33979fef-6dfc-4182-ba71-e797c10fd2fa.jpg?crop=center&height=32&v=1777470318&width=32",
+        "Redirect": "https://www.wedgwood.com/",
+        "AbstractSource": "BS4",
+        "AbstractURL": "https://www.wedgwood.com/"
+    }
+]
